@@ -217,7 +217,6 @@ HOY TV
 HOY剧集台
 HOY国际财经
 HOY怪谈台
-HOY生活台
 HOY资讯
 Hami体育1台
 Hami体育2台
@@ -825,6 +824,7 @@ wedotv Movies
 南京新闻综合频道
 南充科教
 南充综合
+南国都市4K
 南方卫视
 南方少儿
 南方影视

@@ -217,7 +217,6 @@ HOY TV
 HOY劇集臺
 HOY國際財經
 HOY怪談臺
-HOY生活臺
 HOY資訊
 Hami日漫臺(免費)
 Hami體育1臺
@@ -746,6 +745,7 @@ wedotv Movies
 南京新聞綜合頻道
 南充科教
 南充綜合
+南國都市4K
 南方少兒
 南方影視
 南方經濟
