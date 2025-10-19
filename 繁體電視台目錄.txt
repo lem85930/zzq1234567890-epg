@@ -216,7 +216,6 @@ HITS有線
 HITS頻道
 HOT頻道
 HOY TV
-HOY 資訊臺
 HOY劇集臺
 HOY國際財經
 HOY怪談臺
@@ -1417,7 +1416,6 @@ wedotv Movies
 潮媽辣婆
 潮州民生
 潮州綜合
-澳洲冠軍聯賽 - NWS精神 對 FC 艾雲達爾 (下午1:25)
 澳視澳門
 澳門綜藝
 澳門葡萄牙
