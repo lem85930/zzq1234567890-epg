@@ -215,7 +215,6 @@ HITS MOVIES
 HITS有線
 HITS頻道
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -1413,7 +1412,6 @@ wedotv Movies
 潮媽辣婆
 潮州民生
 潮州綜合
-澳洲冠軍聯賽 - 海德堡聯 對 南霍巴特 (上午9:55)
 澳視澳門
 澳門綜藝
 澳門葡萄牙
