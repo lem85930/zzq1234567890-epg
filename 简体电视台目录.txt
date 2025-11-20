@@ -157,6 +157,7 @@ Discovery科学频道有线
 Docsville (免费)
 DreamWorks 梦工厂动画
 DreamWorks 频道香港
+Dubai One
 EBS CHILD
 EBS EDUCATION
 EBS PLUS1
@@ -548,7 +549,6 @@ cgtn西班牙语
 cgtn阿拉伯语
 cinemalworld世界电影频道有线
 cmplus新加坡
-dubai one
 elta体育max 1
 elta体育max 2
 elta体育max 3
@@ -774,6 +774,9 @@ wedotv Movies HD
 全运805台
 全运806台
 全运818台 (4合1 801-804)
+全运剑击︰女团花剑16强 - 上海 对 澳门 (中人12:30)
+全运棒球︰铜牌战 - 北京 对 上海 (上午8:30)
+全运网球：男单决赛 - 商竣程 (北京) 对 吴易昺 (浙江) (上午10:00)
 八大优频道
 八大娱乐台
 八大戏剧台

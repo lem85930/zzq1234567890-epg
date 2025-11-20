@@ -157,6 +157,7 @@ Discovery科學頻道有線
 Docsville (免費)
 DreamWorks 夢工廠動畫
 DreamWorks 頻道香港
+Dubai One
 EBS CHILD
 EBS EDUCATION
 EBS PLUS1
@@ -548,7 +549,6 @@ cgtn西班牙語
 cgtn阿拉伯語
 cinemalworld世界電影頻道有線
 cmplus新加坡
-dubai one
 elta日韓
 elta體育max 1
 elta體育max 2
@@ -726,6 +726,9 @@ wedotv Movies HD
 全運805臺
 全運806臺
 全運818臺 (4合1 801-804)
+全運劍擊︰女團花劍16強 - 上海 對 澳門 (中人12:30)
+全運棒球︰銅牌戰 - 北京 對 上海 (上午8:30)
+全運網球：男單決賽 - 商竣程 (北京) 對 吳易昺 (浙江) (上午10:00)
 八大優頻道
 八大娛樂臺
 八大戲劇臺
