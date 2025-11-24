@@ -356,11 +356,11 @@ Rialto Classic Movies (RCM) (免费)
 SBN全球财经台
 SBS
 SBS Biz
+SBS DMB
 SBS Fil
 SBS Golf
-SBS MTV
+SBS Golf2
 SBS fune
-SBS kizmom
 SBS plus
 SBS sport
 SPL01
@@ -1344,7 +1344,6 @@ wedotv Movies HD
 队长小翼(中文版)
 阳江-1
 阳江-2
-阿根廷甲组足球联赛十六强 - 罗沙里奥中央 对 学生队 (深夜4:30)
 陕西乐家购物
 陕西体育
 陕西体育休闲频道

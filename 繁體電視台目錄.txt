@@ -356,11 +356,11 @@ Rialto Classic Movies (RCM) (免費)
 SBN全球財經臺
 SBS
 SBS Biz
+SBS DMB
 SBS Fil
 SBS Golf
-SBS MTV
+SBS Golf2
 SBS fune
-SBS kizmom
 SBS plus
 SBS sport
 SPL01
@@ -1321,7 +1321,6 @@ wedotv Movies HD
 長安十二時辰
 長樂曲
 關於我轉生變成史萊姆這檔事(國)
-阿根廷甲組足球聯賽十六強 - 羅沙裏奧中央 對 學生隊 (深夜4:30)
 陝西公共
 陝西影視
 陝西新聞
