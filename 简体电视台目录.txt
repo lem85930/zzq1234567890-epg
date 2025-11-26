@@ -99,7 +99,6 @@ DW
 DW (English)香港
 DW德国之声
 Da Vinc香港
-DayStar
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -570,7 +569,6 @@ wedotv Movies HD
 上海新闻综合
 上海第一财经
 上视东方影视
-不良笑花
 世界卫星电视台
 世界第一等
 东南卫视
@@ -1205,11 +1203,9 @@ wedotv Movies HD
 猎人(中文版)
 猪哥亮歌厅秀
 猪哥壹级棒
-王子看见二公主
 玩家频道
 环宇新闻台湾台
 环宇财经
-环球大战线
 珠海
 甘肃卫视
 生命的赢家

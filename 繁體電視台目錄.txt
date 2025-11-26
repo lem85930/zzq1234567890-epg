@@ -99,7 +99,6 @@ DW
 DW (English)香港
 DW德國之聲
 Da Vinc香港
-DayStar
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -570,7 +569,6 @@ wedotv Movies HD
 上海新聞綜合
 上海第一財經
 上視東方影視
-不良笑花
 世界第一等
 世界衛星電視臺
 中國中央電視臺中文國際頻道 (免費)
@@ -1145,12 +1143,10 @@ wedotv Movies HD
 爆谷臺
 狂人日誌
 獵人(中文版)
-王子看見二公主
 玩家頻道
 珠海
 環宇新聞臺灣臺
 環宇財經
-環球大戰線
 甘肅衛視
 生命的贏家
 生活時尚
