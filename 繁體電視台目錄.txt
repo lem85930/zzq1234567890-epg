@@ -185,7 +185,6 @@ HITS有線
 HITS頻道
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -754,6 +753,7 @@ wedotv Movies HD
 壹電視電影臺HD
 夏日陽光海浪聲
 夏目友人帳
+大埔宏福苑火警現場
 大愛二臺
 大愛二臺HD
 大愛電視
