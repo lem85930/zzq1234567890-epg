@@ -206,7 +206,6 @@ EYE TV旅游台HD
 Euronews
 Eurosnews
 Eurosport
-FIBA 世界杯男子篮球亚洲区资格赛 - 日本 对 中华台北 (下午6:00)
 FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
@@ -265,7 +264,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -986,7 +984,6 @@ wedotv Movies HD
 夏日阳光海浪声
 夏目友人帐
 大台中生活频道台
-大埔宏福苑火警现场
 大新闻大爆卦
 大湾区卫视
 大湾区卫视香港

@@ -206,7 +206,6 @@ EYE TV旅遊臺HD
 Euronews
 Eurosnews
 Eurosport
-FIBA 世界盃男子籃球亞洲區資格賽 - 日本 對 中華臺北 (下午6:00)
 FRANCE24 英文臺
 FRANCE24E HD
 FRANCE24F
@@ -265,7 +264,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -887,7 +885,6 @@ wedotv Movies HD
 壹電視電影臺HD
 夏日陽光海浪聲
 夏目友人帳
-大埔宏福苑火警現場
 大愛二臺
 大愛二臺HD
 大愛電視
