@@ -226,6 +226,7 @@ Entertainment
 Euronews
 Eurosnews
 Eurosport
+FIBA 世界盃男子籃球亞洲區資格賽 - 南韓 對 中國 (下午6:00)
 FOOD TRAVEL
 FOX News
 FRANCE24 英文臺
@@ -494,7 +495,6 @@ Phoenix Info News HD
 PopC
 Premier Sports
 Premier Sports Rugby
-Pulse Documentaries (免費)(12月1日下午2時起改為'Wild Stuff (免費)'
 RCTI
 RCTI HD
 ROCK ACTION
@@ -659,6 +659,7 @@ Warner TV
 Warner TV HD
 WarnerTV
 Wa暖呢人TV
+Wild Stuff (免費)
 Yes娛樂
 Z Cinema HD
 Z Tamil HD
