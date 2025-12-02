@@ -5,8 +5,10 @@
 ABC Australia
 ABC Australia HD
 ABC Australia香港
+ADITHYA TV
 AI FM
 AMC电影
+ANC
 ANIMAX
 ANTV
 ARIRANG阿里郎频道
@@ -15,6 +17,7 @@ ASYIK FM
 AXN
 AXN HD
 AXN香港
+Action Hollywood Movies
 Action Hollywood Movies (免费)
 Adithya
 Al Jazeera English
@@ -22,6 +25,7 @@ Al Jazeera English HD
 Al Quran Al Kareem
 Al-Hijrah
 Animax
+Animax HD
 Animax香港
 Arena Bola
 Arena Bola 2
@@ -31,6 +35,8 @@ Arirang TV HD
 Asian Food Network HD
 Asian Food Network 亚洲美食频道
 AsianFoodNetwork亚洲美食频道
+Asianet
+Asianet Movies
 Astro AEC
 Astro AOD
 Astro Arena
@@ -56,6 +62,7 @@ Astro Prima
 Astro QJ
 Astro Rania
 Astro Ria
+Astro Sensasi HD
 Astro Showcase
 Astro Sports Plus
 Astro Sports Plus 2
@@ -65,6 +72,7 @@ Astro Tutor TV
 Astro Vaanavil
 Astro Vellithirai HD
 Astro Vinmeen
+Astro Warna HD
 BAYU
 BBC Brit HD
 BBC EARTH
@@ -99,9 +107,11 @@ CARTOONITO HD
 CATCH PLAY电影台
 CATCHPLAY电影台
 CBeebies
+CBeebies HD
 CBeebies香港
 CCM
 CCTV-1香港
+CCTV-4
 CCTV-4欧洲频道
 CCTV-4美洲频道
 CCTV-4香港
@@ -133,6 +143,7 @@ CNBC
 CNBC Asia
 CNBC Asia HD
 CNBC Asia 财经台
+CNBC HD
 CNBC香港
 CNEX纪实频道
 CNN
@@ -144,6 +155,7 @@ CNN国际新闻台
 CNN头条新闻台(HLN)
 CN卡通频道
 COLORS
+COLORS Tamil HD
 CTI Asia HD
 Cartoon Network
 Cartoon Network HD
@@ -162,14 +174,17 @@ Channel NewsAsia
 Channel Suria
 Channel U
 Channel Vasantham
+Cinema One Global
 CinemaWorld
 CinemaWorld HD
 CinemaWorld频道
 Cinemalworld
+Citra Entertainment
 Colors Hindi HD
 Colors Tamil HD
 Concerto (免费)
 Crime & Investigation HD
+Crime + Investigation HD
 Crime Investigation
 DAZN 1
 DAZN 2
@@ -190,6 +205,7 @@ Discovery Asia有线
 Discovery Asia香港
 Discovery Channel HD
 Discovery Channel香港
+Discovery HD新加坡
 Discovery 科学频道
 Discovery 科学频道香港
 DiscoveryAsia
@@ -199,6 +215,7 @@ Discovery科学HD
 Discovery科学台(Science)
 Discovery科学频道有线
 Docsville (免费)
+DreamWorks HD
 DreamWorks 梦工厂动画
 DreamWorks 频道香港
 Dreamworks
@@ -226,6 +243,7 @@ Entertainment
 Euronews
 Eurosnews
 Eurosport
+FIFA+
 FOOD TRAVEL
 FOX News
 FRANCE24 英文台
@@ -239,6 +257,7 @@ Focus风采戏剧台
 Food Network 美食台HD
 Food Network香港
 Food Travel HD
+FoodON
 France 24
 France 24 (French)
 France 24 English
@@ -246,7 +265,6 @@ France 24香港
 France24
 Freeman @台湾
 Fun探索娱乐台 4K
-GEM
 GINX Esports TV
 GLOBLTREKKER探索世界
 GMA Life T
@@ -283,12 +301,16 @@ HBO Signature 原创巨献
 HBO Signature香港
 HBO香港
 HGTV HD
+HGTV HD新加坡
 HGTV居家乐活频道
+HISTORY HD新加坡
 HISTORY香港
 HITS
 HITS HD
+HITS HD新加坡
 HITS MOVIES
 HITS MOVIES HD
+HITS MOVIES HD新加坡
 HITS NOW
 HITS有线
 HITS频道
@@ -312,6 +334,22 @@ History
 History HD
 History 历史频道
 History 历史频道有线
+Hub Premier 1
+Hub Premier 10
+Hub Premier 11
+Hub Premier 2
+Hub Premier 3
+Hub Premier 4
+Hub Premier 5
+Hub Premier 6
+Hub Premier 7
+Hub Premier 8
+Hub Premier 9
+Hub Ruyi
+Hub Sports 1 HD
+Hub Sports 2 HD
+Hub Sports 3 HD
+Hub VV Drama HD
 IDX
 IDX HD
 IMC
@@ -346,6 +384,10 @@ KKBOX风云榜追星视角
 KLT-靖天国际台
 KLT-靖天国际台HD
 KTV
+KTV HD
+Kalaignar TV
+Karisma
+Kartoon Channel!
 Kids TV
 Kids TV HD
 Kompas TV
@@ -361,6 +403,7 @@ LUXE TV HD
 Lifeime
 Lifetime
 Lifetime HD
+Lifetime HD新加坡
 Lifetime 娱乐频道
 Lifetime香港
 LiveABC互动英语频道
@@ -437,11 +480,13 @@ Nice TV 靖天欢乐台
 Nick Jr
 Nick Jr.
 Nick Jr. HD
+Nick Jr. HD新加坡
 Nick Jr. 儿童频道
 Nick Jr.(小尼克)
 Nick Jr.香港
 NickJr.
 Nickelodeon
+Nickelodeon Asia HD新加坡
 Nickelodeon Asia尼克儿童频道
 Nickelodeon HD
 Nickelodeon Jr
@@ -472,6 +517,7 @@ Now 高尔夫2
 Now 高尔夫3
 Now爆谷星影台
 ONE
+ONE (Malay)
 ONE HD
 OPUS
 ORIGINALS
@@ -503,6 +549,7 @@ ROCK Action HD
 ROCK ENTERTAINMENT
 ROCK EXTREME
 ROCK Entertainment
+ROCK Entertainment HD新加坡
 ROCK Entertainment香港
 ROCK Extreme
 ROCKAction
@@ -512,6 +559,7 @@ ROCKExtreme(免费)
 ROCK综艺娱乐
 RT香港
 Rialto Classic Movies (RCM) (免费)
+River Monsters
 Rock Action
 Rock Entertainment
 SBN全球财经台
@@ -528,13 +576,11 @@ SCTV
 SCTV HD
 SEA TODAY
 SINAR FM
-SPL01
-SPL02
+SONY MAX
 SPOTV
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
-SPOTV Stadia
 SPOTV2
 SPY X FAMILY 间谍家家酒
 SPY X FAMILY 间谍家家酒(中文版)
@@ -554,12 +600,14 @@ SUPER金曲 (免费)
 SiCAR爱车酷
 Sindo News TV
 Sindo News TV HD
+Sky News HD新加坡
 Sky News香港
 Smart 知识HD
 Smart知识台
 Smithsonian Channel
 Soccer Channel
 Soccer Channel HD
+Sony Entertainment Televis新加坡
 Sony MAX
 Sony SAB
 Sony TV (India)
@@ -577,12 +625,15 @@ Star Vijay HD
 Studio Universal
 Studio Universal HD
 Sun Life
+Sun Music
 Sun Music HD
 Sun News
+Sun TV
 Superrix
 Superrix HD
 TBC台中生活台
 TFC
+TG Junior
 THR GEGAR
 THR RAAGA
 TLC HD
@@ -614,6 +665,7 @@ TVB Xing He HD
 TVBS
 TVBS Asia HD
 TVBS 新闻台
+TVBS亚洲新加坡
 TVBS台剧台
 TVBS新闻
 TVBS新闻台
@@ -623,9 +675,11 @@ TVBS精采台HD
 TVBS综艺台
 TVBS食尚玩家
 TVB功夫台
+TVB新闻新加坡
 TVB无线新闻台(TVB News)
 TVB明珠剧集台(TVB Pearl Drama)
 TVB星河
+TVB星河新加坡
 TVB生活台
 TVB粤语片
 TVB翡翠剧集台(TVB Drama)
@@ -636,6 +690,7 @@ TaiWan Plus
 TaiwanPlus
 TaiwanPlus有线
 Tawaf TV
+The Filipino Channel HD
 Thrill
 TraceUrban
 Trans 7
@@ -643,10 +698,13 @@ Trans TV
 Travel & Food TV
 Travel Channel HD
 TravelChannel
+Travelxp HD
 UNIQUES
 UNIQUES HD
 V FM
+Vannathirai
 ViVa 1台
+Vijay TV HD
 Vision Prime
 Vision Prime HD
 Viu 频道
@@ -664,9 +722,13 @@ Z Cinema HD
 Z Tamil HD
 ZAYAN
 Zee Bioskop
+Zee Cinema HD
 Zee Cinema International
 Zee News
 Zee TV
+Zee TV HD
+Zee Tamil HD
+Zee Thirai
 ZooMoo
 Zoomoo
 Z频道
@@ -743,8 +805,6 @@ iNews HD
 iQIYI HD
 lifetime娱乐频道有线
 meWATCH LIVE 1
-meWATCH LIVE 2
-meWATCH LIVE 5
 momo 1台
 momo1台HD
 momo2台
@@ -768,10 +828,10 @@ now报价
 now新闻
 now直播
 now财经
+oktolidays
 sportstars 3 HD
 spot on news
 trace sport star运动明星
-trace urban
 tvN
 tvN HD
 tvN Movies
@@ -807,10 +867,12 @@ wedotv Movies HD
 世界第一等
 东南卫视
 东方卫视
+东方卫视国际版
 东方卫视国际频道 (免费)
 东方影视
 东方财经
 东森亚洲
+东森亚洲台新加坡
 东森亚洲新闻
 东森娱乐台
 东森幼幼台
@@ -855,6 +917,7 @@ wedotv Movies HD
 中国电影频道CMC
 中国美食大探索
 中天亚洲台
+中天亚洲台新加坡
 中天亚洲精采台
 中天娱乐台
 中天新闻台
@@ -947,11 +1010,13 @@ wedotv Movies HD
 冰火频道
 凡尔赛玫瑰
 凤凰中文
+凤凰中文新加坡
 凤凰卫视中文台
 凤凰卫视中文台 (免费)
 凤凰卫视资讯台 (免费)
 凤凰卫视香港台 (免费)
 凤凰资讯
+凤凰资讯新加坡
 凤凰香港台
 凤囚凰
 刀剑神域(中文版)
@@ -1099,8 +1164,10 @@ wedotv Movies HD
 大立电视台 HD
 大自然流水声
 天才冲冲冲
+天映经典台新加坡
 天映经典频道
 天映经典香港
+天映频道新加坡
 天映频道马来西亚
 天津卫视
 天美丽电视台
@@ -1185,7 +1252,6 @@ wedotv Movies HD
 广东综艺
 广州南国都市4K
 广州新闻
-广州法治
 广州综合
 广西乐思购频道
 广西卫视
@@ -1558,6 +1624,7 @@ wedotv Movies HD
 邯郸公共
 邯郸新闻综合
 邯郸科技教育
+都会台
 都市剧场
 都市频道
 采昌影剧台
