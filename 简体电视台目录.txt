@@ -317,7 +317,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -577,6 +576,7 @@ SCTV HD
 SEA TODAY
 SINAR FM
 SONY MAX
+SPL-CH01
 SPOTV
 SPOTV 2
 SPOTV 2 HD
@@ -805,6 +805,8 @@ iNews HD
 iQIYI HD
 lifetime娱乐频道有线
 meWATCH LIVE 1
+meWATCH LIVE 2
+meWATCH LIVE 5
 momo 1台
 momo1台HD
 momo2台
