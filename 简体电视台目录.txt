@@ -109,6 +109,7 @@ CATCHPLAY电影台
 CBeebies
 CBeebies HD
 CBeebies香港
+CCCTV4
 CCM
 CCTV-1香港
 CCTV-4
@@ -329,7 +330,6 @@ Hami体育2台
 Hami体育2台(免费)
 Hami日漫台(免费)
 Hanacaraka TV
-Hands Up
 History
 History HD
 History 历史频道
@@ -377,10 +377,6 @@ KBS World HD
 KBS World香港
 KENYALANG
 KIX
-KKBOX风云榜C位视角
-KKBOX风云榜主视角
-KKBOX风云榜应援视角
-KKBOX风云榜追星视角
 KLT-靖天国际台
 KLT-靖天国际台HD
 KTV
@@ -418,7 +414,6 @@ MBC every1
 MBC music
 MBC net
 MBC on
-MBC popt
 MCE 我的欧洲电影台
 MDTV
 MELODY FM
@@ -977,7 +972,6 @@ wedotv Movies HD
 信吉艺文台HD
 信大电视台
 倚天屠龙记 2019
-倪珍报气象
 倪珍播新闻
 健康2.0
 健康问良医
@@ -1106,7 +1100,6 @@ wedotv Movies HD
 台视
 台视HD
 台视主频
-台视新闻
 台视新闻HD
 台视新闻台
 台视综合
@@ -1139,6 +1132,7 @@ wedotv Movies HD
 国会频道2台
 国兴卫视
 国学时代界
+国学频道
 国民大会
 国色芳华
 国际大小事
@@ -1236,7 +1230,7 @@ wedotv Movies HD
 幸福空间居家台
 广东体育
 广东卫视
-广东嘉禾卡通
+广东嘉佳卡通
 广东大湾区卫视
 广东大湾区卫视海外版
 广东少儿
@@ -1247,9 +1241,7 @@ wedotv Movies HD
 广东民生
 广东现代教育
 广东珠江
-广东珠江境外
 广东移动
-广东经济科教
 广东综艺
 广州南国都市4K
 广州新闻
@@ -1368,7 +1360,6 @@ wedotv Movies HD
 民视
 民视HD
 民视台湾台
-民视台湾台(免费)
 民视台湾台HD
 民视异言堂
 民视影剧台
@@ -1530,7 +1521,6 @@ wedotv Movies HD
 石家庄文化娱乐
 石家庄新闻综合
 社会NOW什么
-神州新闻
 福建乡村振兴·公共
 福建体育频道
 福建少儿频道
@@ -1546,7 +1536,6 @@ wedotv Movies HD
 秦皇岛新闻综合
 秦皇岛民生
 空中英语教室
-空中英语教室(免费)
 空中英语教室HD频道
 第1商业台
 第1财经
