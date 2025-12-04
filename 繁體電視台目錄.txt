@@ -5,6 +5,7 @@
 ABC Australia
 ABC Australia HD
 ABC Australia香港
+ABC澳大利亞電視臺
 ADITHYA TV
 AI FM
 AMC電影
@@ -243,10 +244,12 @@ EYE TV旅遊臺HD
 Entertainment
 Euronews
 Eurosnews
+Eurosoprt HD
 Eurosport
 FIFA+
 FOOD TRAVEL
 FOX News
+FOX 新聞臺
 FRANCE24 英文臺
 FRANCE24E HD
 FRANCE24F
@@ -280,6 +283,7 @@ Galaxy Premium
 GinxTV電競頻道
 Global Trekker
 Global Trekker HD
+Global Trekker探索世界頻道
 GlobalTrekker
 Globetrotter (免費)
 Golden 強片臺
@@ -314,6 +318,7 @@ HITS MOVIES HD
 HITS MOVIES HD新加坡
 HITS NOW
 HITS有線
+HITS電影臺
 HITS頻道
 HITZ FM
 HOT
@@ -375,8 +380,10 @@ KBS STORY
 KBS WORLD
 KBS World HD
 KBS World香港
+KBS韓國國際綜合高清頻道
 KENYALANG
 KIX
+KIX電影臺
 KLT-靖天國際臺
 KLT-靖天國際臺HD
 KTV
@@ -460,6 +467,7 @@ NHK WORLD-JAPA香港
 NHK World
 NHK World Premium
 NHK World-Japan
+NHK 日本國家電視臺
 NHK新聞資訊臺
 NHK新聞資訊臺HD
 NOW 70s
@@ -544,6 +552,7 @@ ROCK Action
 ROCK Action HD
 ROCK ENTERTAINMENT
 ROCK EXTREME
+ROCK Entertainme
 ROCK Entertainment
 ROCK Entertainment HD新加坡
 ROCK Entertainment香港
@@ -575,6 +584,7 @@ SINAR FM
 SONY MAX
 SPL-CH01
 SPOTV
+SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
@@ -653,6 +663,7 @@ TV5MONDE
 TV5MONDE ASIE
 TV5MONDE STYLE HD 生活時尚
 TV5MONDE Style
+TV5Monde 法國電視臺
 TV9
 TVB Classic HD
 TVB Entertainment News HD
@@ -1168,6 +1179,7 @@ wedotv Movies HD
 彩虹Movie臺
 彩虹電影
 彩虹頻道
+彭博資訊
 影迷數位紀實臺
 影迷數位紀實臺HD
 影迷數位電影臺
@@ -1312,6 +1324,7 @@ wedotv Movies HD
 步步驚心
 武媚娘傳奇
 歷史頻道HD
+歷史高清頻道
 民視
 民視HD
 民視影劇臺
@@ -1439,6 +1452,8 @@ wedotv Movies HD
 獵人(中文版)
 玩家頻道
 珠海
+球王臺
+球迷臺
 環宇新聞臺灣臺
 環宇財經
 甘肅衛視
@@ -1485,6 +1500,7 @@ wedotv Movies HD
 紅豆2臺
 紅豆電視臺
 紓壓雷雨聲
+紫金國際臺
 經典劇場
 經典卡通臺
 經典電影臺
@@ -1500,6 +1516,7 @@ wedotv Movies HD
 罪案偵查頻道
 罪案偵緝頻道
 罪案偵緝頻道HD
+罪案偵輯頻道
 美亞電影HD
 美亞電影臺
 美好1臺HD
@@ -1539,6 +1556,8 @@ wedotv Movies HD
 臺視財經HD
 臺視財經臺
 苦力
+英超1臺
+英超2臺
 茂名文化生活
 茂名綜合
 茶金
@@ -1631,6 +1650,8 @@ wedotv Movies HD
 離開A級隊伍的我，和從前的弟子往迷宮深處邁進
 雲南瀾湄國際衛視 (免費)
 雲南衛視
+雲浮文旅
+雲浮綜合
 電動車時代
 電影原聲臺CMusic
 霹靂臺灣臺
@@ -1689,6 +1710,7 @@ wedotv Movies HD
 香蕉臺
 驚艷成人
 驚豔成人電影臺
+高清生活時光
 高雄都會臺
 高點育樂臺
 高點電視臺
@@ -1697,7 +1719,9 @@ wedotv Movies HD
 鳳凰中文
 鳳凰衛視中文臺
 鳳凰衛視中文臺 (免費)
+鳳凰衛視資訊臺
 鳳凰衛視資訊臺 (免費)
+鳳凰衛視香港臺
 鳳凰衛視香港臺 (免費)
 鳳凰資訊
 鳳凰香港臺
