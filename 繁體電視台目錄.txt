@@ -86,6 +86,7 @@ BBC LIFESTYLE
 BBC Lifestyle HD
 BBC Lifestyle香港
 BBC NEWS HD
+BBC News
 BBC News HD
 BBC News香港
 BBC World News
@@ -148,6 +149,7 @@ CNBC Asia 財經臺
 CNBC HD
 CNBC香港
 CNEX紀實頻道
+CNN
 CNN HD
 CNN International
 CNN 國際新聞網絡香港
@@ -179,6 +181,7 @@ Cinema One Global
 CinemaWorld
 CinemaWorld HD
 CinemaWorld頻道
+Cinemalworld
 Citra Entertainment
 Colors Hindi HD
 Colors Tamil HD
@@ -186,6 +189,7 @@ Concerto (免費)
 Crime & Investigation HD
 Crime + Investigation HD
 Crime Investigation
+DAZN 1
 DAZN 2
 DAZN 3
 DMAX HD
@@ -198,12 +202,14 @@ DW English
 DW德國之聲
 Da Vinc香港
 Discovery
+Discovery Asia
 Discovery Asia HD
 Discovery Asia有線
 Discovery Asia香港
 Discovery Channel HD
 Discovery Channel香港
 Discovery HD新加坡
+Discovery 科學頻道
 Discovery 科學頻道香港
 DiscoveryAsia
 DiscoveryDMAX
@@ -238,6 +244,7 @@ EYE TV戲劇臺HD
 EYE TV旅遊臺HD
 Entertainment
 Euronews
+Eurosnews
 Eurosoprt HD
 Eurosport
 FIFA+
@@ -283,6 +290,7 @@ Globetrotter (免費)
 Golden 強片臺
 Golden影迷臺
 Golf Channel
+HAPPY
 HAPPY頻道
 HBLTV1臺
 HBLTV1臺(免費)
@@ -314,6 +322,7 @@ HITS有線
 HITS電影臺
 HITS頻道
 HITZ FM
+HOT
 HOT頻道
 HOY TV
 HOY 國際財經臺
@@ -357,6 +366,7 @@ Indosiar HD
 JAKTV
 JAZZ
 JET TV
+JET綜合臺
 JOJO 的奇妙冒險
 JStar極限臺電影頻道
 K-Plus HD
@@ -394,6 +404,7 @@ LOVENATURE
 LS TIME電影臺
 LUXE TV Channel
 LUXE TV HD
+Lifeime
 Lifetime
 Lifetime HD
 Lifetime HD新加坡
@@ -419,9 +430,11 @@ MINNAL FM
 MIX FM
 MNCTV
 MNCTV HD
+MOMO1臺
 MOMO綜合臺
 MOMO親子臺
 MOVIE MOVIE
+MTV
 MTV India
 MTV Live
 MTV Live HD
@@ -448,6 +461,7 @@ My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
 NAS FM
 NBA
+NHK
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
 NHK WORLD-JAPA香港
@@ -533,6 +547,7 @@ Premier Sports
 Premier Sports Rugby
 RCTI
 RCTI HD
+ROCK ACTION
 ROCK ACTION 搖滾電影
 ROCK Action
 ROCK Action HD
@@ -624,6 +639,7 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
+TBC臺中生活臺
 TFC
 TG Junior
 THR GEGAR
@@ -679,6 +695,7 @@ TVB翡翠劇集臺(TVB Drama)
 TVB翡翠娛樂臺(TVBe)
 TVB翡翠綜合臺(TVBJ1)
 TVRI
+TaiWan Plus
 TaiwanPlus
 TaiwanPlus有線
 Tawaf TV
@@ -707,6 +724,7 @@ WTO姐妹會
 Warner TV
 Warner TV HD
 WarnerTV
+Wa暖呢人TV
 Wild Stuff (免費)
 Yes娛樂
 Z Cinema HD
@@ -941,6 +959,7 @@ wedotv Movies HD
 八大精彩臺
 八大綜合臺
 八大綜藝臺
+公共電視
 公共電視臺
 公用頻道
 公視(HD)
@@ -993,9 +1012,11 @@ wedotv Movies HD
 博斯魅力HD
 博斯魅力網
 博斯魅力網有線
+博靖天育樂臺
 卡酷少兒
 原住民族電視HD
 原住民族電視臺
+原住民族頻道
 去有風的地方
 古典音樂臺
 古典音樂臺HD
@@ -1034,6 +1055,8 @@ wedotv Movies HD
 壹電視新聞HD
 壹電視新聞臺
 壹電視綜合 HD
+壹電視資訊臺
+壹電視電影臺
 壹電視電影臺HD
 夏日陽光海浪聲
 夏目友人帳
@@ -1048,6 +1071,7 @@ wedotv Movies HD
 大立電視臺
 大立電視臺 HD
 大自然流水聲
+大臺中生活頻道臺
 天才衝衝衝
 天映經典臺新加坡
 天映經典頻道
@@ -1066,6 +1090,7 @@ wedotv Movies HD
 好消息HD
 好消息二臺
 好消息衛星電視臺
+好消息頻道
 好萊塢電影臺
 威廉沈歡樂送
 威達超舜生活臺
@@ -1097,6 +1122,8 @@ wedotv Movies HD
 寰宇新聞臺灣臺HD
 寰宇財經HD
 寰宇財經臺
+寵物頻道
+寶島文化
 小公視
 少康戰情室
 尼克兒童頻道
@@ -1112,6 +1139,8 @@ wedotv Movies HD
 山東體育
 山東齊魯
 山西衛視
+年代MUCH TV
+年代新聞
 幸福空間居家臺
 廈門1
 廈門2
@@ -1146,7 +1175,9 @@ wedotv Movies HD
 張家口公共
 張家口新聞綜合
 彩虹E臺
+彩虹E頻道
 彩虹Movie臺
+彩虹電影
 彩虹頻道
 彭博資訊
 影迷數位紀實臺
@@ -1262,19 +1293,28 @@ wedotv Movies HD
 東森購物二臺
 東森購物四臺
 東森購物頻道
+東森超視
 東森電影臺
 東莞新聞綜合
 東風衛視
 東風衛視臺
 松視1臺
+松視1頻道
 松視2臺
+松視2頻道
 松視3臺
+松視3頻道
 松視4臺
+松視4頻道
+桃園生活臺
 梅州客家生活
 梅州綜合
+梅迪奇藝術臺
 梅迪奇藝術頻道有線
 楚喬傳
+極限電源
 樂活頻道
+樂視臺
 樂遊
 歐飛動作電影臺
 歐飛電影臺
@@ -1392,6 +1432,8 @@ wedotv Movies HD
 滾動力 rollor有線
 滾動力rollor
 演唱會直擊
+潘多拉完美臺
+潘多拉粉紅臺
 潮州民生
 潮州綜合
 澳視澳門
@@ -1412,6 +1454,7 @@ wedotv Movies HD
 珠海
 球王臺
 球迷臺
+環宇新聞臺灣臺
 環宇財經
 甘肅衛視
 生命的贏家
@@ -1455,6 +1498,7 @@ wedotv Movies HD
 粵語片臺
 精選動漫臺
 紅豆2臺
+紅豆電視臺
 紓壓雷雨聲
 紫金國際臺
 經典劇場
@@ -1469,6 +1513,7 @@ wedotv Movies HD
 緯來電影臺
 緯來體育臺
 罪案 + 偵緝香港
+罪案偵查頻道
 罪案偵緝頻道
 罪案偵緝頻道HD
 罪案偵輯頻道
@@ -1501,6 +1546,7 @@ wedotv Movies HD
 臺灣藝術臺
 臺灣電視臺
 臺灣靈異事件
+臺視
 臺視HD
 臺視主頻
 臺視新聞HD
@@ -1517,6 +1563,7 @@ wedotv Movies HD
 茶金
 茶頻道
 華藏衛星電視臺
+華藏衛視
 華藏衛視HD
 華藝MBC綜合臺有線
 華藝中文臺
@@ -1605,8 +1652,10 @@ wedotv Movies HD
 雲浮綜合
 電動車時代
 電影原聲臺CMusic
+霹靂臺灣臺
 霹靂電視臺
 青海衛視
+靖天卡通
 靖天卡通臺
 靖天卡通臺 HD
 靖天戲劇HD
@@ -1617,6 +1666,7 @@ wedotv Movies HD
 靖天映畫
 靖天映畫HD
 靖天映畫有線
+靖天歡樂臺
 靖天綜合臺
 靖天綜合臺HD
 靖天綜合臺靖天
@@ -1631,6 +1681,7 @@ wedotv Movies HD
 靖天電影臺
 靖洋卡通Nice Bingo
 靖洋卡通有線
+靖洋卡通臺
 靖洋卡通臺Nice Bingo HD
 靖洋戲劇HD
 靖洋戲劇臺
@@ -1638,8 +1689,10 @@ wedotv Movies HD
 非凡大探索
 非凡新聞臺
 韓國娛樂KMTV
+韓國娛樂臺
 韓國娛樂臺 KMTV
 韓國娛樂臺KMTV HD
+韓國阿里郎
 韶華若錦
 韶關新聞綜合
 食尚玩家-2天1夜go
@@ -1653,6 +1706,7 @@ wedotv Movies HD
 香港電臺32
 香港電臺33
 香蕉臺
+驚艷成人
 驚豔成人電影臺
 高清生活時光
 高雄都會臺
