@@ -330,7 +330,6 @@ HOY 資訊臺
 HOY劇集臺
 HOY怪談臺
 HOY生活臺
-HOY體育臺
 Hami日漫臺(免費)
 Hami體育1臺
 Hami體育2臺
