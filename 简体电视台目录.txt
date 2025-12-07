@@ -50,7 +50,6 @@ Astro Ceria
 Astro Citra
 Astro Cricket
 Astro Football
-Astro Football 3
 Astro Grandstand
 Astro Hua Hee Dai
 Astro Oasis
@@ -322,7 +321,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -1277,6 +1275,7 @@ wedotv Movies HD
 彩虹电影
 彩虹频道
 彭博资讯
+彰化生活台
 影迷数位电影台
 影迷数位电影台HD
 影迷数位纪实台

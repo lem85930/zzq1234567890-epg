@@ -50,7 +50,6 @@ Astro Ceria
 Astro Citra
 Astro Cricket
 Astro Football
-Astro Football 3
 Astro Grandstand
 Astro Hua Hee Dai
 Astro Oasis
@@ -322,7 +321,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -1178,6 +1176,7 @@ wedotv Movies HD
 彩虹電影
 彩虹頻道
 彭博資訊
+彰化生活臺
 影迷數位紀實臺
 影迷數位紀實臺HD
 影迷數位電影臺
