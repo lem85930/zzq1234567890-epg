@@ -45,6 +45,7 @@ Astro Arena 2
 Astro Aura
 Astro Awani HD
 Astro Badminton
+Astro Badminton 2
 Astro Boo
 Astro Ceria
 Astro Citra
@@ -317,7 +318,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
