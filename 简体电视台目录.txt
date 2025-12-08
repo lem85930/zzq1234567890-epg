@@ -55,8 +55,6 @@ Astro Hua Hee Dai
 Astro Oasis
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
-Astro Premier League 4
 Astro Prima
 Astro QJ
 Astro Rania
@@ -290,9 +288,7 @@ Golf Channel
 HAPPY
 HAPPY频道
 HBLTV1台
-HBLTV1台(免费)
 HBLTV2台
-HBLTV2台(免费)
 HBO
 HBO Family
 HBO Family香港
@@ -330,7 +326,6 @@ HOY怪谈台
 HOY生活台
 Hami体育1台
 Hami体育2台
-Hami体育2台(免费)
 Hami日漫台(免费)
 Hanacaraka TV
 History
@@ -419,7 +414,6 @@ MBC every1
 MBC music
 MBC net
 MBC on
-MBC popt
 MCE 我的欧洲电影台
 MDTV
 MELODY FM
@@ -568,11 +562,10 @@ Rock Entertainment
 SBN全球财经台
 SBS
 SBS Biz
-SBS Fil
 SBS Golf
-SBS MTV
-SBS fune
-SBS kizmom
+SBS Golf2
+SBS funE
+SBS life
 SBS plus
 SBS sport
 SCTV
