@@ -214,6 +214,7 @@ Discovery科学HD
 Discovery科学台(Science)
 Discovery科学频道有线
 Docsville (免费)
+DreamWorks
 DreamWorks HD
 DreamWorks 梦工厂动画
 DreamWorks 频道香港
@@ -289,7 +290,9 @@ Golf Channel
 HAPPY
 HAPPY频道
 HBLTV1台
+HBLTV1台(免费)
 HBLTV2台
+HBLTV2台(免费)
 HBO
 HBO Family
 HBO Family香港
@@ -327,7 +330,10 @@ HOY怪谈台
 HOY生活台
 Hami体育1台
 Hami体育2台
+Hami体育3台
+Hami体育3台(免费)
 Hami日漫台(免费)
+Hami羽球台
 Hanacaraka TV
 History
 History HD
@@ -868,6 +874,7 @@ wedotv Movies HD
 上视东方影视
 世界卫星电视台
 世界第一等
+东亚超级篮球联赛 - 昌原猎隼 对 乌兰巴托野马 (下午6:00)
 东南卫视
 东方卫视
 东方卫视国际版
@@ -993,6 +1000,7 @@ wedotv Movies HD
 八大精彩台
 八大综合台
 八大综艺台
+八大综艺台(免费)
 公共电视
 公共电视台
 公用频道
@@ -1053,6 +1061,7 @@ wedotv Movies HD
 华视新闻
 华视新闻资讯HD
 华视新闻资讯台
+华视新闻资讯台(免费)
 华语剧台
 南京十八频道
 南京教科频道
@@ -1068,6 +1077,7 @@ wedotv Movies HD
 博斯网球台有线
 博斯运动一台
 博斯运动一台有线
+博斯运动二台
 博斯运动二台HD
 博斯运动二台有线
 博斯高球一台
@@ -1377,6 +1387,7 @@ wedotv Movies HD
 民视旅游台
 民视无线台
 民视第一台
+民视第一台(免费)
 民视第一台HD
 民视综艺台
 汕头新闻综合
@@ -1661,6 +1672,7 @@ wedotv Movies HD
 霹雳台湾台
 霹雳电视台
 青海卫视
+靖天中文台
 靖天卡通
 靖天卡通台
 靖天卡通台 HD
@@ -1718,6 +1730,7 @@ wedotv Movies HD
 高雄都会台
 鬼话连篇
 魅力足球
+麦卡贝综艺
 麦卡贝网路电视
 麦哲伦频道
 麦哲伦频道 HD
@@ -1739,7 +1752,6 @@ wedotv Movies HD
 龙华日韩台
 龙华洋片HD
 龙华洋片台
-龙华洋片台HAMI
 龙华洋片台OTT
 龙华电影
 龙华电影HD

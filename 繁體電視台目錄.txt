@@ -214,6 +214,7 @@ Discovery科學HD
 Discovery科學臺(Science)
 Discovery科學頻道有線
 Docsville (免費)
+DreamWorks
 DreamWorks HD
 DreamWorks 夢工廠動畫
 DreamWorks 頻道香港
@@ -289,7 +290,9 @@ Golf Channel
 HAPPY
 HAPPY頻道
 HBLTV1臺
+HBLTV1臺(免費)
 HBLTV2臺
+HBLTV2臺(免費)
 HBO
 HBO Family
 HBO Family香港
@@ -326,8 +329,11 @@ HOY怪談臺
 HOY生活臺
 HOY體育臺
 Hami日漫臺(免費)
+Hami羽球檯
 Hami體育1臺
 Hami體育2臺
+Hami體育3臺
+Hami體育3臺(免費)
 Hanacaraka TV
 History
 History HD
@@ -951,6 +957,7 @@ wedotv Movies HD
 八大精彩臺
 八大綜合臺
 八大綜藝臺
+八大綜藝臺(免費)
 公共電視
 公共電視臺
 公用頻道
@@ -995,6 +1002,7 @@ wedotv Movies HD
 博斯網球檯有線
 博斯運動一臺
 博斯運動一臺有線
+博斯運動二臺
 博斯運動二臺HD
 博斯運動二臺有線
 博斯高球一臺
@@ -1255,6 +1263,7 @@ wedotv Movies HD
 有你的時光裡
 木曜4超玩 一日系列
 村裡來了個暴走女外科
+東亞超級籃球聯賽 - 昌原獵隼 對 烏蘭巴託野馬 (下午6:00)
 東南衛視
 東方影視
 東方衛視
@@ -1327,6 +1336,7 @@ wedotv Movies HD
 民視無線臺
 民視異言堂
 民視第一臺
+民視第一臺(免費)
 民視第一臺HD
 民視綜藝臺
 民視臺灣臺
@@ -1570,6 +1580,7 @@ wedotv Movies HD
 華視新聞
 華視新聞資訊HD
 華視新聞資訊臺
+華視新聞資訊臺(免費)
 華語劇臺
 落花時節又逢君
 葬送的芙莉蓮
@@ -1648,6 +1659,7 @@ wedotv Movies HD
 霹靂臺灣臺
 霹靂電視臺
 青海衛視
+靖天中文臺
 靖天卡通
 靖天卡通臺
 靖天卡通臺 HD
@@ -1718,6 +1730,7 @@ wedotv Movies HD
 鳳凰香港臺
 鳳囚凰
 鹽城新聞綜合
+麥卡貝綜藝
 麥卡貝網路電視
 麥哲倫頻道
 麥哲倫頻道 HD
@@ -1739,7 +1752,6 @@ wedotv Movies HD
 龍華日韓臺
 龍華洋片HD
 龍華洋片臺
-龍華洋片臺HAMI
 龍華洋片臺OTT
 龍華經典HD
 龍華經典臺
