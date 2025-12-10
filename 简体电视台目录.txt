@@ -63,7 +63,6 @@ Astro Ria
 Astro Sensasi HD
 Astro Showcase
 Astro Sports Plus
-Astro Sports Plus 2
 Astro Sports UHD 805
 Astro Thangathirai
 Astro Tutor TV
@@ -321,6 +320,7 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
+HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
