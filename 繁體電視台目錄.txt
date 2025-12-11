@@ -714,6 +714,12 @@ SBS plus
 SBS sport
 SCTV
 SCTV HD
+SEA Games CH01
+SEA Games CH02
+SEA Games CH03
+SEA Games CH04
+SEA Games CH05
+SEA Games CH06
 SEA TODAY
 SINAR FM
 SONY MAX
@@ -1060,6 +1066,8 @@ wedotv Movies HD
 亞洲綜合HD
 亞洲美食臺香港
 亞洲美食頻道
+亞洲聯賽冠軍盃二級聯賽 - FC北京 對 FC麥克阿瑟 (晚上8:10)
+亞洲聯賽冠軍盃二級聯賽 - 大阪飛腳 對 拉查武裏 (下午5:55)
 亞洲衛視
 人氣動漫預告
 人間衛視
