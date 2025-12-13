@@ -818,6 +818,9 @@ iNews
 iNews HD
 iQIYI HD
 lifetime娱乐频道有线
+mbc 2
+mbc action
+mbc max
 meWATCH LIVE 1
 meWATCH LIVE 2
 meWATCH LIVE 5
@@ -1496,7 +1499,6 @@ wedotv Movies HD
 潘多拉粉红台
 潮州民生
 潮州综合
-澳洲女子职业足球联赛 - 墨尔本胜利 对 阿德莱德联 (下午1:45)
 澳视澳门
 澳门体育
 澳门卫星
