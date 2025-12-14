@@ -322,6 +322,7 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
+HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -416,6 +417,7 @@ Love Nature HD
 Love Nature香港
 Lucky 688
 MBC
+MBC Action
 MBC drama
 MBC every1
 MBC music
@@ -818,7 +820,6 @@ iNews HD
 iQIYI HD
 lifetime娛樂頻道有線
 mbc 2
-mbc action
 mbc max
 meWATCH LIVE 1
 meWATCH LIVE 2
