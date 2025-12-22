@@ -599,7 +599,6 @@ SPY X FAMILY 間諜家家酒
 SPY X FAMILY 間諜家家酒(中文版)
 STAR PLUS
 SUN TV HD
-SUPER EYT (免費)(12月22日6時起改為'觀眾票選-追劇馬拉松 (免費)'
 SUPER FREE (免費)
 SUPER Kids Channel
 SUPER Music (免費)
@@ -1701,6 +1700,7 @@ wedotv Movies HD
 西藏衛視
 視納華仁紀實臺HD
 視納華仁紀實頻道
+觀眾票選-追劇馬拉松 (免費)
 詹姆士出走料理
 誠心電視臺
 請叫我總監
