@@ -12,6 +12,7 @@ AMC電影
 ANC
 ANIMAX
 ANTV
+ARIRANG阿里郎頻道
 ASMR行車紀錄
 ASYIK FM
 AXN
@@ -95,6 +96,7 @@ BUDDY STARS
 BUDDY STARS HD
 Blippi & Friends
 Bloomberg
+Bloomberg TV
 Bloomberg TV HD
 Bloomberg Television
 Bloomberg Television香港
@@ -123,6 +125,7 @@ CGTN (中國環球電視網)記錄頻道 (免費)
 CGTN Documentary
 CGTN HD
 CHC 家庭影院
+CI 罪案偵查頻道
 CINEEDGE
 CINEEDGE HD
 CINEMAX HD
@@ -130,6 +133,7 @@ CINEMAX有線
 CINEMAX香港
 CI罪案偵查頻道有線
 CLASSIC ROCK
+CLASSICA 古典樂
 CMC 北美頻道
 CMC 香港頻道
 CMusic
@@ -138,6 +142,7 @@ CNA HD
 CNBC
 CNBC Asia
 CNBC Asia HD
+CNBC Asia 財經臺
 CNBC HD
 CNBC香港
 CNEX紀實頻道
@@ -191,6 +196,7 @@ DREAMWORKS
 DW
 DW (English)香港
 DW English
+DW德國之聲
 Da Vinc香港
 Discovery
 Discovery Asia
@@ -211,6 +217,7 @@ Discovery科學頻道有線
 Docsville (免費)
 DreamWorks
 DreamWorks HD
+DreamWorks 夢工廠動畫
 DreamWorks 頻道香港
 Dreamworks
 Dreamworks HD
@@ -242,6 +249,7 @@ FIFA+
 FOOD TRAVEL
 FOX News
 FOX 新聞臺
+FRANCE24 英文臺
 FRANCE24E HD
 FRANCE24F
 Fashion TV HD
@@ -260,6 +268,7 @@ France 24香港
 France24
 Freeman @臺灣
 Fun探索娛樂臺 4K
+GINX Esports TV
 GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
@@ -267,6 +276,7 @@ GOLD
 GOXUAN
 GTV
 GTV HD
+GagaOOLala 精選LGBTQ+好劇
 Galaxy
 Galaxy Premium
 GinxTV電競頻道
@@ -308,6 +318,7 @@ HITS MOVIES HD新加坡
 HITS NOW
 HITS有線
 HITS電影臺
+HITS頻道
 HITZ FM
 HOT
 HOT頻道
@@ -327,6 +338,7 @@ Hami體育3臺(免費)
 Hanacaraka TV
 History
 History HD
+History 歷史頻道
 History 歷史頻道有線
 Hub Premier 1
 Hub Premier 10
@@ -373,6 +385,7 @@ KBS韓國國際綜合高清頻道
 KENYALANG
 KIX
 KIX電影臺
+KLT-靖天國際臺
 KLT-靖天國際臺HD
 KTV
 KTV HD
@@ -389,11 +402,13 @@ LOVE NATURE 4K
 LOVE NATURE有線
 LOVENATURE
 LS TIME電影臺
+LUXE TV Channel
 LUXE TV HD
 Lifeime
 Lifetime
 Lifetime HD
 Lifetime HD新加坡
+Lifetime 娛樂頻道
 Lifetime香港
 LiveABC互動英語頻道
 Love Nature
@@ -423,12 +438,14 @@ MTV
 MTV India
 MTV Live
 MTV Live HD
+MTV Live HD 音樂頻道
 MTV Live音樂頻道
 MTV綜合臺HD
 MTV綜合電視臺
 MUCH TV
 MUTV
 MY FM
+MagellanTV頻道 (麥哲倫頻道)
 Medici-arts HD
 Metro TV
 Mezzo Live
@@ -440,11 +457,13 @@ MotorVision
 Music TV
 Music TV HD
 Muslim TV
+My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
 NAS FM
 NBA
 NHK
 NHK WORLD PREMIUM
+NHK WORLD-JAPAN
 NHK WORLD-JAPA香港
 NHK World
 NHK World Premium
@@ -467,6 +486,7 @@ Nick Jr
 Nick Jr.
 Nick Jr. HD
 Nick Jr. HD新加坡
+Nick Jr. 兒童頻道
 Nick Jr.(小尼克)
 Nick Jr.香港
 NickJr.
@@ -518,6 +538,7 @@ PETCLUBTV
 Panda TV
 Pandora潘朵啦高畫質玩美臺
 Pandora潘朵啦高畫質粉紅臺
+Pet Club TV
 Pet Club TV (免費)
 Phoenix Chinese Channel HD
 Phoenix Info News HD
@@ -547,6 +568,7 @@ Rialto Classic Movies (RCM) (免費)
 River Monsters
 Rock Action
 Rock Entertainment
+SBN全球財經臺
 SBS
 SBS Biz
 SBS Golf
@@ -632,6 +654,7 @@ TLC旅遊生活頻道香港
 TRACE Sport Stars
 TRACE Sport Stars (免費)
 TRACE Sport Stars HD
+TRACE Urban
 TRACE Urban (免費)
 TRACE Urban HD
 TRACESportStars
@@ -656,10 +679,13 @@ TVBS
 TVBS Asia HD
 TVBS 新聞臺
 TVBS亞洲新加坡
+TVBS新聞
 TVBS新聞臺
 TVBS歡樂臺
 TVBS精采臺
 TVBS精采臺HD
+TVBS綜藝臺
+TVBS臺劇臺
 TVBS食尚玩家
 TVB功夫臺
 TVB新聞新加坡
@@ -786,6 +812,7 @@ elta體育max 7
 elta體育max 8
 era news 年代新聞
 euronews香港
+fun探索娛樂臺
 iNews
 iNews HD
 iQIYI HD
@@ -843,6 +870,7 @@ wedotv Movies HD
 三立戲劇臺HD
 三立新聞iNEWS
 三立新聞臺
+三立綜合臺
 三立綜合臺HD
 三立臺灣臺
 三立財經新聞臺
@@ -974,6 +1002,7 @@ wedotv Movies HD
 北京青年
 十方法界電視臺
 千禧經典臺
+半島國際新聞臺
 半島英語新聞臺Al Jazeera English HD
 半島電視臺英語頻道
 半島電視臺英語頻道香港
@@ -1220,6 +1249,7 @@ wedotv Movies HD
 愛爾達影劇臺
 愛爾達影劇臺HD
 愛爾達日韓臺
+愛爾達生活旅遊臺
 愛爾達綜合臺
 愛爾達綜合臺HD
 愛爾達體育1臺
@@ -1238,6 +1268,7 @@ wedotv Movies HD
 我們這一家
 我的婆婆怎麼那麼可愛
 我的差評女友
+戲劇免費看 1臺
 戲曲臺
 戶外頻道香港
 承德新聞綜合
@@ -1279,8 +1310,10 @@ wedotv Movies HD
 早餐中國
 明珠臺 (免費)
 星空衛視
+時尚運動X
 智叻樂園
 智林體育HD
+智林體育臺
 智林體育臺有線
 曼迪日本臺HD
 月升之江
@@ -1320,6 +1353,10 @@ wedotv Movies HD
 東森購物4臺HD
 東森購物5臺
 東森購物5臺HD
+東森購物一臺
+東森購物三臺
+東森購物二臺
+東森購物四臺
 東森購物頻道
 東森超視
 東森電影臺
@@ -1358,6 +1395,7 @@ wedotv Movies HD
 民視影劇臺
 民視新聞臺
 民視新聞臺HD
+民視旅遊臺
 民視無線臺
 民視異言堂
 民視第一臺
@@ -1486,6 +1524,7 @@ wedotv Movies HD
 滄州新聞綜合
 滾動力 rollor
 滾動力 rollor有線
+滾動力rollor
 演唱會直擊
 潘多拉完美臺
 潘多拉粉紅臺
@@ -1566,11 +1605,14 @@ wedotv Movies HD
 第一財經
 第一財經直播
 粵語片臺
+精選動漫臺
 紅豆2臺
 紅豆電視臺
 紓壓雷雨聲
 紫金國際臺
 經典劇場
+經典卡通臺
+經典電影臺
 綜藝大集合
 緯來戲劇臺
 緯來日本臺
@@ -1657,6 +1699,7 @@ wedotv Movies HD
 衡水經濟科教
 西藏衛視
 視納華仁紀實臺HD
+視納華仁紀實頻道
 觀眾票選-追劇馬拉松 (免費)
 詹姆士出走料理
 誠心電視臺
@@ -1673,6 +1716,7 @@ wedotv Movies HD
 貴州衛視
 超人力霸王臺
 超視
+車迷TV
 車迷TV HD
 軍師聯盟
 軍師聯盟2 虎嘯龍吟
@@ -1746,8 +1790,10 @@ wedotv Movies HD
 青海衛視
 靖天中文臺
 靖天卡通
+靖天卡通臺
 靖天卡通臺 HD
 靖天戲劇HD
+靖天戲劇臺
 靖天日本HD
 靖天日本臺
 靖天日本臺靖天
@@ -1767,6 +1813,7 @@ wedotv Movies HD
 靖天電影HD
 靖天電影有線
 靖天電影臺
+靖洋卡通Nice Bingo
 靖洋卡通有線
 靖洋卡通臺
 靖洋卡通臺Nice Bingo HD
@@ -1777,6 +1824,7 @@ wedotv Movies HD
 非凡新聞臺
 韓國娛樂KMTV
 韓國娛樂臺
+韓國娛樂臺 KMTV
 韓國娛樂臺KMTV HD
 韓國阿里郎
 韶華若錦
@@ -1835,8 +1883,10 @@ wedotv Movies HD
 龍華日韓臺
 龍華洋片HD
 龍華洋片臺
+龍華洋片臺OTT
 龍華經典HD
 龍華經典臺
 龍華電影
 龍華電影HD
 龍華電影臺
+龍華電影院
