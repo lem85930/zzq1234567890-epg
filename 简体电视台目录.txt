@@ -1,6 +1,8 @@
 11点热吵店
 1905App 热血·影院
 1905App 环球经典
+2026台南好Young跨年晚会
+2026雄嗨趴-高雄跨年晚会
 8TV
 ABC Australia
 ABC Australia HD
@@ -228,8 +230,6 @@ EBS PLUS1
 EBS PLUS2
 EBS1
 EBS2
-ELEVEN SPORTS 1
-ELEVEN SPORTS 2
 ELTV生活英语台
 ERA FM
 ETtoday综合台
@@ -322,7 +322,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -441,7 +440,6 @@ MTV Live HD
 MTV Live HD 音乐频道
 MTV Live音乐频道
 MTV综合台HD
-MTV综合电视台
 MUCH TV
 MUTV
 MY FM
@@ -1069,8 +1067,8 @@ wedotv Movies HD
 半岛电视台英语频道
 半岛电视台英语频道香港
 半岛英语新闻台Al Jazeera English HD
-华艺MBC综合台有线
 华艺中文台
+华艺中文台有线
 华艺台湾台
 华艺台湾台 HD
 华艺影剧台

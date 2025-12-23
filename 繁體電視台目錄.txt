@@ -1,6 +1,8 @@
 11點熱吵店
 1905App 熱血·影院
 1905App 環球經典
+2026臺南好Young跨年晚會
+2026雄嗨趴-高雄跨年晚會
 8TV
 ABC Australia
 ABC Australia HD
@@ -228,8 +230,6 @@ EBS PLUS1
 EBS PLUS2
 EBS1
 EBS2
-ELEVEN SPORTS 1
-ELEVEN SPORTS 2
 ELTV生活英語臺
 ERA FM
 ETtoday綜合臺
@@ -322,7 +322,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -441,7 +440,6 @@ MTV Live HD
 MTV Live HD 音樂頻道
 MTV Live音樂頻道
 MTV綜合臺HD
-MTV綜合電視臺
 MUCH TV
 MUTV
 MY FM
@@ -1674,8 +1672,8 @@ wedotv Movies HD
 華藏衛星電視臺
 華藏衛視
 華藏衛視HD
-華藝MBC綜合臺有線
 華藝中文臺
+華藝中文臺有線
 華藝影劇臺
 華藝臺灣臺
 華藝臺灣臺 HD
