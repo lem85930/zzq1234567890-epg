@@ -322,7 +322,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -438,7 +437,6 @@ MTV
 MTV India
 MTV Live
 MTV Live HD
-MTV Live HD 音樂頻道
 MTV Live音樂頻道
 MTV綜合臺HD
 MUCH TV
@@ -1524,6 +1522,7 @@ wedotv Movies HD
 潮州民生
 潮州綜合
 澳視澳門
+澳門4K
 澳門綜藝
 澳門葡萄牙
 澳門衛星

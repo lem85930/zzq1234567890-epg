@@ -322,7 +322,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -438,7 +437,6 @@ MTV
 MTV India
 MTV Live
 MTV Live HD
-MTV Live HD 音乐频道
 MTV Live音乐频道
 MTV综合台HD
 MUCH TV
@@ -1582,6 +1580,7 @@ wedotv Movies HD
 潮州民生
 潮州综合
 澳视澳门
+澳门4K
 澳门体育
 澳门卫星
 澳门综艺
