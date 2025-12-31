@@ -52,6 +52,7 @@ Astro Ceria
 Astro Citra
 Astro Cricket
 Astro Football
+Astro Golf
 Astro Grandstand
 Astro Hua Hee Dai
 Astro Oasis
@@ -287,7 +288,6 @@ GlobalTrekker
 Globetrotter (免費)
 Golden 強片臺
 Golden影迷臺
-Golf Channel
 HAPPY
 HAPPY頻道
 HBLTV1臺
@@ -322,7 +322,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -1209,7 +1208,6 @@ wedotv Movies HD
 廣西綜藝旅遊頻道
 廣西衛視
 廣西都市頻道
-廣西電視臺國際頻道 (免費)(停播通知-頻道將於12月31日23:59停播)
 張家口公共
 張家口新聞綜合
 張家界新聞
@@ -1259,7 +1257,6 @@ wedotv Movies HD
 我們這一家
 我的婆婆怎麼那麼可愛
 我的差評女友
-戲劇免費看 1臺
 戲曲臺
 戶外頻道香港
 承德新聞綜合

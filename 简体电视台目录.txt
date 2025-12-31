@@ -52,6 +52,7 @@ Astro Ceria
 Astro Citra
 Astro Cricket
 Astro Football
+Astro Golf
 Astro Grandstand
 Astro Hua Hee Dai
 Astro Oasis
@@ -287,7 +288,6 @@ GlobalTrekker
 Globetrotter (免费)
 Golden 强片台
 Golden影迷台
-Golf Channel
 HAPPY
 HAPPY频道
 HBLTV1台
@@ -322,7 +322,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -1311,7 +1310,6 @@ wedotv Movies HD
 广西国际频道
 广西影视频道
 广西新闻频道
-广西电视台国际频道 (免费)(停播通知-频道将于12月31日23:59停播)
 广西综艺旅游频道
 广西都市频道
 廊坊公共
@@ -1344,7 +1342,6 @@ wedotv Movies HD
 惊艳成人电影台
 惠州综合
 惠州都市生活
-戏剧免费看 1台
 戏曲台
 成人极品台
 成人节目资讯
