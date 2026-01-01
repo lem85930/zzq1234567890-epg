@@ -1,8 +1,6 @@
 11點熱吵店
 1905App 熱血·影院
 1905App 環球經典
-2026臺南好Young跨年晚會
-2026雄嗨趴-高雄跨年晚會
 8TV
 ABC Australia
 ABC Australia HD
@@ -322,14 +320,13 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
+HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
 HOY怪談臺
 HOY生活臺
 HOY體育臺
-Hami日漫臺(免費)
-Hami羽球檯
 Hami體育1臺
 Hami體育2臺
 Hami體育3臺
@@ -1777,7 +1774,6 @@ wedotv Movies HD
 霹靂臺灣臺
 霹靂電視臺
 青海衛視
-靖天中文臺
 靖天卡通
 靖天卡通臺
 靖天卡通臺 HD
@@ -1848,7 +1844,6 @@ wedotv Movies HD
 鳳凰香港臺
 鳳囚凰
 鹽城新聞綜合
-麥卡貝綜藝
 麥卡貝網路電視
 麥哲倫頻道
 麥哲倫頻道 HD
