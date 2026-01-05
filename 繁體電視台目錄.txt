@@ -7,14 +7,12 @@ ABC Australia HD
 ABC Australia香港
 ABC澳大利亞電視臺
 ADITHYA TV
-AI FM
 AMC電影
 ANC
 ANIMAX
 ANTV
 ARIRANG阿里郎頻道
 ASMR行車紀錄
-ASYIK FM
 AXN
 AXN HD
 AXN香港
@@ -321,7 +319,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -422,7 +419,6 @@ MBC on
 MCE 我的歐洲電影臺
 MDTV
 MELODY FM
-MINNAL FM
 MIX FM
 MNCTV
 MNCTV HD
@@ -452,7 +448,6 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
-NAS FM
 NBA
 NHK
 NHK WORLD PREMIUM
@@ -645,7 +640,6 @@ TRACE Urban
 TRACE Urban (免費)
 TRACE Urban HD
 TRACESportStars
-TRAXX FM
 TV Okey HD
 TV Sarawak
 TV1 HD
@@ -701,7 +695,6 @@ TravelChannel
 Travelxp HD
 UNIQUES
 UNIQUES HD
-V FM
 Vannathirai
 ViVa 1臺
 Vijay TV HD
@@ -710,7 +703,6 @@ Vision Prime HD
 Viu 頻道
 ViuTV
 W-Sport
-WAI FM
 WTO姐妹會
 Warner TV
 Warner TV HD
