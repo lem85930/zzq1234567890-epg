@@ -2,6 +2,7 @@
 1905App 熱血·影院
 1905App 環球經典
 8TV
+8tv
 ABC Australia
 ABC Australia HD
 ABC Australia香港
@@ -727,7 +728,15 @@ Zee Thirai
 ZooMoo
 Zoomoo
 Z頻道
+abcaustralia
+aljazeera
 amc電影臺
+animax
+asianfoodnetwork
+axn
+bbcearthhd
+bbclifestylehd
+bbcworldnewshd
 bb快報
 beIN SPORTS 1
 beIN SPORTS 2
@@ -742,6 +751,13 @@ beIN Sports 2
 beIN Sports 2 HD
 beIN Sports 3
 beIN Sports 3 HD
+beinsports
+beinsports2
+beinsports3
+beinsports4
+bernamatv
+cartoonnetwork
+cbeebieshd
 cctv1
 cctv10
 cctv11
@@ -753,6 +769,7 @@ cctv16
 cctv17
 cctv2
 cctv3
+cctv4hd
 cctv4k
 cctv4亞洲
 cctv5
@@ -775,14 +792,24 @@ cctv風雲劇場
 cctv風雲足球
 cctv風雲音樂
 cctv高爾夫
+celestialclassicmovies
+celestialmovies
 cgtn
+cgtnhd
 cgtn俄語
 cgtn法語
 cgtn英文記錄片
 cgtn西班牙語
 cgtn阿拉伯語
+channelnewsasia
 cinemalworld世界電影頻道有線
+cinemax
 cmplus新加坡
+degup
+didiktv
+dreamworkshd
+duniasinemahd
+dw
 elta日韓
 elta體育max 1
 elta體育max 2
@@ -793,12 +820,23 @@ elta體育max 6
 elta體育max 7
 elta體育max 8
 era news 年代新聞
+euronews
 euronews香港
 fun探索娛樂臺
+hbofamily
+hbohd
+hbohits
+hgtv
+hits
+hitsmovies
+hitsnow
 iNews
 iNews HD
 iQIYI HD
+inspirasi
+kplus
 lifetime娛樂頻道有線
+lovenaturehd
 mbc 2
 mbc action
 mbc max
@@ -812,6 +850,7 @@ momo2臺HD
 momo綜合臺
 momo綜合臺HD
 momo親子臺
+moonbugkids
 moov
 myTV SUPER 18臺
 myTV SUPER直播足球2臺
@@ -820,6 +859,9 @@ myTV SUPER直播足球4臺
 myTV SUPER直播足球5臺
 myTV SUPER直播足球6臺
 myTV SUPER直播足球7臺
+nhkworldjapan
+nickelodeon
+nickjr
 now 劇集
 nowjeli
 now報價
@@ -829,9 +871,25 @@ now財經
 now體育
 now體育4k
 oktolidays
+parlimenmalaysia
+pesonahd
+phoenixhongkong
+rockaction
+rockentertainment
+salamhd
+sensasi
+seti
+siar
+sonyyay
 sportstars 3 HD
 spot on news
+spotv
+spotv2
 trace sport star運動明星
+tv1
+tv2
+tv3
+tv9
 tvN
 tvN HD
 tvN Movies
@@ -839,9 +897,20 @@ tvN Movies HD
 tvN有線
 tvN香港
 tvOne
+tvalhijrahhd
+tvbjade
+tvbxinghe
+tvnhd
+tvnmovieshd
+tvs
+unifisports1
 video express rentnow
 viu6
+warnertv
 wedotv Movies HD
+zeecinemahd
+zeetamilhd
+zeethirai
 一字千金
 一把青
 一步一腳印 發現新臺灣
