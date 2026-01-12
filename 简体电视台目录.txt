@@ -696,7 +696,6 @@ Travel & Food TV
 Travel Channel HD
 TravelChannel
 Travelxp HD
-U23 亚洲杯足球赛 - 泰国 对 伊拉克 (晚上9:55)
 UNIQUES
 UNIQUES HD
 Vannathirai
@@ -1276,9 +1275,15 @@ zeethirai
 大立电视台
 大立电视台 HD
 天才冲冲冲
+天映经典印尼
 天映经典台新加坡
+天映经典新加坡
+天映经典柬埔寨
+天映经典菲律宾
 天映经典频道
 天映经典香港
+天映经典马来西亚
+天映频道印尼
 天映频道新加坡
 天映频道马来西亚
 天津卫视
