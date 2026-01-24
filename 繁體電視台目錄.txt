@@ -261,7 +261,6 @@ Food Network香港
 Food Travel HD
 FoodON
 France 24
-France 24 (French)
 France 24 English
 France 24香港
 France24
@@ -269,8 +268,6 @@ Freeman @臺灣
 Fun探索娛樂臺 4K
 GINX Esports TV
 GLOBLTREKKER探索世界
-GMA Life T
-GMA Pinoy TV
 GOLD
 GOXUAN
 GTV
@@ -412,7 +409,6 @@ Love Nature
 Love Nature 4K
 Love Nature HD
 Love Nature香港
-Lucky 688
 MBC
 MBC drama
 MBC every1
@@ -430,11 +426,9 @@ MOMO綜合臺
 MOMO親子臺
 MOVIE MOVIE
 MTV
-MTV India
 MTV Live音樂頻道
 MTV綜合臺HD
 MUCH TV
-MUTV
 MY FM
 MagellanTV頻道 (麥哲倫頻道)
 Medici-arts HD
@@ -450,7 +444,6 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
-NBA
 NHK
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
@@ -486,20 +479,6 @@ Nickelodeon Asia尼克兒童頻道
 Nickelodeon HD
 Nickelodeon Jr
 Nickelodeon香港
-Now Sports 1
-Now Sports 2
-Now Sports 3
-Now Sports 4
-Now Sports 5
-Now Sports 6
-Now Sports 641
-Now Sports 651
-Now Sports 652
-Now Sports 668
-Now Sports 681
-Now Sports 7
-Now Sports Premier
-Now Sports plus
 Now Sports 英超 TV2
 Now Sports 英超 TV3
 Now Sports 英超 TV4
@@ -508,8 +487,6 @@ Now Sports 英超 TV6
 Now Sports 英超 TV7
 Now Sports 英超TV
 Now Sports 英超TV1
-Now 高爾夫2
-Now 高爾夫3
 Now爆谷星影臺
 ONE
 ONE (Malay)
@@ -533,7 +510,6 @@ Pet Club TV (免費)
 Phoenix Chinese Channel HD
 Phoenix Info News HD
 PopC
-Premier Sports
 Premier Sports Rugby
 RCTI
 RCTI HD
@@ -578,10 +554,8 @@ SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
-SPOTV2
 SPY X FAMILY 間諜家家酒
 SPY X FAMILY 間諜家家酒(中文版)
-STAR PLUS
 SUN TV HD
 SUPER FREE (免費)
 SUPER Kids Channel
@@ -604,9 +578,6 @@ Smithsonian Channel
 Soccer Channel
 Soccer Channel HD
 Sony Entertainment Televis新加坡
-Sony MAX
-Sony SAB
-Sony TV (India)
 SportsPlus
 Sportstars
 Sportstars 2
@@ -615,8 +586,6 @@ Sportstars 3
 Sportstars 4
 Sportstars 4 HD
 Sportstars HD
-Star Bharat
-Star Gold
 Star Vijay HD
 Studio Universal
 Studio Universal HD
@@ -628,7 +597,6 @@ Sun TV
 Superrix
 Superrix HD
 TBC臺中生活臺
-TFC
 TG Junior
 THR GEGAR
 THR RAAGA
@@ -648,9 +616,7 @@ TV1 HD
 TV2 HD
 TV3
 TV5MONDE
-TV5MONDE ASIE
 TV5MONDE STYLE HD 生活時尚
-TV5MONDE Style
 TV5Monde 法國電視臺
 TV9
 TVB Classic HD
@@ -717,9 +683,6 @@ Z Tamil HD
 ZAYAN
 Zee Bioskop
 Zee Cinema HD
-Zee Cinema International
-Zee News
-Zee TV
 Zee TV HD
 Zee Tamil HD
 Zee Thirai
@@ -741,8 +704,6 @@ beIN SPORTS 2
 beIN SPORTS 3
 beIN SPORTS 4
 beIN SPORTS 5
-beIN SPORTS 6
-beIN SPORTS RUGBY
 beIN Sports 1
 beIN Sports 1 HD
 beIN Sports 2
@@ -978,6 +939,7 @@ zeethirai
 中視菁採臺HD
 九九敬老頻道
 九重紫
+二零二五香港公開羽毛球錦標賽-世界羽聯世界巡迴賽超級500
 五星體育
 亞洲劇臺
 亞洲新聞臺
@@ -1016,6 +978,13 @@ zeethirai
 全民星攻略
 全民星攻略 知識開箱
 全球財經網頻道
+全運800臺
+全運801臺
+全運802臺
+全運803臺
+全運804臺
+全運805臺
+全運806臺
 八大優頻道
 八大娛樂臺
 八大戲劇臺
@@ -1037,7 +1006,6 @@ zeethirai
 冠軍夢想臺
 冠軍電視臺
 冬奧紀實
-冰火頻道
 凡爾賽玫瑰
 刀劍神域(中文版)
 創世電視 (免費)
@@ -1272,13 +1240,7 @@ zeethirai
 廣東綜藝
 廣東衛視
 廣東體育
-廣西國際頻道
-廣西影視頻道
-廣西新聞頻道
-廣西樂思購頻道
-廣西綜藝旅遊頻道
 廣西衛視
-廣西都市頻道
 張家口公共
 張家口新聞綜合
 張家界新聞
@@ -1320,8 +1282,6 @@ zeethirai
 愛爾達體育MAX2臺
 愛爾達體育MAX3臺
 愛爾達體育MAX4臺
-成人極品臺
-成人節目資訊
 成都公共
 成都新聞
 成都經濟
@@ -1364,6 +1324,7 @@ zeethirai
 新聞大白話
 新聞綜合
 新聞觀測站
+新視覺
 旅遊頻道香港
 早餐中國
 明珠臺 (免費)
@@ -1465,11 +1426,15 @@ zeethirai
 汕頭新聞綜合
 汕頭經濟
 汕頭經濟生活
+江蘇優漫卡通頻道
 江蘇公共新聞頻道
 江蘇國際
+江蘇國際頻道
 江蘇城市頻道
 江蘇影視頻道
 江蘇教育
+江蘇教育頻道
+江蘇新聞頻道
 江蘇綜藝頻道
 江蘇衛視
 江蘇電視臺國際頻道 (免費)
@@ -1546,6 +1511,12 @@ zeethirai
 深圳電視劇
 深圳體育
 深圳龍崗
+深視少兒頻道
+深視移動電視頻道
+深視財經生活頻道
+深視都市頻道
+深視電視劇頻道
+深視體育健康頻道
 清遠新聞綜合
 測試頻道
 湖北教育
@@ -1629,13 +1600,21 @@ zeethirai
 福州生活
 福建公共
 福建少兒
+福建少兒頻道
 福建新聞
 福建旅遊
+福建旅遊頻道
 福建海峽衛視國際頻道 (免費)
 福建經濟
+福建經濟頻道
 福建綜合
+福建綜合頻道
+福建鄉村振興·公共
 福建電視劇
+福建電視劇頻道
+福建電視臺新聞頻道
 福建體育
+福建體育頻道
 私藏浪漫
 秦皇島新聞綜合
 秦皇島民生
@@ -1787,7 +1766,6 @@ zeethirai
 重慶生活資訊
 重慶科教
 重慶衛視
-重溫經典頻道
 金光布袋戲
 金色學堂
 金鷹卡通
