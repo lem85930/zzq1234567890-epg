@@ -259,6 +259,7 @@ Food Network香港
 Food Travel HD
 FoodON
 France 24
+France 24 (French)
 France 24 English
 France 24香港
 France24
@@ -266,6 +267,8 @@ Freeman @台湾
 Fun探索娱乐台 4K
 GINX Esports TV
 GLOBLTREKKER探索世界
+GMA Life T
+GMA Pinoy TV
 GOLD
 GOXUAN
 GTV
@@ -407,6 +410,7 @@ Love Nature
 Love Nature 4K
 Love Nature HD
 Love Nature香港
+Lucky 688
 MBC
 MBC drama
 MBC every1
@@ -424,9 +428,11 @@ MOMO亲子台
 MOMO综合台
 MOVIE MOVIE
 MTV
+MTV India
 MTV Live音乐频道
 MTV综合台HD
 MUCH TV
+MUTV
 MY FM
 MagellanTV频道 (麦哲伦频道)
 Medici-arts HD
@@ -442,6 +448,7 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的欧洲电影
 My Cinema Europe HD 我的欧洲电影有线
+NBA
 NHK
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
@@ -477,6 +484,19 @@ Nickelodeon Asia尼克儿童频道
 Nickelodeon HD
 Nickelodeon Jr
 Nickelodeon香港
+Now Sports 1
+Now Sports 2
+Now Sports 3
+Now Sports 4
+Now Sports 5
+Now Sports 6
+Now Sports 641
+Now Sports 651
+Now Sports 668
+Now Sports 681
+Now Sports 7
+Now Sports Premier
+Now Sports plus
 Now Sports 英超 TV2
 Now Sports 英超 TV3
 Now Sports 英超 TV4
@@ -485,6 +505,8 @@ Now Sports 英超 TV6
 Now Sports 英超 TV7
 Now Sports 英超TV
 Now Sports 英超TV1
+Now 高尔夫2
+Now 高尔夫3
 Now爆谷星影台
 ONE
 ONE (Malay)
@@ -508,6 +530,7 @@ Pet Club TV (免费)
 Phoenix Chinese Channel HD
 Phoenix Info News HD
 PopC
+Premier Sports
 Premier Sports Rugby
 RCTI
 RCTI HD
@@ -552,8 +575,10 @@ SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
+SPOTV2
 SPY X FAMILY 间谍家家酒
 SPY X FAMILY 间谍家家酒(中文版)
+STAR PLUS
 SUN TV HD
 SUPER FREE (免费)
 SUPER Kids Channel
@@ -576,6 +601,9 @@ Smithsonian Channel
 Soccer Channel
 Soccer Channel HD
 Sony Entertainment Televis新加坡
+Sony MAX
+Sony SAB
+Sony TV (India)
 SportsPlus
 Sportstars
 Sportstars 2
@@ -584,6 +612,8 @@ Sportstars 3
 Sportstars 4
 Sportstars 4 HD
 Sportstars HD
+Star Bharat
+Star Gold
 Star Vijay HD
 Studio Universal
 Studio Universal HD
@@ -595,6 +625,7 @@ Sun TV
 Superrix
 Superrix HD
 TBC台中生活台
+TFC
 TG Junior
 THR GEGAR
 THR RAAGA
@@ -614,7 +645,9 @@ TV1 HD
 TV2 HD
 TV3
 TV5MONDE
+TV5MONDE ASIE
 TV5MONDE STYLE HD 生活时尚
+TV5MONDE Style
 TV5Monde 法国电视台
 TV9
 TVB Classic HD
@@ -681,6 +714,9 @@ Z Tamil HD
 ZAYAN
 Zee Bioskop
 Zee Cinema HD
+Zee Cinema International
+Zee News
+Zee TV
 Zee TV HD
 Zee Tamil HD
 Zee Thirai
@@ -702,6 +738,8 @@ beIN SPORTS 2
 beIN SPORTS 3
 beIN SPORTS 4
 beIN SPORTS 5
+beIN SPORTS 6
+beIN SPORTS RUGBY
 beIN Sports 1
 beIN Sports 1 HD
 beIN Sports 2
@@ -976,7 +1014,6 @@ zeethirai
 九九敬老频道
 九重紫
 乡民大学问
-二零二五香港公开羽毛球锦标赛-世界羽联世界巡回赛超级500
 云南公共
 云南卫视
 云南娱乐
@@ -1023,13 +1060,6 @@ zeethirai
 全民星攻略
 全民星攻略 知识开箱
 全球财经网频道
-全运800台
-全运801台
-全运802台
-全运803台
-全运804台
-全运805台
-全运806台
 八大优频道
 八大娱乐台
 八大戏剧台
@@ -1055,6 +1085,7 @@ zeethirai
 冠军梦想台
 冠军电视台
 冬奥纪实
+冰火频道
 凡尔赛玫瑰
 凤凰中文
 凤凰卫视中文台
@@ -1373,6 +1404,8 @@ zeethirai
 惠州综合
 惠州都市生活
 戏曲台
+成人极品台
+成人节目资讯
 成都公共
 成都新闻
 成都经济
