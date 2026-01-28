@@ -200,6 +200,7 @@ DW (English)香港
 DW English
 DW德國之聲
 Da Vinc香港
+Deal or No Deal
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -254,6 +255,7 @@ FRANCE24E HD
 FRANCE24F
 Fashion TV HD
 FashionBox
+Fear Factor
 Fight Sports
 Focus探索新知臺
 Focus風采戲劇臺
@@ -1908,7 +1910,6 @@ zeethirai
 鳳凰衛視香港臺
 鳳凰衛視香港臺 (免費)
 鳳凰資訊
-鳳凰香港臺
 鳳囚凰
 鹽城新聞綜合
 麥卡貝綜藝

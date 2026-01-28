@@ -200,6 +200,7 @@ DW (English)香港
 DW English
 DW德国之声
 Da Vinc香港
+Deal or No Deal
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -254,6 +255,7 @@ FRANCE24E HD
 FRANCE24F
 Fashion TV HD
 FashionBox
+Fear Factor
 Fight Sports
 Focus探索新知台
 Focus风采戏剧台
@@ -1100,7 +1102,6 @@ zeethirai
 凤凰卫视香港台
 凤凰卫视香港台 (免费)
 凤凰资讯
-凤凰香港台
 凤囚凰
 刀剑神域(中文版)
 创世电视 (免费)
