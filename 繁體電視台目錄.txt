@@ -57,6 +57,8 @@ Astro Oasis
 Astro Premier League
 Astro Premier League 2
 Astro Premier League 3
+Astro Premier League 4
+Astro Premier League 5
 Astro Prima
 Astro QJ
 Astro Rania
@@ -90,10 +92,10 @@ BBC World News
 BBCEarth
 BBCLifestyle
 BBCNEWS
-BERNAMA
 BTV
 BUDDY STARS
 BUDDY STARS HD
+Bernama TV
 Blippi & Friends
 Bloomberg
 Bloomberg TV
@@ -837,6 +839,7 @@ kix亞洲
 kix印尼
 kix新加坡
 kix菲律賓
+kix非洲
 kix香港
 kplus
 lifetime娛樂頻道有線
@@ -889,6 +892,11 @@ sportstars 3 HD
 spot on news
 spotv
 spotv2
+thrill印尼
+thrill新加坡
+thrill菲律賓
+thrill香港
+thrill馬來西亞
 trace sport star運動明星
 tv1
 tv2
@@ -954,6 +962,7 @@ zeethirai
 中天亞洲精采臺
 中天亞洲臺
 中天亞洲臺新加坡
+中天北美臺
 中天娛樂臺
 中天新聞臺
 中天綜合臺
@@ -1473,8 +1482,6 @@ zeethirai
 江蘇城市頻道
 江蘇影視頻道
 江蘇教育
-江蘇教育頻道
-江蘇新聞頻道
 江蘇綜藝頻道
 江蘇衛視
 江蘇電視臺國際頻道 (免費)

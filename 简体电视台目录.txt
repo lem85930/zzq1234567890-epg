@@ -92,10 +92,10 @@ BBC World News
 BBCEarth
 BBCLifestyle
 BBCNEWS
-BERNAMA
 BTV
 BUDDY STARS
 BUDDY STARS HD
+Bernama TV
 Blippi & Friends
 Bloomberg
 Bloomberg TV
@@ -323,6 +323,7 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
+HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -1540,8 +1541,6 @@ zeethirai
 江苏城市频道
 江苏影视频道
 江苏教育
-江苏教育频道
-江苏新闻频道
 江苏电视台国际频道 (免费)
 江苏综艺频道
 江西公共·农业
