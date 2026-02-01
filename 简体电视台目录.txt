@@ -48,7 +48,6 @@ Astro Boo
 Astro Ceria
 Astro Citra
 Astro Cricket
-Astro Cricket Plus
 Astro Football
 Astro Golf
 Astro Grandstand
@@ -668,13 +667,11 @@ TVBS
 TVBS Asia HD
 TVBS 新闻台
 TVBS亚洲新加坡
-TVBS台剧台
 TVBS新闻
 TVBS新闻台
 TVBS欢乐台
 TVBS精采台
 TVBS精采台HD
-TVBS综艺台
 TVBS食尚玩家
 TVB功夫台
 TVB新闻新加坡
@@ -858,6 +855,7 @@ momo1台HD
 momo2台
 momo2台HD
 momo亲子台
+momo亲子台(免费)
 momo综合台
 momo综合台HD
 moonbugkids
@@ -1082,7 +1080,6 @@ zeethirai
 八大精彩台
 八大综合台
 八大综艺台
-八大综艺台(免费)
 公共电视
 公共电视台
 公用频道
@@ -1528,9 +1525,9 @@ zeethirai
 民视旅游台
 民视无线台
 民视第一台
-民视第一台(免费)
 民视第一台HD
 民视综艺台
+民视综艺台(免费)
 汕头新闻综合
 汕头经济
 汕头经济生活
@@ -1658,6 +1655,7 @@ zeethirai
 潘多拉粉红台
 潮州民生
 潮州综合
+澳洲女子职业足球联赛 - 坎培拉联 对 墨尔本胜利 (上午10:55)
 澳视澳门
 澳门体育
 澳门卫星
