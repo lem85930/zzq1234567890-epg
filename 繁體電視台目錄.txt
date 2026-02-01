@@ -13,6 +13,9 @@ ANC
 ANIMAX
 ANTV
 ARIRANG阿里郎頻道
+ASEAN Para Games CH01
+ASEAN Para Games CH02
+ASEAN Para Games CH03
 ASMR行車紀錄
 AXN
 AXN HD
@@ -199,6 +202,7 @@ DW (English)香港
 DW English
 DW德國之聲
 Da Vinc香港
+Deal or No Deal
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -255,6 +259,7 @@ FRANCE24E HD
 FRANCE24F
 Fashion TV HD
 FashionBox
+Fear Factor
 Fight Sports
 Focus探索新知臺
 Focus風采戲劇臺
@@ -442,6 +447,7 @@ MUCH TV
 MUTV
 MY FM
 MagellanTV頻道 (麥哲倫頻道)
+MasterChef
 Medici-arts HD
 Metro TV
 Mezzo Live
@@ -1373,7 +1379,6 @@ zeethirai
 新聞大白話
 新聞綜合
 新聞觀測站
-新視覺
 旅遊頻道香港
 早餐中國
 明珠臺 (免費)
@@ -1475,10 +1480,8 @@ zeethirai
 汕頭新聞綜合
 汕頭經濟
 汕頭經濟生活
-江蘇優漫卡通頻道
 江蘇公共新聞頻道
 江蘇國際
-江蘇國際頻道
 江蘇城市頻道
 江蘇影視頻道
 江蘇教育
@@ -1553,17 +1556,10 @@ zeethirai
 深圳衛視
 深圳衛視國際頻道 (免費)
 深圳衛視香港
-深圳財經
 深圳都市
 深圳電視劇
 深圳體育
 深圳龍崗
-深視少兒頻道
-深視移動電視頻道
-深視財經生活頻道
-深視都市頻道
-深視電視劇頻道
-深視體育健康頻道
 清遠新聞綜合
 測試頻道
 湖北教育
@@ -1597,7 +1593,6 @@ zeethirai
 潘多拉粉紅臺
 潮州民生
 潮州綜合
-澳洲女子職業足球聯賽 - 坎培拉聯 對 墨爾本勝利 (上午10:55)
 澳視澳門
 澳門綜藝
 澳門葡萄牙
@@ -1648,21 +1643,13 @@ zeethirai
 福州生活
 福建公共
 福建少兒
-福建少兒頻道
 福建新聞
 福建旅遊
-福建旅遊頻道
 福建海峽衛視國際頻道 (免費)
 福建經濟
-福建經濟頻道
 福建綜合
-福建綜合頻道
-福建鄉村振興·公共
 福建電視劇
-福建電視劇頻道
-福建電視臺新聞頻道
 福建體育
-福建體育頻道
 私藏浪漫
 秦皇島新聞綜合
 秦皇島民生

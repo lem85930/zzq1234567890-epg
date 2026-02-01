@@ -13,6 +13,9 @@ ANC
 ANIMAX
 ANTV
 ARIRANG阿里郎频道
+ASEAN Para Games CH01
+ASEAN Para Games CH02
+ASEAN Para Games CH03
 ASMR行车纪录
 AXN
 AXN HD
@@ -199,6 +202,7 @@ DW (English)香港
 DW English
 DW德国之声
 Da Vinc香港
+Deal or No Deal
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -255,6 +259,7 @@ FRANCE24E HD
 FRANCE24F
 Fashion TV HD
 FashionBox
+Fear Factor
 Fight Sports
 Focus探索新知台
 Focus风采戏剧台
@@ -442,6 +447,7 @@ MUCH TV
 MUTV
 MY FM
 MagellanTV频道 (麦哲伦频道)
+MasterChef
 Medici-arts HD
 Metro TV
 Mezzo Live
@@ -1460,7 +1466,6 @@ zeethirai
 新疆维语新闻
 新疆维语综艺
 新疆综艺
-新视觉
 新闻大白话
 新闻综合
 新闻观测站
@@ -1532,12 +1537,10 @@ zeethirai
 汕头经济
 汕头经济生活
 汕尾新闻综合
-江苏优漫卡通频道
 江苏体育休闲频道
 江苏公共新闻频道
 江苏卫视
 江苏国际
-江苏国际频道
 江苏城市频道
 江苏影视频道
 江苏教育
@@ -1616,15 +1619,8 @@ zeethirai
 深圳宝安
 深圳少儿
 深圳电视剧
-深圳财经
 深圳都市
 深圳龙岗
-深视体育健康频道
-深视少儿频道
-深视电视剧频道
-深视移动电视频道
-深视财经生活频道
-深视都市频道
 清远新闻综合
 温州新闻
 游戏风云
@@ -1655,7 +1651,6 @@ zeethirai
 潘多拉粉红台
 潮州民生
 潮州综合
-澳洲女子职业足球联赛 - 坎培拉联 对 墨尔本胜利 (上午10:55)
 澳视澳门
 澳门体育
 澳门卫星
@@ -1716,23 +1711,15 @@ zeethirai
 福州新闻
 福州新闻综合
 福州生活
-福建乡村振兴·公共
 福建体育
-福建体育频道
 福建公共
 福建少儿
-福建少儿频道
 福建新闻
 福建旅游
-福建旅游频道
 福建海峡卫视国际频道 (免费)
 福建电视剧
-福建电视剧频道
-福建电视台新闻频道
 福建经济
-福建经济频道
 福建综合
-福建综合频道
 离开A级队伍的我，和从前的弟子往迷宫深处迈进
 私藏浪漫
 秘境不思溢
