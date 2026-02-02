@@ -116,8 +116,6 @@ CCCTV4
 CCM
 CCTV-1香港
 CCTV-4
-CCTV-4 (欧洲)
-CCTV-4 (美洲)
 CCTV-4欧洲频道
 CCTV-4美洲频道
 CCTV-4香港
@@ -561,6 +559,7 @@ ROCK Entertainment
 ROCK Entertainment HD新加坡
 ROCK Entertainment香港
 ROCK Extreme
+ROCK X Stream
 ROCKAction
 ROCKEntertainment
 ROCKExtreme
@@ -1004,7 +1003,6 @@ zeethirai
 中国电影频道
 中国电影频道CCMC
 中国美食大探索
-中声-陪你睇直播
 中天亚洲台
 中天亚洲台新加坡
 中天亚洲精采台
@@ -1842,6 +1840,7 @@ zeethirai
 队长小翼(中文版)
 阳江-1
 阳江-2
+阿根廷甲组足球联赛 - 小保加 对 纽维尔旧生 (早上6:10)
 陕西乐家购物
 陕西体育休闲
 陕西体育休闲频道

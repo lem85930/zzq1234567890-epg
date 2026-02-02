@@ -116,8 +116,6 @@ CCCTV4
 CCM
 CCTV-1香港
 CCTV-4
-CCTV-4 (歐洲)
-CCTV-4 (美洲)
 CCTV-4歐洲頻道
 CCTV-4美洲頻道
 CCTV-4香港
@@ -561,6 +559,7 @@ ROCK Entertainment
 ROCK Entertainment HD新加坡
 ROCK Entertainment香港
 ROCK Extreme
+ROCK X Stream
 ROCKAction
 ROCKEntertainment
 ROCKExtreme
@@ -979,7 +978,6 @@ zeethirai
 中央電視臺綜合頻道 (港澳版) (免費)
 中學生
 中山綜合
-中聲-陪你睇直播
 中臺灣生活網頻道
 中華一番(中文版)
 中華電視臺
@@ -1812,6 +1810,7 @@ zeethirai
 長安十二時辰
 長樂曲
 關於我轉生變成史萊姆這檔事(國)
+阿根廷甲組足球聯賽 - 小保加 對 紐維爾舊生 (早上6:10)
 陝西新聞資訊
 陝西新聞資訊頻道
 陝西樂家購物
