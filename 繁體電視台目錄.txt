@@ -259,6 +259,7 @@ FRANCE24E HD
 FRANCE24F
 Fashion TV HD
 FashionBox
+FashionTV 時尚頻道
 Fear Factor
 Fight Sports
 Focus探索新知臺
@@ -282,7 +283,6 @@ GOLD
 GOXUAN
 GTV
 GTV HD
-GagaOOLala 精選LGBTQ+好劇
 Galaxy
 Galaxy Premium
 GinxTV電競頻道
@@ -561,6 +561,7 @@ ROCK Entertainment HD新加坡
 ROCK Entertainment香港
 ROCK Extreme
 ROCK X Stream
+ROCK Xstream搖滾極限頻道
 ROCKAction
 ROCKEntertainment
 ROCKExtreme
@@ -720,7 +721,6 @@ WTO姐妹會
 Warner TV
 Warner TV HD
 WarnerTV
-Wa暖呢人TV
 Wild Stuff (免費)
 Yes娛樂
 Z Cinema HD
@@ -939,6 +939,7 @@ zeethirai
 三沙衛視
 三沙衛視香港
 三立iNEWS
+三立國際臺
 三立戲劇臺HD
 三立新聞iNEWS
 三立新聞臺
