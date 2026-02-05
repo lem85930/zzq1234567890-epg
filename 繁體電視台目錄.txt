@@ -334,6 +334,10 @@ HOY劇集臺
 HOY怪談臺
 HOY生活臺
 HOY體育臺
+HamiWBC1臺
+HamiWBC2臺
+HamiWBC3臺
+HamiWBC4臺
 Hami體育1臺
 Hami體育1臺(免費)
 Hami體育2臺
