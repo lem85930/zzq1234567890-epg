@@ -1,6 +1,9 @@
+007情报员-FastTV飞速看
 11点热吵店
+11点热吵店-FastTV飞速看
 1905App 热血·影院
 1905App 环球经典
+2025双北世壮运-FastTV飞速看
 8TV
 8tv
 ABC Australia
@@ -227,6 +230,7 @@ DreamWorks 频道香港
 Dreamworks
 Dreamworks HD
 Dubai One
+Duck TV儿童卡通-FastTV飞速看
 EBS CHILD
 EBS EDUCATION
 EBS PLUS1
@@ -252,6 +256,7 @@ Eurosoprt HD
 Eurosport
 FIFA+
 FOOD TRAVEL
+FOOD超人-FastTV飞速看
 FOX News
 FOX 新闻台
 FRANCE24 英文台
@@ -283,6 +288,7 @@ GOLD
 GOXUAN
 GTV
 GTV HD
+GagaOOLala 精选LGBTQ+好剧
 Galaxy
 Galaxy Premium
 GinxTV电竞频道
@@ -291,6 +297,7 @@ Global Trekker HD
 Global Trekker探索世界频道
 GlobalTrekker
 Globetrotter (免费)
+GoGoTaiwan-FastTV飞速看
 Golden 强片台
 Golden影迷台
 HAPPY
@@ -334,6 +341,7 @@ HOY体育台
 HOY剧集台
 HOY怪谈台
 HOY生活台
+HahaTai 哈哈台-FastTV飞速看
 HamiWBC1台
 HamiWBC2台
 HamiWBC3台
@@ -440,6 +448,7 @@ MNCTV
 MNCTV HD
 MOMO1台
 MOMO亲子台
+MOMO亲子精选-FastTV飞速看
 MOMO综合台
 MOVIE MOVIE
 MTV
@@ -568,8 +577,8 @@ ROCK X Stream
 ROCK Xstream摇滚极限频道
 ROCKAction
 ROCKEntertainment
-ROCKExtreme
-ROCKExtreme(免费)
+ROCKXStream
+ROCKXStream(免费)
 ROCK综艺娱乐
 RT香港
 Rialto Classic Movies (RCM) (免费)
@@ -680,11 +689,14 @@ TVBS
 TVBS Asia HD
 TVBS 新闻台
 TVBS亚洲新加坡
+TVBS台剧台
 TVBS新闻
 TVBS新闻台
 TVBS欢乐台
+TVBS看板人物-FastTV飞速看
 TVBS精采台
 TVBS精采台HD
+TVBS综艺台
 TVBS食尚玩家
 TVB功夫台
 TVB新闻新加坡
@@ -722,6 +734,7 @@ Viu 频道
 ViuTV
 W-Sport
 WTO姐妹会
+WTO姐妹会-FastTV飞速看
 Warner TV
 Warner TV HD
 WarnerTV
@@ -936,8 +949,10 @@ zeecinemahd
 zeetamilhd
 zeethirai
 一字千金
+一字千金-FastTV飞速看
 一把青
 一步一脚印 发现新台湾
+一起追韩星-FastTV飞速看
 三十而已
 三国
 三圣电视台
@@ -960,6 +975,7 @@ zeethirai
 上视东方影视
 世界卫星电视台
 世界第一等
+世间路-FastTV飞速看
 东南卫视
 东方卫视
 东方卫视国际版
@@ -991,6 +1007,7 @@ zeethirai
 东森购物二台
 东森购物四台
 东森超视
+东离剑游纪-FastTV飞速看
 东莞新闻综合
 东风卫视
 东风卫视台
@@ -1000,6 +1017,7 @@ zeethirai
 中国中央电视台中文国际频道 (免费)
 中国中央电视台娱乐频道 (免费)
 中国中央电视台戏曲频道 (免费)
+中国传奇故事-FastTV飞速看
 中国农林卫视
 中国教育-2
 中国教育-4
@@ -1059,10 +1077,14 @@ zeethirai
 亚洲综合HD
 亚洲美食台香港
 亚洲美食频道
+亲子一起看-FastTV飞速看
+亲戚不计较(特辑)-FastTV飞速看
 人气动漫预告
 人间卫视
 人间卫视HD
 以家人之名
+以家人之名-FastTV飞速看
+以爱为营-FastTV飞速看
 优漫卡通频道
 佛卫慈悲台
 佛卫电视慈悲台
@@ -1079,11 +1101,15 @@ zeethirai
 倚天屠龙记 2019
 倪珍播新闻
 健康2.0
+健康2.0-FastTV飞速看
 健康问良医
+免费精选动画-FastTV飞速看
 全大电视台
+全家有智慧-FastTV飞速看
 全民星攻略
 全民星攻略 知识开箱
 全球财经网频道
+全能歌手-FastTV飞速看
 八大优频道
 八大娱乐台
 八大戏剧台
@@ -1098,6 +1124,7 @@ zeethirai
 公视儿少台HD
 公视台语台
 公视台语台HD
+公视好剧-FastTV飞速看
 公视戏剧
 公视金奖台
 关于我转生变成史莱姆这档事(国)
@@ -1121,12 +1148,15 @@ zeethirai
 凤囚凰
 刀剑神域(中文版)
 创世电视 (免费)
+别打扰我种田-FastTV飞速看
+加油喜事-FastTV飞速看
 劣人传之诡计
 动漫秀场
 动物星球频道
 动物星球频道香港
 劲爆体育
 包青天 1993版
+包青天-FastTV飞速看
 北京卫视
 北京影视
 北京文艺
@@ -1136,6 +1166,7 @@ zeethirai
 北京科教
 北京财经
 北京青年
+医学大联盟-FastTV飞速看
 医师好辣
 十方法界电视台
 千禧经典台
@@ -1154,6 +1185,7 @@ zeethirai
 华视
 华视HD
 华视主频
+华视好剧-FastTV飞速看
 华视教育体育文化台
 华视新闻
 华视新闻资讯HD
@@ -1207,11 +1239,16 @@ zeethirai
 厦门新闻
 厦门生活
 厦门纪实
+厨神明星秀-FastTV飞速看
 去有风的地方
+去有风的地方-FastTV飞速看
 双子卫视
 古典音乐台
 古典音乐台HD
+古装武侠剧-FastTV飞速看
 台湾1001个故事
+台湾No.1棒球精选-FastTV飞速看
+台湾传奇-FastTV飞速看
 台湾向前行
 台湾启示录
 台湾壹百种味道
@@ -1219,6 +1256,7 @@ zeethirai
 台湾戏剧台
 台湾最前线
 台湾灵异事件
+台湾灵异事件-FastTV飞速看
 台湾电视台
 台湾真善美
 台湾第一等
@@ -1234,15 +1272,18 @@ zeethirai
 台视财经HD
 台视财经台
 史上最强弟子兼一(中文版)
+叶青歌仔戏-FastTV飞速看
 合肥影院
 合肥新闻
 合肥法制
 合肥生活
 合肥财经
 吉林卫视
+同学！搞什么鬼-FastTV飞速看
 向风而行
 周星驰台
 咪咕体育
+哆啦A梦-FastTV飞速看
 哆啦Ａ梦台
 哈哈炫动
 哈尔滨娱乐
@@ -1273,6 +1314,7 @@ zeethirai
 国会频道2HD
 国会频道2台
 国兴卫视
+国外电影精选-FastTV飞速看
 国学时代界
 国学频道
 国民大会
@@ -1287,6 +1329,8 @@ zeethirai
 壹电视综合 HD
 壹电视资讯台
 夏目友人帐
+多情城市-FastTV飞速看
+大兵日记-FastTV飞速看
 大台中生活频道台
 大新闻大爆卦
 大湾区卫视
@@ -1296,9 +1340,11 @@ zeethirai
 大爱电视
 大爱电视HD
 大爱电视台
+大爱精选-FastTV飞速看
 大立电视台
 大立电视台 HD
 天才冲冲冲
+天才冲冲冲-FastTV飞速看
 天映经典印尼
 天映经典台新加坡
 天映经典新加坡
@@ -1316,6 +1362,9 @@ zeethirai
 天良综合台 HD
 奥林匹克官网直播
 女人我最大
+女人我最大-FastTV飞速看
+女力报到-FastTV飞速看
+女力故事馆-FastTV飞速看
 好搭档
 好消息
 好消息2台
@@ -1325,11 +1374,14 @@ zeethirai
 好消息卫星电视台
 好消息频道
 好莱坞电影台
+姊妹亮起来-FastTV飞速看
 威廉沈欢乐送
+威廉沈欢乐送-FastTV飞速看
 威达超舜生活台
 娄底综合
 娱乐新闻
 娱乐新闻台 (免费)
+娱乐百分百-FastTV飞速看
 宁夏公共
 宁夏卫视
 宁夏家庭影院
@@ -1343,6 +1395,7 @@ zeethirai
 宜兴新闻综合
 宝岛文化
 宠物频道
+客家好剧-FastTV飞速看
 客家电视HD
 客家电视台
 家庭理财
@@ -1374,8 +1427,10 @@ zeethirai
 山东齐鲁
 山西卫视
 峨嵋电影
+市井豪门-FastTV飞速看
 年代MUCH TV
 年代新闻
+幸福保卫战-FastTV飞速看
 幸福空间居家台
 广东体育
 广东卫视
@@ -1426,7 +1481,10 @@ zeethirai
 德国之声
 忍者乱太郎(中文版)
 快乐垂钓
+怀旧经典电影-FastTV飞速看
+怪兽之王-FastTV飞速看
 怪医黑杰克TV(中文版)
+恐怖电影-FastTV飞速看
 惊艳成人
 惊艳成人电影台
 惠州综合
@@ -1440,6 +1498,7 @@ zeethirai
 我们这一家
 我的婆婆怎么那么可爱
 我的差评女友
+我的成长-FastTV飞速看
 户外频道香港
 承德新闻综合
 承德旅游文化
@@ -1454,6 +1513,8 @@ zeethirai
 数码时代
 文茜的世界周报
 文茜的世界财经周报
+斗阵大庙埕-FastTV飞速看
+新兵日记-FastTV飞速看
 新哆啦A梦(中文版)
 新哆啦A梦(中文版)2台
 新唐人亚太台
@@ -1481,6 +1542,8 @@ zeethirai
 无职转生，到了异世界就拿出真本事
 无锡新闻
 无锡都市
+日剧一丁目-FastTV飞速看
+日韩电影大赏-FastTV飞速看
 早餐中国
 时尚运动X
 明珠台 (免费)
@@ -1490,11 +1553,13 @@ zeethirai
 智林体育台
 智林体育台有线
 曼迪日本台HD
+最爱韩星-FastTV飞速看
 月升之江
 月嫂先生
 月曜1起玩
 有你的时光里
 木曜4超玩 一日系列
+机智校园生活-FastTV飞速看
 村里来了个暴走女外科
 杭州HTV1
 杭州HTV2
@@ -1523,8 +1588,10 @@ zeethirai
 正德电视台HD
 步步惊心
 武媚娘传奇
+武媚娘传奇-FastTV飞速看
 民视
 民视HD
+民视健康美丽生活-FastTV飞速看
 民视台湾台
 民视台湾台HD
 民视异言堂
@@ -1605,6 +1672,7 @@ zeethirai
 浙江科教
 浙江经济
 浙江钱江都市
+浩克慢游-FastTV飞速看
 海南公共
 海南卫视
 海南少儿
@@ -1676,13 +1744,16 @@ zeethirai
 爱尔达生活旅游台
 爱尔达综合台
 爱尔达综合台HD
+爸妈囧很大-FastTV飞速看
 狂人日志
 猎人(中文版)
 猪哥亮歌厅秀
+猪哥会社-FastTV飞速看
 猪哥壹级棒
 玩家频道
 环宇新闻台湾台
 环宇财经
+环游世界800天 -FastTV飞速看
 珠海
 球王台
 球迷台
@@ -1736,7 +1807,9 @@ zeethirai
 第一财经
 第一财经直播
 粤语片台
+精彩陆剧-FastTV飞速看
 精选动漫台
+精选华语电影-FastTV飞速看
 紫金国际台
 红豆2台
 红豆电视台
@@ -1749,9 +1822,14 @@ zeethirai
 纬来育乐台
 纾压雷雨声
 经典剧场
+经典卡通-FastTV飞速看
 经典卡通台
 经典电影台
+经典迪士尼-FastTV飞速看
+综艺大赢家-FastTV飞速看
 综艺大集合
+综艺大集合-FastTV飞速看
+综艺新时代-FastTV飞速看
 罪案 + 侦缉香港
 罪案侦查频道
 罪案侦缉频道
@@ -1773,6 +1851,7 @@ zeethirai
 肇庆生活服务
 胆大党
 脖子解说 Mr. Neck
+花千骨-FastTV飞速看
 苏州新闻
 苏州新闻综合
 苏州生活
@@ -1786,6 +1865,7 @@ zeethirai
 茶频道
 落花时节又逢君
 葬送的芙莉莲
+蓝色水玲珑-FastTV飞速看
 虽然等级只有1级但固有技能是最强的
 蜡笔小新(中文版)
 衡水新闻综合
@@ -1805,10 +1885,14 @@ zeethirai
 贵州影视
 贵州生活
 贵州科教
+超人力霸王《TV版》FastTV飞速看
+超人力霸王《剧场版》FastTV飞速看
 超人力霸王台
+超级冰冰Show-FastTV飞速看
 超视
 车迷TV
 车迷TV HD
+轻松看法律-FastTV飞速看
 辽宁卫视
 达文西频道
 达文西频道HD
@@ -1834,7 +1918,9 @@ zeethirai
 重庆生活资讯
 重庆科教
 重温经典频道
+野蛮游戏：We Play -FastTV飞速看
 金光布袋戏
+金光布袋戏-FastTV飞速看
 金色学堂
 金鹰卡通
 钢之炼金术师
@@ -1899,8 +1985,11 @@ zeethirai
 韩国娱乐台 KMTV
 韩国娱乐台KMTV HD
 韩国阿里郎
+韩流美食料理秀-FastTV飞速看
 韶关新闻综合
 韶华若锦
+飞龙在天-FastTV飞速看
+食尚玩家-FastTV飞速看
 饕客揪爱吃
 香山文化
 香港卫视
@@ -1920,6 +2009,7 @@ zeethirai
 麦哲伦频道 HD
 麻醉风暴
 黄金华剧台
+黄金岁月-FastTV飞速看
 黄金翡翠台 (免费)
 黑龙江卫视
 黑龙江法制
