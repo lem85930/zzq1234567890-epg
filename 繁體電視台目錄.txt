@@ -334,7 +334,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -407,6 +406,7 @@ KLT-靖天國際臺
 KLT-靖天國際臺HD
 KTV
 KTV HD
+KUDADA
 Kalaignar TV
 Karisma
 Kartoon Channel!
@@ -860,12 +860,6 @@ iNews
 iNews HD
 iQIYI HD
 inspirasi
-kix亞洲
-kix印尼
-kix新加坡
-kix菲律賓
-kix非洲
-kix香港
 kplus
 lifetime娛樂頻道有線
 lovenaturehd
@@ -917,11 +911,6 @@ sportstars 3 HD
 spot on news
 spotv
 spotv2
-thrill印尼
-thrill新加坡
-thrill菲律賓
-thrill香港
-thrill馬來西亞
 trace sport star運動明星
 tv1
 tv2
@@ -1656,7 +1645,6 @@ zeethirai
 潘多拉粉紅臺
 潮州民生
 潮州綜合
-澳洲女子職業足球聯賽 - 西悉尼流浪者 對 阿德萊德聯 (下午3:55)
 澳視澳門
 澳門綜藝
 澳門葡萄牙
