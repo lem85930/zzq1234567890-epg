@@ -456,7 +456,7 @@ MTV Live音樂頻道
 MTV綜合臺HD
 MTV綜合電視臺
 MUCH TV
-MUTV
+MUTV香港
 MY FM
 MagellanTV頻道 (麥哲倫頻道)
 MasterChef
@@ -473,7 +473,7 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
-NBA
+NBA香港
 NHK
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
@@ -604,7 +604,8 @@ SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
-SPOTV2
+SPOTV2香港
+SPOTV香港
 SPY X FAMILY 間諜家家酒
 SPY X FAMILY 間諜家家酒(中文版)
 STAR PLUS
@@ -764,12 +765,17 @@ bbclifestylehd
 bbcworldnewshd
 bb快報
 beIN SPORTS 1
+beIN SPORTS 1香港
 beIN SPORTS 2
+beIN SPORTS 2香港
 beIN SPORTS 3
+beIN SPORTS 3香港
 beIN SPORTS 4
+beIN SPORTS 4香港
 beIN SPORTS 5
-beIN SPORTS 6
-beIN SPORTS RUGBY
+beIN SPORTS 5香港
+beIN SPORTS 6香港
+beIN SPORTS RUGBY香港
 beIN Sports 1
 beIN Sports 1 HD
 beIN Sports 2
