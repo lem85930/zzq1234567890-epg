@@ -484,12 +484,8 @@ NHK 日本国家电视台
 NHK新闻资讯台
 NHK新闻资讯台HD
 NOW 70s
-NOW 70s (免费)
 NOW 80s
-NOW 80s (免费)
-NOW 90s00s (免费)
 NOW ROCK
-NOW ROCK (免费)
 NTV7
 Netflix香港
 NewsWorld (免费)
@@ -923,6 +919,10 @@ sportstars 3 HD
 spot on news
 spotv
 spotv2
+that's 70s (免费)
+that's 80s (免费)
+that's 90s00s (免费)
+that's Rock (免费)
 trace sport star运动明星
 tv1
 tv2
