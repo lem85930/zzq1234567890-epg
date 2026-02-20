@@ -11,7 +11,6 @@
 4105
 4106
 4107
-5006
 5118
 5204
 5228
@@ -708,7 +707,6 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
-Suria
 TBC台中生活台
 TFC
 TG Junior
