@@ -14,23 +14,15 @@
 5006
 5118
 5155
-5172
 5204
 5228
 5252
-5258
 5511
 5512
 5534
 5535
 5536
 5555
-5602
-5608
-5622
-5624
-6114
-6115
 6116
 6123
 8TV
@@ -85,6 +77,7 @@ Astro Aura
 Astro Awani
 Astro Awani HD
 Astro Badminton
+Astro Badminton 2
 Astro Boo
 Astro Ceria
 Astro Citra
@@ -97,6 +90,7 @@ Astro Oasis
 Astro Premier League
 Astro Premier League 2
 Astro Premier League 3
+Astro Premier League 4
 Astro Prima
 Astro QJ
 Astro Rania
