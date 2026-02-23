@@ -13,23 +13,15 @@
 5006
 5118
 5155
-5172
 5204
 5228
 5252
-5258
 5511
 5512
 5534
 5535
 5536
 5555
-5602
-5608
-5622
-5624
-6114
-6115
 6116
 6123
 8TV
@@ -98,6 +90,7 @@ Astro Premier League
 Astro Premier League 2
 Astro Premier League 3
 Astro Premier League 4
+Astro Premier League 5
 Astro Prima
 Astro QJ
 Astro Rania
@@ -139,7 +132,6 @@ BUDDY STARS HD
 Bernama TV
 Blippi & Friends
 Bloomberg
-Bloomberg TV
 Bloomberg TV HD
 Bloomberg Television
 Bloomberg Television香港
@@ -168,7 +160,6 @@ CGTN (中国环球电视网)记录频道 (免费)
 CGTN Documentary
 CGTN HD
 CHC 家庭影院
-CI 罪案侦查频道
 CINEEDGE
 CINEEDGE HD
 CINEMAX
@@ -177,7 +168,6 @@ CINEMAX有线
 CINEMAX香港
 CI罪案侦查频道有线
 CLASSIC ROCK
-CLASSICA 古典乐
 CMC 北美频道
 CMC 香港频道
 CMusic
@@ -186,7 +176,6 @@ CNA HD
 CNBC
 CNBC Asia
 CNBC Asia HD
-CNBC Asia 财经台
 CNBC HD
 CNBC香港
 CNEX纪实频道
@@ -245,7 +234,6 @@ DREAMWORKS
 DW
 DW (English)香港
 DW English
-DW德国之声
 Da Vinc香港
 Deal or No Deal
 DiSCOVERY
@@ -272,7 +260,6 @@ Dragon TV
 DramaFirst
 DreamWorks
 DreamWorks HD
-DreamWorks 梦工厂动画
 Dreamworks
 Dreamworks HD
 Dubai One
@@ -329,7 +316,6 @@ France 24香港
 France24
 Freeman @台湾
 Fun探索娱乐台 4K
-GINX Esports TV
 GLOBLTREKKER探索世界
 GMA
 GMA Life T
@@ -386,11 +372,9 @@ HITS Movies
 HITS NOW
 HITS有线
 HITS电影台
-HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -411,7 +395,6 @@ Hanacaraka TV
 Hi TV
 History
 History HD
-History 历史频道
 History 历史频道有线
 Hub Premier 1
 Hub Premier 10
@@ -487,7 +470,6 @@ Lifeime
 Lifetime
 Lifetime HD
 Lifetime HD新加坡
-Lifetime 娱乐频道
 Lifetime香港
 LiveABC互动英语频道
 Love Nature
@@ -558,7 +540,6 @@ Nick Jr
 Nick Jr.
 Nick Jr. HD
 Nick Jr. HD新加坡
-Nick Jr. 儿童频道
 Nick Jr.(小尼克)
 Nick Jr.香港
 NickJr.
@@ -614,7 +595,6 @@ PETCLUBTV
 Panda TV
 Pandora潘朵啦高画质玩美台
 Pandora潘朵啦高画质粉红台
-Pet Club TV
 Pet Club TV (免费)
 Phoenix Chinese Channel HD
 Phoenix Info News HD
@@ -733,7 +713,6 @@ TLC旅游生活频道香港
 TRACE Sport Stars
 TRACE Sport Stars (免费)
 TRACE Sport Stars HD
-TRACE Urban
 TRACE Urban (免费)
 TRACE Urban HD
 TRACESportStars
@@ -931,7 +910,6 @@ elta日韩
 era news 年代新闻
 euronews
 euronews香港
-fun探索娱乐台
 hbofamily
 hbohd
 hbohits
@@ -1190,6 +1168,9 @@ zeethirai
 佛山综合
 佛山顺德
 俗女养成记
+保定公共频道
+保定新闻综合
+保定生活健康
 信吉电视台
 信吉艺文台HD
 信大电视台
@@ -1388,6 +1369,10 @@ zeethirai
 哈尔滨影视
 哈尔滨综合
 哈尔滨资讯
+唐山公共
+唐山影视
+唐山新闻综合
+唐山生活服务
 唯心电视HD
 唯心电视台
 啦啦队独家专访
@@ -1551,6 +1536,10 @@ zeethirai
 广西新闻频道
 广西综艺旅游频道
 广西都市频道
+廊坊公共
+廊坊新闻
+张家口公共
+张家口新闻综合
 张家界新闻
 张家界都市
 彩虹E台
@@ -1591,6 +1580,8 @@ zeethirai
 我的差评女友
 我的成长-FastTV飞速看
 户外频道香港
+承德新闻综合
+承德旅游文化
 拥有超常技能的异世界流浪美食家
 掏掏新闻
 揭阳生活
@@ -1719,11 +1710,15 @@ zeethirai
 江西都市
 江门综合
 江阴新闻综合
+沧州公共
+沧州影视娱乐
+沧州新闻综合
 河北公共
 河北农民
 河北卫视
 河北少儿科教
 河北影视剧
+河北杂技频道
 河北经济
 河北都市
 河南乡村
@@ -1861,10 +1856,13 @@ zeethirai
 看看新闻直播
 真情SUPER煲 (免费)
 睛彩广场舞
+睛彩河北
 睛彩竞技
 睛彩篮球
 睛彩青少
 短剧马拉松
+石家庄文化娱乐
+石家庄新闻综合
 社会NOW什么
 福州少儿
 福州影视
@@ -1883,6 +1881,8 @@ zeethirai
 离开A级队伍的我，和从前的弟子往迷宫深处迈进
 私藏浪漫
 秘境不思溢
+秦皇岛新闻综合
+秦皇岛民生
 空中英语教室
 空中英语教室HD频道
 第1商业台
@@ -1957,10 +1957,11 @@ zeethirai
 蓝色水玲珑-FastTV飞速看
 虽然等级只有1级但固有技能是最强的
 蜡笔小新(中文版)
+衡水新闻综合
+衡水经济科教
 西藏卫视
 观众票选-追剧马拉松 (免费)
 视纳华仁纪实台HD
-视纳华仁纪实频道
 詹姆士出走料理
 诚心电视台
 请叫我总监
@@ -1987,6 +1988,11 @@ zeethirai
 运通财经综合台
 进击的台湾
 连云港新闻综合
+邢台城市生活
+邢台综合
+邯郸公共
+邯郸新闻综合
+邯郸科技教育
 都会台
 都市剧场
 都市频道
