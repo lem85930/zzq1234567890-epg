@@ -98,7 +98,6 @@ Astro Ria
 Astro Sensasi HD
 Astro Showcase
 Astro Sports Plus
-Astro Sports Plus 2
 Astro Sports UHD 805
 Astro Thangathirai
 Astro Tutor TV
@@ -132,6 +131,7 @@ BUDDY STARS HD
 Bernama TV
 Blippi & Friends
 Bloomberg
+Bloomberg TV
 Bloomberg TV HD
 Bloomberg Television
 Bloomberg Television香港
@@ -160,6 +160,7 @@ CGTN (中国环球电视网)记录频道 (免费)
 CGTN Documentary
 CGTN HD
 CHC 家庭影院
+CI 罪案侦查频道
 CINEEDGE
 CINEEDGE HD
 CINEMAX
@@ -168,6 +169,7 @@ CINEMAX有线
 CINEMAX香港
 CI罪案侦查频道有线
 CLASSIC ROCK
+CLASSICA 古典乐
 CMC 北美频道
 CMC 香港频道
 CMusic
@@ -176,6 +178,7 @@ CNA HD
 CNBC
 CNBC Asia
 CNBC Asia HD
+CNBC Asia 财经台
 CNBC HD
 CNBC香港
 CNEX纪实频道
@@ -234,6 +237,7 @@ DREAMWORKS
 DW
 DW (English)香港
 DW English
+DW德国之声
 Da Vinc香港
 Deal or No Deal
 DiSCOVERY
@@ -260,6 +264,7 @@ Dragon TV
 DramaFirst
 DreamWorks
 DreamWorks HD
+DreamWorks 梦工厂动画
 Dreamworks
 Dreamworks HD
 Dubai One
@@ -316,6 +321,7 @@ France 24香港
 France24
 Freeman @台湾
 Fun探索娱乐台 4K
+GINX Esports TV
 GLOBLTREKKER探索世界
 GMA
 GMA Life T
@@ -372,9 +378,11 @@ HITS Movies
 HITS NOW
 HITS有线
 HITS电影台
+HITS频道
 HITZ FM
 HOT
 HOT频道
+HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -395,6 +403,7 @@ Hanacaraka TV
 Hi TV
 History
 History HD
+History 历史频道
 History 历史频道有线
 Hub Premier 1
 Hub Premier 10
@@ -470,6 +479,7 @@ Lifeime
 Lifetime
 Lifetime HD
 Lifetime HD新加坡
+Lifetime 娱乐频道
 Lifetime香港
 LiveABC互动英语频道
 Love Nature
@@ -540,6 +550,7 @@ Nick Jr
 Nick Jr.
 Nick Jr. HD
 Nick Jr. HD新加坡
+Nick Jr. 儿童频道
 Nick Jr.(小尼克)
 Nick Jr.香港
 NickJr.
@@ -595,6 +606,7 @@ PETCLUBTV
 Panda TV
 Pandora潘朵啦高画质玩美台
 Pandora潘朵啦高画质粉红台
+Pet Club TV
 Pet Club TV (免费)
 Phoenix Chinese Channel HD
 Phoenix Info News HD
@@ -713,6 +725,7 @@ TLC旅游生活频道香港
 TRACE Sport Stars
 TRACE Sport Stars (免费)
 TRACE Sport Stars HD
+TRACE Urban
 TRACE Urban (免费)
 TRACE Urban HD
 TRACESportStars
@@ -910,6 +923,7 @@ elta日韩
 era news 年代新闻
 euronews
 euronews香港
+fun探索娱乐台
 hbofamily
 hbohd
 hbohits
@@ -1962,6 +1976,7 @@ zeethirai
 西藏卫视
 观众票选-追剧马拉松 (免费)
 视纳华仁纪实台HD
+视纳华仁纪实频道
 詹姆士出走料理
 诚心电视台
 请叫我总监
