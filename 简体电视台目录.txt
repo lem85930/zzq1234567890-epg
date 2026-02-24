@@ -4,13 +4,13 @@
 1905App 热血·影院
 1905App 环球经典
 2025双北世壮运-FastTV飞速看
+2026台湾灯会在嘉义开幕典礼
 4102
 4103
 4104
 4105
 4106
 4107
-5006
 5118
 5155
 5204
@@ -19,8 +19,6 @@
 5511
 5512
 5534
-5535
-5536
 5555
 6116
 6123
@@ -382,7 +380,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -712,7 +709,6 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
-Suria
 TBC台中生活台
 TFC
 TG Junior
