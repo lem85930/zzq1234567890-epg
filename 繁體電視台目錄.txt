@@ -11,6 +11,7 @@
 4105
 4106
 4107
+5006
 5118
 5155
 5204
@@ -19,6 +20,8 @@
 5511
 5512
 5534
+5535
+5536
 5555
 6116
 6123
@@ -380,6 +383,7 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
+HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -709,6 +713,7 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
+Suria
 TBC臺中生活臺
 TFC
 TG Junior
