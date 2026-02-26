@@ -11,16 +11,27 @@
 4105
 4106
 4107
+5006
 5118
 5155
+5172
 5204
 5228
 5252
+5258
+5260
 5511
 5512
 5534
+5535
 5536
 5555
+5602
+5608
+5622
+5624
+6114
+6115
 6116
 6123
 8TV
@@ -292,7 +303,6 @@ Euronews
 Eurosnews
 Eurosoprt HD
 Eurosport
-FIBA世界杯男子篮球亚洲区资格赛 - 中华台北 对 南韩 (下午6:55)
 FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飞速看
@@ -382,7 +392,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -712,6 +721,7 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
+Suria
 TBC台中生活台
 TFC
 TG Junior

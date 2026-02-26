@@ -11,16 +11,27 @@
 4105
 4106
 4107
+5006
 5118
 5155
+5172
 5204
 5228
 5252
+5258
+5260
 5511
 5512
 5534
+5535
 5536
 5555
+5602
+5608
+5622
+5624
+6114
+6115
 6116
 6123
 8TV
@@ -292,7 +303,6 @@ Euronews
 Eurosnews
 Eurosoprt HD
 Eurosport
-FIBA世界盃男子籃球亞洲區資格賽 - 中華臺北 對 南韓 (下午6:55)
 FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飛速看
@@ -382,7 +392,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -712,6 +721,7 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
+Suria
 TBC臺中生活臺
 TFC
 TG Junior
