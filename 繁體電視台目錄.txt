@@ -24,7 +24,6 @@
 5512
 5534
 5535
-5536
 5555
 5602
 5608
@@ -290,7 +289,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英語臺
 ERA FM
-ET Today
 ETtoday綜合臺
 EURONEWS
 EUROSPORT
@@ -304,7 +302,7 @@ Euronews
 Eurosnews
 Eurosoprt HD
 Eurosport
-FIBA世界盃男子籃球亞洲區資格賽 - 菲律賓 對 澳洲 (晚上7:25)
+FIBA世界盃男子籃球歐洲區資格賽 - 德國 對 克羅地亞 (晚上12:55)
 FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飛速看
@@ -394,7 +392,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -830,7 +827,6 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
@@ -1619,7 +1615,6 @@ zeethirai
 法治天地
 法眼黑與白
 泰可愛旋風
-泰國甲組足球聯賽 - 北碧府動力 對 清萊聯 (下午6:55)
 泰州新聞綜合
 浙江國際
 浙江好易購

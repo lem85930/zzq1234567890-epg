@@ -24,7 +24,6 @@
 5512
 5534
 5535
-5536
 5555
 5602
 5608
@@ -290,7 +289,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英语台
 ERA FM
-ET Today
 ETtoday综合台
 EURONEWS
 EUROSPORT
@@ -304,7 +302,7 @@ Euronews
 Eurosnews
 Eurosoprt HD
 Eurosport
-FIBA世界杯男子篮球亚洲区资格赛 - 菲律宾 对 澳洲 (晚上7:25)
+FIBA世界杯男子篮球欧洲区资格赛 - 德国 对 克罗地亚 (晚上12:55)
 FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飞速看
@@ -394,7 +392,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -830,7 +827,6 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
@@ -1678,7 +1674,6 @@ zeethirai
 法治天地
 法眼黑与白
 泰可爱旋风
-泰国甲组足球联赛 - 北碧府动力 对 清莱联 (下午6:55)
 泰州新闻综合
 测试频道
 浙江卫视
