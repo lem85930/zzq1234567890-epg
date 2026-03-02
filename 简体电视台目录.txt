@@ -24,7 +24,6 @@
 5512
 5534
 5535
-5536
 5555
 5602
 5608
@@ -290,7 +289,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英语台
 ERA FM
-ET Today
 ETtoday综合台
 EURONEWS
 EUROSPORT
@@ -828,7 +826,6 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
