@@ -24,6 +24,7 @@
 5512
 5534
 5535
+5536
 5555
 5602
 5608
@@ -289,6 +290,7 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英語臺
 ERA FM
+ET Today
 ETtoday綜合臺
 EURONEWS
 EUROSPORT
@@ -302,7 +304,6 @@ Euronews
 Eurosnews
 Eurosoprt HD
 Eurosport
-FIBA世界盃男子籃球歐洲區資格賽 - 德國 對 克羅地亞 (晚上12:55)
 FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飛速看
@@ -392,6 +393,7 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
+HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -600,7 +602,6 @@ ONE
 ONE (Malay)
 ONE HD
 ONE TV Asia
-OPUS
 ORIGINALS
 ORIGINALS HD
 OSAI
@@ -827,6 +828,7 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
+Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
