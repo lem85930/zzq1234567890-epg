@@ -13,21 +13,17 @@
 4107
 5006
 5118
-5155
 5172
 5204
 5228
 5252
-5258
 5260
 5511
 5512
 5534
 5535
-5555
 5602
 5608
-5622
 5624
 6114
 6115
@@ -302,6 +298,7 @@ Euronews
 Eurosnews
 Eurosoprt HD
 Eurosport
+FIBA世界杯男子篮球欧洲区资格赛 - 土耳其 对 塞尔维亚 (深夜1:55)
 FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飞速看
@@ -391,7 +388,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
