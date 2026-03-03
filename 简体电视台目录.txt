@@ -4,7 +4,7 @@
 1905App 热血·影院
 1905App 环球经典
 2025双北世壮运-FastTV飞速看
-2026台湾灯会在嘉义开幕典礼
+2026台湾灯会在嘉义开灯典礼
 4102
 4103
 4104
@@ -13,22 +13,17 @@
 4107
 5006
 5118
-5155
 5172
 5204
 5228
 5252
-5258
 5260
 5511
 5512
 5534
 5535
-5536
-5555
 5602
 5608
-5622
 5624
 6114
 6115
@@ -290,7 +285,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英语台
 ERA FM
-ET Today
 ETtoday综合台
 EURONEWS
 EUROSPORT
@@ -602,6 +596,7 @@ ONE
 ONE (Malay)
 ONE HD
 ONE TV Asia
+OPUS
 ORIGINALS
 ORIGINALS HD
 OSAI
@@ -828,7 +823,6 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
