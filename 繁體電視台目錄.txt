@@ -4,7 +4,6 @@
 1905App 熱血·影院
 1905App 環球經典
 2025雙北世壯運-FastTV飛速看
-2026臺灣燈會在嘉義開燈典禮
 4102
 4103
 4104
@@ -13,22 +12,17 @@
 4107
 5006
 5118
-5155
 5172
 5204
 5228
 5252
-5258
 5260
 5511
 5512
 5534
 5535
-5536
-5555
 5602
 5608
-5622
 5624
 6114
 6115
@@ -91,6 +85,7 @@ Astro Boo
 Astro Ceria
 Astro Citra
 Astro Cricket
+Astro First HD
 Astro Football
 Astro Golf
 Astro Grandstand
@@ -290,7 +285,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英語臺
 ERA FM
-ET Today
 ETtoday綜合臺
 EURONEWS
 EUROSPORT
@@ -393,7 +387,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -829,7 +822,6 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
@@ -1123,7 +1115,6 @@ zeethirai
 亞洲綜合HD
 亞洲美食臺香港
 亞洲美食頻道
-亞洲聯賽冠軍盃精英聯賽十六強首回合 - FC江原 對 町田澤維亞 (下午5:55)
 亞洲衛視
 人氣動漫預告
 人間衛視

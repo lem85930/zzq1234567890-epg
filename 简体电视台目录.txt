@@ -4,7 +4,6 @@
 1905App 热血·影院
 1905App 环球经典
 2025双北世壮运-FastTV飞速看
-2026台湾灯会在嘉义开灯典礼
 4102
 4103
 4104
@@ -13,22 +12,17 @@
 4107
 5006
 5118
-5155
 5172
 5204
 5228
 5252
-5258
 5260
 5511
 5512
 5534
 5535
-5536
-5555
 5602
 5608
-5622
 5624
 6114
 6115
@@ -91,6 +85,7 @@ Astro Boo
 Astro Ceria
 Astro Citra
 Astro Cricket
+Astro First HD
 Astro Football
 Astro Golf
 Astro Grandstand
@@ -290,7 +285,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英语台
 ERA FM
-ET Today
 ETtoday综合台
 EURONEWS
 EUROSPORT
@@ -393,7 +387,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -829,7 +822,6 @@ Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
 Zhejiang Satellite
@@ -1172,7 +1164,6 @@ zeethirai
 亚洲综合HD
 亚洲美食台香港
 亚洲美食频道
-亚洲联赛冠军杯精英联赛十六强首回合 - FC江原 对 町田泽维亚 (下午5:55)
 亲子一起看-FastTV飞速看
 亲戚不计较(特辑)-FastTV飞速看
 人气动漫预告
