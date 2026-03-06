@@ -98,6 +98,7 @@ Astro Hua Hee Dai
 Astro Oasis
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
 Astro Prima
 Astro QJ
 Astro Rania
@@ -390,7 +391,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
