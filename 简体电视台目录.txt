@@ -14,9 +14,6 @@
 5118
 5155
 5172
-5204
-5228
-5252
 5258
 5260
 5511
@@ -31,7 +28,6 @@
 5624
 6114
 6115
-6116
 6123
 8TV
 8tv
@@ -106,6 +102,7 @@ Astro Sensasi HD
 Astro Showcase
 Astro Showtime
 Astro Sports Plus
+Astro Sports Plus 2
 Astro Sports UHD 805
 Astro Thangathirai
 Astro Tutor TV
@@ -1167,6 +1164,7 @@ zeethirai
 亚洲旅游HD
 亚洲旅游台
 亚洲旅游台有线
+亚洲杯女子足球赛 - 孟加拉 对 乌兹别克 (下午4:55)
 亚洲综合HD
 亚洲美食台香港
 亚洲美食频道
