@@ -913,6 +913,7 @@ channelnewsasia
 cinemalworld世界電影頻道有線
 cinemax
 cmplus新加坡
+daystar
 degup
 didiktv
 dreamworkshd
@@ -972,6 +973,7 @@ momo親子臺(免費)
 moonbugkids
 moov
 myTV SUPER 18臺
+myTV SUPER直播足球1臺
 myTV SUPER直播足球2臺
 myTV SUPER直播足球3臺
 myTV SUPER直播足球4臺
@@ -1657,6 +1659,7 @@ zeethirai
 潘多拉粉紅臺
 潮州民生
 潮州綜合
+澳洲女子職業足球聯賽 - 威靈頓鳳凰 對 布里斯班獅吼 (中午12:55)
 澳視澳門
 澳門綜藝
 澳門葡萄牙
