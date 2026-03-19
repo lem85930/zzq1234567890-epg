@@ -30,7 +30,6 @@
 6115
 6123
 8TV
-8tv
 ABC Australia
 ABC Australia HD
 ABC Australia香港
@@ -387,6 +386,7 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
+HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -827,15 +827,7 @@ Zhejiang Satellite
 ZooMoo
 Zoomoo
 Z频道
-abcaustralia
-aljazeera
 amc电影台
-animax
-asianfoodnetwork
-axn
-bbcearthhd
-bbclifestylehd
-bbcworldnewshd
 bb快报
 beIN SPORTS 1
 beIN SPORTS 1香港
@@ -855,13 +847,6 @@ beIN Sports 2
 beIN Sports 2 HD
 beIN Sports 3
 beIN Sports 3 HD
-beinsports
-beinsports2
-beinsports3
-beinsports4
-bernamatv
-cartoonnetwork
-cbeebieshd
 cctv1
 cctv10
 cctv11
@@ -873,7 +858,6 @@ cctv16
 cctv17
 cctv2
 cctv3
-cctv4hd
 cctv4k
 cctv4亚洲
 cctv5
@@ -896,25 +880,15 @@ cctv风云剧场
 cctv风云足球
 cctv风云音乐
 cctv高尔夫
-celestialclassicmovies
-celestialmovies
 cgtn
-cgtnhd
 cgtn俄语
 cgtn法语
 cgtn英文记录片
 cgtn西班牙语
 cgtn阿拉伯语
-channelnewsasia
 cinemalworld世界电影频道有线
-cinemax
 cmplus新加坡
 daystar
-degup
-didiktv
-dreamworkshd
-duniasinemahd
-dw
 elta体育max 1
 elta体育max 2
 elta体育max 3
@@ -925,30 +899,19 @@ elta体育max 7
 elta体育max 8
 elta日韩
 era news 年代新闻
-euronews
 euronews香港
 fun探索娱乐台
-hbofamily
-hbohd
-hbohits
-hgtv
-hits
-hitsmovies
-hitsnow
 iChannel
 iNews
 iNews HD
 iQIYI HD
-inspirasi
 kix亚洲
 kix印尼
 kix新加坡
 kix菲律宾
 kix非洲
 kix香港
-kplus
 lifetime娱乐频道有线
-lovenaturehd
 mbc 2
 mbc action
 mbc max
@@ -966,7 +929,6 @@ momo亲子台
 momo亲子台(免费)
 momo综合台
 momo综合台HD
-moonbugkids
 moov
 myTV SUPER 18台
 myTV SUPER直播足球2台
@@ -975,9 +937,6 @@ myTV SUPER直播足球4台
 myTV SUPER直播足球5台
 myTV SUPER直播足球6台
 myTV SUPER直播足球7台
-nhkworldjapan
-nickelodeon
-nickjr
 now 剧集
 nowjeli
 now体育
@@ -986,28 +945,12 @@ now报价
 now新闻
 now直播
 now财经
-parlimenmalaysia
-pesonahd
-phoenixhongkong
-rockaction
-rockentertainment
-salamhd
-sensasi
-seti
-siar
-sonyyay
 sportstars 3 HD
-spotv
-spotv2
 that's 70s (免费)
 that's 80s (免费)
 that's 90s00s (免费)
 that's Rock (免费)
 trace sport star运动明星
-tv1
-tv2
-tv3
-tv9
 tvN
 tvN Asia
 tvN HD
@@ -1016,20 +959,9 @@ tvN Movies HD
 tvN有线
 tvN香港
 tvOne
-tvalhijrahhd
-tvbjade
-tvbxinghe
-tvnhd
-tvnmovieshd
-tvs
-unifisports1
 video express rentnow
 viu6
-warnertv
 wedotv Movies HD
-zeecinemahd
-zeetamilhd
-zeethirai
 一字千金
 一字千金-FastTV飞速看
 一把青
