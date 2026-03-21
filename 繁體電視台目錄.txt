@@ -4,44 +4,16 @@
 1905App 熱血·影院
 1905App 環球經典
 2025雙北世壯運-FastTV飛速看
-4102
-4103
-4104
-4105
-4106
-4107
-5006
-5118
-5155
-5172
-5258
-5260
-5511
-5512
-5534
-5535
-5536
-5555
-5602
-5608
-5622
-5624
-6114
-6115
-6123
 8TV
 ABC Australia
 ABC Australia HD
 ABC Australia香港
 ABC澳大利亞電視臺
-ABS-CBN
-ABS-CBN News
 ADITHYA TV
 AMC 電影臺
 AMC電影
 ANC
 ANIMAX
-ANIPLUS
 ANTV
 ARIRANG阿里郎頻道
 ASMR行車紀錄
@@ -51,14 +23,11 @@ AXN香港
 Action Hollywood Movies
 Action Hollywood Movies (免費)
 Adithya
-Aditya TV
 Al Jazeera English
 Al Jazeera English HD
 Al Quran Al Kareem
 Al-Hijrah
-Animal Planet
 Animax
-Animax Asia
 Animax HD
 Animax香港
 Arena Bola
@@ -66,7 +35,6 @@ Arena Bola 2
 Arirang
 Arirang TV
 Arirang TV HD
-Asian Food Network
 Asian Food Network HD
 Asian Food Network 亞洲美食頻道
 AsianFoodNetwork亞洲美食頻道
@@ -77,7 +45,6 @@ Astro AOD
 Astro Arena
 Astro Arena 2
 Astro Aura
-Astro Awani
 Astro Awani HD
 Astro Badminton
 Astro Boo
@@ -114,10 +81,8 @@ BBC EARTH
 BBC Earth
 BBC Earth HD
 BBC Earth香港
-BBC First
 BBC First HD
 BBC LIFESTYLE
-BBC Lifestyle
 BBC Lifestyle HD
 BBC Lifestyle香港
 BBC NEWS HD
@@ -167,7 +132,6 @@ CHC 家庭影院
 CI 罪案偵查頻道
 CINEEDGE
 CINEEDGE HD
-CINEMAX
 CINEMAX HD
 CINEMAX有線
 CINEMAX香港
@@ -200,7 +164,6 @@ CTI Asia HD
 Cartoon Network
 Cartoon Network HD
 Cartoon Network香港
-Cartoonito
 CatchPlay HD
 Cbeebies
 Cbeebies HD
@@ -208,7 +171,6 @@ Celebrities TV
 Celestial Classic Movies
 Celestial Movies
 Celestial Movies HD
-Ch U
 Channel 5
 Channel 8
 Channel News Asia
@@ -222,14 +184,11 @@ CinemaWorld HD
 CinemaWorld頻道
 Cinemalworld
 Citra Entertainment
-Colors
 Colors Hindi HD
-Colors Tamil
 Colors Tamil HD
 Concerto (免費)
 CricBuzz
 Crime & Investigation HD
-Crime + Investigation
 Crime + Investigation HD
 Crime Investigation
 DAZN 1
@@ -251,7 +210,6 @@ Discovery Asia
 Discovery Asia HD
 Discovery Asia有線
 Discovery Asia香港
-Discovery Channel
 Discovery Channel HD
 Discovery Channel香港
 Discovery HD新加坡
@@ -263,10 +221,7 @@ DiscoveryEVE
 Discovery科學HD
 Discovery科學臺(Science)
 Discovery科學頻道有線
-Disney Channel
 Docsville (免費)
-Dragon TV
-DramaFirst
 DreamWorks
 DreamWorks HD
 DreamWorks 夢工廠動畫
@@ -284,7 +239,6 @@ ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 ELTV生活英語臺
 ERA FM
-ET Today
 ETtoday綜合臺
 EURONEWS
 EUROSPORT
@@ -312,12 +266,10 @@ Fear Factor
 Fight Sports
 Focus探索新知臺
 Focus風采戲劇臺
-Food Network
 Food Network 美食臺HD
 Food Network香港
 Food Travel HD
 FoodON
-Formosa TV
 France 24
 France 24 (French)
 France 24 English
@@ -327,10 +279,7 @@ Freeman @臺灣
 Fun探索娛樂臺 4K
 GINX Esports TV
 GLOBLTREKKER探索世界
-GMA
 GMA Life T
-GMA Life TV
-GMA News TV
 GMA Pinoy TV
 GOLD
 GOXUAN
@@ -358,18 +307,14 @@ HBO
 HBO Family
 HBO Family香港
 HBO HD
-HBO Hits
 HBO Hits 強檔鉅獻
 HBO Hits香港
-HBO Signature
 HBO Signature 原創鉅獻
 HBO Signature香港
 HBO香港
-HGTV
 HGTV HD
 HGTV HD新加坡
 HGTV居家樂活頻道
-HISTORY
 HISTORY HD新加坡
 HISTORY香港
 HITS
@@ -378,7 +323,6 @@ HITS HD新加坡
 HITS MOVIES
 HITS MOVIES HD
 HITS MOVIES HD新加坡
-HITS Movies
 HITS NOW
 HITS有線
 HITS電影臺
@@ -404,7 +348,6 @@ Hami體育2臺
 Hami體育3臺
 Hami體育3臺(免費)
 Hanacaraka TV
-Hi TV
 History
 History HD
 History 歷史頻道
@@ -425,7 +368,6 @@ Hub Sports 1 HD
 Hub Sports 2 HD
 Hub Sports 3 HD
 Hub VV Drama HD
-Hunan TV
 IDX
 IDX HD
 IMC
@@ -433,14 +375,12 @@ INDIA BEAT
 INULTRA
 Indosiar
 Indosiar HD
-Investigation Discovery
 JAKTV
 JAZZ
 JET TV
 JET綜合
 JOJO 的奇妙冒險
 JStar極限臺電影頻道
-K-PLUS
 K-Plus HD
 KBS 1
 KBS 2
@@ -477,7 +417,6 @@ LOVENATURE
 LS TIME電影臺
 LUXE TV Channel
 LUXE TV HD
-LaLiga Sports TV
 Lifeime
 Lifetime
 Lifetime HD
@@ -546,7 +485,6 @@ NOW 70s
 NOW 80s
 NOW ROCK
 NTV7
-National Geographic
 Netflix香港
 NewsWorld (免費)
 Nice TV 靖天歡樂臺
@@ -559,7 +497,6 @@ Nick Jr.(小尼克)
 Nick Jr.香港
 NickJr.
 Nickelodeon
-Nickelodeon Asia
 Nickelodeon Asia HD新加坡
 Nickelodeon Asia尼克兒童頻道
 Nickelodeon HD
@@ -594,13 +531,11 @@ Now爆谷星影臺
 ONE
 ONE (Malay)
 ONE HD
-ONE TV Asia
 OPUS
 ORIGINALS
 ORIGINALS HD
 OSAI
 OUTtv HD
-Okto
 OneTV 綜合頻道
 Outdoor Channel
 Outdoor channel HD
@@ -614,7 +549,6 @@ Pet Club TV
 Pet Club TV (免費)
 Phoenix Chinese Channel HD
 Phoenix Info News HD
-Phoenix InfoNews
 PopC
 Premier Sports
 RCTI
@@ -667,7 +601,6 @@ SPOTV HD
 SPY X FAMILY 間諜家家酒
 SPY X FAMILY 間諜家家酒(中文版)
 STAR PLUS
-STAR Plus
 SUN TV HD
 SUPER FREE (免費)
 SUPER Kids Channel
@@ -682,7 +615,6 @@ SUPER金曲 (免費)
 SiCAR愛車酷
 Sindo News TV
 Sindo News TV HD
-Sky News
 Sky News HD新加坡
 Sky News香港
 Smart 知識HD
@@ -690,7 +622,6 @@ Smart知識臺
 Smithsonian Channel
 Soccer Channel
 Soccer Channel HD
-Sony Entertainment
 Sony Entertainment Televis新加坡
 Sony MAX
 Sony SAB
@@ -704,7 +635,6 @@ Sportstars 4 HD
 Sportstars HD
 Star Bharat
 Star Gold
-Star Maa
 Star Vijay HD
 Studio Universal
 Studio Universal HD
@@ -715,13 +645,11 @@ Sun News
 Sun TV
 Superrix
 Superrix HD
-Suria
 TBC臺中生活臺
 TFC
 TG Junior
 THR GEGAR
 THR RAAGA
-TLC
 TLC HD
 TLC 旅遊生活頻道
 TLC旅遊生活頻道香港
@@ -782,7 +710,6 @@ TaiwanPlus有線
 Tawaf TV
 The Filipino Channel HD
 Thrill
-Times Now
 TraceUrban
 Trans 7
 Trans TV
@@ -792,7 +719,6 @@ Travelxp HD
 UNIQUES
 UNIQUES HD
 Vannathirai
-Vasantham
 ViVa 1臺
 Vijay TV HD
 Vision Prime
@@ -800,7 +726,6 @@ Vision Prime HD
 Viu 頻道
 ViuTV
 W-Sport
-WION
 WTO姐妹會
 WTO姐妹會-FastTV飛速看
 Warner TV
@@ -812,17 +737,13 @@ Z Cinema HD
 Z Tamil HD
 ZAYAN
 Zee Bioskop
-Zee Cinema
 Zee Cinema HD
 Zee Cinema International
-Zee Music
 Zee News
 Zee TV
 Zee TV HD
-Zee Tamil
 Zee Tamil HD
 Zee Thirai
-Zhejiang Satellite
 ZooMoo
 Zoomoo
 Z頻道
@@ -900,7 +821,6 @@ elta體育max 8
 era news 年代新聞
 euronews香港
 fun探索娛樂臺
-iChannel
 iNews
 iNews HD
 iQIYI HD
@@ -917,9 +837,6 @@ mbc max
 meWATCH LIVE 1
 meWATCH LIVE 2
 meWATCH LIVE 5
-mio Sports
-mio Sports 2
-mio Sports 3
 momo 1臺
 momo1臺HD
 momo2臺
@@ -951,7 +868,6 @@ that's 90s00s (免費)
 that's Rock (免費)
 trace sport star運動明星
 tvN
-tvN Asia
 tvN HD
 tvN Movies
 tvN Movies HD
@@ -1817,7 +1733,6 @@ wedotv Movies HD
 陝西體育休閒
 陝西體育休閒頻道
 陽江-1
-陽江-2
 隊長小翼(中文版)
 雖然等級只有1級但固有技能是最強的
 雙子衛視
