@@ -446,7 +446,6 @@ MOMO综合台
 MOVIE MOVIE
 MTV
 MTV India
-MTV Live音乐频道
 MTV综合台HD
 MTV综合电视台
 MUCH TV
@@ -874,6 +873,7 @@ tvN香港
 tvOne
 video express rentnow
 viu6
+wedotv Movies
 wedotv Movies HD
 一字千金
 一字千金-FastTV飞速看
