@@ -330,7 +330,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HOY体育台
@@ -591,7 +590,6 @@ SONY MAX
 SPL-CH01
 SPL-CH02
 SPOTV
-SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
@@ -999,7 +997,6 @@ wedotv Movies HD
 五星体育
 亚洲剧台
 亚洲卫视
-亚洲女子联赛冠军杯 - 武汉江大 对 水原FC (下午6:55)
 亚洲新闻台
 亚洲新闻台香港
 亚洲旅游

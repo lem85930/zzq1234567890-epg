@@ -330,7 +330,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HOY劇集臺
@@ -591,7 +590,6 @@ SONY MAX
 SPL-CH01
 SPL-CH02
 SPOTV
-SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
@@ -950,7 +948,6 @@ wedotv Movies HD
 九重紫
 五星體育
 亞洲劇臺
-亞洲女子聯賽冠軍盃 - 武漢江大 對 水原FC (下午6:55)
 亞洲新聞臺
 亞洲新聞臺香港
 亞洲旅遊
