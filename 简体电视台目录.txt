@@ -591,6 +591,7 @@ SONY MAX
 SPL-CH01
 SPL-CH02
 SPOTV
+SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
@@ -1570,6 +1571,8 @@ wedotv Movies HD
 环宇财经
 环游世界800天 -FastTV飞速看
 珠海
+球王台
+球迷台
 甘肃卫视
 生命电视台
 生命的赢家
@@ -1654,6 +1657,8 @@ wedotv Movies HD
 脖子解说 Mr. Neck
 花千骨-FastTV飞速看
 苦力
+英超1台
+英超2台
 茂名文化生活
 茂名综合
 茶金

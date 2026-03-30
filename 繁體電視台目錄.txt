@@ -591,6 +591,7 @@ SONY MAX
 SPL-CH01
 SPL-CH02
 SPOTV
+SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
@@ -1497,6 +1498,8 @@ wedotv Movies HD
 獵人(中文版)
 玩家頻道
 珠海
+球王臺
+球迷臺
 環宇新聞臺灣臺
 環宇財經
 環遊世界800天 -FastTV飛速看
@@ -1604,6 +1607,8 @@ wedotv Movies HD
 臺視財經臺
 花千骨-FastTV飛速看
 苦力
+英超1臺
+英超2臺
 茂名文化生活
 茂名綜合
 茶金
