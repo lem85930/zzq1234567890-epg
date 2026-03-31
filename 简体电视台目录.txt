@@ -4,12 +4,10 @@
 1905App 热血·影院
 1905App 环球经典
 2025双北世壮运-FastTV飞速看
-2025年度香港杰出运动员选举颁奖典礼 (晚上7:00)
 8TV
 ABC Australia
 ABC Australia HD
 ABC Australia香港
-ABC澳大利亚电视台
 ADITHYA TV
 AMC 电影台
 AMC电影
@@ -52,6 +50,7 @@ Astro Boo
 Astro Ceria
 Astro Citra
 Astro Cricket
+Astro FAM Time
 Astro First HD
 Astro Football
 Astro Golf
@@ -69,6 +68,7 @@ Astro Showcase
 Astro Showtime
 Astro Sports Plus
 Astro Sports Plus 2
+Astro Sports Plus 3
 Astro Sports UHD 805
 Astro Thangathirai
 Astro Tutor TV
@@ -256,7 +256,6 @@ FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飞速看
 FOX News
-FOX 新闻台
 FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
@@ -294,6 +293,7 @@ Global Trekker
 Global Trekker HD
 Global Trekker探索世界频道
 GlobalTrekker
+GlobalTrekker(免费)
 Globetrotter (免费)
 GoGoTaiwan-FastTV飞速看
 Golden 强片台
@@ -331,13 +331,8 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
-HOY体育台
-HOY剧集台
-HOY怪谈台
-HOY生活台
 HahaTai 哈哈台-FastTV飞速看
 HamiWBC1台
 HamiWBC2台
@@ -393,7 +388,6 @@ KBS WORLD
 KBS World
 KBS World HD
 KBS World香港
-KBS韩国国际综合高清频道
 KENYALANG
 KIX
 KIX电影台
@@ -461,7 +455,6 @@ Mezzo Live HD
 MezzoLive
 Moonbug
 Moonbug香港
-MotorVision
 Music TV
 Music TV HD
 Muslim TV
@@ -567,7 +560,6 @@ ROCK Xstream摇滚极限频道
 ROCKAction
 ROCKEntertainment
 ROCKXStream
-ROCKXStream(免费)
 ROCK综艺娱乐
 RT香港
 Rialto Classic Movies (RCM) (免费)
@@ -1118,7 +1110,6 @@ wedotv Movies HD
 华视新闻
 华视新闻资讯HD
 华视新闻资讯台
-华视新闻资讯台(免费)
 华语剧台
 南京十八频道
 南京教科频道
@@ -1148,7 +1139,6 @@ wedotv Movies HD
 占有姜西
 卡酷少儿
 历史频道HD
-历史高清频道
 原住民族电视HD
 原住民族电视台
 原住民族频道
@@ -1356,7 +1346,6 @@ wedotv Movies HD
 彩虹Movie台
 彩虹电影
 彩虹频道
-彭博资讯
 彰化生活台
 影迷数位电影台
 影迷数位电影台HD
@@ -1619,6 +1608,7 @@ wedotv Movies HD
 秦皇岛新闻综合
 秦皇岛民生
 空中英语教室
+空中英语教室(免费)
 空中英语教室HD频道
 第1商业台
 第1财经

@@ -3,13 +3,11 @@
 11點熱吵店-FastTV飛速看
 1905App 熱血·影院
 1905App 環球經典
-2025年度香港傑出運動員選舉頒獎典禮 (晚上7:00)
 2025雙北世壯運-FastTV飛速看
 8TV
 ABC Australia
 ABC Australia HD
 ABC Australia香港
-ABC澳大利亞電視臺
 ADITHYA TV
 AMC 電影臺
 AMC電影
@@ -52,6 +50,7 @@ Astro Boo
 Astro Ceria
 Astro Citra
 Astro Cricket
+Astro FAM Time
 Astro First HD
 Astro Football
 Astro Golf
@@ -69,6 +68,7 @@ Astro Showcase
 Astro Showtime
 Astro Sports Plus
 Astro Sports Plus 2
+Astro Sports Plus 3
 Astro Sports UHD 805
 Astro Thangathirai
 Astro Tutor TV
@@ -256,7 +256,6 @@ FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飛速看
 FOX News
-FOX 新聞臺
 FRANCE24 英文臺
 FRANCE24E HD
 FRANCE24F
@@ -294,6 +293,7 @@ Global Trekker
 Global Trekker HD
 Global Trekker探索世界頻道
 GlobalTrekker
+GlobalTrekker(免費)
 Globetrotter (免費)
 GoGoTaiwan-FastTV飛速看
 Golden 強片臺
@@ -331,13 +331,8 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
-HOY劇集臺
-HOY怪談臺
-HOY生活臺
-HOY體育臺
 HahaTai 哈哈臺-FastTV飛速看
 HamiWBC1臺
 HamiWBC2臺
@@ -393,7 +388,6 @@ KBS WORLD
 KBS World
 KBS World HD
 KBS World香港
-KBS韓國國際綜合高清頻道
 KENYALANG
 KIX
 KIX電影臺
@@ -461,7 +455,6 @@ Mezzo Live HD
 MezzoLive
 Moonbug
 Moonbug香港
-MotorVision
 Music TV
 Music TV HD
 Muslim TV
@@ -567,7 +560,6 @@ ROCK Xstream搖滾極限頻道
 ROCKAction
 ROCKEntertainment
 ROCKXStream
-ROCKXStream(免費)
 ROCK綜藝娛樂
 RT香港
 Rialto Classic Movies (RCM) (免費)
@@ -1246,7 +1238,6 @@ wedotv Movies HD
 彩虹Movie臺
 彩虹電影
 彩虹頻道
-彭博資訊
 彰化生活臺
 影迷數位紀實臺
 影迷數位紀實臺HD
@@ -1395,7 +1386,6 @@ wedotv Movies HD
 武媚娘傳奇
 武媚娘傳奇-FastTV飛速看
 歷史頻道HD
-歷史高清頻道
 民視
 民視HD
 民視健康美麗生活-FastTV飛速看
@@ -1545,6 +1535,7 @@ wedotv Movies HD
 秦皇島新聞綜合
 秦皇島民生
 空中英語教室
+空中英語教室(免費)
 空中英語教室HD頻道
 第1商業臺
 第1財經
@@ -1650,7 +1641,6 @@ wedotv Movies HD
 華視新聞
 華視新聞資訊HD
 華視新聞資訊臺
-華視新聞資訊臺(免費)
 華語劇臺
 落花時節又逢君
 葉青歌仔戲-FastTV飛速看
