@@ -8,6 +8,7 @@
 ABC Australia
 ABC Australia HD
 ABC Australia香港
+ABC澳大利亚电视台
 ADITHYA TV
 AMC 电影台
 AMC电影
@@ -389,6 +390,7 @@ KBS WORLD
 KBS World
 KBS World HD
 KBS World香港
+KBS韩国国际综合高清频道
 KENYALANG
 KIX
 KIX电影台
