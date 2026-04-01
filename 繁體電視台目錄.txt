@@ -257,6 +257,7 @@ FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飛速看
 FOX News
+FOX 新聞臺
 FRANCE24 英文臺
 FRANCE24E HD
 FRANCE24F
@@ -332,7 +333,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HahaTai 哈哈臺-FastTV飛速看
@@ -1241,6 +1241,7 @@ wedotv Movies HD
 彩虹Movie臺
 彩虹電影
 彩虹頻道
+彭博資訊
 彰化生活臺
 影迷數位紀實臺
 影迷數位紀實臺HD
@@ -1389,6 +1390,7 @@ wedotv Movies HD
 武媚娘傳奇
 武媚娘傳奇-FastTV飛速看
 歷史頻道HD
+歷史高清頻道
 民視
 民視HD
 民視健康美麗生活-FastTV飛速看

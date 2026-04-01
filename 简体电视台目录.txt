@@ -257,6 +257,7 @@ FIFA+
 FOOD TRAVEL
 FOOD超人-FastTV飞速看
 FOX News
+FOX 新闻台
 FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
@@ -332,7 +333,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HahaTai 哈哈台-FastTV飞速看
@@ -1142,6 +1142,7 @@ wedotv Movies HD
 占有姜西
 卡酷少儿
 历史频道HD
+历史高清频道
 原住民族电视HD
 原住民族电视台
 原住民族频道
@@ -1349,6 +1350,7 @@ wedotv Movies HD
 彩虹Movie台
 彩虹电影
 彩虹频道
+彭博资讯
 彰化生活台
 影迷数位电影台
 影迷数位电影台HD
