@@ -4,6 +4,7 @@
 1905App 熱血·影院
 1905App 環球經典
 2025雙北世壯運-FastTV飛速看
+2026屏東三大日音樂節
 8TV
 ABC Australia
 ABC Australia HD
@@ -70,7 +71,6 @@ Astro Showcase
 Astro Showtime
 Astro Sports Plus
 Astro Sports Plus 2
-Astro Sports Plus 3
 Astro Sports UHD 805
 Astro Thangathirai
 Astro Tutor TV
@@ -334,7 +334,6 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
-HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HahaTai 哈哈臺-FastTV飛速看
