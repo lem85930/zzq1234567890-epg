@@ -4,7 +4,6 @@
 1905App 熱血·影院
 1905App 環球經典
 2025雙北世壯運-FastTV飛速看
-2026 UCI世界盃場地單車賽 (中國香港)
 8TV
 ABC Australia
 ABC Australia HD
@@ -603,12 +602,12 @@ SUPER FREE (免費)
 SUPER Kids Channel
 SUPER Music (免費)
 SUPER Sports (免費)
-SUPER單元劇 (免費)
+SUPER單元劇 (免費) (5月4日6時起改為SUPER亞視劇 (免費))
 SUPER煲劇 (免費)
 SUPER獎門人 (免費)
-SUPER識嘆 (免費)
+SUPER識嘆 (免費)(5月4日6時起改為SUPER FUN (免費))
 SUPER識食 (免費)
-SUPER金曲 (免費)
+SUPER金曲 (免費) (5月4日6時起改為SUPER驚 (免費))
 SiCAR愛車酷
 Sindo News TV
 Sindo News TV HD
