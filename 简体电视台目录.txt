@@ -63,6 +63,7 @@ Astro Premier League
 Astro Premier League 2
 Astro Premier League 3
 Astro Premier League 4
+Astro Premier League 5
 Astro Prima
 Astro QJ
 Astro Rania
@@ -335,7 +336,6 @@ HITS频道
 HITZ FM
 HOT
 HOT频道
-HOY TV
 HOY 国际财经台
 HOY 资讯台
 HahaTai 哈哈台-FastTV飞速看
@@ -1432,6 +1432,7 @@ wedotv Movies HD
 欢笑剧场
 欧飞动作电影台
 欧飞电影台
+正义女神-陪你睇直播
 正德电视台
 正德电视台HD
 步步惊心
