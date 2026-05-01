@@ -336,6 +336,7 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
+HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HahaTai 哈哈臺-FastTV飛速看
@@ -840,7 +841,6 @@ momo2臺HD
 momo綜合臺
 momo綜合臺HD
 momo親子臺
-momo親子臺(免費)
 moov
 myTV SUPER 18臺
 myTV SUPER直播足球2臺
@@ -1002,6 +1002,7 @@ wedotv Movies HD
 八大綜合HD
 八大綜合臺
 八大綜藝臺
+八大綜藝臺(免費)
 公共電視臺
 公用頻道
 公視
@@ -1040,6 +1041,7 @@ wedotv Movies HD
 南京十八頻道
 南京教科頻道
 南京新聞綜合頻道
+南美自由盃 - 麥德林獨立 對 古斯哥 (英文評述) (上午9:55)
 南通新聞綜合
 博斯無限二臺
 博斯無限二臺有線
@@ -1409,7 +1411,6 @@ wedotv Movies HD
 民視第一臺
 民視第一臺HD
 民視綜藝臺
-民視綜藝臺(免費)
 民視臺灣臺
 民視臺灣臺HD
 汕尾新聞綜合
@@ -1691,6 +1692,7 @@ wedotv Movies HD
 遊戲風雲
 運通財經綜合臺
 達文西頻道
+達文西頻道(免費)
 達文西頻道HD
 遼寧衛視
 邢臺城市生活
