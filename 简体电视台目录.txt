@@ -26,6 +26,7 @@ Adithya
 Al Jazeera English
 Al Jazeera English HD
 Al Quran Al Kareem
+Al-Hijrah
 Animax
 Animax HD
 Animax香港
@@ -60,6 +61,7 @@ Astro Hua Hee Dai
 Astro Oasis
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
 Astro Prima
 Astro QJ
 Astro Rania
@@ -77,12 +79,10 @@ Astro Vellithirai HD
 Astro Vinmeen
 Astro Warna HD
 BAYU
-BBC Brit HD
 BBC EARTH
 BBC Earth
 BBC Earth HD
 BBC Earth香港
-BBC First HD
 BBC LIFESTYLE
 BBC Lifestyle HD
 BBC Lifestyle香港
@@ -596,15 +596,15 @@ SPY X FAMILY 间谍家家酒(中文版)
 STAR PLUS
 SUN TV HD
 SUPER FREE (免费)
+SUPER FUN (免费)
 SUPER Kids Channel
 SUPER Music (免费)
 SUPER Sports (免费)
-SUPER单元剧 (免费) (5月4日6时起改为SUPER亚视剧 (免费))
+SUPER亚视剧 (免费)
 SUPER奖门人 (免费)
+SUPER惊 (免费)
 SUPER煲剧 (免费)
-SUPER识叹 (免费)(5月4日6时起改为SUPER FUN (免费))
 SUPER识食 (免费)
-SUPER金曲 (免费) (5月4日6时起改为SUPER惊 (免费))
 SiCAR爱车酷
 Sindo News TV
 Sindo News TV HD
