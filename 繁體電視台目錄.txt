@@ -47,7 +47,6 @@ Astro Arena 2
 Astro Aura
 Astro Awani HD
 Astro Badminton
-Astro Badminton 2
 Astro Boo
 Astro Ceria
 Astro Citra
@@ -331,6 +330,7 @@ HITS頻道
 HITZ FM
 HOT
 HOT頻道
+HOY TV
 HOY 國際財經臺
 HOY 資訊臺
 HahaTai 哈哈臺-FastTV飛速看
@@ -1035,6 +1035,7 @@ wedotv Movies HD
 南京十八頻道
 南京教科頻道
 南京新聞綜合頻道
+南美自由盃 - 青年體育會 對 波特諾山 (英文評述) (上午9:55)
 南通新聞綜合
 博斯無限二臺
 博斯無限二臺有線
@@ -1426,7 +1427,6 @@ wedotv Movies HD
 河北衛視
 河北農民
 河北都市
-河北雜技頻道
 河南公共
 河南文物寶庫
 河南新聞
@@ -1523,7 +1523,6 @@ wedotv Movies HD
 看看新聞直播
 真情SUPER煲 (免費)
 睛彩廣場舞
-睛彩河北
 睛彩競技
 睛彩籃球
 睛彩青少
