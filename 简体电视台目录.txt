@@ -60,7 +60,6 @@ Astro Hua Hee Dai
 Astro Oasis
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
 Astro Prima
 Astro QJ
 Astro Rania
@@ -331,6 +330,7 @@ HITZ FM
 HOT
 HOT频道
 HOY 76
+HOY 77
 HOY 78
 HahaTai 哈哈台-FastTV飞速看
 HamiWBC1台
