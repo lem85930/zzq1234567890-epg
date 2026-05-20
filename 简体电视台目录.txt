@@ -431,7 +431,6 @@ Love Nature
 Love Nature 4K
 Love Nature HD
 Love Nature香港
-Lucky 688
 MBC
 MBC drama
 MBC every1
@@ -537,7 +536,6 @@ ORIGINALS
 ORIGINALS HD
 OSAI
 OUTtv HD
-OneTV 综合频道
 Outdoor Channel
 Outdoor channel HD
 PET CLUB TV HD
@@ -855,7 +853,11 @@ myTV SUPER直播足球7台
 now 剧集
 nowjeli
 now体育
-now体育4k
+now体育1 4k
+now体育2 4k
+now体育3 4k
+now体育618
+now体育619
 now报价
 now新闻
 now直播
@@ -913,7 +915,6 @@ wedotv Movies HD
 东方卫视国际频道 (免费)
 东方影视
 东方财经
-东森亚洲
 东森亚洲台新加坡
 东森娱乐台
 东森幼幼HD
@@ -1029,6 +1030,7 @@ wedotv Movies HD
 保定新闻综合
 保定生活健康
 信吉电视台
+信吉艺文台
 信吉艺文台HD
 信大电视台
 倚天屠龙记 2019
@@ -1073,7 +1075,6 @@ wedotv Movies HD
 冠军电视台
 冰火频道
 凡尔赛玫瑰
-凤凰中文
 凤凰卫视中文台
 凤凰卫视中文台 (免费)
 凤凰卫视资讯台
@@ -1312,7 +1313,6 @@ wedotv Movies HD
 少康战情室
 尼克儿童频道
 尼克儿童频道HD
-居家乐活频道香港
 山东体育
 山东农科
 山东卫视

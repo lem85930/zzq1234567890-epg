@@ -431,7 +431,6 @@ Love Nature
 Love Nature 4K
 Love Nature HD
 Love Nature香港
-Lucky 688
 MBC
 MBC drama
 MBC every1
@@ -537,7 +536,6 @@ ORIGINALS
 ORIGINALS HD
 OSAI
 OUTtv HD
-OneTV 綜合頻道
 Outdoor Channel
 Outdoor channel HD
 PET CLUB TV HD
@@ -859,7 +857,11 @@ now新聞
 now直播
 now財經
 now體育
-now體育4k
+now體育1 4k
+now體育2 4k
+now體育3 4k
+now體育618
+now體育619
 sportstars 3 HD
 that's 70s (免費)
 that's 80s (免費)
@@ -978,6 +980,7 @@ wedotv Movies HD
 保定公共頻道
 保定新聞綜合
 保定生活健康
+信吉藝文臺
 信吉藝文臺HD
 信吉電視臺
 信大電視臺
@@ -1199,7 +1202,6 @@ wedotv Movies HD
 少康戰情室
 尼克兒童頻道
 尼克兒童頻道HD
-居家樂活頻道香港
 山東少兒
 山東文旅
 山東新聞
@@ -1337,7 +1339,6 @@ wedotv Movies HD
 東方衛視國際版
 東方衛視國際頻道 (免費)
 東方財經
-東森亞洲
 東森亞洲臺新加坡
 東森娛樂臺
 東森幼幼HD
@@ -1807,7 +1808,6 @@ wedotv Movies HD
 鬥魚-FastTV飛速看
 鬼話連篇
 魅力足球
-鳳凰中文
 鳳凰衛視中文臺
 鳳凰衛視中文臺 (免費)
 鳳凰衛視資訊臺
