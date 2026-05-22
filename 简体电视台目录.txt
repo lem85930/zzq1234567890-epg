@@ -336,7 +336,6 @@ HITZ FM
 HOT
 HOT频道
 HOY 76
-HOY 77
 HOY 78
 HahaTai 哈哈台-FastTV飞速看
 HamiWBC1台
@@ -1587,6 +1586,7 @@ wedotv Movies HD
 珠海
 球王台
 球迷台
+瑞典超级足球联赛 - 佐加顿斯 对 布洛马波卡纳 (英文评述) (晚上12:55)
 甘肃卫视
 生命电视台
 生命的赢家
