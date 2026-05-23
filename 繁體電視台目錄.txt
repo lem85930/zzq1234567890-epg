@@ -5,7 +5,6 @@
 1905App 環球經典
 2025雙北世壯運-FastTV飛速看
 2026hito流行音樂獎
-2026總統府音樂會－民主臺灣南風暖歌
 8TV
 ABC Australia
 ABC Australia HD
@@ -336,7 +335,6 @@ HITZ FM
 HOT
 HOT頻道
 HOY 76
-HOY 77
 HOY 78
 HahaTai 哈哈臺-FastTV飛速看
 HamiWBC1臺
