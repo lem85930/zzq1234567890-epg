@@ -470,9 +470,6 @@ NHK World-Japan
 NHK 日本国家电视台
 NHK新闻资讯台
 NHK新闻资讯台HD
-NOW 70s
-NOW 80s
-NOW ROCK
 NTV7
 Netflix香港
 NewsWorld (免费)
@@ -695,6 +692,9 @@ Taiwan Plus
 TaiwanPlus
 TaiwanPlus有线
 Tawaf TV
+Thats 70s
+Thats 80s
+Thats Rock
 The Filipino Channel HD
 Thrill
 TraceUrban
@@ -824,6 +824,8 @@ mbc max
 meWATCH LIVE 1
 meWATCH LIVE 2
 meWATCH LIVE 5
+meWATCH LIVE 6
+meWATCH LIVE 7
 momo 1台
 momo1台HD
 momo2台
