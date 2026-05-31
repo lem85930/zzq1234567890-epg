@@ -293,17 +293,12 @@ Global Trekker
 Global Trekker HD
 Global Trekker探索世界频道
 GlobalTrekker
-GlobalTrekker(免费)
 Globetrotter (免费)
 GoGoTaiwan-FastTV飞速看
 Golden 强片台
 Golden影迷台
 HAPPY
 HAPPY频道
-HBLTV1台
-HBLTV1台(免费)
-HBLTV2台
-HBLTV2台(免费)
 HBO
 HBO Family
 HBO Family香港
@@ -332,7 +327,6 @@ HITZ FM
 HOT
 HOT频道
 HOY 76
-HOY 77
 HOY 78
 HahaTai 哈哈台-FastTV飞速看
 Hami体育1台
@@ -450,6 +444,7 @@ Metro TV
 Mezzo Live
 Mezzo Live HD
 MezzoLive
+MezzoLive(免费)
 Moonbug
 Moonbug香港
 Music TV
@@ -526,6 +521,7 @@ Outdoor channel HD
 PET CLUB TV HD
 PET CLUB TV宠物频道有线
 PETCLUBTV
+PETCLUBTV(免费)
 Panda TV
 Pandora潘朵啦高画质玩美台
 Pandora潘朵啦高画质粉红台
@@ -1042,10 +1038,10 @@ wedotv Movies HD
 八大第一HD
 八大第一台
 八大精彩台
+八大精彩台(免费)
 八大综合HD
 八大综合台
 八大综艺台
-八大综艺台(免费)
 公共电视台
 公用频道
 公视
@@ -1610,7 +1606,6 @@ wedotv Movies HD
 秦皇岛新闻综合
 秦皇岛民生
 空中英语教室
-空中英语教室(免费)
 空中英语教室HD频道
 第1商业台
 第1财经
