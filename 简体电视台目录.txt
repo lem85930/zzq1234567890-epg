@@ -327,6 +327,7 @@ HITZ FM
 HOT
 HOT频道
 HOY 76
+HOY 77
 HOY 78
 HahaTai 哈哈台-FastTV飞速看
 Hami体育1台
@@ -466,6 +467,10 @@ NHK新闻资讯台
 NHK新闻资讯台HD
 NTV7
 Netflix香港
+New TV科教 (免费)
+NewTV养生 (免费)
+NewTV功夫 (免费)
+NewTV古装剧场 (免费)
 NewsWorld (免费)
 Nice TV 靖天欢乐台
 Nick Jr
@@ -691,6 +696,7 @@ Thats 70s
 Thats 80s
 Thats Rock
 The Filipino Channel HD
+The Indonesia Channel (免费)
 Thrill
 TraceUrban
 Trans 7
@@ -1564,6 +1570,7 @@ wedotv Movies HD
 爱尔达生活旅游台
 爱尔达综合台
 爱尔达综合台HD
+爱．回家SUPER煲 (免费)
 爸妈囧很大-FastTV飞速看
 狂人日志
 猎人(中文版)
@@ -1680,7 +1687,6 @@ wedotv Movies HD
 衡水新闻综合
 衡水经济科教
 西藏卫视
-观众票选-追剧马拉松 (免费)(6月1日6时起改为爱．回家SUPER煲 (免费))
 视纳华仁纪实台HD
 视纳华仁纪实频道
 詹姆士出走料理

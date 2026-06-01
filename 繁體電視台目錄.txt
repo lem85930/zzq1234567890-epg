@@ -327,6 +327,7 @@ HITZ FM
 HOT
 HOT頻道
 HOY 76
+HOY 77
 HOY 78
 HahaTai 哈哈臺-FastTV飛速看
 Hami體育1臺
@@ -466,6 +467,10 @@ NHK新聞資訊臺
 NHK新聞資訊臺HD
 NTV7
 Netflix香港
+New TV科教 (免費)
+NewTV功夫 (免費)
+NewTV古裝劇場 (免費)
+NewTV養生 (免費)
 NewsWorld (免費)
 Nice TV 靖天歡樂臺
 Nick Jr
@@ -691,6 +696,7 @@ Thats 70s
 Thats 80s
 Thats Rock
 The Filipino Channel HD
+The Indonesia Channel (免費)
 Thrill
 TraceUrban
 Trans 7
@@ -1268,6 +1274,7 @@ wedotv Movies HD
 愛爾達體育MAX2臺
 愛爾達體育MAX3臺
 愛爾達體育MAX4臺
+愛．回家SUPER煲 (免費)
 懷舊經典電影-FastTV飛速看
 成人極品臺
 成人節目資訊
@@ -1652,7 +1659,6 @@ wedotv Movies HD
 視納華仁紀實頻道
 親子一起看-FastTV飛速看
 親戚不計較(特輯)-FastTV飛速看
-觀眾票選-追劇馬拉松 (免費)(6月1日6時起改為愛．回家SUPER煲 (免費))
 詹姆士出走料理
 誠心電視臺
 請叫我總監
