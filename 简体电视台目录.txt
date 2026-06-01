@@ -330,6 +330,7 @@ HOY 76
 HOY 77
 HOY 78
 HahaTai 哈哈台-FastTV飞速看
+HamiWBC1台
 Hami体育1台
 Hami体育1台(免费)
 Hami体育2台
@@ -1406,7 +1407,6 @@ wedotv Movies HD
 无线新闻(国际版)
 无线新闻台 (免费)
 无职转生，到了异世界就拿出真本事
-日剧一丁目-FastTV飞速看
 日韩电影大赏-FastTV飞速看
 早餐中国
 时尚运动X

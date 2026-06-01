@@ -330,6 +330,7 @@ HOY 76
 HOY 77
 HOY 78
 HahaTai 哈哈臺-FastTV飛速看
+HamiWBC1臺
 Hami體育1臺
 Hami體育1臺(免費)
 Hami體育2臺
@@ -1308,7 +1309,6 @@ wedotv Movies HD
 新聞觀測站
 旅遊生活
 旅遊頻道香港
-日劇一丁目-FastTV飛速看
 日韓電影大賞-FastTV飛速看
 早餐中國
 明珠臺 (免費)
