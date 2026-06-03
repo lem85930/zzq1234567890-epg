@@ -331,6 +331,8 @@ HOY 77
 HOY 78
 HahaTai 哈哈臺-FastTV飛速看
 HamiWBC1臺
+Hami足球1臺
+Hami足球2臺
 Hami體育1臺
 Hami體育1臺(免費)
 Hami體育2臺
