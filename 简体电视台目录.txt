@@ -47,7 +47,6 @@ Astro Arena 2
 Astro Aura
 Astro Awani HD
 Astro Badminton
-Astro Badminton 2
 Astro Boo
 Astro Ceria
 Astro Citra
@@ -327,6 +326,7 @@ HITZ FM
 HOT
 HOT频道
 HOY 76
+HOY 77
 HOY 78
 HahaTai 哈哈台-FastTV飞速看
 HamiWBC1台
