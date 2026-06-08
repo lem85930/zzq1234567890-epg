@@ -1,9 +1,6 @@
-007情報員-FastTV飛速看
 11點熱吵店
-11點熱吵店-FastTV飛速看
 1905App 熱血·影院
 1905App 環球經典
-2025雙北世壯運-FastTV飛速看
 8TV
 ABC Australia
 ABC Australia HD
@@ -227,7 +224,6 @@ DreamWorks 夢工廠動畫
 Dreamworks
 Dreamworks HD
 Dubai One
-Duck TV兒童卡通-FastTV飛速看
 EBS CHILD
 EBS EDUCATION
 EBS PLUS1
@@ -252,7 +248,6 @@ Eurosoprt HD
 Eurosport
 FIFA+
 FOOD TRAVEL
-FOOD超人-FastTV飛速看
 FOX News
 FOX 新聞臺
 FRANCE24 英文臺
@@ -283,7 +278,6 @@ GOLD
 GOXUAN
 GTV
 GTV HD
-GagaOOLala 精選LGBTQ+好劇
 Galaxy
 Galaxy Premium
 Getwin Sports運動臺
@@ -293,7 +287,6 @@ Global Trekker HD
 Global Trekker探索世界頻道
 GlobalTrekker
 Globetrotter (免費)
-GoGoTaiwan-FastTV飛速看
 Golden 強片臺
 Golden影迷臺
 HAPPY
@@ -328,7 +321,6 @@ HOT頻道
 HOY 76
 HOY 77
 HOY 78
-HahaTai 哈哈臺-FastTV飛速看
 HamiWBC1臺
 Hami足球1臺
 Hami足球2臺
@@ -430,11 +422,11 @@ MNCTV
 MNCTV HD
 MOMO1臺
 MOMO綜合臺
-MOMO親子精選-FastTV飛速看
 MOMO親子臺
 MOVIE MOVIE
 MTV
 MTV India
+MTV Live音樂頻道
 MTV綜合臺HD
 MTV綜合電視臺
 MUCH TV
@@ -672,11 +664,8 @@ TVBS新聞HD
 TVBS新聞臺
 TVBS歡樂HD
 TVBS歡樂臺
-TVBS看板人物-FastTV飛速看
 TVBS精采臺
 TVBS精采臺HD
-TVBS綜藝臺
-TVBS臺劇臺
 TVBS食尚玩家
 TVB功夫臺
 TVB新聞新加坡
@@ -717,7 +706,6 @@ Viu 頻道
 ViuTV
 W-Sport
 WTO姐妹會
-WTO姐妹會-FastTV飛速看
 Warner TV
 Warner TV HD
 WarnerTV
@@ -821,9 +809,6 @@ kix菲律賓
 kix非洲
 kix香港
 lifetime娛樂頻道有線
-mbc 2
-mbc action
-mbc max
 meWATCH LIVE 1
 meWATCH LIVE 2
 meWATCH LIVE 5
@@ -871,13 +856,10 @@ tvN香港
 tvOne
 video express rentnow
 viu6
-wedotv Movies
 wedotv Movies HD
 一字千金
-一字千金-FastTV飛速看
 一把青
 一步一腳印 發現新臺灣
-一起追韓星-FastTV飛速看
 三十而已
 三國
 三沙衛視香港
@@ -902,11 +884,9 @@ wedotv Movies HD
 上視東方影視
 世界第一等
 世界衛星電視臺
-世間路-FastTV飛速看
 中國中央電視臺中文國際頻道 (免費)
 中國中央電視臺娛樂頻道 (免費)
 中國中央電視臺戲曲頻道 (免費)
-中國傳奇故事-FastTV飛速看
 中國教育-2
 中國教育-4
 中國教育電視臺-1
@@ -962,8 +942,6 @@ wedotv Movies HD
 人間衛視
 人間衛視HD
 以家人之名
-以家人之名-FastTV飛速看
-以愛為營-FastTV飛速看
 佔有姜西
 佛山南海
 佛山綜合
@@ -971,27 +949,21 @@ wedotv Movies HD
 佛衛慈悲臺
 佛衛電視慈悲臺
 俗女養成記
-保定公共頻道
 保定新聞綜合
 保定生活健康
-信吉藝文臺
 信吉藝文臺HD
 信吉電視臺
 信大電視臺
 倚天屠龍記 2019
 倪珍播新聞
 健康2.0
-健康2.0-FastTV飛速看
 健康問良醫
 優漫卡通頻道
-免費精選動畫-FastTV飛速看
 內蒙古衛視
 全大電視臺
-全家有智慧-FastTV飛速看
 全民星攻略
 全民星攻略 知識開箱
 全球財經網頻道
-全能歌手-FastTV飛速看
 八大優頻道
 八大娛樂臺
 八大戲劇HD
@@ -1008,7 +980,6 @@ wedotv Movies HD
 公視
 公視(HD)
 公視兒少臺HD
-公視好劇-FastTV飛速看
 公視戲劇
 公視臺語臺
 公視臺語臺HD
@@ -1019,9 +990,7 @@ wedotv Movies HD
 冰火頻道
 凡爾賽玫瑰
 刀劍神域(中文版)
-別打擾我種田-FastTV飛速看
 創世電視 (免費)
-加油喜事-FastTV飛速看
 劣人傳之詭計
 勁爆體育
 動漫秀場
@@ -1029,7 +998,6 @@ wedotv Movies HD
 動物星球頻道
 動物星球頻道香港
 包青天 1993版
-包青天-FastTV飛速看
 北京衛視
 北京電視臺國際頻道 (免費)
 十方法界電視臺
@@ -1070,17 +1038,13 @@ wedotv Movies HD
 原住民族電視臺
 原住民族頻道
 去有風的地方
-去有風的地方-FastTV飛速看
 古典音樂臺
 古典音樂臺HD
-古裝武俠劇-FastTV飛速看
 史上最強弟子兼一(中文版)
 吉林衛視
-同學！搞什麼鬼-FastTV飛速看
 向風而行
 周星馳臺
 咪咕體育
-哆啦A夢-FastTV飛速看
 哆啦Ａ夢臺
 哈哈炫動
 唐山公共
@@ -1094,7 +1058,6 @@ wedotv Movies HD
 嘉佳卡通
 四川衛視
 回到20歲
-國外電影精選-FastTV飛速看
 國學時代界
 國學頻道
 國會頻道1
@@ -1117,11 +1080,8 @@ wedotv Movies HD
 壹電視電影臺
 壹電視電影臺HD
 夏目友人帳
-多情城市-FastTV飛速看
-大兵日記-FastTV飛速看
 大愛二臺
 大愛二臺HD
-大愛精選-FastTV飛速看
 大愛電視
 大愛電視HD
 大愛電視臺
@@ -1132,7 +1092,6 @@ wedotv Movies HD
 大立電視臺 HD
 大臺中生活頻道臺
 天才衝衝衝
-天才衝衝衝-FastTV飛速看
 天映經典印尼
 天映經典新加坡
 天映經典柬埔寨
@@ -1150,8 +1109,6 @@ wedotv Movies HD
 天良綜合臺 HD
 奧林匹克官網直播
 女人我最大
-女人我最大-FastTV飛速看
-女力報到-FastTV飛速看
 好搭檔
 好消息
 好消息2臺
@@ -1162,17 +1119,13 @@ wedotv Movies HD
 好消息衛星電視臺
 好萊塢電影HD
 好萊塢電影臺
-姊妹亮起來-FastTV飛速看
 威廉沈歡樂送
-威廉沈歡樂送-FastTV飛速看
 威達超舜生活臺
 娛樂新聞
 娛樂新聞臺 (免費)
-娛樂百分百-FastTV飛速看
 安徽廣播電視臺國際頻道 (免費)
 安徽衛視
 宜興新聞綜合
-客家好劇-FastTV飛速看
 客家電視HD
 客家電視臺
 家庭理財
@@ -1205,16 +1158,13 @@ wedotv Movies HD
 山東體育
 山東齊魯
 山西衛視
-市井豪門-FastTV飛速看
 年代新聞
-幸福保衛戰-FastTV飛速看
 幸福空間居家臺
 廈門1
 廈門2
 廈門衛視
 廊坊公共
 廊坊新聞
-廚神明星秀-FastTV飛速看
 廣州南國都市4K
 廣州新聞
 廣州綜合
@@ -1256,9 +1206,7 @@ wedotv Movies HD
 德國之聲
 忍者亂太郎(中文版)
 快樂垂釣
-怪獸之王-FastTV飛速看
 怪醫黑傑克TV(中文版)
-恐怖電影-FastTV飛速看
 惠州綜合
 惠州都市生活
 愛爾達寵物運動臺
@@ -1277,13 +1225,11 @@ wedotv Movies HD
 愛爾達體育MAX3臺
 愛爾達體育MAX4臺
 愛．回家SUPER煲 (免費)
-懷舊經典電影-FastTV飛速看
 成人極品臺
 成人節目資訊
 我們這一家
 我的婆婆怎麼那麼可愛
 我的差評女友
-我的成長-FastTV飛速看
 戲曲臺
 戶外頻道香港
 承德新聞綜合
@@ -1296,13 +1242,11 @@ wedotv Movies HD
 放鬆的爵士午後
 文茜的世界周報
 文茜的世界財經周報
-新兵日記-FastTV飛速看
 新哆啦A夢(中文版)
 新哆啦A夢(中文版)2臺
 新唐人亞太臺
 新天地民俗臺
 新天地民俗臺 HD
-新年追劇首選-FastTV飛速看
 新忍者哈特利
 新疆衛視
 新聞大白話
@@ -1310,7 +1254,6 @@ wedotv Movies HD
 新聞觀測站
 旅遊生活
 旅遊頻道香港
-日韓電影大賞-FastTV飛速看
 早餐中國
 明珠臺 (免費)
 時尚運動X
@@ -1319,7 +1262,6 @@ wedotv Movies HD
 智林體育臺
 智林體育臺有線
 曼迪日本臺HD
-最愛韓星-FastTV飛速看
 月升之江
 月嫂先生
 月曜1起玩
@@ -1362,7 +1304,6 @@ wedotv Movies HD
 東森電影HD
 東森電影臺
 東莞新聞綜合
-東離劍遊紀-FastTV飛速看
 東風衛視
 東風衛視臺
 松視1臺
@@ -1383,7 +1324,6 @@ wedotv Movies HD
 樂活頻道
 樂視臺
 樂遊
-機智校園生活-FastTV飛速看
 歐飛動作電影臺
 歐飛電影臺
 歡笑劇場
@@ -1391,19 +1331,16 @@ wedotv Movies HD
 正德電視臺HD
 步步驚心
 武媚娘傳奇
-武媚娘傳奇-FastTV飛速看
 歷史頻道HD
 歷史高清頻道
 民視
 民視HD
-民視健康美麗生活-FastTV飛速看
 民視影劇臺
 民視新聞
 民視新聞臺
 民視新聞臺HD
 民視旅遊臺
 民視無線臺
-民視生活通-FastTV飛速看
 民視異言堂
 民視第一臺
 民視第一臺HD
@@ -1461,7 +1398,6 @@ wedotv Movies HD
 浙江衛視
 浙江錢江都市
 浙江電視臺國際頻道 (免費)
-浩克慢遊-FastTV飛速看
 海南衛視
 海峽衛視
 海派甜心
@@ -1506,7 +1442,6 @@ wedotv Movies HD
 無線衛星新聞臺
 無職轉生，到了異世界就拿出真本事
 爆谷臺
-爸媽囧很大-FastTV飛速看
 狂人日誌
 獵人(中文版)
 玩家頻道
@@ -1515,7 +1450,6 @@ wedotv Movies HD
 球迷臺
 環宇新聞臺灣臺
 環宇財經
-環遊世界800天 -FastTV飛速看
 甘肅衛視
 生命的贏家
 生命電視臺
@@ -1545,28 +1479,20 @@ wedotv Movies HD
 空中英語教室HD頻道
 第1商業臺
 第1財經
+第21屆KKBOX風雲榜
 第一神拳
 第一財經
 第一財經直播
 粵語片臺
-精彩陸劇1臺-FastTV飛速看
-精彩陸劇2臺-FastTV飛速看
 精選動漫臺
-精選華語電影-FastTV飛速看
 紅豆2臺
 紅豆電視臺
 紓壓雷雨聲
 紫金國際臺
-終極一班-FastTV飛速看
 經典劇場
-經典卡通-FastTV飛速看
 經典卡通臺
-經典迪士尼-FastTV飛速看
 經典電影臺
-綜藝大贏家-FastTV飛速看
 綜藝大集合
-綜藝大集合-FastTV飛速看
-綜藝新時代-FastTV飛速看
 緯來戲劇
 緯來戲劇臺
 緯來日本HD
@@ -1602,8 +1528,6 @@ wedotv Movies HD
 脖子解說 Mr. Neck
 膽大黨
 臺灣1001個故事
-臺灣No.1棒球精選-FastTV飛速看
-臺灣傳奇-FastTV飛速看
 臺灣向前行
 臺灣啟示錄
 臺灣壹百種味道
@@ -1616,7 +1540,6 @@ wedotv Movies HD
 臺灣藝術臺
 臺灣電視臺
 臺灣靈異事件
-臺灣靈異事件-FastTV飛速看
 臺視HD
 臺視主頻
 臺視新聞HD
@@ -1625,7 +1548,6 @@ wedotv Movies HD
 臺視綜合臺
 臺視財經HD
 臺視財經臺
-花千骨-FastTV飛速看
 苦力
 英超1臺
 英超2臺
@@ -1643,45 +1565,34 @@ wedotv Movies HD
 華視
 華視HD
 華視主頻
-華視好劇-FastTV飛速看
 華視教育體育文化臺
 華視新聞
 華視新聞資訊HD
 華視新聞資訊臺
 華語劇臺
 落花時節又逢君
-葉青歌仔戲-FastTV飛速看
 葬送的芙莉蓮
-藍色水玲瓏-FastTV飛速看
 蠟筆小新(中文版)
 衡水新聞綜合
 衡水經濟科教
 西藏衛視
 視納華仁紀實臺HD
 視納華仁紀實頻道
-親子一起看-FastTV飛速看
-親戚不計較(特輯)-FastTV飛速看
 詹姆士出走料理
 誠心電視臺
 請叫我總監
 請問今晚住誰家
 豬哥亮歌廳秀
 豬哥壹級棒
-豬哥會社-FastTV飛速看
 財富天下
 貴州衛視
-賀歲電影推薦-FastTV飛速看
-超人力霸王《TV版》FastTV飛速看
-超人力霸王《劇場版》FastTV飛速看
 超人力霸王臺
-超級冰冰Show-FastTV飛速看
 超視
 超視HD
 車迷TV
 車迷TV HD
 軍師聯盟
 軍師聯盟2 虎嘯龍吟
-輕鬆看法律-FastTV飛速看
 連雲港新聞綜合
 進擊的臺灣
 遊戲風雲
@@ -1699,13 +1610,10 @@ wedotv Movies HD
 都市頻道
 都會臺
 鄉民大學問
-醫學大聯盟-FastTV飛速看
 醫師好辣
 重慶衛視
 重溫經典頻道
-野蠻遊戲：We Play -FastTV飛速看
 金光布袋戲
-金光布袋戲-FastTV飛速看
 金色學堂
 金鷹卡通
 鋼之鍊金術師
@@ -1780,11 +1688,8 @@ wedotv Movies HD
 韓國娛樂臺 KMTV
 韓國娛樂臺KMTV HD
 韓國阿里郎
-韓流美食料理秀-FastTV飛速看
 韶華若錦
 韶關新聞綜合
-飛龍在天-FastTV飛速看
-食尚玩家-FastTV飛速看
 饕客揪愛喫
 香港衛視
 香港電臺31
@@ -1797,8 +1702,6 @@ wedotv Movies HD
 高雄都會臺
 高點育樂臺
 高點電視臺
-鬥陣大廟埕-FastTV飛速看
-鬥魚-FastTV飛速看
 鬼話連篇
 魅力足球
 鳳凰衛視中文臺
@@ -1815,7 +1718,6 @@ wedotv Movies HD
 麥哲倫頻道
 麥哲倫頻道 HD
 麻醉風暴
-黃金歲月-FastTV飛速看
 黃金翡翠臺 (免費)
 黃金華劇臺
 黑龍江衛視
@@ -1833,8 +1735,10 @@ wedotv Movies HD
 龍華日韓臺
 龍華洋片HD
 龍華洋片臺
+龍華洋片臺OTT
 龍華經典HD
 龍華經典臺
 龍華電影
 龍華電影HD
 龍華電影臺
+龍華電影院
