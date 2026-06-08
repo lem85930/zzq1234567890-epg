@@ -7,7 +7,6 @@ ABC Australia HD
 ABC Australia香港
 ABC澳大利亞電視臺
 ADITHYA TV
-AMC 電影臺
 AMC電影
 ANC
 ANIMAX
@@ -95,7 +94,6 @@ BUDDY STARS HD
 Bernama TV
 Blippi & Friends
 Bloomberg
-Bloomberg News
 Bloomberg TV
 Bloomberg TV HD
 Bloomberg Television
@@ -128,7 +126,6 @@ CHC 家庭影院
 CI 罪案偵查頻道
 CINEEDGE
 CINEEDGE HD
-CINEMAX HD
 CINEMAX有線
 CINEMAX香港
 CI罪案偵查頻道有線
@@ -199,8 +196,6 @@ DW (English)香港
 DW English
 DW德國之聲
 Da Vinc香港
-Deal or No Deal
-DiSCOVERY
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -221,6 +216,7 @@ Docsville (免費)
 DreamWorks
 DreamWorks HD
 DreamWorks 夢工廠動畫
+DreamWorks 頻道香港
 Dreamworks
 Dreamworks HD
 Dubai One
@@ -244,6 +240,7 @@ EYE TV戲劇臺HD
 EYE TV旅遊臺HD
 Entertainment
 Euronews
+Eurosnews
 Eurosoprt HD
 Eurosport
 FIFA+
@@ -255,7 +252,6 @@ FRANCE24E HD
 FRANCE24F
 Fashion TV HD
 FashionBox
-Fear Factor
 Fight Sports
 Focus探索新知臺
 Focus風采戲劇臺
@@ -358,7 +354,7 @@ Indosiar HD
 JAKTV
 JAZZ
 JET TV
-JET綜合
+JET綜合臺
 JOJO 的奇妙冒險
 JStar極限臺電影頻道
 K-Plus HD
@@ -408,6 +404,7 @@ Love Nature
 Love Nature 4K
 Love Nature HD
 Love Nature香港
+Lucky 688
 MBC
 MBC drama
 MBC every1
@@ -430,10 +427,9 @@ MTV Live音樂頻道
 MTV綜合臺HD
 MTV綜合電視臺
 MUCH TV
-MUTV香港
+MUTV
 MY FM
 MagellanTV頻道 (麥哲倫頻道)
-MasterChef
 Medici-arts HD
 Metro TV
 Mezzo Live
@@ -447,9 +443,8 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
-NBA香港
+NBA
 NHK
-NHK HD
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
 NHK WORLD-JAPA香港
@@ -459,6 +454,9 @@ NHK World-Japan
 NHK 日本國家電視臺
 NHK新聞資訊臺
 NHK新聞資訊臺HD
+NOW 70s
+NOW 80s
+NOW ROCK
 NTV7
 Netflix香港
 New TV科教 (免費)
@@ -488,7 +486,6 @@ Now Sports 4
 Now Sports 5
 Now Sports 6
 Now Sports 641
-Now Sports 647
 Now Sports 651
 Now Sports 652
 Now Sports 668
@@ -515,6 +512,7 @@ ORIGINALS
 ORIGINALS HD
 OSAI
 OUTtv HD
+OneTV 綜合頻道
 Outdoor Channel
 Outdoor channel HD
 PET CLUB TV HD
@@ -570,12 +568,12 @@ SEA TODAY
 SINAR FM
 SONY MAX
 SPL-CH01
-SPL-CH02
 SPOTV
 SPOTV   2
 SPOTV 2
 SPOTV 2 HD
 SPOTV HD
+SPOTV2
 SPY X FAMILY 間諜家家酒
 SPY X FAMILY 間諜家家酒(中文版)
 STAR PLUS
@@ -656,13 +654,10 @@ TVB Plus (免費)
 TVB Xing He HD
 TVBS
 TVBS Asia HD
-TVBS HD
 TVBS 新聞臺
 TVBS亞洲新加坡
 TVBS新聞
-TVBS新聞HD
 TVBS新聞臺
-TVBS歡樂HD
 TVBS歡樂臺
 TVBS精采臺
 TVBS精采臺HD
@@ -679,13 +674,10 @@ TVB翡翠劇集臺(TVB Drama)
 TVB翡翠娛樂臺(TVBe)
 TVB翡翠綜合臺(TVBJ1)
 TVRI
-Taiwan Plus
+TaiWan Plus
 TaiwanPlus
 TaiwanPlus有線
 Tawaf TV
-Thats 70s
-Thats 80s
-Thats Rock
 The Filipino Channel HD
 The Indonesia Channel (免費)
 Thrill
@@ -709,6 +701,7 @@ WTO姐妹會
 Warner TV
 Warner TV HD
 WarnerTV
+Wa暖呢人TV
 Wild Stuff (免費)
 Yes娛樂
 Z Cinema HD
@@ -728,17 +721,12 @@ Z頻道
 amc電影臺
 bb快報
 beIN SPORTS 1
-beIN SPORTS 1香港
 beIN SPORTS 2
-beIN SPORTS 2香港
 beIN SPORTS 3
-beIN SPORTS 3香港
 beIN SPORTS 4
-beIN SPORTS 4香港
 beIN SPORTS 5
-beIN SPORTS 5香港
-beIN SPORTS 6香港
-beIN SPORTS RUGBY香港
+beIN SPORTS 6
+beIN SPORTS RUGBY
 beIN Sports 1
 beIN Sports 1 HD
 beIN Sports 2
@@ -806,14 +794,11 @@ kix亞洲
 kix印尼
 kix新加坡
 kix菲律賓
-kix非洲
 kix香港
 lifetime娛樂頻道有線
 meWATCH LIVE 1
 meWATCH LIVE 2
 meWATCH LIVE 5
-meWATCH LIVE 6
-meWATCH LIVE 7
 momo 1臺
 momo1臺HD
 momo2臺
@@ -836,11 +821,8 @@ now新聞
 now直播
 now財經
 now體育
-now體育1 4k
-now體育2 4k
-now體育3 4k
-now體育618
-now體育619
+now體育4k
+oktolidays
 sportstars 3 HD
 that's 70s (免費)
 that's 80s (免費)
@@ -864,18 +846,14 @@ wedotv Movies HD
 三國
 三沙衛視香港
 三立iNEWS
-三立國際臺
 三立戲劇臺HD
-三立新聞HD
 三立新聞iNEWS
 三立新聞臺
 三立綜合臺
 三立綜合臺HD
-三立臺灣HD
 三立臺灣臺
 三立財經新聞臺
 三立財經新聞臺HD
-三立都會HD
 三立都會臺
 三聖電視臺
 上海教育
@@ -900,10 +878,8 @@ wedotv Movies HD
 中天亞洲臺
 中天亞洲臺新加坡
 中天北美臺
-中天娛樂HD
 中天娛樂臺
 中天新聞臺
-中天綜合HD
 中天綜合臺
 中央氣象署影音頻道
 中央電視臺新聞頻道香港
@@ -930,7 +906,6 @@ wedotv Movies HD
 亞洲劇臺
 亞洲新聞臺
 亞洲新聞臺香港
-亞洲旅遊
 亞洲旅遊HD
 亞洲旅遊臺
 亞洲旅遊臺有線
@@ -966,18 +941,15 @@ wedotv Movies HD
 全球財經網頻道
 八大優頻道
 八大娛樂臺
-八大戲劇HD
 八大戲劇臺
-八大第一HD
 八大第一臺
 八大精彩臺
 八大精彩臺(免費)
-八大綜合HD
 八大綜合臺
 八大綜藝臺
+公共電視
 公共電視臺
 公用頻道
-公視
 公視(HD)
 公視兒少臺HD
 公視戲劇
@@ -994,7 +966,6 @@ wedotv Movies HD
 劣人傳之詭計
 勁爆體育
 動漫秀場
-動物星球
 動物星球頻道
 動物星球頻道香港
 包青天 1993版
@@ -1072,7 +1043,6 @@ wedotv Movies HD
 國際大小事
 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
 城市獵人
-壹新聞
 壹電視新聞HD
 壹電視新聞臺
 壹電視綜合 HD
@@ -1112,12 +1082,11 @@ wedotv Movies HD
 好搭檔
 好消息
 好消息2臺
-好消息GOOD TV
 好消息HD
 好消息二臺
 好消息二臺HD
 好消息衛星電視臺
-好萊塢電影HD
+好消息頻道
 好萊塢電影臺
 威廉沈歡樂送
 威達超舜生活臺
@@ -1148,6 +1117,7 @@ wedotv Movies HD
 少康戰情室
 尼克兒童頻道
 尼克兒童頻道HD
+居家樂活頻道香港
 山東少兒
 山東文旅
 山東新聞
@@ -1158,6 +1128,7 @@ wedotv Movies HD
 山東體育
 山東齊魯
 山西衛視
+年代MUCH TV
 年代新聞
 幸福空間居家臺
 廈門1
@@ -1168,8 +1139,6 @@ wedotv Movies HD
 廣州南國都市4K
 廣州新聞
 廣州綜合
-廣東4K超高清
-廣東GRTN生活頻道
 廣東嘉佳卡通
 廣東大灣區衛視
 廣東少兒
@@ -1179,7 +1148,9 @@ wedotv Movies HD
 廣東新聞
 廣東民生
 廣東珠江
+廣東現代教育
 廣東移動
+廣東綜藝
 廣東衛視
 廣東體育
 廣西國際頻道
@@ -1252,7 +1223,7 @@ wedotv Movies HD
 新聞大白話
 新聞綜合
 新聞觀測站
-旅遊生活
+新視覺
 旅遊頻道香港
 早餐中國
 明珠臺 (免費)
@@ -1274,18 +1245,15 @@ wedotv Movies HD
 東方衛視國際版
 東方衛視國際頻道 (免費)
 東方財經
+東森亞洲
+東森亞洲新聞
 東森亞洲臺新加坡
 東森娛樂臺
-東森幼幼HD
 東森幼幼臺
-東森戲劇HD
 東森戲劇臺
-東森新聞HD
 東森新聞臺
 東森洋片臺
-東森綜合HD
 東森綜合臺
-東森財經HD
 東森財經新聞臺
 東森財經臺
 東森購物1臺
@@ -1301,7 +1269,7 @@ wedotv Movies HD
 東森購物三臺
 東森購物二臺
 東森購物四臺
-東森電影HD
+東森超視
 東森電影臺
 東莞新聞綜合
 東風衛視
@@ -1336,7 +1304,6 @@ wedotv Movies HD
 民視
 民視HD
 民視影劇臺
-民視新聞
 民視新聞臺
 民視新聞臺HD
 民視旅遊臺
@@ -1350,8 +1317,10 @@ wedotv Movies HD
 汕尾新聞綜合
 汕頭新聞綜合
 汕頭經濟生活
+江蘇優漫卡通頻道
 江蘇公共新聞頻道
 江蘇國際
+江蘇國際頻道
 江蘇城市頻道
 江蘇影視頻道
 江蘇教育
@@ -1362,12 +1331,12 @@ wedotv Movies HD
 江西衛視
 江門綜合
 江陰新聞綜合
-河北三佳購物
-河北三農頻道
+河北公共
 河北少兒科教
-河北文旅體育
+河北影視劇
 河北經濟
 河北衛視
+河北農民
 河北都市
 河南公共
 河南文物寶庫
@@ -1378,6 +1347,7 @@ wedotv Movies HD
 河南武術
 河南民生
 河南法制
+河南移動戲曲
 河南衛視
 河南象世界
 河南都市
@@ -1396,6 +1366,7 @@ wedotv Movies HD
 浙江科教
 浙江經濟
 浙江衛視
+浙江衛視香港
 浙江錢江都市
 浙江電視臺國際頻道 (免費)
 海南衛視
@@ -1411,6 +1382,12 @@ wedotv Movies HD
 深圳都市
 深圳電視劇
 深圳龍崗
+深視少兒頻道
+深視移動電視頻道
+深視財經生活頻道
+深視都市頻道
+深視電視劇頻道
+深視體育健康頻道
 清遠新聞綜合
 測試頻道
 湖北衛視
@@ -1470,8 +1447,15 @@ wedotv Movies HD
 石家莊新聞綜合
 社會NOW什麼
 祕境不思溢
+福建少兒頻道
+福建旅遊頻道
 福建海峽衛視國際頻道 (免費)
-福建綜合
+福建經濟頻道
+福建綜合頻道
+福建鄉村振興·公共
+福建電視劇頻道
+福建電視臺新聞頻道
+福建體育頻道
 私藏浪漫
 秦皇島新聞綜合
 秦皇島民生
@@ -1493,18 +1477,12 @@ wedotv Movies HD
 經典卡通臺
 經典電影臺
 綜藝大集合
-緯來戲劇
 緯來戲劇臺
-緯來日本HD
 緯來日本臺
 緯來精采HD
-緯來綜合HD
 緯來綜合臺
-緯來育樂HD
 緯來育樂臺
-緯來電影HD
 緯來電影臺
-緯來體育HD
 緯來體育臺
 罪案 + 偵緝香港
 罪案偵查頻道
@@ -1540,6 +1518,7 @@ wedotv Movies HD
 臺灣藝術臺
 臺灣電視臺
 臺灣靈異事件
+臺視
 臺視HD
 臺視主頻
 臺視新聞HD
@@ -1588,7 +1567,6 @@ wedotv Movies HD
 貴州衛視
 超人力霸王臺
 超視
-超視HD
 車迷TV
 車迷TV HD
 軍師聯盟
@@ -1678,10 +1656,8 @@ wedotv Movies HD
 靖洋卡通臺Nice Bingo HD
 靖洋戲劇HD
 靖洋戲劇臺
-非凡商業HD
 非凡商業臺
 非凡大探索
-非凡新聞HD
 非凡新聞臺
 韓國娛樂KMTV
 韓國娛樂臺
@@ -1704,6 +1680,7 @@ wedotv Movies HD
 高點電視臺
 鬼話連篇
 魅力足球
+鳳凰中文
 鳳凰衛視中文臺
 鳳凰衛視中文臺 (免費)
 鳳凰衛視資訊臺
@@ -1711,6 +1688,7 @@ wedotv Movies HD
 鳳凰衛視香港臺
 鳳凰衛視香港臺 (免費)
 鳳凰資訊
+鳳凰香港臺
 鳳囚凰
 鹽城新聞綜合
 麥卡貝綜藝
