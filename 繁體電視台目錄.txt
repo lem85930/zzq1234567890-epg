@@ -229,7 +229,6 @@ Docsville (免費)
 DreamWorks
 DreamWorks HD
 DreamWorks 夢工廠動畫
-DreamWorks 頻道香港
 Dreamworks
 Dreamworks HD
 Dubai One
@@ -1313,7 +1312,6 @@ wedotv Movies HD
 東方衛視國際頻道 (免費)
 東方財經
 東森亞洲
-東森亞洲新聞
 東森亞洲臺新加坡
 東森娛樂臺
 東森幼幼臺
@@ -1795,7 +1793,6 @@ wedotv Movies HD
 韶華若錦
 韶關新聞綜合
 饕客揪愛喫
-香港衛視
 香港電臺31
 香港電臺32
 香港電臺33
@@ -1816,7 +1813,6 @@ wedotv Movies HD
 鳳凰衛視香港臺
 鳳凰衛視香港臺 (免費)
 鳳凰資訊
-鳳凰香港臺
 鳳囚凰
 鹽城新聞綜合
 麥卡貝綜藝

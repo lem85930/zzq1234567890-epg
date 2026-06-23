@@ -229,7 +229,6 @@ Docsville (免费)
 DreamWorks
 DreamWorks HD
 DreamWorks 梦工厂动画
-DreamWorks 频道香港
 Dreamworks
 Dreamworks HD
 Dubai One
@@ -889,7 +888,6 @@ wedotv Movies HD
 东方财经
 东森亚洲
 东森亚洲台新加坡
-东森亚洲新闻
 东森娱乐台
 东森幼幼台
 东森戏剧台
@@ -1047,7 +1045,6 @@ wedotv Movies HD
 凤凰卫视香港台
 凤凰卫视香港台 (免费)
 凤凰资讯
-凤凰香港台
 凤囚凰
 刀剑神域(中文版)
 创世电视 (免费)
@@ -1808,7 +1805,6 @@ wedotv Movies HD
 韶关新闻综合
 韶华若锦
 饕客揪爱吃
-香港卫视
 香港电台31
 香港电台32
 香港电台33
