@@ -288,7 +288,6 @@ GTV
 GTV HD
 Galaxy
 Galaxy Premium
-Getwin Sports运动台
 GinxTV电竞频道
 Global Trekker
 Global Trekker HD
@@ -804,6 +803,7 @@ elta日韩
 era news 年代新闻
 euronews香港
 fun探索娱乐台
+getwin sport运动台
 iNews
 iNews HD
 iQIYI HD

@@ -288,7 +288,6 @@ GTV
 GTV HD
 Galaxy
 Galaxy Premium
-Getwin Sports運動臺
 GinxTV電競頻道
 Global Trekker
 Global Trekker HD
@@ -804,6 +803,7 @@ elta體育max 8
 era news 年代新聞
 euronews香港
 fun探索娛樂臺
+getwin sport運動臺
 iNews
 iNews HD
 iQIYI HD
