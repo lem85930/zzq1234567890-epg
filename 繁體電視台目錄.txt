@@ -47,7 +47,6 @@ Astro Badminton
 Astro Boo
 Astro Ceria
 Astro Citra
-Astro Cricket
 Astro FAM Time
 Astro First HD
 Astro Football
@@ -194,6 +193,7 @@ Colors Hindi HD
 Colors Tamil HD
 Concerto (免費)
 CricBuzz
+Cricbuzz
 Crime & Investigation HD
 Crime + Investigation HD
 Crime Investigation
@@ -815,6 +815,9 @@ kix新加坡
 kix菲律賓
 kix香港
 lifetime娛樂頻道有線
+mbc 2
+mbc action
+mbc max
 meWATCH LIVE 1
 meWATCH LIVE 2
 meWATCH LIVE 5
@@ -1355,7 +1358,7 @@ wedotv Movies HD
 梅迪奇藝術臺
 梅迪奇藝術頻道有線
 楚喬傳
-極限電源
+極限電影
 樂活頻道
 樂視臺
 樂遊
@@ -1547,6 +1550,7 @@ wedotv Movies HD
 祕境不思溢
 福建少兒
 福建少兒頻道
+福建文旅體育
 福建新聞
 福建旅遊
 福建旅遊頻道
@@ -1815,6 +1819,7 @@ wedotv Movies HD
 鳳凰衛視香港臺
 鳳凰衛視香港臺 (免費)
 鳳凰資訊
+鳳凰香港
 鳳囚凰
 鹽城新聞綜合
 麥卡貝綜藝
