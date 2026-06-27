@@ -320,6 +320,7 @@ HITS MOVIES HD
 HITS MOVIES HD新加坡
 HITS NOW
 HITS有线
+HITS电影台
 HITS频道
 HITZ FM
 HOT
@@ -1044,6 +1045,7 @@ wedotv Movies HD
 凤凰中文
 凤凰卫视中文台
 凤凰卫视中文台 (免费)
+凤凰卫视资讯台
 凤凰卫视资讯台 (免费)
 凤凰卫视香港台
 凤凰卫视香港台 (免费)
@@ -1586,6 +1588,7 @@ wedotv Movies HD
 环球旅游
 珠海
 球王台
+球迷台
 甘肃公共
 甘肃卫视
 甘肃少儿

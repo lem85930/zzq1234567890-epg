@@ -320,6 +320,7 @@ HITS MOVIES HD
 HITS MOVIES HD新加坡
 HITS NOW
 HITS有線
+HITS電影臺
 HITS頻道
 HITZ FM
 HOT
@@ -1519,6 +1520,7 @@ wedotv Movies HD
 玩家頻道
 珠海
 球王臺
+球迷臺
 環宇新聞臺灣臺
 環宇財經
 環球旅遊
@@ -1812,6 +1814,7 @@ wedotv Movies HD
 鳳凰中文
 鳳凰衛視中文臺
 鳳凰衛視中文臺 (免費)
+鳳凰衛視資訊臺
 鳳凰衛視資訊臺 (免費)
 鳳凰衛視香港臺
 鳳凰衛視香港臺 (免費)
