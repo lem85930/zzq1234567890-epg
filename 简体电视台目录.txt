@@ -42,6 +42,7 @@ AsianFoodNetwork亚洲美食频道
 Asianet
 Asianet Movies
 Astro Badminton
+Astro Daebak
 Astro FAM Time
 Astro Football
 Astro Grandstand
@@ -88,6 +89,7 @@ BloombergTV
 CARTOON NTWK
 CARTOONITO
 CARTOONITO HD
+CARTOONITO(免费)
 CATCH PLAY电影台
 CATCHPLAY电影台
 CBeebies
@@ -192,7 +194,7 @@ Discovery Asia HD
 Discovery Asia有线
 Discovery Asia香港
 Discovery Channel香港
-Discovery HD新加坡
+Discovery HD新加坡版
 Discovery 科学频道
 Discovery 科学频道香港
 DiscoveryAsia
@@ -205,6 +207,7 @@ Docsville (免费)
 DreamWorks
 DreamWorks HD
 DreamWorks 梦工厂动画
+DreamWorks(免费)
 Dreamworks
 Dreamworks HD
 Dubai One
@@ -227,7 +230,6 @@ EYE TV戏剧台HD
 EYE TV旅游台HD
 Entertainment
 Euronews
-Eurosnews
 Eurosoprt HD
 Eurosport
 FIFA+
@@ -282,17 +284,17 @@ HBO Signature 原创巨献
 HBO Signature香港
 HBO香港
 HGTV
-HGTV HD新加坡
+HGTV HD新加坡版
 HGTV居家乐活频道
 HISTORY
-HISTORY HD新加坡
+HISTORY HD新加坡版
 HISTORY香港
 HITS
 HITS HD
-HITS HD新加坡
+HITS HD新加坡版
 HITS MOVIES
 HITS MOVIES HD
-HITS MOVIES HD新加坡
+HITS MOVIES HD新加坡版
 HITS NOW
 HITS有线
 HITS电影台
@@ -380,7 +382,7 @@ LUXE TV HD
 Lifeime
 Lifetime
 Lifetime HD
-Lifetime HD新加坡
+Lifetime HD新加坡版
 Lifetime 娱乐频道
 Lifetime香港
 LiveABC互动英语频道
@@ -450,13 +452,13 @@ Nice TV 靖天欢乐台
 Nick Jr
 Nick Jr.
 Nick Jr. HD
-Nick Jr. HD新加坡
+Nick Jr. HD新加坡版
 Nick Jr. 儿童频道
 Nick Jr.(小尼克)
 Nick Jr.香港
 NickJr.
 Nickelodeon
-Nickelodeon Asia HD新加坡
+Nickelodeon Asia HD新加坡版
 Nickelodeon Asia尼克儿童频道
 Nickelodeon Jr
 Nickelodeon香港
@@ -498,7 +500,6 @@ Outdoor channel HD
 PET CLUB TV HD
 PET CLUB TV宠物频道有线
 PETCLUBTV
-PETCLUBTV(免费)
 PHOENIX
 PHOENIX NEWS
 PRIMA
@@ -522,7 +523,7 @@ ROCK ENTERTAINMENT
 ROCK EXTREME
 ROCK Entertainme
 ROCK Entertainment
-ROCK Entertainment HD新加坡
+ROCK Entertainment HD新加坡版
 ROCK Entertainment香港
 ROCK Extreme
 ROCK X Stream
@@ -583,13 +584,13 @@ SUPER识食 (免费)
 SiCAR爱车酷
 Sindo News TV
 Sindo News TV HD
-Sky News HD新加坡
+Sky News HD新加坡版
 Sky News香港
 Smart 知识HD
 Smart知识台
 Soccer Channel
 Soccer Channel HD
-Sony Entertainment Televis新加坡
+Sony Entertainment Televis新加坡版
 Sony MAX
 Sony SAB
 Sony TV (India)
@@ -642,7 +643,7 @@ TVBJ
 TVBS
 TVBS ASIA
 TVBS 新闻台
-TVBS亚洲新加坡
+TVBS亚洲新加坡版
 TVBS新闻
 TVBS新闻台
 TVBS欢乐台
@@ -650,11 +651,11 @@ TVBS精采台
 TVBS精采台HD
 TVBS食尚玩家
 TVB功夫台
-TVB新闻新加坡
+TVB新闻新加坡版
 TVB无线新闻台(TVB News)
 TVB明珠剧集台(TVB Pearl Drama)
 TVB星河
-TVB星河新加坡
+TVB星河新加坡版
 TVB生活台
 TVB粤语片
 TVB翡翠剧集台(TVB Drama)
@@ -860,12 +861,12 @@ wedotv Movies HD
 世界第一等
 东南卫视
 东方卫视
-东方卫视国际版
+东方卫视国际版版
 东方卫视国际频道 (免费)
 东方影视
 东方财经
 东森亚洲
-东森亚洲台新加坡
+东森亚洲台新加坡版
 东森娱乐台
 东森幼幼台
 东森戏剧台
@@ -909,7 +910,7 @@ wedotv Movies HD
 中国电影频道CCMC
 中国美食大探索
 中天亚洲台
-中天亚洲台新加坡
+中天亚洲台新加坡版
 中天亚洲精采台
 中天北美台
 中天娱乐台
@@ -987,7 +988,6 @@ wedotv Movies HD
 八大戏剧台
 八大第一台
 八大精彩台
-八大精彩台(免费)
 八大综合台
 八大综艺台
 公共电视
@@ -1016,11 +1016,8 @@ wedotv Movies HD
 凡尔赛玫瑰
 凤凰中文
 凤凰卫视中文台
-凤凰卫视中文台 (免费)
 凤凰卫视资讯台
-凤凰卫视资讯台 (免费)
 凤凰卫视香港台
-凤凰卫视香港台 (免费)
 凤凰资讯
 凤凰香港
 凤囚凰
@@ -1177,7 +1174,7 @@ wedotv Movies HD
 大立电视台 HD
 天才冲冲冲
 天映经典印尼
-天映经典台新加坡
+天映经典台新加坡版
 天映经典新加坡
 天映经典柬埔寨
 天映经典菲律宾
@@ -1186,6 +1183,7 @@ wedotv Movies HD
 天映经典马来西亚
 天映频道印尼
 天映频道新加坡
+天映频道新加坡版
 天映频道马来西亚
 天津体育
 天津卫视
@@ -1616,6 +1614,7 @@ wedotv Movies HD
 罪案 + 侦缉香港
 罪案侦查频道
 罪案侦缉频道
+罪案侦缉频道(免费)
 罪案侦缉频道HD
 罪案侦辑频道
 美丽人生购物台
@@ -1671,7 +1670,6 @@ wedotv Movies HD
 辽宁都市
 辽宁青少
 达文西频道
-达文西频道(免费)
 达文西频道HD
 运通财经综合台
 进击的台湾
