@@ -241,7 +241,6 @@ Euronews
 Eurosoprt HD
 Eurosport
 Euro欧风电影台
-FIBA世界杯男子篮球欧洲区资格赛 - 法国 对 芬兰 (英文评述) (深夜2:25)
 FIFA+
 FOOD TRAVEL
 FOX News
@@ -1880,6 +1879,8 @@ wedotv Movies HD
 香港电台31
 香港电台32
 香港电台33
+香港电台34
+香港电台35
 香蕉台
 高清生活时光
 高点电视台

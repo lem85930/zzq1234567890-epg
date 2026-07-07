@@ -241,7 +241,6 @@ Euronews
 Eurosoprt HD
 Eurosport
 Euro歐風電影臺
-FIBA世界盃男子籃球歐洲區資格賽 - 法國 對 芬蘭 (英文評述) (深夜2:25)
 FIFA+
 FOOD TRAVEL
 FOX News
@@ -1870,6 +1869,8 @@ wedotv Movies HD
 香港電臺31
 香港電臺32
 香港電臺33
+香港電臺34
+香港電臺35
 香蕉臺
 驚艷成人
 驚豔成人電影臺
