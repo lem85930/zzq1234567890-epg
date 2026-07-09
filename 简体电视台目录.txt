@@ -278,6 +278,7 @@ Galaxy Premium
 GinxTV电竞频道
 Global Trekker
 Global Trekker HD
+Global Trekker探索世界频道
 GlobalTrekker
 Globetrotter (免费)
 Golden 强片台
@@ -370,6 +371,7 @@ KBS World香港
 KBSW
 KBS韩国国际综合高清频道
 KIX
+KIX电影台
 KJ日韩电影台
 KLT-靖天国际台
 KLT-靖天国际台HD
@@ -446,6 +448,7 @@ NHK WORLD-JAPA香港
 NHK World
 NHK World Premium
 NHK World-Japan
+NHK 日本国家电视台
 NHK新闻资讯台
 NHK新闻资讯台HD
 NICK JR
