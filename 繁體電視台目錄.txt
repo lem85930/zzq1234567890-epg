@@ -1,4 +1,4 @@
-11點熱吵店 - 生活與時尚
+11點熱吵店 - 愛情的滋味
 16個夏天
 1905App 熱血·影院
 1905App 環球經典
@@ -278,7 +278,6 @@ Galaxy Premium
 GinxTV電競頻道
 Global Trekker
 Global Trekker HD
-Global Trekker探索世界頻道
 GlobalTrekker
 Globetrotter (免費)
 Golden 強片臺
@@ -371,7 +370,6 @@ KBS World香港
 KBSW
 KBS韓國國際綜合高清頻道
 KIX
-KIX電影臺
 KJ日韓電影臺
 KLT-靖天國際臺
 KLT-靖天國際臺HD
@@ -448,7 +446,6 @@ NHK WORLD-JAPA香港
 NHK World
 NHK World Premium
 NHK World-Japan
-NHK 日本國家電視臺
 NHK新聞資訊臺
 NHK新聞資訊臺HD
 NICK JR
@@ -858,8 +855,9 @@ tvOne
 video express rentnow
 viu6
 wedotv Movies HD
+一代匠師
 一拳超人(中文版)
-一步一腳印 - 人生故事
+一步一腳印 - 綜合訪談
 七大罪
 三十而已
 三國
@@ -959,7 +957,7 @@ wedotv Movies HD
 信大電視臺
 倚天屠龍記 2019
 倪珍播新聞
-健康2.0 - 養身排毒減脂
+健康2.0 - 抗癌大小事
 健康問良醫
 優漫卡通
 優漫卡通頻道
@@ -1098,7 +1096,7 @@ wedotv Movies HD
 在一起，就好
 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
 地球檔案庫
-地球黃金線 - 名車寶庫
+地球黃金線 - 購車指南
 城市獵人
 壹電視新聞HD
 壹電視新聞臺
@@ -1119,7 +1117,6 @@ wedotv Movies HD
 大灣區衛視
 大灣區衛視香港
 大生意人
-大盛魁
 大立電視臺
 大立電視臺 HD
 大胃王來了！
@@ -1150,7 +1147,7 @@ wedotv Movies HD
 天良綜合臺
 天良綜合臺 HD
 奧林匹克官網直播
-女人我最大 - 經典永流傳
+女人我最大 - 生活話題
 女神蒙上眼
 女醫明妃傳
 好搭檔
@@ -1211,7 +1208,6 @@ wedotv Movies HD
 山東農科
 山東體育
 山東齊魯
-山河月明
 山西影視
 山西文體生活
 山西社會與法治
@@ -1719,6 +1715,7 @@ wedotv Movies HD
 詹姆士出走料理
 誠心電視臺
 請問今晚住誰家
+護寶聯盟
 讓我看見你是誰
 豬哥亮歌廳秀
 豬哥壹級棒
@@ -1866,7 +1863,7 @@ wedotv Movies HD
 韶關新聞綜合
 頭腦共助
 風起西州
-食尚玩家 - 熱血48小時
+食尚玩家 - 天菜就醬喫
 饕客揪愛喫
 香格里拉・開拓異境~糞作獵手挑戰神作~
 香港天王臺
