@@ -196,6 +196,7 @@ DW English
 DW德國之聲
 Da Vinc香港
 DayStar
+Deal or No Deal
 Discovery
 Discovery Asia
 Discovery Asia HD
@@ -241,6 +242,7 @@ Euronews
 Eurosoprt HD
 Eurosport
 Euro歐風電影臺
+FIFA World Cup CH01
 FIFA+
 FOOD TRAVEL
 FOX News
@@ -425,6 +427,7 @@ MTV綜合臺HD
 MTV綜合電視臺
 MUCH TV
 MUTV
+MasterChef
 Medici-arts HD
 Metro TV
 Mezzo Live
