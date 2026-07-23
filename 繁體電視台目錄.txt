@@ -84,6 +84,7 @@ BTV財經
 BTV體育
 BUDDY STARS
 BUDDY STARS HD
+Berita RTM
 Bernama TV
 Blippi & Friends
 Bloomberg
@@ -624,6 +625,7 @@ Star Bharat
 Star Gold
 Studio Universal
 Studio Universal HD
+Sukan+
 Sun Life
 Sun Music
 Sun News
@@ -1097,6 +1099,7 @@ wedotv Movies HD
 國會頻道2臺
 國興衛視
 國色芳華
+國際大小事
 在一起，就好
 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
 地球檔案庫

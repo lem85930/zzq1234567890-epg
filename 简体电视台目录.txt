@@ -84,6 +84,7 @@ BTV生活
 BTV财经
 BUDDY STARS
 BUDDY STARS HD
+Berita RTM
 Bernama TV
 Blippi & Friends
 Bloomberg
@@ -624,6 +625,7 @@ Star Bharat
 Star Gold
 Studio Universal
 Studio Universal HD
+Sukan+
 Sun Life
 Sun Music
 Sun News
@@ -1204,6 +1206,7 @@ wedotv Movies HD
 国学时代界
 国学频道
 国色芳华
+国际大小事
 圣女魔力无所不能
 圣者无双～上班族的异世界生存之道～
 在一起，就好
