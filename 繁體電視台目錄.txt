@@ -322,7 +322,6 @@ HOY 78
 HUA HEE DAI
 HamiWBC1台
 Hami足球1台
-Hami足球2台
 Hami體育1台
 Hami體育1台(免費)
 Hami體育2台
@@ -1010,7 +1009,6 @@ wedotv Movies HD
 劉德華台
 加油喜事
 勁爆體育
-動態雷達視角
 動漫秀場
 動物星球頻道
 動物星球頻道香港
