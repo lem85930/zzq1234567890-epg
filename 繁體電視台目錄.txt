@@ -124,6 +124,7 @@ CGTN Documentary
 CHC 家庭影院
 CI
 CI 罪案偵查頻道
+CI 罪案偵緝頻道
 CINEEDGE
 CINEEDGE HD
 CINEMAX有線
@@ -174,6 +175,7 @@ CinemaWorld HD
 CinemaWorld頻道
 Citra Entertainment
 Classic電影台
+Cmusic
 Concerto (免費)
 Cricbuzz
 Crime + Investigation HD
@@ -181,6 +183,7 @@ Crime Investigation
 Crime犯罪台
 DAZN 2
 DAZN 3
+DAZN體育台
 DISCOVERY
 DISCOVERY ASIA
 DMAX HD
@@ -242,6 +245,7 @@ FIFA+
 FOOD TRAVEL
 FOX News
 FOX 新聞台
+FRANCE 24
 FRANCE24
 FRANCE24 英文台
 FRANCE24E HD
@@ -378,6 +382,7 @@ Kids TV HD
 Kompas TV
 K頻道
 LIFE
+LOVE NATURE
 LOVE NATURE 4K
 LOVE NATURE有線
 LOVENATURE
@@ -430,6 +435,7 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
+MyVideo體育台
 NBA
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
@@ -1170,6 +1176,7 @@ wedotv Movies HD
 家庭理財
 富立電視台
 富立電視台HD
+富邦悍將
 寧夏公共
 寧夏少兒
 寧夏文旅
@@ -1250,6 +1257,7 @@ wedotv Movies HD
 影迷數位電影台HD
 徐海莉 Hailey
 德國之聲
+德國之聲電視台
 快樂垂釣
 怪奇研究室
 怪醫黑傑克TV(中文版)
@@ -1338,6 +1346,7 @@ wedotv Movies HD
 東森綜合台
 東森財經
 東森財經台
+東森財經新聞
 東森財經新聞台
 東森購物1台
 東森購物1台HD
@@ -1379,6 +1388,7 @@ wedotv Movies HD
 正德電視台HD
 步步驚心
 武媚娘傳奇
+歷史頻道
 歷史頻道HD
 歷史高畫質頻道
 母儀天下
@@ -1522,6 +1532,7 @@ wedotv Movies HD
 甘肅文化
 甘肅科教
 甘肅衛視
+甘霖體育台
 生命的贏家
 生命電視台
 生活時尚
@@ -1563,6 +1574,7 @@ wedotv Movies HD
 紅豆2台
 紓壓雷雨聲
 紫金國際台
+統一7-ELEVEn獅
 經典劇場
 經典卡通台
 經典杯子蛋糕
@@ -1717,6 +1729,7 @@ wedotv Movies HD
 雙軌
 雲南娛樂
 雲南康旅
+雲南影視
 雲南瀾湄國際衛視 (免費)
 雲南衛視
 雲南都市

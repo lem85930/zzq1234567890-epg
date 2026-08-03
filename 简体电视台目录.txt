@@ -124,6 +124,7 @@ CGTN Documentary
 CHC 家庭影院
 CI
 CI 罪案侦查频道
+CI 罪案侦缉频道
 CINEEDGE
 CINEEDGE HD
 CINEMAX有线
@@ -174,6 +175,7 @@ CinemaWorld HD
 CinemaWorld频道
 Citra Entertainment
 Classic电影台
+Cmusic
 Concerto (免费)
 Cricbuzz
 Crime + Investigation HD
@@ -181,6 +183,7 @@ Crime Investigation
 Crime犯罪台
 DAZN 2
 DAZN 3
+DAZN体育台
 DISCOVERY
 DISCOVERY ASIA
 DMAX HD
@@ -242,6 +245,7 @@ FIFA+
 FOOD TRAVEL
 FOX News
 FOX 新闻台
+FRANCE 24
 FRANCE24
 FRANCE24 英文台
 FRANCE24E HD
@@ -378,6 +382,7 @@ Kids TV HD
 Kompas TV
 K频道
 LIFE
+LOVE NATURE
 LOVE NATURE 4K
 LOVE NATURE有线
 LOVENATURE
@@ -430,6 +435,7 @@ Music TV HD
 Muslim TV
 My Cinema Europe HD 我的欧洲电影
 My Cinema Europe HD 我的欧洲电影有线
+MyVideo体育台
 NBA
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
@@ -887,6 +893,7 @@ wedotv Movies HD
 东森综合台
 东森财经
 东森财经台
+东森财经新闻
 东森财经新闻台
 东森购物1台
 东森购物1台HD
@@ -953,6 +960,7 @@ wedotv Movies HD
 云南卫视
 云南娱乐
 云南康旅
+云南影视
 云南澜湄国际卫视 (免费)
 云南都市
 云浮综合
@@ -1093,6 +1101,7 @@ wedotv Movies HD
 博斯魅力网
 博斯魅力网有线
 卡酷少儿
+历史频道
 历史频道HD
 历史高清频道
 原住民族电视HD
@@ -1257,6 +1266,7 @@ wedotv Movies HD
 家庭理财
 富立电视台
 富立电视台HD
+富邦悍将
 寰宇HD综合
 寰宇全视界
 寰宇新闻
@@ -1329,6 +1339,7 @@ wedotv Movies HD
 影迷数位纪实台HD
 徐海莉 Hailey
 德国之声
+德国之声电视台
 快乐垂钓
 怪医黑杰克TV(中文版)
 怪奇研究室
@@ -1567,6 +1578,7 @@ wedotv Movies HD
 甘肃少儿
 甘肃文化
 甘肃科教
+甘霖体育台
 生命电视台
 生命的赢家
 生活时尚
@@ -1621,6 +1633,7 @@ wedotv Movies HD
 经典卡通台
 经典杯子蛋糕
 经典电影台
+统一7-ELEVEn狮
 综艺大集合
 罪案 + 侦缉香港
 罪案侦缉频道
