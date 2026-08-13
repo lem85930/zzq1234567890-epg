@@ -19,7 +19,6 @@ ANIMAX
 ANTV
 AOD
 ARENA
-ARENA 2
 ARENA BOLA
 ARENA BOLA 2
 ARIRANG阿里郎頻道
@@ -308,6 +307,7 @@ HOY 76
 HOY 77
 HOY 78
 HUA HEE DAI
+HamiWBC1台
 Hami大聯盟1台
 Hami大聯盟2台
 Hami足球1台
@@ -605,6 +605,7 @@ Sportstars 3
 Sportstars 4
 Sportstars 4 HD
 Sportstars HD
+Stadium Astro
 Star Bharat
 Star Gold
 Studio Universal
