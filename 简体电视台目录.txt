@@ -55,6 +55,7 @@ Astro Showtime
 Astro Sports Plus
 Astro Tennis
 Astro Warna HD
+Astro30
 BBC EARTH
 BBC Earth
 BBC Earth HD
@@ -1047,7 +1048,6 @@ wedotv Movies HD
 包青天 1993版
 北京体育休闲
 北京卫视
-北京影视
 北京文艺
 北京新闻
 北京生活
