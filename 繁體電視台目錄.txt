@@ -45,6 +45,7 @@ AsianFoodNetwork亞洲美食頻道
 Asianet
 Asianet Movies
 Astro Badminton
+Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
@@ -1260,6 +1261,7 @@ wedotv Movies HD
 怪醫黑傑克TV(中文版)
 惠州綜合
 惠州都市生活
+愛爾達2026世界少棒聯盟 鎖定愛爾達
 愛爾達BWF世界羽球巡迴賽 全台獨家鎖定愛爾達
 愛爾達Ginx電競頻道
 愛爾達INULTRA-我的希臘長徵記
@@ -1268,7 +1270,6 @@ wedotv Movies HD
 愛爾達TRACE Sport Stars
 愛爾達TRACE Urban
 愛爾達Travel Channel
-愛爾達U12亞洲少棒中華隊場次 鎖定愛爾達
 愛爾達客家電視台
 愛爾達寵物運動台
 愛爾達影劇台

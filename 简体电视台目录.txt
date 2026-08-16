@@ -45,6 +45,7 @@ AsianFoodNetwork亚洲美食频道
 Asianet
 Asianet Movies
 Astro Badminton
+Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
@@ -1546,6 +1547,7 @@ wedotv Movies HD
 澳门葡萄牙
 澳门资讯
 爆谷台
+爱尔达2026世界少棒联盟 锁定爱尔达
 爱尔达BWF世界羽球巡回赛 全台独家锁定爱尔达
 爱尔达Ginx电竞频道
 爱尔达INULTRA-我的希腊长征记
@@ -1554,7 +1556,6 @@ wedotv Movies HD
 爱尔达TRACE Sport Stars
 爱尔达TRACE Urban
 爱尔达Travel Channel
-爱尔达U12亚洲少棒中华队场次 锁定爱尔达
 爱尔达体育 1 台
 爱尔达体育1台
 爱尔达体育2台
