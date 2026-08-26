@@ -266,6 +266,7 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
+GOLF PLUS
 GTV
 GTV HD
 Galaxy
@@ -822,6 +823,7 @@ myTV SUPER直播足球4台
 myTV SUPER直播足球5台
 myTV SUPER直播足球6台
 myTV SUPER直播足球7台
+myTV SUPER直播足球8台
 now 剧集
 nowjeli
 now体育
