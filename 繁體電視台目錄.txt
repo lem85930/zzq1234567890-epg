@@ -51,7 +51,6 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -266,7 +265,6 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
-GOLF PLUS
 GTV
 GTV HD
 Galaxy
@@ -1735,6 +1733,7 @@ wedotv Movies HD
 鏡電視新聞台
 間諜家家酒
 關於我轉生變成史萊姆這檔事
+阿根廷甲組足球聯賽 - 獨立隊 對 甘拿斯亞文度沙 (西班牙文評述) (早上6:10)
 陝西新聞資訊
 陝西秦腔頻道
 陝西移動電視
