@@ -235,6 +235,7 @@ Euronews
 Eurosoprt HD
 Eurosport
 Euro欧风电影台
+FIBA世界杯男子篮球美洲区资格赛 - 加拿大 对 阿根廷 (英文评述) (早上7:05)
 FIFA+
 FOOD TRAVEL
 FOX News
@@ -246,7 +247,6 @@ FRANCE24E HD
 FRANCE24F
 Family欢乐台
 Fashion TV HD
-FashionBox
 Fear Factor
 Fight Sports
 Focus 风采戏剧台
@@ -1756,6 +1756,7 @@ wedotv Movies HD
 队长小翼
 队长小翼(中文版)
 阳江-1
+阿根廷甲组足球联赛 - 学生队 对 纽维尔旧生 (英文评述) (早上5:55)
 陆贞传奇
 陕西体育休闲
 陕西农林

@@ -235,6 +235,7 @@ Euronews
 Eurosoprt HD
 Eurosport
 Euro歐風電影台
+FIBA世界盃男子籃球美洲區資格賽 - 加拿大 對 阿根廷 (英文評述) (早上7:05)
 FIFA+
 FOOD TRAVEL
 FOX News
@@ -246,7 +247,6 @@ FRANCE24E HD
 FRANCE24F
 Family歡樂台
 Fashion TV HD
-FashionBox
 Fear Factor
 Fight Sports
 Focus 風采戲劇台
@@ -1733,6 +1733,7 @@ wedotv Movies HD
 鏡電視新聞台
 間諜家家酒
 關於我轉生變成史萊姆這檔事
+阿根廷甲組足球聯賽 - 學生隊 對 紐維爾舊生 (英文評述) (早上5:55)
 陝西新聞資訊
 陝西秦腔頻道
 陝西移動電視
