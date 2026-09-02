@@ -45,6 +45,7 @@ AsianFoodNetwork亞洲美食頻道
 Asianet
 Asianet Movies
 Astro Badminton
+Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
@@ -1385,7 +1386,6 @@ wedotv Movies HD
 東森購物四台
 東森電影台
 東莞新聞綜合
-東風衛視
 東風衛視台
 松視1台
 松視2台

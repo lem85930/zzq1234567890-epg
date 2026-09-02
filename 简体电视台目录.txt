@@ -45,6 +45,7 @@ AsianFoodNetwork亚洲美食频道
 Asianet
 Asianet Movies
 Astro Badminton
+Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
@@ -905,7 +906,6 @@ wedotv Movies HD
 东森购物二台
 东森购物四台
 东莞新闻综合
-东风卫视
 东风卫视台
 中华一番(中文版)
 中华电视台
