@@ -28,6 +28,7 @@ AWANI
 AXN
 AXN HD
 AXN香港
+Access eClutch
 Action Hollywood Movies
 Action Hollywood Movies (免費)
 Action爽片台
@@ -52,6 +53,9 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
+Astro Premier League 4
+Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -173,6 +177,7 @@ Citra Entertainment
 Classic電影台
 Cmusic
 Concerto (免費)
+Crema.TV
 Cricbuzz
 Crime + Investigation HD
 Crime Investigation
@@ -246,6 +251,7 @@ FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
 Family歡樂台
+Fashion TV
 Fashion TV HD
 Fear Factor
 Fight Sports
@@ -425,9 +431,11 @@ MezzoLive(免費)
 Moonbug
 Moonbug Kids
 Moonbug香港
+Motorvision
 Music TV
 Music TV HD
 Muslim TV
+My Cinema Europe
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
 MyVideo體育台
@@ -588,6 +596,8 @@ SUPER煲劇 (免費)
 SUPER獎門人 (免費)
 SUPER識食 (免費)
 SUPER驚 (免費)
+SeaVa Asia
+SeaVa Kids
 SiCAR愛車酷《9/4即將下架》
 Sindo News TV
 Sindo News TV HD
@@ -779,6 +789,7 @@ cgtn西班牙語
 cgtn阿拉伯語
 cinemalworld世界電影頻道有線
 cmplus新加坡
+eClutch Live 2
 elta日韓
 elta體育max 1
 elta體育max 2
@@ -1443,11 +1454,11 @@ wedotv Movies HD
 汕頭新聞綜合
 汕頭經濟生活
 江蘇休閒體育
+江蘇公共新聞頻道
 江蘇國際
 江蘇城市
 江蘇影視
 江蘇教育
-江蘇新聞
 江蘇綜藝
 江蘇衛視
 江蘇衛視4K超高畫質

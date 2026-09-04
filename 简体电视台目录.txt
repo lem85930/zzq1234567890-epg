@@ -28,6 +28,7 @@ AWANI
 AXN
 AXN HD
 AXN香港
+Access eClutch
 Action Hollywood Movies
 Action Hollywood Movies (免费)
 Action爽片台
@@ -52,6 +53,9 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
+Astro Premier League 4
+Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -173,6 +177,7 @@ Citra Entertainment
 Classic电影台
 Cmusic
 Concerto (免费)
+Crema.TV
 Cricbuzz
 Crime + Investigation HD
 Crime Investigation
@@ -246,6 +251,7 @@ FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
 Family欢乐台
+Fashion TV
 Fashion TV HD
 Fear Factor
 Fight Sports
@@ -425,9 +431,11 @@ MezzoLive(免费)
 Moonbug
 Moonbug Kids
 Moonbug香港
+Motorvision
 Music TV
 Music TV HD
 Muslim TV
+My Cinema Europe
 My Cinema Europe HD 我的欧洲电影
 My Cinema Europe HD 我的欧洲电影有线
 MyVideo体育台
@@ -588,6 +596,8 @@ SUPER奖门人 (免费)
 SUPER惊 (免费)
 SUPER煲剧 (免费)
 SUPER识食 (免费)
+SeaVa Asia
+SeaVa Kids
 SiCAR爱车酷《9/4即将下架》
 Sindo News TV
 Sindo News TV HD
@@ -779,6 +789,7 @@ cgtn西班牙语
 cgtn阿拉伯语
 cinemalworld世界电影频道有线
 cmplus新加坡
+eClutch Live 2
 elta体育max 1
 elta体育max 2
 elta体育max 3
@@ -1446,13 +1457,13 @@ wedotv Movies HD
 汕尾新闻综合
 江苏休闲体育
 江苏体育休闲频道
+江苏公共新闻频道
 江苏卫视
 江苏卫视4K超高清
 江苏国际
 江苏城市
 江苏影视
 江苏教育
-江苏新闻
 江苏电视台国际频道 (免费)
 江苏综艺
 江西公共
