@@ -28,7 +28,6 @@ AWANI
 AXN
 AXN HD
 AXN香港
-Access eClutch
 Action Hollywood Movies
 Action Hollywood Movies (免费)
 Action爽片台
@@ -46,7 +45,6 @@ AsianFoodNetwork亚洲美食频道
 Asianet
 Asianet Movies
 Astro Badminton
-Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
@@ -177,7 +175,6 @@ Citra Entertainment
 Classic电影台
 Cmusic
 Concerto (免费)
-Crema.TV
 Cricbuzz
 Crime + Investigation HD
 Crime Investigation
@@ -251,7 +248,6 @@ FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
 Family欢乐台
-Fashion TV
 Fashion TV HD
 Fear Factor
 Fight Sports
@@ -431,11 +427,9 @@ MezzoLive(免费)
 Moonbug
 Moonbug Kids
 Moonbug香港
-Motorvision
 Music TV
 Music TV HD
 Muslim TV
-My Cinema Europe
 My Cinema Europe HD 我的欧洲电影
 My Cinema Europe HD 我的欧洲电影有线
 MyVideo体育台
@@ -597,8 +591,6 @@ SUPER奖门人 (免费)
 SUPER惊 (免费)
 SUPER煲剧 (免费)
 SUPER识食 (免费)
-SeaVa Asia
-SeaVa Kids
 Sindo News TV
 Sindo News TV HD
 Sky News HD新加坡版
@@ -789,7 +781,6 @@ cgtn西班牙语
 cgtn阿拉伯语
 cinemalworld世界电影频道有线
 cmplus新加坡
-eClutch Live 2
 elta体育max 1
 elta体育max 2
 elta体育max 3
@@ -999,6 +990,7 @@ wedotv Movies HD
 俏摩女抢头婚
 俗女养成记
 俗女养成记S1
+保定新闻综合
 信吉电视台
 信吉艺文台HD
 信大电视台
@@ -1162,6 +1154,10 @@ wedotv Movies HD
 哈哈台
 哈哈炫动
 哥布林杀手
+唐山公共
+唐山影视
+唐山新闻综合
+唐山生活服务
 唯一继承者
 唯心电视HD
 唯心电视台
@@ -1326,6 +1322,11 @@ wedotv Movies HD
 广西综艺旅游频道
 广西都市
 广西都市频道
+廉政英雄
+廊坊公共
+廊坊新闻
+张家口公共
+张家口新闻综合
 彩虹E台
 彩虹Movie台
 彩虹频道
@@ -1354,6 +1355,8 @@ wedotv Movies HD
 我的老师叫小贺
 我要【招架】一切～反误解的世界最强想成为冒险家～
 户外频道香港
+承德新闻综合
+承德旅游文化
 护宝联盟
 拥有超常技能的异世界流浪美食家
 掏掏新闻
@@ -1461,6 +1464,9 @@ wedotv Movies HD
 江西经济
 江西都市
 江门综合
+沧州公共
+沧州影视娱乐
+沧州新闻综合
 河北三农
 河北卫视
 河北少儿科教
@@ -1548,11 +1554,11 @@ wedotv Movies HD
 爱尔达ELTA.tv服务再升级! 寰宇新闻台、寰宇新闻台湾台、寰宇财经台、亚洲旅游台上线啦
 爱尔达Ginx电竞频道
 爱尔达INULTRA
-爱尔达Mezzo Live
 爱尔达PET CLUB TV
 爱尔达TRACE Sport Stars
 爱尔达TRACE Urban
 爱尔达Travel Channel
+爱尔达《火焰》柏林德意志歌剧院
 爱尔达亚洲U18青棒锦标赛 锁定爱尔达电视
 爱尔达亚洲旅游台
 爱尔达亚运前哨战 独家锁定爱尔达
@@ -1623,6 +1629,8 @@ wedotv Movies HD
 睛彩篮球
 睛彩青少
 短剧马拉松
+石家庄文化娱乐
+石家庄新闻综合
 福建少儿频道
 福建文旅体育
 福建新闻
@@ -1630,6 +1638,8 @@ wedotv Movies HD
 福建综合
 私藏浪漫
 秘境不思溢
+秦皇岛新闻综合
+秦皇岛民生
 空中英语教室
 空中英语教室HD频道
 第1商业台
@@ -1682,6 +1692,8 @@ wedotv Movies HD
 莲花卫视
 葬送的芙莉莲
 蜡笔小新(中文版)
+衡水新闻综合
+衡水经济科教
 西藏卫视
 视纳华仁纪实台HD
 视纳华仁纪实频道
@@ -1714,6 +1726,11 @@ wedotv Movies HD
 运通财经综合台
 进击的台湾
 遗憾拼图
+邢台城市生活
+邢台综合
+邯郸公共
+邯郸新闻综合
+邯郸科技教育
 都会台
 都市剧场
 酷洛米的缤纷旅程 (中文版)
