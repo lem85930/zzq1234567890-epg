@@ -51,9 +51,6 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
-Astro Premier League 4
-Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -1464,6 +1461,7 @@ wedotv Movies HD
 江西衛視
 江西都市
 江門綜合
+沙特職業足球聯賽 - 伊蒂哈德 對 艾納斯 (英文評述) (深夜1:55)
 河北三農
 河北少兒科教
 河北文旅體育
