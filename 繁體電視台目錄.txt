@@ -235,7 +235,6 @@ Euronews
 Eurosoprt HD
 Eurosport
 Euro歐風電影台
-FIBA世界盃女子籃球賽 - 義大利 對 美國 (英文評述) (深夜2:40)
 FIFA+
 FOOD TRAVEL
 FOX News
@@ -1753,6 +1752,7 @@ wedotv Movies HD
 雙子衛視
 雲南娛樂
 雲南康旅
+雲南影視
 雲南瀾湄國際衛視 (免費)
 雲南衛視
 雲南都市
