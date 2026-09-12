@@ -313,13 +313,13 @@ HOY 77
 HOY 78
 HUA HEE DAI
 HamiWBC1台
-Hami亚运1台
-Hami亚运热播台
 Hami体育1台
 Hami体育1台(免费)
 Hami体育2台
+Hami原音1台
 Hami大联盟1台
 Hami大联盟2台
+Hami热播台
 Hami足球1台
 Hanacaraka TV
 History
@@ -1750,6 +1750,7 @@ wedotv Movies HD
 队长小翼
 队长小翼(中文版)
 阳江-1
+阿根廷甲组足球联赛 - 防卫者 对 甘拿斯亚文度沙 (西班牙文评述) (早上6:10)
 陆贞传奇
 陕西体育休闲
 陕西农林
