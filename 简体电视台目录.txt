@@ -23,6 +23,9 @@ ARENA BOLA
 ARENA BOLA 2
 ARIRANG阿里郎频道
 ASG1
+ASG2
+ASG3
+ASG4
 ASMR行车纪录
 AURA
 AWANI
@@ -962,7 +965,6 @@ wedotv Movies HD
 云南卫视
 云南娱乐
 云南康旅
-云南影视
 云南澜湄国际卫视 (免费)
 云南都市
 云浮综合
@@ -1562,7 +1564,6 @@ wedotv Movies HD
 爱尔达TRACE Urban
 爱尔达Travel Channel
 爱尔达《火焰》柏林德意志歌剧院
-爱尔达亚洲U18青棒锦标赛 锁定爱尔达电视
 爱尔达亚洲旅游台
 爱尔达体育1台
 爱尔达体育2台
@@ -1588,6 +1589,7 @@ wedotv Movies HD
 爱尔达寰宇财经台
 爱尔达影剧台
 爱尔达影剧台HD
+爱尔达日本职业桌球 锁定爱尔达电视
 爱尔达日韩台
 爱尔达智林体育台
 爱尔达民视
@@ -1692,7 +1694,6 @@ wedotv Movies HD
 英超2台
 茂名文化生活
 茂名综合
-茶频道
 莲花卫视
 葬送的芙莉莲
 蜡笔小新(中文版)

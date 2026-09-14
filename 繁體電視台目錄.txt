@@ -23,6 +23,9 @@ ARENA BOLA
 ARENA BOLA 2
 ARIRANG阿里郎頻道
 ASG1
+ASG2
+ASG3
+ASG4
 ASMR行車紀錄
 AURA
 AWANI
@@ -1275,7 +1278,6 @@ wedotv Movies HD
 愛爾達TRACE Urban
 愛爾達Travel Channel
 愛爾達《火焰》柏林德意志歌劇院
-愛爾達亞洲U18青棒錦標賽 鎖定愛爾達電視
 愛爾達亞洲旅遊台
 愛爾達健美健身先生比基尼小姐 鎖定愛爾達
 愛爾達客家電視台
@@ -1285,6 +1287,7 @@ wedotv Movies HD
 愛爾達寵物運動台
 愛爾達影劇台
 愛爾達影劇台HD
+愛爾達日本職業桌球 鎖定愛爾達電視
 愛爾達日韓台
 愛爾達智林體育台
 愛爾達民視
@@ -1648,7 +1651,6 @@ wedotv Movies HD
 英超2台
 茂名文化生活
 茂名綜合
-茶頻道
 華藏衛星電視台
 華藏衛視HD
 華藝MBC綜合台有線
@@ -1759,7 +1761,6 @@ wedotv Movies HD
 雙子衛視
 雲南娛樂
 雲南康旅
-雲南影視
 雲南瀾湄國際衛視 (免費)
 雲南衛視
 雲南都市
