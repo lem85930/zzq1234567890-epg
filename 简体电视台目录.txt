@@ -317,6 +317,9 @@ Hami体育1台
 Hami体育1台(免费)
 Hami体育2台
 Hami原音1台
+Hami原音2台
+Hami原音3台
+Hami原音4台
 Hami大联盟1台
 Hami大联盟2台
 Hami热播台
@@ -699,7 +702,6 @@ UNIQUES
 UNIQUES HD
 VAANAVIL
 VINMEEN
-Vannathirai
 ViVa 1台
 Vijay TV HD
 Vision Prime
@@ -846,6 +848,7 @@ that's Rock (免费)
 trace sport star运动明星
 tvN
 tvN HD
+tvN HD新加坡版
 tvN Movies
 tvN Movies HD
 tvN有线
@@ -965,6 +968,7 @@ wedotv Movies HD
 云南卫视
 云南娱乐
 云南康旅
+云南影视
 云南澜湄国际卫视 (免费)
 云南都市
 云浮综合
@@ -1600,8 +1604,6 @@ wedotv Movies HD
 爱尔达综合台HD
 爱尔达镜电视新闻台
 爱尔达韩国娱乐台
-爱知‧名古屋亚运女子足球赛 - 中华台北 对 越南 (中文评述) (下午2:55)
-爱知‧名古屋亚运女子足球赛 - 北韩 对 孟加拉 (英文评述) (下午2:55)
 爱．回家SUPER煲 (免费)
 猎人(中文版)
 猪哥亮歌厅秀
@@ -1767,6 +1769,7 @@ wedotv Movies HD
 队长小翼
 队长小翼(中文版)
 阳江-1
+阿根廷甲组足球联赛 - 班菲特 对 巴拉卡斯中央 (西班牙文评述) (早上5:55)
 陆贞传奇
 陕西体育休闲
 陕西农林
