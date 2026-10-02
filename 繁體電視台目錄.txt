@@ -86,7 +86,6 @@ BloombergTV
 CARTOON NTWK
 CARTOONITO
 CARTOONITO HD
-CARTOONITO(免費)
 CATCH PLAY電影台
 CATCHPLAY電影台
 CBeebies
@@ -127,6 +126,7 @@ CNBC HD
 CNBC香港
 CNEX
 CNEX紀實頻道
+CNEX紀實頻道(免費)
 CNN
 CNN HD
 CNN International
@@ -194,7 +194,6 @@ Docsville (免費)
 DreamWorks
 DreamWorks HD
 DreamWorks 夢工廠動畫
-DreamWorks(免費)
 Dubai One
 EBS CHILD
 EBS EDUCATION
@@ -312,6 +311,7 @@ Hub Sports 2 HD
 Hub Sports 3 HD
 Hub VV Drama HD
 INULTRA
+INULTRA(免費)
 JET TV
 JOJO 的奇妙冒險
 JStar極限台電影頻道
@@ -383,7 +383,6 @@ Medici-arts HD
 Mezzo Live
 Mezzo Live HD
 MezzoLive
-MezzoLive(免費)
 Moonbug Kids
 Moonbug香港
 My Cinema Europe HD 我的歐洲電影
@@ -525,15 +524,15 @@ STAR VIJAY
 SUN MUSIC
 SUN TV
 SUPER FREE (免費)
-SUPER FUN (免費)
+SUPER FUN (免費)(10月12日6時起改為SUPER資訊娛樂 (免費))
 SUPER Kids Channel
 SUPER Music (免費)
 SUPER Sports (免費)
 SUPER亞視劇 (免費)
-SUPER煲劇 (免費)
-SUPER獎門人 (免費)
+SUPER煲劇 (免費)((10月12日6時起改為SUPER處境劇 (免費))
+SUPER獎門人 (免費)(10月12日6時起改為SUPER Game Show (免費))
 SUPER識食 (免費)
-SUPER驚 (免費)
+SUPER驚 (免費)(10月12日6時起改為SUPER靈異 (免費))
 Sky News HD新加坡版
 Sky News香港
 Smart 知識HD
@@ -825,6 +824,7 @@ wedotv Movies HD
 亞洲新聞台香港
 亞洲旅遊HD
 亞洲旅遊台
+亞洲旅遊台(免費)
 亞洲旅遊台有線
 亞洲綜合HD
 亞洲美食台香港
@@ -1160,7 +1160,7 @@ wedotv Movies HD
 愛爾達鏡電視新聞台
 愛爾達韓國娛樂台
 愛爾達體育 1 台
-愛爾達體育 2 台
+愛爾達體育 3 台
 愛爾達體育1台
 愛爾達體育2台
 愛爾達體育3台
@@ -1175,10 +1175,6 @@ wedotv Movies HD
 愛爾達體育MAX7台
 愛爾達體育MAX8台
 愛爾達體育MAX9台
-愛知‧名古屋亞運射箭 - 反曲弓男女團體、混合團體賽事 (上午10:00)
-愛知‧名古屋亞運電競 - 《英雄聯盟》決賽 - 中華台北 對 南韓 (上午11:00)
-愛知‧名古屋亞運高爾夫球 - 女子個人、團體第3輪 (早上8:19)
-愛知‧名古屋亞運高爾夫球 - 男子個人、團體第3輪 (早上5:30)
 愛．回家SUPER煲 (免費)
 戀人的謊言
 成人極品台
@@ -1458,7 +1454,6 @@ wedotv Movies HD
 緯來體育台
 罪案 + 偵緝香港
 罪案偵緝頻道
-罪案偵緝頻道(免費)
 罪案偵緝頻道HD
 罪案偵輯頻道
 美亞電影HD
@@ -1575,6 +1570,7 @@ wedotv Movies HD
 霹靂電視台
 青海衛視
 靖天中文台
+靖天中文台(免費)
 靖天卡通台
 靖天卡通台 HD
 靖天戲劇HD
