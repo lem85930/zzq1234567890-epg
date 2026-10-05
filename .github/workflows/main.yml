@@ -47,6 +47,9 @@ jobs:
         run: php epgnew.php
 
       # -------- 階段三：分析 EPG 數據並更新 README --------
+      - name: Install OpenCC
+        run: pip install opencc-python-reimplemented
+
       - name: Extract channel names, analyze, and update README
         run: |
           python <<'EOF'
@@ -55,6 +58,9 @@ jobs:
           from datetime import datetime
           import re
           import os
+          from opencc import OpenCC
+
+          cc = OpenCC('t2s')
 
           def analyze_epg_data(xml_file):
               try:
@@ -146,20 +152,22 @@ jobs:
 
               except Exception as e:
                   print(f"❌ 解析 {xml_file} 出错: {e}")
-                  return []   # 确保始终返回列表
+                  return []
 
           print("正在分析 EPG 數據...")
           tw_data = analyze_epg_data('twepg.xml')
           sw_data = analyze_epg_data('swepg.xml')
 
-          # 防御：确保数据不为 None
           if tw_data is None:
               tw_data = []
           if sw_data is None:
               sw_data = []
 
+          # 将简体数据中的频道名称统一转换为简体中文
+          for item in sw_data:
+              item['channel_name'] = cc.convert(item['channel_name'])
+
           def generate_files(data, prefix):
-              # data 应为列表
               table_data = {
                   'title': f'{prefix}列表',
                   'headers': ['频道ID', '频道名称', '节目数量', '天数', '时间范围', '状态'],
@@ -211,7 +219,11 @@ jobs:
         run: |
           python <<'EOF'
           import xml.etree.ElementTree as ET
-          def extract(xml, out):
+          from opencc import OpenCC
+
+          cc = OpenCC('t2s')
+
+          def extract(xml, out, is_simplified=False):
             try:
                 tree = ET.parse(xml)
                 root = tree.getroot()
@@ -224,15 +236,19 @@ jobs:
                     if not n:
                         ne = c.find('ns:display-name' if ns else 'display-name', ns)
                         n = ne.text.strip() if ne and ne.text else c.get('id')
-                    if n and n not in seen:
-                        seen.add(n)
-                        lines.append(n)
+                    if n:
+                        if is_simplified:
+                            n = cc.convert(n)
+                        if n not in seen:
+                            seen.add(n)
+                            lines.append(n)
                 with open(out, 'w', encoding='utf-8') as f:
                     f.write('\n'.join(lines))
             except Exception as e:
                 print(f"提取 {xml} 时出错: {e}")
-          extract('twepg.xml', '繁體電視台目錄.txt')
-          extract('swepg.xml', '简体电视台目录.txt')
+
+          extract('twepg.xml', '繁體電視台目錄.txt', is_simplified=False)
+          extract('swepg.xml', '简体电视台目录.txt', is_simplified=True)
           EOF
 
       # -------- 階段四：使用 curl 進行 SFTP 上傳到 OpenWrt (/www/) --------
