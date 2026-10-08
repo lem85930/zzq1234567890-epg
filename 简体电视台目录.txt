@@ -17,11 +17,6 @@ ARENA
 ARENA BOLA
 ARENA BOLA 2
 ARIRANG阿里郎頻道
-ASG1
-ASG2
-ASG3
-ASG4
-ASG5
 ASMR行車紀錄
 AURA
 AWANI
@@ -560,7 +555,6 @@ TV5MONDE
 TV5MONDE ASIE
 TV5MONDE STYLE HD 生活時尚
 TV5MONDE Style
-TV5Monde 法國電視台
 TVB CLASSIC
 TVB E-NEWS
 TVB Plus (免費)
@@ -1113,7 +1107,6 @@ wedotv Movies HD
 愛爾達PET CLUB TV
 愛爾達TRACE Sport Stars
 愛爾達TRACE Urban
-愛爾達Travel Channel
 愛爾達亞洲旅遊台
 愛爾達客家電視台
 愛爾達寰宇新聞台
@@ -1125,6 +1118,7 @@ wedotv Movies HD
 愛爾達日本職業桌球 鎖定愛爾達電視
 愛爾達日韓台
 愛爾達智林體育台
+愛爾達每週四晚上6點連播2集
 愛爾達民視
 愛爾達民視新聞台
 愛爾達民視第一台
@@ -1245,7 +1239,6 @@ wedotv Movies HD
 步步驚心
 武媚娘傳奇
 歷史頻道HD
-歷史高畫質頻道
 毛茸茸親子台
 民視
 民視HD
