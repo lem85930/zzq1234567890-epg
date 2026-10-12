@@ -36,14 +36,12 @@ AsianFoodNetwork亞洲美食頻道
 Asianet
 Asianet Movies
 Astro Badminton
-Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -1412,6 +1410,7 @@ wedotv Movies HD
 空中英語教室HD頻道
 第1商業台
 第1財經
+第61屆金鐘獎
 第一神拳
 第一財經
 第一財經直播
@@ -1550,7 +1549,6 @@ wedotv Movies HD
 雙子衛視
 雲南娛樂
 雲南康旅
-雲南影視
 雲南瀾湄國際衛視 (免費)
 雲南衛視
 雲南都市
