@@ -508,15 +508,15 @@ STAR VIJAY
 SUN MUSIC
 SUN TV
 SUPER FREE (免費)
-SUPER FUN (免費)(10月12日6時起改為SUPER資訊娛樂 (免費))
+SUPER Game Show (免費)
 SUPER Kids Channel
 SUPER Music (免費)
 SUPER Sports (免費)
 SUPER亞視劇 (免費)
-SUPER煲劇 (免費)((10月12日6時起改為SUPER處境劇 (免費))
-SUPER獎門人 (免費)(10月12日6時起改為SUPER Game Show (免費))
+SUPER處境劇 (免費)
 SUPER識食 (免費)
-SUPER驚 (免費)(10月12日6時起改為SUPER靈異 (免費))
+SUPER資訊娛樂 (免費)
+SUPER靈異 (免費)
 Sky News HD新加坡版
 Sky News香港
 Smart 知識HD
@@ -1549,6 +1549,7 @@ wedotv Movies HD
 雙子衛視
 雲南娛樂
 雲南康旅
+雲南影視
 雲南瀾湄國際衛視 (免費)
 雲南衛視
 雲南都市
