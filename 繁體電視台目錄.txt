@@ -266,10 +266,6 @@ HOY 77
 HOY 78
 HUA HEE DAI
 HamiWBC1台
-Hami原音1台
-Hami原音2台
-Hami原音3台
-Hami原音4台
 Hami大聯盟1台
 Hami大聯盟2台
 Hami熱播台
