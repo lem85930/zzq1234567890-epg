@@ -1,9 +1,11 @@
+11點熱吵店 - 家庭親子
+16個夏天
 1905App 熱血·影院
 1905App 環球經典
+86 -不存在的戰區-
 ABC AUSTRALIA
 ABC Australia 澳洲公廣頻道
 ABC Australia香港
-ABC澳大利亞電視台
 ADITHYA
 ADITHYA TV
 AEC
@@ -17,7 +19,6 @@ ARENA
 ARENA BOLA
 ARENA BOLA 2
 ARIRANG阿里郎頻道
-ASMR行車紀錄
 AURA
 AWANI
 AXN
@@ -25,6 +26,7 @@ AXN HD
 AXN香港
 Action Hollywood Movies
 Action Hollywood Movies (免費)
+Action爽片台
 Animax
 Animax HD
 Animax香港
@@ -36,7 +38,6 @@ AsianFoodNetwork亞洲美食頻道
 Asianet
 Asianet Movies
 Astro Badminton
-Astro Badminton 2
 Astro Daebak
 Astro FAM Time
 Astro Football
@@ -44,10 +45,13 @@ Astro Grandstand
 Astro Premier League
 Astro Premier League 2
 Astro Premier League 3
+Astro Premier League 4
+Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
 Astro Tennis
+Astro Tennis 2
 Astro Warna HD
 Astro30
 BBC EARTH
@@ -55,6 +59,7 @@ BBC Earth
 BBC Earth HD
 BBC Earth香港
 BBC LIFESTYLE
+BBC Lifestyle
 BBC Lifestyle HD
 BBC Lifestyle香港
 BBC NEWS HD
@@ -92,12 +97,6 @@ CCTV-4美洲頻道
 CCTV-4香港
 CCTV4
 CCTV6 電影頻道
-CDTV1
-CDTV2
-CDTV3
-CDTV4
-CDTV5
-CDTV6
 CELESTIAL
 CERIA
 CGTN
@@ -107,6 +106,7 @@ CGTN Documentary
 CHC 家庭影院
 CI
 CI 罪案偵查頻道
+CI 罪案偵緝頻道
 CINEMAX有線
 CINEMAX香港
 CITRA
@@ -121,6 +121,7 @@ CNBC Asia
 CNBC Asia 財經台
 CNBC HD
 CNBC香港
+CNEX
 CNEX紀實頻道
 CNEX紀實頻道(免費)
 CNN
@@ -152,11 +153,15 @@ CinemaWorld
 CinemaWorld HD
 CinemaWorld頻道
 Citra Entertainment
+Classic電影台
+Cmusic
 Concerto (免費)
 Cricbuzz
 Crime + Investigation HD
+Crime犯罪台
 DAZN 2
 DAZN 3
+DAZN體育台
 DISCOVERY
 DISCOVERY ASIA
 DMAX HD
@@ -167,7 +172,6 @@ DW
 DW (English)香港
 DW德國之聲
 Da Vinc香港
-DayStar
 Deal or No Deal
 Discovery
 Discovery Asia HD
@@ -186,7 +190,6 @@ Docsville (免費)
 DreamWorks
 DreamWorks HD
 DreamWorks 夢工廠動畫
-Dubai One
 EBS CHILD
 EBS EDUCATION
 EBS PLUS1
@@ -204,40 +207,35 @@ EVE有線
 EYE TV戲劇台HD
 EYE TV旅遊台HD
 Euronews
-Eurosoprt HD
 Eurosport
+Euro歐風電影台
 FIFA World Cup CH01
 FIFA+
-FOX 新聞台
+FRANCE 24
 FRANCE24
 FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
+Family歡樂台
 Fashion TV HD
 Fear Factor
-Focus 風采戲劇台
-Focus探索新知台
 Food Network 美食台HD
 Food Network香港
 France 24
 France 24 (French)
 France 24香港
-Freeman @台灣
 Fun探索娛樂台 4K
 GINX Esports TV
 GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
-GOLF PLUS
 GinxTV電競頻道
 Global Trekker
 Global Trekker HD
-Global Trekker探索世界頻道
 GlobalTrekker
 Globetrotter (免費)
-Golden 強片台
-Golden影迷台
+Good TV
 HAPPY頻道
 HBO
 HBO Family
@@ -261,19 +259,13 @@ HITS MOVIES
 HITS MOVIES HD新加坡版
 HITS NOW
 HITS有線
-HITS電影台
 HITS頻道
 HOT頻道
-HOY 76
-HOY 77
-HOY 78
 HUA HEE DAI
 HamiWBC1台
 Hami大聯盟1台
 Hami大聯盟2台
 Hami熱播台
-Hami美國職籃台
-Hami美國職籃台(免費)
 Hami足球1台
 Hami體育1台
 Hami體育1台(免費)
@@ -300,7 +292,6 @@ Hub VV Drama HD
 INULTRA
 INULTRA(免費)
 JET TV
-JOJO 的奇妙冒險
 JStar極限台電影頻道
 KBS 1
 KBS 2
@@ -311,13 +302,11 @@ KBS LIFE
 KBS NEWS
 KBS STORY
 KBS WORLD
-KBS World
 KBS World HD
 KBS World香港
 KBSW
-KBS韓國國際綜合高畫質頻道
 KIX
-KIX電影台
+KJ日韓電影台
 KLT-靖天國際台
 KLT-靖天國際台HD
 KPLUS
@@ -327,6 +316,7 @@ Kalaignar TV
 Karisma
 Kartoon Channel!
 K頻道
+LOVE NATURE
 LOVE NATURE 4K
 LOVE NATURE有線
 LOVENATURE
@@ -351,6 +341,7 @@ MBC music
 MBC net
 MBC on
 MCE 我的歐洲電影台
+MOMO TV
 MOMO綜合台
 MOMO親子台
 MOVIE MOVIE
@@ -371,14 +362,13 @@ Moonbug Kids
 Moonbug香港
 My Cinema Europe HD 我的歐洲電影
 My Cinema Europe HD 我的歐洲電影有線
-NANA
+MyVideo體育台
 NBA
 NHK WORLD PREMIUM
 NHK WORLD-JAPAN
 NHK WORLD-JAPA香港
 NHK World Premium
 NHK World-Japan
-NHK 日本國家電視台
 NHK新聞資訊台
 NHK新聞資訊台HD
 NICK JR
@@ -437,7 +427,6 @@ ONE HD
 OUTtv
 OUTtv HD
 OneTV 綜合頻道
-Outdoor Channel
 PET CLUB TV HD
 PET CLUB TV寵物頻道有線
 PETCLUBTV
@@ -458,13 +447,16 @@ RIA
 ROCK ACTION 搖滾電影
 ROCK Action
 ROCK Action HD
+ROCK Action 電影頻道
 ROCK ENTERTAINMENT
 ROCK EXTREME
-ROCK Entertainme
 ROCK Entertainment
 ROCK Entertainment HD新加坡版
+ROCK Entertainment 搖滾娛樂頻道
 ROCK Entertainment香港
 ROCK Extreme
+ROCK Global Trekker
+ROCK X EXTREME
 ROCK X Stream
 ROCK Xstream搖滾極限頻道
 ROCKAction
@@ -485,12 +477,6 @@ SBS funE
 SBS life
 SBS plus
 SBS sport
-SCTV2
-SCTV3
-SCTV4
-SCTV5
-SCTV7
-SCTV8
 SEA Games CH01
 SEA Games CH02
 SEA Games CH03
@@ -500,10 +486,7 @@ SEA Games CH06
 SHOWCASE
 SONY MAX
 SPOTV
-SPOTV   2
 SPOTV2
-SPY X FAMILY 間諜家家酒
-SPY X FAMILY 間諜家家酒(中文版)
 STAR PLUS
 STAR VIJAY
 SUN MUSIC
@@ -526,6 +509,7 @@ Sony Entertainment Televis新加坡版
 Sony MAX
 Sony SAB
 Sony TV (India)
+Sony Vizha
 Stadium Astro
 Star Bharat
 Star Gold
@@ -562,7 +546,12 @@ TVB Plus (免費)
 TVB XING HE
 TVBJ
 TVBS
+TVBS 42 歡樂台
+TVBS 55 新聞台
+TVBS 56
 TVBS ASIA
+TVBS NEWS-互動直播
+TVBS 政經說
 TVBS 新聞台
 TVBS亞洲新加坡版
 TVBS新聞
@@ -599,12 +588,12 @@ Vijay TV HD
 Viu 頻道
 ViuTV
 W-Sport
-WTO姐妹會
+Wahaha喜劇台
 Warner TV
 Warner TV HD
 WarnerTV
 Wild Stuff (免費)
-Yes娛樂
+Winner金獎台
 ZEE TAMIL
 Zee Cinema
 Zee Cinema HD
@@ -717,6 +706,7 @@ now直播
 now財經
 now體育
 now體育4k
+re: 從零開始的異世界生活
 that's 70s (免費)
 that's 80s (免費)
 that's 90s00s (免費)
@@ -732,13 +722,13 @@ video express rentnow
 viu6
 wedotv Movies
 wedotv Movies HD
-三十而已
+一步一腳印 - 人生故事
+七大罪
 三國
 三沙衛視香港
 三立iNEWS
 三立台灣台
 三立戲劇台HD
-三立新聞LIVE
 三立新聞iNEWS
 三立新聞台
 三立綜合台
@@ -747,34 +737,23 @@ wedotv Movies HD
 三立財經新聞台HD
 三立都會台
 三聖電視台
-上海教育
-世界第一等
 世界衛星電視台
 中台灣生活網頻道
 中國中央電視台中文國際頻道 (免費)
 中國中央電視台娛樂頻道 (免費)
 中國中央電視台戲曲頻道 (免費)
-中國交通頻道
-中國教育-2
-中國教育-4
 中國教育電視台-1
-中國旅遊大探索
 中國環球電視網香港
-中國美食大探索
 中國電影頻道
 中國電影頻道CCMC
 中天亞洲台
 中天亞洲台新加坡版
-中天亞洲精采台
-中天北美台
 中天娛樂台
 中天新聞台
 中天綜合台
 中央氣象署影音訊道
 中央電視台新聞頻道香港
 中央電視台綜合頻道 (港澳版) (免費)
-中山綜合
-中華一番(中文版)
 中華電視台
 中視
 中視HD
@@ -787,7 +766,9 @@ wedotv Movies HD
 中視經典台HD
 中視菁采台
 中視菁采台HD
-九九敬老頻道
+九州縹緲錄
+九條好漢在一班
+乾隆王朝
 亞洲劇台
 亞洲新聞台
 亞洲新聞台香港
@@ -799,34 +780,22 @@ wedotv Movies HD
 亞洲美食台香港
 亞洲美食頻道
 亞洲衛視
-人氣動漫預告
+亞藝華語台
 人間衛視
 人間衛視HD
-仁心俱樂部
-以愛為營
-佛山南海
-佛山綜合
-佛山順德
 佛衛慈悲台
 佛衛電視慈悲台
-俗女養成記
-保定新聞綜合
+俏摩女搶頭婚
+俗女養成記S1
 信吉藝文台HD
 信吉電視台
 信大電視台
-倚天屠龍記 2019
 倪珍播新聞
-優漫卡通
+健康2.0 - 居家與生活
 內蒙古衛視
-內蒙少兒
-內蒙文體娛樂
-內蒙新聞綜合
-內蒙經濟生活
-內蒙蒙語衛視
-內蒙農牧
 全大電視台
-全民星攻略
-全民星攻略 知識開箱
+全明星出發吧
+全明星觀察中
 全球財經網頻道
 八大優頻道
 八大娛樂台
@@ -835,6 +804,7 @@ wedotv Movies HD
 八大精彩台
 八大綜合台
 八大綜藝台
+八尺門的辯護人
 公共電視台
 公用頻道
 公視(HD)
@@ -846,14 +816,13 @@ wedotv Movies HD
 冠軍夢想台
 冠軍電視台
 冰火頻道
-刀劍神域(中文版)
+凡爾賽玫瑰
+刀劍神域
 創世電視 (免費)
-劉德華台
+加油喜事
 勁爆體育
-動漫秀場
 動物星球頻道
 動物星球頻道香港
-包青天 1993版
 北京衛視
 北京電視台國際頻道 (免費)
 十方法界電視台
@@ -883,58 +852,35 @@ wedotv Movies HD
 博斯魅力台
 博斯魅力網
 博斯魅力網有線
-卡酷少兒
 原住民族電視HD
 原住民族電視台
-去有風的地方
 古典音樂台
 古典音樂台HD
-台灣1001個故事
-台灣向前行
-台灣啟示錄
-台灣壹百種味道
 台灣戲劇HD
 台灣戲劇台
-台灣最前線
-台灣真善美
-台灣第一等
 台灣綜合台
 台灣藝術台
 台灣電視台
-台灣靈異事件
 台視HD
 台視主頻
+台視新聞
 台視新聞HD
 台視新聞台
 台視綜合
 台視綜合台
 台視財經HD
 台視財經台
-史上最強弟子兼一(中文版)
 吉林衛視
-吉視影視
-吉視生活
-吉視綜藝文化
-吉視都市
-吉視鄉村
-周星馳台
+向風而行
 咪咕體育
-咱的城 咱的市 咱台灣的味
-哆啦Ａ夢台
+哇!陳怡君
 哈哈台
-唐山公共
-唐山影視
-唐山新聞綜合
-唐山生活服務
+哥布林殺手
+唯一繼承者
 唯心電視HD
 唯心電視台
-啦啦隊獨家專訪
 喀秋莎
-嘉佳卡通
 四川衛視
-四川鄉村
-四海釣魚
-回到20歲
 國學頻道
 國會頻道1
 國會頻道1HD
@@ -943,30 +889,22 @@ wedotv Movies HD
 國會頻道2HD
 國會頻道2台
 國興衛視
-國色芳華
-國際大小事
-在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
-地球檔案庫
+在一起，就好
+地球黃金線 - 購車指南
+城市獵人
 壹電視新聞HD
 壹電視新聞台
 壹電視綜合 HD
 壹電視電影台HD
-夏日陽光海浪聲
-夢幻遊戲(中文版)
 大愛二台
 大愛二台HD
 大愛電視
 大愛電視HD
 大愛電視台
-大新聞大爆卦
 大灣區衛視香港
-大生意人
 大立電視台
 大立電視台 HD
-大胃王來了！
-大自然流水聲
-大輪迴
-天才衝衝衝
+天堂的微笑
 天映經典印尼
 天映經典台新加坡版
 天映經典新加坡
@@ -979,19 +917,13 @@ wedotv Movies HD
 天映頻道新加坡
 天映頻道新加坡版
 天映頻道馬來西亞
-天津影視
-天津教育
-天津文藝
-天津新聞
 天津衛視
-天津都市頻道
-天津體育
 天美麗電視台
 天良綜合台
 天良綜合台 HD
 奧林匹克官網直播
-女神蒙上眼
-好搭檔
+女人我最大 - 就是要變瘦
+女醫明妃傳
 好消息
 好消息2台
 好消息HD
@@ -999,30 +931,18 @@ wedotv Movies HD
 好消息二台HD
 好消息衛星電視台
 好萊塢電影台
-好運來
 威達超舜生活台
 娛樂新聞
 娛樂新聞台 (免費)
-安徽公共
 安徽廣播電視台國際頻道 (免費)
-安徽影視
-安徽經濟生活
-安徽綜藝體育
 安徽衛視
-安徽農業科教
-完美的家族
 客家電視HD
 客家電視台
-家庭理財
-家業
+家宴
 富立電視台
 富立電視台HD
-寧夏公共
-寧夏文旅
 寧夏衛視
 寰宇HD綜合
-寰宇全視界
-寰宇新聞
 寰宇新聞HD
 寰宇新聞台
 寰宇新聞台灣台
@@ -1042,22 +962,11 @@ wedotv Movies HD
 山東農科
 山東體育
 山東齊魯
-山西影視
-山西文體生活
-山西社會與法治
-山西經濟與科技
 山西衛視
-峨嵋電影
 幸福空間居家台
 廈門1
 廈門2
 廈門衛視
-廉政英雄
-廊坊公共
-廊坊新聞
-廣州南國都市4K
-廣州新聞
-廣州綜合
 廣東嘉佳卡通
 廣東大灣區衛視
 廣東大灣區衛視海外版
@@ -1074,137 +983,81 @@ wedotv Movies HD
 廣東體育
 廣西國際頻道
 廣西影影片道
-廣西影視
-廣西新聞
 廣西新聞頻道
 廣西樂思購頻道
-廣西綜藝
 廣西綜藝旅遊頻道
 廣西衛視
-廣西都市
 廣西都市頻道
-張家口公共
-張家口新聞綜合
 彩虹E台
 彩虹Movie台
 彩虹頻道
-彭博資訊
 彰化生活台
 影迷數位紀實台
 影迷數位紀實台HD
 影迷數位電影台
 影迷數位電影台HD
-徐海莉 Hailey
 德國之聲
-快樂垂釣
-怪奇研究室
-怪醫黑傑克TV(中文版)
-惠州綜合
-惠州都市生活
-愛爾達BWF世界羽球巡迴賽 全台獨家鎖定愛爾達
-愛爾達Ginx電競頻道
-愛爾達INULTRA
-愛爾達Mezzo Live
-愛爾達PET CLUB TV
-愛爾達TRACE Sport Stars
-愛爾達TRACE Urban
-愛爾達亞洲旅遊台
-愛爾達客家電視台
-愛爾達寰宇新聞台
-愛爾達寰宇新聞台灣台
-愛爾達寰宇財經台
+德國之聲電視台
 愛爾達寵物運動台
 愛爾達影劇台
 愛爾達影劇台HD
-愛爾達日本職業桌球 鎖定愛爾達電視
 愛爾達日韓台
-愛爾達智林體育台
-愛爾達每週四晚上6點連播2集
-愛爾達民視
-愛爾達民視新聞台
-愛爾達民視第一台
 愛爾達生活旅遊台
 愛爾達綜合台
 愛爾達綜合台HD
-愛爾達華視新聞資訊台
-愛爾達華視無線台
-愛爾達鏡電視新聞台
-愛爾達韓國娛樂台
-愛爾達體育 1 台
-愛爾達體育 3 台
 愛爾達體育1台
 愛爾達體育2台
 愛爾達體育3台
 愛爾達體育4台
-愛爾達體育MAX10台
 愛爾達體育MAX1台
 愛爾達體育MAX2台
 愛爾達體育MAX3台
 愛爾達體育MAX4台
-愛爾達體育MAX5台
-愛爾達體育MAX6台
-愛爾達體育MAX7台
-愛爾達體育MAX8台
-愛爾達體育MAX9台
 愛．回家SUPER煲 (免費)
+戀人的謊言
 成人極品台
 成人節目資訊
+我們與惡的距離S1
 我們這一家
-我的真朋友
-我的老師叫小賀
+我的明星村長
+我要【招架】一切～反誤解的世界最強想成為冒險家～
 戲曲台
 戶外頻道香港
-承德新聞綜合
-承德旅遊文化
-掏掏新聞
-揭陽綜合
-放鬆的爵士午後
-新兵日記
-新兵日記之特戰英雄
-新哆啦A夢(中文版)
-新哆啦A夢(中文版)2台
+擁有超常技能的異世界流浪美食家
+新哆啦A夢
 新唐人亞太台
 新天地民俗台
 新天地民俗台 HD
-新忍者哈特利
-新疆哈語
-新疆少兒
-新疆漢語
-新疆維語
 新疆衛視
-新疆體育
-新聞觀測站
 新視覺
 旅遊頻道香港
-早餐中國
 明珠台 (免費)
+時光之城
 時尚運動X
 智叻樂園
 智林體育HD
 智林體育台
 智林體育台有線
-書畫頻道
+暗殺教室
 曼迪日本台HD
-月曜1起玩
-有你的時光裡
-木曜4超玩 一日系列
+最強的身體
+末代廚娘
 朱元璋
-朱雀堂
 東南衛視
-東方影視
 東方衛視
 東方衛視國際版版
 東方衛視國際頻道 (免費)
-東方財經
 東森亞洲
 東森亞洲台新加坡版
-東森娛樂台
 東森幼幼台
 東森戲劇台
+東森新聞
 東森新聞台
 東森洋片台
 東森綜合台
+東森財經
 東森財經台
+東森財經新聞
 東森財經新聞台
 東森購物1台
 東森購物1台HD
@@ -1220,65 +1073,42 @@ wedotv Movies HD
 東森購物二台
 東森購物四台
 東森電影台
-東莞新聞綜合
 東風衛視台
 松視1台
 松視2台
 松視3台
 松視4台
-梅州客家生活
-梅州綜合
 梅迪奇藝術頻道有線
+楚喬傳
+極速悖論
 極限電影
 樂活頻道
-樂遊
-歐飛動作電影台
-歐飛電影台
-歡笑劇場
+機智校園生活-必勝高三生
+櫻蘭高校男公關部
+歡迎來到實力至上主義的教室
 正德電視台
 正德電視台HD
 步步驚心
 武媚娘傳奇
+歷史頻道
 歷史頻道HD
-毛茸茸親子台
+母儀天下
 民視
 民視HD
 民視台灣台
 民視台灣台HD
 民視影劇台
+民視新聞
 民視新聞台
 民視新聞台HD
 民視旅遊台
 民視無線台
-民視異言堂
 民視第一台
 民視第一台HD
 民視綜藝台
-水龍吟
-求索動物
-求索科學
-求索記錄
-汕尾新聞綜合
-汕頭新聞綜合
-汕頭經濟生活
-江蘇休閒體育
-江蘇國際
-江蘇城市
-江蘇影視
-江蘇教育
-江蘇新聞
-江蘇綜藝
 江蘇衛視
-江蘇衛視4K超高畫質
 江蘇電視台國際頻道 (免費)
-江蘇體育休閒頻道
-江西公共
-江西少兒
-江西新聞
-江西經濟
 江西衛視
-江西都市
-江門綜合
 河北三農
 河北少兒科教
 河北文旅體育
@@ -1297,9 +1127,6 @@ wedotv Movies HD
 河南都市
 河南鄉村
 河南電視劇
-法治天地
-法眼黑與白
-泰可愛旋風
 浙江國際
 浙江好易購
 浙江少兒
@@ -1312,50 +1139,22 @@ wedotv Movies HD
 浙江衛視香港
 浙江錢江都市
 浙江電視台國際頻道 (免費)
-海南少兒
-海南文旅
-海南自貿
 海南衛視
 海峽衛視
 海豚綜合台
-深圳寶安
-深圳少兒
 深圳衛視
 深圳衛視國際頻道 (免費)
 深圳衛視香港
-深圳都市
-深圳電視劇
-深圳龍崗
 深視少兒頻道
 深視都市頻道
 深視電視劇頻道
-清遠新聞綜合
 測試頻道
-湖北壟上
-湖北影視
-湖北教育
-湖北經濟
-湖北綜合
 湖北衛視
-湖南娛樂
-湖南愛晚
-湖南經視
 湖南衛視
-湖南電影
-湖南電視劇
 湖南電視台國際頻道 (免費)
-湛江新聞綜合
-溢起趣打卡
-溢遊未盡
-滄州公共
-滄州影視娛樂
-滄州新聞綜合
 滾動力 rollor
 滾動力 rollor有線
 滾動力rollor
-演唱會直擊
-潮州民生
-潮州綜合
 澳視澳門
 澳門綜藝
 澳門葡萄牙
@@ -1367,62 +1166,29 @@ wedotv Movies HD
 無線新聞(國際版)
 無線衛星亞洲台
 無線衛星新聞台
-無職轉生，到了異世界就拿出真本事
-燦如繁星
+無職轉生～到了異世界就拿出真本事～
 爆谷台
-獵人(中文版)
 玩家頻道
-珠海
-球王台
-球迷台
+班淑傳奇
 環宇財經
-環球旅遊
-甘肅公共
-甘肅少兒
-甘肅文化
-甘肅科教
 甘肅衛視
-生命的贏家
-生命電視台
-生活時尚
+甘霖體育台
 番薯衛星電視台
 番薯電視台
-療癒下雨聲
+看板人物
 看看新聞直播
 真情SUPER煲 (免費)
-真珠美人魚(中文版)
-睛彩廣場舞
-睛彩競技
-睛彩籃球
-睛彩青少
-短劇馬拉松
-石家莊文化娛樂
-石家莊新聞綜合
-福建少兒頻道
-福建文旅體育
-福建新聞
+真情部落格
 福建海峽衛視國際頻道 (免費)
-福建綜合
-私藏浪漫
-秘境不思溢
-秦皇島新聞綜合
-秦皇島民生
 空中英語教室
-空中英語教室HD頻道
 第1商業台
-第1財經
-第61屆金鐘獎
-第一神拳
-第一財經
 第一財經直播
 粵語片台
 精選動漫台
 紅豆2台
-紓壓雷雨聲
-紫金國際台
 經典卡通台
+經典杯子蛋糕
 經典電影台
-綜藝大集合
 緯來戲劇台
 緯來日本台
 緯來精采HD
@@ -1433,7 +1199,6 @@ wedotv Movies HD
 罪案 + 偵緝香港
 罪案偵緝頻道
 罪案偵緝頻道HD
-罪案偵輯頻道
 美亞電影HD
 美亞電影台
 美好1台HD
@@ -1445,12 +1210,8 @@ wedotv Movies HD
 翡翠台
 翡翠台 (免費)
 翡翠台(國際版)
-肇慶新聞綜合
-膽大黨
-良陳美錦
-英超1台
-英超2台
-茂名綜合
+翻牆的記憶
+聖女魔力無所不能
 華藏衛星電視台
 華藏衛視HD
 華藝MBC綜合台有線
@@ -1466,77 +1227,35 @@ wedotv Movies HD
 華視新聞資訊HD
 華視新聞資訊台
 華語劇台
-華語金選台
-葬送的芙莉蓮
-蓮花衛視
-蠟筆小新(中文版)
-衡水新聞綜合
-衡水經濟科教
 西藏衛視
 視納華仁紀實台HD
 視納華仁紀實頻道
-親子探索台
-詹姆士出走料理
 誠心電視台
-請問今晚住誰家
+護寶聯盟
+讓我看見你是誰
 豬哥亮歌廳秀
-豬哥壹級棒
-財富天下
-貴州大眾
-貴州影視
-貴州生態
-貴州科教
 貴州衛視
-超人力霸王劇場版
-超人力霸王台
 超視
 車迷TV
 車迷TV HD
 軍師聯盟
-軍師聯盟2 虎嘯龍吟
-進擊的台灣
-遊戲風雲
 運通財經綜合台
-達摩本草 x 立適康
 達文西頻道
 達文西頻道HD
-遼寧公共
-遼寧北方
-遼寧影視劇
-遼寧生活
-遼寧經濟
+遺憾拼圖
 遼寧衛視
-遼寧都市
-遼寧青少
-遼寧體育
-邢台城市生活
-邢台綜合
-邯鄲公共
-邯鄲新聞綜合
-邯鄲科技教育
-都市劇場
 都會台
-鄉民大學問
-酷洛米的繽紛旅程 (中文版)
-醫師好辣
+酸甜之味
 采昌影劇台
 采昌影劇台HD
-重慶少兒
-重慶影視
-重慶新聞
-重慶新農村
-重慶社會與法
-重慶紅巖文化
-重慶紅葉
 重慶衛視
 重溫經典頻道
 金光布袋戲
-金色學堂
-金鷹卡通
-金鷹紀實
-鋼之鍊金術師
-錦繡安寧
+錦衣之下
+錦衣夜行
 鏡電視新聞台
+間諜家家酒
+關於我轉生變成史萊姆這檔事
 陝西新聞資訊
 陝西秦腔頻道
 陝西移動電視
@@ -1545,21 +1264,15 @@ wedotv Movies HD
 陝西都市青春
 陝西銀齡頻道
 陝西體育休閒
-陽江-1
-隊長小翼(中文版)
+陸貞傳奇
+隊長小翼
+雍正王朝
 雙子衛視
-雲南娛樂
-雲南康旅
-雲南影視
 雲南瀾湄國際衛視 (免費)
 雲南衛視
-雲南都市
-雲浮綜合
 電影原聲台CMusic
 霹靂電視台
-青海經視
 青海衛視
-青海都市
 靖天中文台
 靖天中文台(免費)
 靖天卡通台
@@ -1590,49 +1303,33 @@ wedotv Movies HD
 靖洋戲劇HD
 靖洋戲劇台
 非凡商業台
-非凡大探索
+非凡新聞
 非凡新聞台
+靠廢柴技能【狀態異常】成為最強的我將蹂躪一切
 韓國娛樂KMTV
 韓國娛樂台 KMTV
 韓國娛樂台KMTV HD
 韶華若錦
-韶關新聞綜合
-頭腦共助
-饕客揪愛吃
-香港天王台
-香港電台31
-香港電台32
-香港電台33
-香港電台34
-香港電台35
+風起西州
+食尚玩家 - 熱血48小時
+香格里拉・開拓異境~糞作獵手挑戰神作~
 香蕉台
 驚豔成人電影台
-高畫質生活時光
 高雄都會台
 高點育樂台
 高點電視台
-鬼話連篇
 魅力足球
 鳳凰中文
 鳳凰衛視中文台
-鳳凰衛視資訊台
-鳳凰衛視香港台
 鳳凰資訊
 鳳凰香港
 麥卡貝綜藝
-麥卡貝網路電視
+麥哲倫
 麥哲倫頻道
 麥哲倫頻道 HD
-黃金歲月
 黃金翡翠台 (免費)
 黃金華劇台
-黑龍江少兒
-黑龍江影視
-黑龍江文體
-黑龍江新聞法治
 黑龍江衛視
-黑龍江農業科教
-黑龍江都市
 龍華偶像
 龍華偶像HD
 龍華偶像台
@@ -1653,3 +1350,4 @@ wedotv Movies HD
 龍華電影
 龍華電影HD
 龍華電影台
+Ａ咖的路
