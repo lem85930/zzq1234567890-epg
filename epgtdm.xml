@@ -26,7 +26,6 @@
   </channel>
   <programme start="20261101070000 +0800" stop="20261101083500 +0800" channel="澳視澳門 91台">
     <title lang="zh">孺子可教也</title>
-    <live/>
   </programme>
   <programme start="20261101083500 +0800" stop="20261101090000 +0800" channel="澳視澳門 91台">
     <title lang="zh">趨記茶餐廳</title>
@@ -45,6 +44,7 @@
   </programme>
   <programme start="20261101103000 +0800" stop="20261101111000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播財經雜誌</title>
+    <live/>
   </programme>
   <programme start="20261101111000 +0800" stop="20261101111500 +0800" channel="澳視澳門 91台">
     <title lang="zh">TDM 新視點</title>
@@ -414,7 +414,6 @@
   </programme>
   <programme start="20261101073200 +0800" stop="20261101074500 +0800" channel="澳門資訊 94台">
     <title lang="zh">自在練瑜伽</title>
-    <live/>
   </programme>
   <programme start="20261101074500 +0800" stop="20261101080000 +0800" channel="澳門資訊 94台">
     <title lang="zh">心靈手語</title>
@@ -439,6 +438,7 @@
   </programme>
   <programme start="20261101103000 +0800" stop="20261101110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261101110000 +0800" stop="20261101111200 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -721,6 +721,7 @@
   </programme>
   <programme start="20261101100000 +0800" stop="20261101121500 +0800" channel="澳門體育 93台">
     <title lang="zh">2026温布頓網球錦標賽：混雙決賽</title>
+    <live/>
   </programme>
   <programme start="20261101121500 +0800" stop="20261101130000 +0800" channel="澳門體育 93台">
     <title lang="zh">競健群英2026</title>
@@ -829,6 +830,7 @@
   </programme>
   <programme start="20261101100000 +0800" stop="20261101130000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 偽鈔者之末路</title>
+    <live/>
   </programme>
   <programme start="20261101130000 +0800" stop="20261101160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 深潛</title>
@@ -961,7 +963,6 @@
   </programme>
   <programme start="20261101073000 +0800" stop="20261101080000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">英語新聞</title>
-    <live/>
   </programme>
   <programme start="20261101080000 +0800" stop="20261101081000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">時局綜觀-英文字幕版</title>
@@ -983,6 +984,7 @@
   </programme>
   <programme start="20261101103500 +0800" stop="20261101110500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">跟我走吧朋友</title>
+    <live/>
   </programme>
   <programme start="20261101110500 +0800" stop="20261101113500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">白牛“大使”</title>

@@ -3,6 +3,9 @@
   <channel id="看看新聞直播">
     <display-name lang="zh">看看新聞直播</display-name>
   </channel>
+  <channel id="">
+    <display-name lang="">上海東方衛視</display-name>
+  </channel>
   <channel id="澳視澳門 91台">
     <display-name lang="zh">澳視澳門 91台</display-name>
   </channel>
@@ -4605,25 +4608,29 @@
   <channel id="Cricbuzz">
     <display-name lang="">Cricbuzz</display-name>
   </channel>
-  <programme start="20261101100000 +0800" stop="20261101110000 +0800" channel="看看新聞直播">
-    <title lang="zh">上海這一刻" loading="lazy" decoding="async</title>
-    <desc lang="zh">上海這一刻" loading="lazy" decoding="async </desc>
+  <programme start="20261101100000 +0800" stop="20261101130000 +0800" channel="看看新聞直播">
+    <title lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 上海國際魔術周魔術大師互動秀</title>
+    <desc lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 上海國際魔術周魔術大師互動秀</desc>
   </programme>
   <programme start="20261101130000 +0800" stop="20261101140000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+    <title lang="zh">胃腸腫瘤圍手術期，外科醫生怎麼治</title>
+    <desc lang="zh">胃腸腫瘤圍手術期，外科醫生怎麼治</desc>
   </programme>
-  <programme start="20261101140000 +0800" stop="20261101150000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+  <programme start="20261101140000 +0800" stop="20261101141000 +0800" channel="看看新聞直播">
+    <title lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 德國燃動提線木偶劇《奇幻旅行箱》</title>
+    <desc lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 德國燃動提線木偶劇《奇幻旅行箱》</desc>
   </programme>
-  <programme start="20261101141000 +0800" stop="20261101151000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+  <programme start="20261101141000 +0800" stop="20261101160000 +0800" channel="看看新聞直播">
+    <title lang="zh">重視胃癌早篩：理清胃癌的診斷與治療抉擇</title>
+    <desc lang="zh">重視胃癌早篩：理清胃癌的診斷與治療抉擇</desc>
   </programme>
-  <programme start="20261101190000 +0800" stop="20261101200000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+  <programme start="20261101190000 +0800" stop="20261101220000 +0800" channel="看看新聞直播">
+    <title lang="zh">名醫話養生｜中國人死亡的“頭號殺手”不是癌症而是它！</title>
+    <desc lang="zh">名醫話養生｜中國人死亡的“頭號殺手”不是癌症而是它！</desc>
+  </programme>
+  <programme start="20261102190000 +0800" stop="20261102200000 +0800" channel="看看新聞直播">
+    <title lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</title>
+    <desc lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</desc>
   </programme>
   <programme start="20261101070000 +0800" stop="20261101083500 +0800" channel="澳視澳門 91台">
     <title lang="zh">孺子可教也</title>
@@ -33850,25 +33857,29 @@
     <title lang="zh">精彩節目</title>
     <desc lang="zh">海峽衛視 - 精彩節目</desc>
   </programme>
-  <programme start="20261101100000 +0800" stop="20261101110000 +0800" channel="看看新聞直播">
-    <title lang="zh">上海這一刻" loading="lazy" decoding="async</title>
-    <desc lang="zh">上海這一刻" loading="lazy" decoding="async </desc>
+  <programme start="20261101100000 +0800" stop="20261101130000 +0800" channel="看看新聞直播">
+    <title lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 上海國際魔術周魔術大師互動秀</title>
+    <desc lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 上海國際魔術周魔術大師互動秀</desc>
   </programme>
   <programme start="20261101130000 +0800" stop="20261101140000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+    <title lang="zh">胃腸腫瘤圍手術期，外科醫生怎麼治</title>
+    <desc lang="zh">胃腸腫瘤圍手術期，外科醫生怎麼治</desc>
   </programme>
-  <programme start="20261101140000 +0800" stop="20261101150000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+  <programme start="20261101140000 +0800" stop="20261101141000 +0800" channel="看看新聞直播">
+    <title lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 德國燃動提線木偶劇《奇幻旅行箱》</title>
+    <desc lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 德國燃動提線木偶劇《奇幻旅行箱》</desc>
   </programme>
-  <programme start="20261101141000 +0800" stop="20261101151000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+  <programme start="20261101141000 +0800" stop="20261101160000 +0800" channel="看看新聞直播">
+    <title lang="zh">重視胃癌早篩：理清胃癌的診斷與治療抉擇</title>
+    <desc lang="zh">重視胃癌早篩：理清胃癌的診斷與治療抉擇</desc>
   </programme>
-  <programme start="20261101190000 +0800" stop="20261101200000 +0800" channel="看看新聞直播">
-    <title lang="zh">預告</title>
-    <desc lang="zh">預告 </desc>
+  <programme start="20261101190000 +0800" stop="20261101220000 +0800" channel="看看新聞直播">
+    <title lang="zh">名醫話養生｜中國人死亡的“頭號殺手”不是癌症而是它！</title>
+    <desc lang="zh">名醫話養生｜中國人死亡的“頭號殺手”不是癌症而是它！</desc>
+  </programme>
+  <programme start="20261102190000 +0800" stop="20261102200000 +0800" channel="看看新聞直播">
+    <title lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</title>
+    <desc lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</desc>
   </programme>
   <programme start="20261101040000 +0800" stop="20261101055959 +0800" channel="TVBS 55 新聞台">
     <title>新聞夜視界</title>
