@@ -3,8 +3,29 @@
   <channel id="看看新聞直播">
     <display-name lang="zh">看看新聞直播</display-name>
   </channel>
-  <channel id="">
+  <channel id="上海東方衛視">
     <display-name lang="">上海東方衛視</display-name>
+  </channel>
+  <channel id="上海新聞綜合">
+    <display-name lang="">上海新聞綜合</display-name>
+  </channel>
+  <channel id="上海魔都眼">
+    <display-name lang="">上海魔都眼</display-name>
+  </channel>
+  <channel id="上海第一財經">
+    <display-name lang="">上海第一財經</display-name>
+  </channel>
+  <channel id="上海新紀實">
+    <display-name lang="">上海新紀實</display-name>
+  </channel>
+  <channel id="上海五星體育">
+    <display-name lang="">上海五星體育</display-name>
+  </channel>
+  <channel id="上海都市頻道">
+    <display-name lang="">上海都市頻道</display-name>
+  </channel>
+  <channel id="上海哈哈炫動">
+    <display-name lang="">上海哈哈炫動</display-name>
   </channel>
   <channel id="澳視澳門 91台">
     <display-name lang="zh">澳視澳門 91台</display-name>
@@ -131,6 +152,33 @@
   </channel>
   <channel id="江蘇國際">
     <display-name lang="zh">江蘇國際</display-name>
+  </channel>
+  <channel id="山東衛視">
+    <display-name lang="zh">山東衛視</display-name>
+  </channel>
+  <channel id="山東新聞頻道">
+    <display-name lang="zh">山東新聞頻道</display-name>
+  </channel>
+  <channel id="齊魯頻道">
+    <display-name lang="zh">齊魯頻道</display-name>
+  </channel>
+  <channel id="山東生活頻道">
+    <display-name lang="zh">山東生活頻道</display-name>
+  </channel>
+  <channel id="山東體育休閒頻道">
+    <display-name lang="zh">山東體育休閒頻道</display-name>
+  </channel>
+  <channel id="山東綜藝頻道">
+    <display-name lang="zh">山東綜藝頻道</display-name>
+  </channel>
+  <channel id="山東農科頻道">
+    <display-name lang="zh">山東農科頻道</display-name>
+  </channel>
+  <channel id="山東文旅頻道">
+    <display-name lang="zh">山東文旅頻道</display-name>
+  </channel>
+  <channel id="山東少兒頻道">
+    <display-name lang="zh">山東少兒頻道</display-name>
   </channel>
   <channel id="TVBS新聞台">
     <display-name lang="zh">TVBS新聞台</display-name>
@@ -797,9 +845,6 @@
   </channel>
   <channel id="河北衛視">
     <display-name lang="zh">河北衛視</display-name>
-  </channel>
-  <channel id="山東衛視">
-    <display-name lang="zh">山東衛視</display-name>
   </channel>
   <channel id="天津衛視">
     <display-name lang="zh">天津衛視</display-name>
@@ -4632,6 +4677,747 @@
     <title lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</title>
     <desc lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</desc>
   </programme>
+  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（15）</title>
+  </programme>
+  <programme start="20261101000500 +0800" stop="20261101004700 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（16）</title>
+  </programme>
+  <programme start="20261101004700 +0800" stop="20261101012900 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（17）</title>
+  </programme>
+  <programme start="20261101012900 +0800" stop="20261101021100 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（18）</title>
+  </programme>
+  <programme start="20261101021100 +0800" stop="20261101025300 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（19）</title>
+  </programme>
+  <programme start="20261101025300 +0800" stop="20261101033500 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（20）</title>
+  </programme>
+  <programme start="20261101033500 +0800" stop="20261101042000 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（21）</title>
+  </programme>
+  <programme start="20261101042000 +0800" stop="20261101050300 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（22）</title>
+  </programme>
+  <programme start="20261101050300 +0800" stop="20261101054500 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（23）</title>
+  </programme>
+  <programme start="20261101054500 +0800" stop="20261101062700 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《南來北往》（24）</title>
+  </programme>
+  <programme start="20261101062700 +0800" stop="20261101070000 +0800" channel="上海東方衛視">
+    <title>紀錄片：樹說中國（5）最浪漫的金黃銀杏</title>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101085900 +0800" channel="上海東方衛視">
+    <title>中華人民共和國國歌＋看東方</title>
+  </programme>
+  <programme start="20261101085900 +0800" stop="20261101090500 +0800" channel="上海東方衛視">
+    <title>天氣預報</title>
+  </programme>
+  <programme start="20261101090500 +0800" stop="20261101094600 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《別對愛撒謊》（12）</title>
+  </programme>
+  <programme start="20261101094600 +0800" stop="20261101102800 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《別對愛撒謊》（13）</title>
+  </programme>
+  <programme start="20261101102800 +0800" stop="20261101111700 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《別對愛撒謊》（14）</title>
+  </programme>
+  <programme start="20261101111700 +0800" stop="20261101120000 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《別對愛撒謊》（15）</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101124000 +0800" channel="上海東方衛視">
+    <title>環球交叉點</title>
+  </programme>
+  <programme start="20261101124000 +0800" stop="20261101132500 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《雁回時》（29）</title>
+  </programme>
+  <programme start="20261101132500 +0800" stop="20261101141000 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（1）</title>
+  </programme>
+  <programme start="20261101141000 +0800" stop="20261101145800 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（2）</title>
+  </programme>
+  <programme start="20261101145800 +0800" stop="20261101154300 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（3）</title>
+  </programme>
+  <programme start="20261101154300 +0800" stop="20261101162300 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（4）</title>
+  </programme>
+  <programme start="20261101162300 +0800" stop="20261101170200 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（5）</title>
+  </programme>
+  <programme start="20261101170200 +0800" stop="20261101173900 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（6）</title>
+  </programme>
+  <programme start="20261101173900 +0800" stop="20261101180000 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《翹楚》（7）上</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101185700 +0800" channel="上海東方衛視">
+    <title>東方新聞</title>
+  </programme>
+  <programme start="20261101185700 +0800" stop="20261101190000 +0800" channel="上海東方衛視">
+    <title>天氣預報</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101193100 +0800" channel="上海東方衛視">
+    <title>轉（中央台）新聞聯播</title>
+  </programme>
+  <programme start="20261101193100 +0800" stop="20261101201600 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《小城良方》（5）</title>
+  </programme>
+  <programme start="20261101201600 +0800" stop="20261101210300 +0800" channel="上海東方衛視">
+    <title>電視連續劇：《小城良方》（6）</title>
+  </programme>
+  <programme start="20261101210300 +0800" stop="20261101222600 +0800" channel="上海東方衛視">
+    <title>聽，誰在唱歌第二季（4）</title>
+  </programme>
+  <programme start="20261101222600 +0800" stop="20261101230600 +0800" channel="上海東方衛視">
+    <title>天真一代（12）</title>
+  </programme>
+  <programme start="20261101230600 +0800" stop="20261102000000 +0800" channel="上海東方衛視">
+    <title>聽，誰在唱歌第二季（4）</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101003300 +0800" channel="上海新聞綜合">
+    <title>32集連續劇：一代匠師（30）</title>
+  </programme>
+  <programme start="20261101003300 +0800" stop="20261101011400 +0800" channel="上海新聞綜合">
+    <title>32集連續劇：一代匠師（31）</title>
+  </programme>
+  <programme start="20261101011400 +0800" stop="20261101060100 +0800" channel="上海新聞綜合">
+    <title>祝您晚安</title>
+  </programme>
+  <programme start="20261101060100 +0800" stop="20261101063000 +0800" channel="上海新聞綜合">
+    <title>錨點（88）：幹細胞造血，我們何時能用上？</title>
+  </programme>
+  <programme start="20261101063000 +0800" stop="20261101070000 +0800" channel="上海新聞綜合">
+    <title>海外路路通（560）　對話文理學院招生官</title>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101085500 +0800" channel="上海新聞綜合">
+    <title>上海早晨</title>
+  </programme>
+  <programme start="20261101085500 +0800" stop="20261101090500 +0800" channel="上海新聞綜合">
+    <title>好物齊刷刷</title>
+  </programme>
+  <programme start="20261101090500 +0800" stop="20261101095000 +0800" channel="上海新聞綜合">
+    <title>45集連續劇：胭脂（5）</title>
+  </programme>
+  <programme start="20261101095000 +0800" stop="20261101103500 +0800" channel="上海新聞綜合">
+    <title>45集連續劇：胭脂（6）</title>
+  </programme>
+  <programme start="20261101103500 +0800" stop="20261101110500 +0800" channel="上海新聞綜合">
+    <title>下一站（245）：＂象＂往的生活</title>
+  </programme>
+  <programme start="20261101110500 +0800" stop="20261101114400 +0800" channel="上海新聞綜合">
+    <title>中國考古報道（131）</title>
+  </programme>
+  <programme start="20261101114400 +0800" stop="20261101115900 +0800" channel="上海新聞綜合">
+    <title>超級看看看—古裝修復團隊</title>
+  </programme>
+  <programme start="20261101115900 +0800" stop="20261101123000 +0800" channel="上海新聞綜合">
+    <title>2026執牛耳者（22）：周鵬</title>
+  </programme>
+  <programme start="20261101123000 +0800" stop="20261101125500 +0800" channel="上海新聞綜合">
+    <title>海外路路通（560）　對話文理學院招生官</title>
+  </programme>
+  <programme start="20261101125500 +0800" stop="20261101130000 +0800" channel="上海新聞綜合">
+    <title>好物齊刷刷</title>
+  </programme>
+  <programme start="20261101130000 +0800" stop="20261101134800 +0800" channel="上海新聞綜合">
+    <title>32集連續劇：一代匠師（32）大結局</title>
+  </programme>
+  <programme start="20261101134800 +0800" stop="20261101143500 +0800" channel="上海新聞綜合">
+    <title>40集連續劇：南洋女兒情（1）</title>
+  </programme>
+  <programme start="20261101143500 +0800" stop="20261101152300 +0800" channel="上海新聞綜合">
+    <title>40集連續劇：南洋女兒情（2）</title>
+  </programme>
+  <programme start="20261101152300 +0800" stop="20261101162500 +0800" channel="上海新聞綜合">
+    <title>40集連續劇：南洋女兒情（3）</title>
+  </programme>
+  <programme start="20261101162500 +0800" stop="20261101163000 +0800" channel="上海新聞綜合">
+    <title>逛吃大上海—楓涇丁蹄</title>
+  </programme>
+  <programme start="20261101163000 +0800" stop="20261101165800 +0800" channel="上海新聞綜合">
+    <title>下一站（245）：＂象＂往的生活</title>
+  </programme>
+  <programme start="20261101165800 +0800" stop="20261101172900 +0800" channel="上海新聞綜合">
+    <title>摩登廚房（188）</title>
+  </programme>
+  <programme start="20261101172900 +0800" stop="20261101183000 +0800" channel="上海新聞綜合">
+    <title>新聞坊</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101191500 +0800" channel="上海新聞綜合">
+    <title>新聞報道　新聞透視　觀眾中來　天氣預報</title>
+  </programme>
+  <programme start="20261101191500 +0800" stop="20261101194000 +0800" channel="上海新聞綜合">
+    <title>愛上海（93）：北京人藝解讀《哈姆雷特》的兩種方式</title>
+  </programme>
+  <programme start="20261101194000 +0800" stop="20261101194800 +0800" channel="上海新聞綜合">
+    <title>好物齊刷刷</title>
+  </programme>
+  <programme start="20261101194800 +0800" stop="20261101203200 +0800" channel="上海新聞綜合">
+    <title>45集連續劇：胭脂（34）</title>
+  </programme>
+  <programme start="20261101203200 +0800" stop="20261101211100 +0800" channel="上海新聞綜合">
+    <title>45集連續劇：胭脂（35）</title>
+  </programme>
+  <programme start="20261101211100 +0800" stop="20261101212600 +0800" channel="上海新聞綜合">
+    <title>好物齊刷刷</title>
+  </programme>
+  <programme start="20261101212600 +0800" stop="20261101213000 +0800" channel="上海新聞綜合">
+    <title>《新聞夜線》天氣預報</title>
+  </programme>
+  <programme start="20261101213000 +0800" stop="20261101220000 +0800" channel="上海新聞綜合">
+    <title>新聞夜線</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101223000 +0800" channel="上海新聞綜合">
+    <title>尋味（290）“申城秋實”第二集：秋穗凝紅</title>
+  </programme>
+  <programme start="20261101223000 +0800" stop="20261101231100 +0800" channel="上海新聞綜合">
+    <title>32集連續劇：一代匠師（32）大結局</title>
+  </programme>
+  <programme start="20261101231100 +0800" stop="20261101235300 +0800" channel="上海新聞綜合">
+    <title>40集連續劇：南洋女兒情（1）</title>
+  </programme>
+  <programme start="20261101235300 +0800" stop="20261102000000 +0800" channel="上海新聞綜合">
+    <title>40集連續劇：南洋女兒情（2）</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101003500 +0800" channel="上海第一財經">
+    <title>價值投研社－市場深度調整　科技板塊估值迴歸　如何應對？</title>
+  </programme>
+  <programme start="20261101003500 +0800" stop="20261101010500 +0800" channel="上海第一財經">
+    <title>兩說（78）：追光：視覺腦機介面的中國突破</title>
+  </programme>
+  <programme start="20261101010500 +0800" stop="20261101013500 +0800" channel="上海第一財經">
+    <title>《創時代－引領區觀察》“全鏈並進　智藝雙修“浦東AIGC讓想像力成為生產力（上）</title>
+  </programme>
+  <programme start="20261101013500 +0800" stop="20261101022300 +0800" channel="上海第一財經">
+    <title>《第六交易日》</title>
+  </programme>
+  <programme start="20261101022300 +0800" stop="20261101060500 +0800" channel="上海第一財經">
+    <title>祝您晚安</title>
+  </programme>
+  <programme start="20261101060500 +0800" stop="20261101064000 +0800" channel="上海第一財經">
+    <title>陸家嘴金融沙龍2026年第37期　：AI時代金融基礎設施的創新與信創實踐</title>
+  </programme>
+  <programme start="20261101064000 +0800" stop="20261101070000 +0800" channel="上海第一財經">
+    <title>《新定位　新徵程　“十五五”規劃下的券商使命》西南證券的“重慶辨識度”是怎麼煉成的</title>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101072800 +0800" channel="上海第一財經">
+    <title>《創時代－引領區觀察》“全鏈並進　智藝雙修“浦東AIGC讓想像力成為生產力（下）</title>
+  </programme>
+  <programme start="20261101072800 +0800" stop="20261101082500 +0800" channel="上海第一財經">
+    <title>“聚力十五五”：科創策源力如何鍛造上海未來產業新優勢丨數新風</title>
+  </programme>
+  <programme start="20261101082500 +0800" stop="20261101090000 +0800" channel="上海第一財經">
+    <title>中國經濟論壇（1）：科技創新：從技術突破到規模化價值</title>
+  </programme>
+  <programme start="20261101090000 +0800" stop="20261101095000 +0800" channel="上海第一財經">
+    <title>《第六交易日》</title>
+  </programme>
+  <programme start="20261101095000 +0800" stop="20261101102000 +0800" channel="上海第一財經">
+    <title>兩說（78）：追光：視覺腦機介面的中國突破</title>
+  </programme>
+  <programme start="20261101102000 +0800" stop="20261101111900 +0800" channel="上海第一財經">
+    <title>與AI共存的未來：愛、陪伴、機器人丨2026世界人工智慧大會</title>
+  </programme>
+  <programme start="20261101111900 +0800" stop="20261101112500 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版01得斯威：未來，從上海港出發》</title>
+  </programme>
+  <programme start="20261101112500 +0800" stop="20261101115000 +0800" channel="上海第一財經">
+    <title>《懂行｜國產算力》智算重塑產業增長極</title>
+  </programme>
+  <programme start="20261101115000 +0800" stop="20261101120500 +0800" channel="上海第一財經">
+    <title>第一聲音（182）羅蘭貝格第3期</title>
+  </programme>
+  <programme start="20261101120500 +0800" stop="20261101125000 +0800" channel="上海第一財經">
+    <title>出海：從虹橋出發｜總部乘風出海！虹橋出海企業總部集聚區如何打通民企全球化新通道？</title>
+  </programme>
+  <programme start="20261101125000 +0800" stop="20261101131600 +0800" channel="上海第一財經">
+    <title>兩說（80）：AI短劇出海：那些正被改寫的商業邏輯</title>
+  </programme>
+  <programme start="20261101131600 +0800" stop="20261101132000 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版16德凱：百年專業認證　助力產業躍遷》</title>
+  </programme>
+  <programme start="20261101132000 +0800" stop="20261101140000 +0800" channel="上海第一財經">
+    <title>陸家嘴金融沙龍2026年第37期　：AI時代金融基礎設施的創新與信創實踐</title>
+  </programme>
+  <programme start="20261101140000 +0800" stop="20261101143000 +0800" channel="上海第一財經">
+    <title>《創時代－引領區觀察》“全鏈並進　智藝雙修“浦東AIGC讓想像力成為生產力（上）</title>
+  </programme>
+  <programme start="20261101143000 +0800" stop="20261101151300 +0800" channel="上海第一財經">
+    <title>從張江，到全球未來五年中國生物醫藥價值重估丨上海國際生物醫藥產業周全程大放送</title>
+  </programme>
+  <programme start="20261101151300 +0800" stop="20261101153000 +0800" channel="上海第一財經">
+    <title>金牌行研</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101155600 +0800" channel="上海第一財經">
+    <title>《兩說》第79期　想像力：從工程設計到太空探索</title>
+  </programme>
+  <programme start="20261101155600 +0800" stop="20261101160000 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版17渣打銀行：依託開放金融　助力企業遠航》</title>
+  </programme>
+  <programme start="20261101160000 +0800" stop="20261101163500 +0800" channel="上海第一財經">
+    <title>陸家嘴金融沙龍2026年35期：加快建設一流投資機構，共促公募行業高質量發展。</title>
+  </programme>
+  <programme start="20261101163500 +0800" stop="20261101163800 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版01得斯威：未來，從上海港出發》</title>
+  </programme>
+  <programme start="20261101163800 +0800" stop="20261101164100 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版18艾伯維：中國“處方”惠及全球患者》</title>
+  </programme>
+  <programme start="20261101164100 +0800" stop="20261101164500 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版20海虹老人：以綠色塗裝　繪環保未來》</title>
+  </programme>
+  <programme start="20261101164500 +0800" stop="20261101170500 +0800" channel="上海第一財經">
+    <title>《新定位　新徵程　“十五五”規劃下的券商使命》西南證券的“重慶辨識度”是怎麼煉成的</title>
+  </programme>
+  <programme start="20261101170500 +0800" stop="20261101173000 +0800" channel="上海第一財經">
+    <title>《首席評論》如何鑄就製造企業穿越週期的長期價值</title>
+  </programme>
+  <programme start="20261101173000 +0800" stop="20261101180000 +0800" channel="上海第一財經">
+    <title>對話引領區（32）＂張江論劍＂科創沙龍第十五期</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101185300 +0800" channel="上海第一財經">
+    <title>《第六交易日》</title>
+  </programme>
+  <programme start="20261101185300 +0800" stop="20261101185600 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版16德凱：百年專業認證　助力產業躍遷》</title>
+  </programme>
+  <programme start="20261101185600 +0800" stop="20261101190000 +0800" channel="上海第一財經">
+    <title>《總部面對面·在上海　創未來——電視版17渣打銀行：依託開放金融　助力企業遠航》</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101192600 +0800" channel="上海第一財經">
+    <title>兩說（78）：追光：視覺腦機介面的中國突破</title>
+  </programme>
+  <programme start="20261101192600 +0800" stop="20261101195800 +0800" channel="上海第一財經">
+    <title>陸家嘴金融沙龍2026年第37期　：AI時代金融基礎設施的創新與信創實踐</title>
+  </programme>
+  <programme start="20261101195800 +0800" stop="20261101203000 +0800" channel="上海第一財經">
+    <title>出海：從虹橋出發｜貨通全球新賽道！虹橋如何破解長三角製造企業出海難題？</title>
+  </programme>
+  <programme start="20261101203000 +0800" stop="20261101210000 +0800" channel="上海第一財經">
+    <title>《創時代－引領區觀察》“AI驅動創新　打造全球健康共同體”系列一　崛起：從“中國藥谷”邁向“世界藥谷”</title>
+  </programme>
+  <programme start="20261101210000 +0800" stop="20261101212500 +0800" channel="上海第一財經">
+    <title>對話引領區（33）＂張江論劍＂科創沙龍第十六期</title>
+  </programme>
+  <programme start="20261101212500 +0800" stop="20261101220000 +0800" channel="上海第一財經">
+    <title>價值投研社－市場深度調整　科技板塊估值迴歸　如何應對？</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101230000 +0800" channel="上海第一財經">
+    <title>“聚力十五五”：科創策源力如何鍛造上海未來產業新優勢丨數新風</title>
+  </programme>
+  <programme start="20261101230000 +0800" stop="20261101233500 +0800" channel="上海第一財經">
+    <title>AI　Agent如何重塑數字世界的“生產關係”</title>
+  </programme>
+  <programme start="20261101233500 +0800" stop="20261102000000 +0800" channel="上海第一財經">
+    <title>《第六交易日》</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101005200 +0800" channel="上海五星體育">
+    <title>2026國際帆船大獎賽西班牙站</title>
+  </programme>
+  <programme start="20261101005200 +0800" stop="20261101013200 +0800" channel="上海五星體育">
+    <title>2026世界一級方程式錦標賽西班牙站　大獎賽</title>
+  </programme>
+  <programme start="20261101013200 +0800" stop="20261101022700 +0800" channel="上海五星體育">
+    <title>2025第十五屆全國運動會游泳決賽</title>
+  </programme>
+  <programme start="20261101022700 +0800" stop="20261101032200 +0800" channel="上海五星體育">
+    <title>2025第十五屆全國運動會女排成年組半決賽</title>
+  </programme>
+  <programme start="20261101032200 +0800" stop="20261101041200 +0800" channel="上海五星體育">
+    <title>2025世界無人機足球錦標賽第5集</title>
+  </programme>
+  <programme start="20261101041200 +0800" stop="20261101043800 +0800" channel="上海五星體育">
+    <title>2026極速終點線5</title>
+  </programme>
+  <programme start="20261101043800 +0800" stop="20261101045000 +0800" channel="上海五星體育">
+    <title>【五星精彩】NBA絕殺名場面集錦（四）</title>
+  </programme>
+  <programme start="20261101045000 +0800" stop="20261101060000 +0800" channel="上海五星體育">
+    <title>衛星直播：2026世界一級方程式錦標賽墨西哥站　排位賽</title>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101061500 +0800" channel="上海五星體育">
+    <title>衛星直播：2026世界一級方程式錦標賽墨西哥站　排位賽</title>
+  </programme>
+  <programme start="20261101061500 +0800" stop="20261101071800 +0800" channel="上海五星體育">
+    <title>2026年中國台球俱樂部職業聯賽：男子雙打</title>
+  </programme>
+  <programme start="20261101071800 +0800" stop="20261101072300 +0800" channel="上海五星體育">
+    <title>五星精彩《叄拾年30星》17</title>
+  </programme>
+  <programme start="20261101072300 +0800" stop="20261101073500 +0800" channel="上海五星體育">
+    <title>【五星精彩】NBA絕殺名場面集錦（2）</title>
+  </programme>
+  <programme start="20261101073500 +0800" stop="20261101083000 +0800" channel="上海五星體育">
+    <title>2026ATP1000馬德里公開賽決賽：辛納－茲維列夫</title>
+  </programme>
+  <programme start="20261101083000 +0800" stop="20261101110000 +0800" channel="上海五星體育">
+    <title>衛星直播：2026－2027賽季NBA常規賽：雷霆－火箭</title>
+  </programme>
+  <programme start="20261101110000 +0800" stop="20261101120000 +0800" channel="上海五星體育">
+    <title>弈棋耍大牌（5026）</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101123000 +0800" channel="上海五星體育">
+    <title>健身時代精選</title>
+  </programme>
+  <programme start="20261101123000 +0800" stop="20261101130300 +0800" channel="上海五星體育">
+    <title>2026MXGP世界摩托車越野錦標賽　上海站</title>
+  </programme>
+  <programme start="20261101130300 +0800" stop="20261101140000 +0800" channel="上海五星體育">
+    <title>2026美加墨世界盃H組小組賽第二輪：烏拉圭－維德角</title>
+  </programme>
+  <programme start="20261101140000 +0800" stop="20261101143000 +0800" channel="上海五星體育">
+    <title>棋牌新教室（2026－88）</title>
+  </programme>
+  <programme start="20261101143000 +0800" stop="20261101145000 +0800" channel="上海五星體育">
+    <title>健身時代（2026－44）</title>
+  </programme>
+  <programme start="20261101145000 +0800" stop="20261101150000 +0800" channel="上海五星體育">
+    <title>【五星精彩】2026美加墨世界盃小組賽第二輪　B組　加拿大－卡達　賽事集錦</title>
+  </programme>
+  <programme start="20261101150000 +0800" stop="20261101153000 +0800" channel="上海五星體育">
+    <title>健身時代精選</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101160300 +0800" channel="上海五星體育">
+    <title>2026極速終點線5</title>
+  </programme>
+  <programme start="20261101160300 +0800" stop="20261101170000 +0800" channel="上海五星體育">
+    <title>2026上海網球大師賽男單第二輪：茲維列夫－吳易昺</title>
+  </programme>
+  <programme start="20261101170000 +0800" stop="20261101173000 +0800" channel="上海五星體育">
+    <title>五星精彩－弈棋耍大牌精彩牌局（232）</title>
+  </programme>
+  <programme start="20261101173000 +0800" stop="20261101175000 +0800" channel="上海五星體育">
+    <title>超G競彩（2026－77）</title>
+  </programme>
+  <programme start="20261101175000 +0800" stop="20261101180000 +0800" channel="上海五星體育">
+    <title>《超級裝》</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101190000 +0800" channel="上海五星體育">
+    <title>弈棋耍大牌5029</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101192500 +0800" channel="上海五星體育">
+    <title>體育新聞</title>
+  </programme>
+  <programme start="20261101192500 +0800" stop="20261101213500 +0800" channel="上海五星體育">
+    <title>現場直播：2026－2027賽季CBA聯賽常規賽：上海久事－南京同曦宙光</title>
+  </programme>
+  <programme start="20261101213500 +0800" stop="20261102000000 +0800" channel="上海五星體育">
+    <title>衛星直播：2026紐約馬拉松</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101001700 +0800" channel="上海都市頻道">
+    <title>老好的生活—銀齡生活（102）</title>
+  </programme>
+  <programme start="20261101001700 +0800" stop="20261101010900 +0800" channel="上海都市頻道">
+    <title>新老孃舅（5389）</title>
+  </programme>
+  <programme start="20261101010900 +0800" stop="20261101013300 +0800" channel="上海都市頻道">
+    <title>人氣美食（5146）</title>
+  </programme>
+  <programme start="20261101013300 +0800" stop="20261101032000 +0800" channel="上海都市頻道">
+    <title>是女兒是媽媽　第二季2</title>
+  </programme>
+  <programme start="20261101032000 +0800" stop="20261101040000 +0800" channel="上海都市頻道">
+    <title>X診所（2493）心臟瓣膜病專題</title>
+  </programme>
+  <programme start="20261101040000 +0800" stop="20261101042500 +0800" channel="上海都市頻道">
+    <title>樂活上海（458）</title>
+  </programme>
+  <programme start="20261101042500 +0800" stop="20261101051800 +0800" channel="上海都市頻道">
+    <title>新老孃舅（5388）</title>
+  </programme>
+  <programme start="20261101051800 +0800" stop="20261101060000 +0800" channel="上海都市頻道">
+    <title>X診所（2494）精準消融終結心臟亂跳</title>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101065600 +0800" channel="上海都市頻道">
+    <title>新老孃舅（5389）</title>
+  </programme>
+  <programme start="20261101065600 +0800" stop="20261101071200 +0800" channel="上海都市頻道">
+    <title>人氣美食（5148）</title>
+  </programme>
+  <programme start="20261101071200 +0800" stop="20261101081000 +0800" channel="上海都市頻道">
+    <title>美食紀錄片：風味人間第四季（4）</title>
+  </programme>
+  <programme start="20261101081000 +0800" stop="20261101085900 +0800" channel="上海都市頻道">
+    <title>藝品百味（408）</title>
+  </programme>
+  <programme start="20261101085900 +0800" stop="20261101092400 +0800" channel="上海都市頻道">
+    <title>樂活上海（458）</title>
+  </programme>
+  <programme start="20261101092400 +0800" stop="20261101095200 +0800" channel="上海都市頻道">
+    <title>老好的生活（333）</title>
+  </programme>
+  <programme start="20261101095200 +0800" stop="20261101101300 +0800" channel="上海都市頻道">
+    <title>開心全接觸－極智裝（1605）</title>
+  </programme>
+  <programme start="20261101101300 +0800" stop="20261101111100 +0800" channel="上海都市頻道">
+    <title>新老孃舅（5389）</title>
+  </programme>
+  <programme start="20261101111100 +0800" stop="20261101112800 +0800" channel="上海都市頻道">
+    <title>都市煥新家（349）</title>
+  </programme>
+  <programme start="20261101112800 +0800" stop="20261101113900 +0800" channel="上海都市頻道">
+    <title>開心全接觸－寵享生活（6）</title>
+  </programme>
+  <programme start="20261101113900 +0800" stop="20261101124100 +0800" channel="上海都市頻道">
+    <title>美食紀錄片：風味人間第四季（4）</title>
+  </programme>
+  <programme start="20261101124100 +0800" stop="20261101132500 +0800" channel="上海都市頻道">
+    <title>X診所（2495）守護肝臟健康科學防治肝癌</title>
+  </programme>
+  <programme start="20261101132500 +0800" stop="20261101135000 +0800" channel="上海都市頻道">
+    <title>樂活上海（457）</title>
+  </programme>
+  <programme start="20261101135000 +0800" stop="20261101143300 +0800" channel="上海都市頻道">
+    <title>36集連續劇：我的後半生（31）</title>
+  </programme>
+  <programme start="20261101143300 +0800" stop="20261101151500 +0800" channel="上海都市頻道">
+    <title>36集連續劇：我的後半生（32）</title>
+  </programme>
+  <programme start="20261101151500 +0800" stop="20261101161500 +0800" channel="上海都市頻道">
+    <title>新老孃舅（5389）</title>
+  </programme>
+  <programme start="20261101161500 +0800" stop="20261101164000 +0800" channel="上海都市頻道">
+    <title>人氣美食（5149）</title>
+  </programme>
+  <programme start="20261101164000 +0800" stop="20261101170900 +0800" channel="上海都市頻道">
+    <title>樂活上海（456）</title>
+  </programme>
+  <programme start="20261101170900 +0800" stop="20261101173000 +0800" channel="上海都市頻道">
+    <title>開心全接觸－極智裝（1610）</title>
+  </programme>
+  <programme start="20261101173000 +0800" stop="20261101175700 +0800" channel="上海都市頻道">
+    <title>老好的生活—銀齡生活（102）</title>
+  </programme>
+  <programme start="20261101175700 +0800" stop="20261101190000 +0800" channel="上海都市頻道">
+    <title>新老孃舅（5385）</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101193000 +0800" channel="上海都市頻道">
+    <title>老好的生活（334）</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101202700 +0800" channel="上海都市頻道">
+    <title>好吃記得誇我（256）</title>
+  </programme>
+  <programme start="20261101202700 +0800" stop="20261101205400 +0800" channel="上海都市頻道">
+    <title>36．7℃週末版（40）</title>
+  </programme>
+  <programme start="20261101205400 +0800" stop="20261101210300 +0800" channel="上海都市頻道">
+    <title>AI科普薈－好物志（27）</title>
+  </programme>
+  <programme start="20261101210300 +0800" stop="20261101220300 +0800" channel="上海都市頻道">
+    <title>美食紀錄片：風味人間第四季（5）</title>
+  </programme>
+  <programme start="20261101220300 +0800" stop="20261101225800 +0800" channel="上海都市頻道">
+    <title>好吃記得誇我（256）</title>
+  </programme>
+  <programme start="20261101225800 +0800" stop="20261101232100 +0800" channel="上海都市頻道">
+    <title>開心全接觸－極智裝（1610）</title>
+  </programme>
+  <programme start="20261101232100 +0800" stop="20261101234900 +0800" channel="上海都市頻道">
+    <title>開心全接觸－我們退休啦（2812）</title>
+  </programme>
+  <programme start="20261101234900 +0800" stop="20261102000000 +0800" channel="上海都市頻道">
+    <title>老好的生活（334）</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101060000 +0800" channel="上海哈哈炫動">
+    <title>祝您晚安</title>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101060600 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（1）</title>
+  </programme>
+  <programme start="20261101060600 +0800" stop="20261101061400 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（2）</title>
+  </programme>
+  <programme start="20261101061400 +0800" stop="20261101062000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（3）</title>
+  </programme>
+  <programme start="20261101062000 +0800" stop="20261101062700 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（4）</title>
+  </programme>
+  <programme start="20261101062700 +0800" stop="20261101063300 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（5）</title>
+  </programme>
+  <programme start="20261101063300 +0800" stop="20261101064000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（6）</title>
+  </programme>
+  <programme start="20261101064000 +0800" stop="20261101064600 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（7）</title>
+  </programme>
+  <programme start="20261101064600 +0800" stop="20261101065200 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（8）</title>
+  </programme>
+  <programme start="20261101065200 +0800" stop="20261101070000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（24）</title>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101072400 +0800" channel="上海哈哈炫動">
+    <title>動畫片《愚公移山》（1、2）</title>
+  </programme>
+  <programme start="20261101072400 +0800" stop="20261101072700 +0800" channel="上海哈哈炫動">
+    <title>茶婆婆漁婆婆蠶婆婆三（6）</title>
+  </programme>
+  <programme start="20261101072700 +0800" stop="20261101073200 +0800" channel="上海哈哈炫動">
+    <title>茶婆婆漁婆婆蠶婆婆二（1）</title>
+  </programme>
+  <programme start="20261101073200 +0800" stop="20261101074500 +0800" channel="上海哈哈炫動">
+    <title>歡樂蹦蹦跳（1225）</title>
+  </programme>
+  <programme start="20261101074500 +0800" stop="20261101075700 +0800" channel="上海哈哈炫動">
+    <title>歡樂蹦蹦跳（1226）</title>
+  </programme>
+  <programme start="20261101075700 +0800" stop="20261101080000 +0800" channel="上海哈哈炫動">
+    <title>長征精神　薪火永續</title>
+  </programme>
+  <programme start="20261101080000 +0800" stop="20261101082700 +0800" channel="上海哈哈炫動">
+    <title>棉花糖和雲朵媽媽（3、4）</title>
+  </programme>
+  <programme start="20261101082700 +0800" stop="20261101090000 +0800" channel="上海哈哈炫動">
+    <title>棉花糖和雲朵媽媽（5、6）</title>
+  </programme>
+  <programme start="20261101090000 +0800" stop="20261101092500 +0800" channel="上海哈哈炫動">
+    <title>棉花糖和雲朵媽媽（7、8）</title>
+  </programme>
+  <programme start="20261101092500 +0800" stop="20261101095300 +0800" channel="上海哈哈炫動">
+    <title>棉花糖和雲朵媽媽（9、10）</title>
+  </programme>
+  <programme start="20261101095300 +0800" stop="20261101095900 +0800" channel="上海哈哈炫動">
+    <title>茶婆婆漁婆婆蠶婆婆一（8）</title>
+  </programme>
+  <programme start="20261101095900 +0800" stop="20261101103000 +0800" channel="上海哈哈炫動">
+    <title>棉花糖和雲朵媽媽（11、12）</title>
+  </programme>
+  <programme start="20261101103000 +0800" stop="20261101110000 +0800" channel="上海哈哈炫動">
+    <title>棉花糖和雲朵媽媽（13、14）</title>
+  </programme>
+  <programme start="20261101110000 +0800" stop="20261101111200 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊在中國·中國之旅（18）</title>
+  </programme>
+  <programme start="20261101111200 +0800" stop="20261101113000 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊在中國·中國之旅（19）</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101120000 +0800" channel="上海哈哈炫動">
+    <title>新聞同學（1291）</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101122700 +0800" channel="上海哈哈炫動">
+    <title>犟驢小紅軍（7、8）</title>
+  </programme>
+  <programme start="20261101122700 +0800" stop="20261101125200 +0800" channel="上海哈哈炫動">
+    <title>新大頭兒子和小頭爸爸英雄夢（171、172）</title>
+  </programme>
+  <programme start="20261101125200 +0800" stop="20261101130000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（19）</title>
+  </programme>
+  <programme start="20261101130000 +0800" stop="20261101132600 +0800" channel="上海哈哈炫動">
+    <title>新大頭兒子和小頭爸爸英雄夢（173、174）</title>
+  </programme>
+  <programme start="20261101132600 +0800" stop="20261101140000 +0800" channel="上海哈哈炫動">
+    <title>新大頭兒子和小頭爸爸英雄夢（175、176）</title>
+  </programme>
+  <programme start="20261101140000 +0800" stop="20261101142700 +0800" channel="上海哈哈炫動">
+    <title>新大頭兒子和小頭爸爸英雄夢（177、178）</title>
+  </programme>
+  <programme start="20261101142700 +0800" stop="20261101145200 +0800" channel="上海哈哈炫動">
+    <title>新大頭兒子和小頭爸爸英雄夢（179、180）</title>
+  </programme>
+  <programme start="20261101145200 +0800" stop="20261101150000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（11）</title>
+  </programme>
+  <programme start="20261101150000 +0800" stop="20261101152500 +0800" channel="上海哈哈炫動">
+    <title>甜心格格三（18）</title>
+  </programme>
+  <programme start="20261101152500 +0800" stop="20261101154800 +0800" channel="上海哈哈炫動">
+    <title>甜心格格三（19）</title>
+  </programme>
+  <programme start="20261101154800 +0800" stop="20261101160000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（7）</title>
+  </programme>
+  <programme start="20261101160000 +0800" stop="20261101162200 +0800" channel="上海哈哈炫動">
+    <title>甜心格格三（20）</title>
+  </programme>
+  <programme start="20261101162200 +0800" stop="20261101163000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（21）</title>
+  </programme>
+  <programme start="20261101163000 +0800" stop="20261101170000 +0800" channel="上海哈哈炫動">
+    <title>甜心格格三（21）</title>
+  </programme>
+  <programme start="20261101170000 +0800" stop="20261101171300 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊第八季（8）</title>
+  </programme>
+  <programme start="20261101171300 +0800" stop="20261101172700 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊第八季（9）</title>
+  </programme>
+  <programme start="20261101172700 +0800" stop="20261101174000 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊第八季（10）</title>
+  </programme>
+  <programme start="20261101174000 +0800" stop="20261101175200 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊第八季（11）</title>
+  </programme>
+  <programme start="20261101175200 +0800" stop="20261101180000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（7）</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101181300 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊第八季（12）</title>
+  </programme>
+  <programme start="20261101181300 +0800" stop="20261101182700 +0800" channel="上海哈哈炫動">
+    <title>海底小縱隊第八季（13）</title>
+  </programme>
+  <programme start="20261101182700 +0800" stop="20261101183300 +0800" channel="上海哈哈炫動">
+    <title>星星班長之冒險空間（20）</title>
+  </programme>
+  <programme start="20261101183300 +0800" stop="20261101184500 +0800" channel="上海哈哈炫動">
+    <title>星星班長之冒險空間（21）</title>
+  </programme>
+  <programme start="20261101184500 +0800" stop="20261101190000 +0800" channel="上海哈哈炫動">
+    <title>熒星夢工廠（615）</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101193000 +0800" channel="上海哈哈炫動">
+    <title>新聞同學（1292）</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101194300 +0800" channel="上海哈哈炫動">
+    <title>歡樂蹦蹦跳（1228）</title>
+  </programme>
+  <programme start="20261101194300 +0800" stop="20261101195800 +0800" channel="上海哈哈炫動">
+    <title>超級飛俠第十五季（3）</title>
+  </programme>
+  <programme start="20261101195800 +0800" stop="20261101201200 +0800" channel="上海哈哈炫動">
+    <title>超級飛俠第十五季（4）</title>
+  </programme>
+  <programme start="20261101201200 +0800" stop="20261101203000 +0800" channel="上海哈哈炫動">
+    <title>超級飛俠第十五季（5）</title>
+  </programme>
+  <programme start="20261101203000 +0800" stop="20261101204600 +0800" channel="上海哈哈炫動">
+    <title>喜羊羊與灰太狼之羊村守護者（36）</title>
+  </programme>
+  <programme start="20261101204600 +0800" stop="20261101210300 +0800" channel="上海哈哈炫動">
+    <title>喜羊羊與灰太狼之羊村守護者（37）</title>
+  </programme>
+  <programme start="20261101210300 +0800" stop="20261101211900 +0800" channel="上海哈哈炫動">
+    <title>喜羊羊與灰太狼之羊村守護者（38）</title>
+  </programme>
+  <programme start="20261101211900 +0800" stop="20261101213600 +0800" channel="上海哈哈炫動">
+    <title>喜羊羊與灰太狼之羊村守護者（39）</title>
+  </programme>
+  <programme start="20261101213600 +0800" stop="20261101215200 +0800" channel="上海哈哈炫動">
+    <title>喜羊羊與灰太狼之羊村守護者（40）</title>
+  </programme>
+  <programme start="20261101215200 +0800" stop="20261101220000 +0800" channel="上海哈哈炫動">
+    <title>星星班長一（12）</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101222700 +0800" channel="上海哈哈炫動">
+    <title>兔子幫3（10）</title>
+  </programme>
+  <programme start="20261101222700 +0800" stop="20261101230200 +0800" channel="上海哈哈炫動">
+    <title>兔子幫3（11）</title>
+  </programme>
+  <programme start="20261101230200 +0800" stop="20261101232900 +0800" channel="上海哈哈炫動">
+    <title>兔子幫3（12）</title>
+  </programme>
+  <programme start="20261101232900 +0800" stop="20261102000000 +0800" channel="上海哈哈炫動">
+    <title>兔子幫3（13）</title>
+  </programme>
   <programme start="20261101070000 +0800" stop="20261101083500 +0800" channel="澳視澳門 91台">
     <title lang="zh">孺子可教也</title>
   </programme>
@@ -5936,6 +6722,7 @@
   </programme>
   <programme start="20261101140500 +0800" stop="20261101145500 +0800" channel="香港電台31">
     <title lang="zh">識多一點點</title>
+    <desc lang="zh">第42(手語版)香港故事-聲音導航#1聽聲尋鳥(手語版)太陽小記者-2026西域記 #3那年夏天的友共情</desc>
   </programme>
   <programme start="20261101145500 +0800" stop="20261101152500 +0800" channel="香港電台31">
     <title lang="zh">體壇快閃</title>
@@ -6018,6 +6805,7 @@
   </programme>
   <programme start="20261102033000 +0800" stop="20261102043000 +0800" channel="香港電台31">
     <title lang="zh">識多一點點</title>
+    <desc lang="zh">第42(手語版)香港故事-聲音導航#1聽聲尋鳥(手語版)太陽小記者-2026西域記 #3那年夏天的友共情</desc>
   </programme>
   <programme start="20261102043000 +0800" stop="20261102050000 +0800" channel="香港電台31">
     <title lang="zh">鏗鏘集</title>
@@ -6136,6 +6924,7 @@
   </programme>
   <programme start="20261102202500 +0800" stop="20261102203000 +0800" channel="香港電台31">
     <title lang="zh">政正關你事</title>
+    <desc lang="zh">機電．夢飛翔 | 機電工程署</desc>
   </programme>
   <programme start="20261102203000 +0800" stop="20261102212500 +0800" channel="香港電台31">
     <title lang="zh">太平年</title>
@@ -6143,6 +6932,7 @@
   </programme>
   <programme start="20261102212500 +0800" stop="20261102213000 +0800" channel="香港電台31">
     <title lang="zh">政正關你事</title>
+    <desc lang="zh">機電．夢飛翔 | 機電工程署</desc>
   </programme>
   <programme start="20261102213000 +0800" stop="20261102220000 +0800" channel="香港電台31">
     <title lang="zh">香港故事: 樂地生根</title>
@@ -6173,7 +6963,21 @@
     <title lang="zh">政正關你事</title>
     <desc lang="zh">政正關你事 - 活化歷史建築夥伴計劃</desc>
   </programme>
-  <programme start="20261101074000 +0800" stop="20261101110000 +0800" channel="香港電台32">
+  <programme start="20261101074000 +0800" stop="20261101080000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+  </programme>
+  <programme start="20261101080000 +0800" stop="20261101091500 +0800" channel="香港電台32">
+    <title lang="zh">寰宇直播</title>
+    <desc lang="zh">寰宇直播</desc>
+  </programme>
+  <programme start="20261101091500 +0800" stop="20261101103900 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+  </programme>
+  <programme start="20261101103900 +0800" stop="20261101104600 +0800" channel="香港電台32">
+    <title lang="zh">本地新聞</title>
+    <desc lang="zh">本地新聞</desc>
+  </programme>
+  <programme start="20261101104600 +0800" stop="20261101110000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
   </programme>
   <programme start="20261101110000 +0800" stop="20261101111000 +0800" channel="香港電台32">
@@ -6205,7 +7009,14 @@
   <programme start="20261101123000 +0800" stop="20261101124000 +0800" channel="香港電台32">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme start="20261101124000 +0800" stop="20261101130000 +0800" channel="香港電台32">
+  <programme start="20261101124000 +0800" stop="20261101125000 +0800" channel="香港電台32">
+    <title lang="zh">生活．健康．資訊</title>
+  </programme>
+  <programme start="20261101125000 +0800" stop="20261101125600 +0800" channel="香港電台32">
+    <title lang="zh">本地新聞</title>
+    <desc lang="zh">本地新聞</desc>
+  </programme>
+  <programme start="20261101125600 +0800" stop="20261101130000 +0800" channel="香港電台32">
     <title lang="zh">生活．健康．資訊</title>
   </programme>
   <programme start="20261101130000 +0800" stop="20261101130700 +0800" channel="香港電台32">
@@ -6504,6 +7315,7 @@
   </programme>
   <programme start="20261102220000 +0800" stop="20261102220500 +0800" channel="香港電台32">
     <title lang="zh">政正關你事</title>
+    <desc lang="zh">機電．夢飛翔 | 機電工程署</desc>
   </programme>
   <programme start="20261102220500 +0800" stop="20261102223000 +0800" channel="香港電台32">
     <title lang="zh">凝聚香港</title>
@@ -16716,6 +17528,1125 @@
   </programme>
   <programme start="20261101231000 +0800" stop="20261101235959 +0800" channel="江蘇國際">
     <title lang="zh">你所不知道的水韻江蘇</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101043800 +0800" channel="山東衛視">
+    <title lang="zh">2025中華家庭詩詞擂台賽</title>
+  </programme>
+  <programme start="20261101043800 +0800" stop="20261101051000 +0800" channel="山東衛視">
+    <title lang="zh">老農民-34</title>
+  </programme>
+  <programme start="20261101051000 +0800" stop="20261101055200 +0800" channel="山東衛視">
+    <title lang="zh">老農民-35</title>
+  </programme>
+  <programme start="20261101055200 +0800" stop="20261101063700 +0800" channel="山東衛視">
+    <title lang="zh">老農民-36</title>
+  </programme>
+  <programme start="20261101063700 +0800" stop="20261101065600 +0800" channel="山東衛視">
+    <title lang="zh">五洲四海山東人</title>
+  </programme>
+  <programme start="20261101065600 +0800" stop="20261101073600 +0800" channel="山東衛視">
+    <title lang="zh">早安山東</title>
+  </programme>
+  <programme start="20261101073600 +0800" stop="20261101080800 +0800" channel="山東衛視">
+    <title lang="zh">樂享食光</title>
+  </programme>
+  <programme start="20261101080800 +0800" stop="20261101094400 +0800" channel="山東衛視">
+    <title lang="zh">超級語文課精編課堂</title>
+  </programme>
+  <programme start="20261101094400 +0800" stop="20261101102300 +0800" channel="山東衛視">
+    <title lang="zh">大醫本草堂</title>
+  </programme>
+  <programme start="20261101102300 +0800" stop="20261101111100 +0800" channel="山東衛視">
+    <title lang="zh">老農民-34</title>
+  </programme>
+  <programme start="20261101111100 +0800" stop="20261101120900 +0800" channel="山東衛視">
+    <title lang="zh">老農民-35</title>
+  </programme>
+  <programme start="20261101120900 +0800" stop="20261101130300 +0800" channel="山東衛視">
+    <title lang="zh">老農民-36</title>
+  </programme>
+  <programme start="20261101130300 +0800" stop="20261101134500 +0800" channel="山東衛視">
+    <title lang="zh">老農民-37</title>
+  </programme>
+  <programme start="20261101134500 +0800" stop="20261101142700 +0800" channel="山東衛視">
+    <title lang="zh">老農民-38</title>
+  </programme>
+  <programme start="20261101142700 +0800" stop="20261101150700 +0800" channel="山東衛視">
+    <title lang="zh">老農民-39</title>
+  </programme>
+  <programme start="20261101150700 +0800" stop="20261101155800 +0800" channel="山東衛視">
+    <title lang="zh">老農民-40</title>
+  </programme>
+  <programme start="20261101155800 +0800" stop="20261101164200 +0800" channel="山東衛視">
+    <title lang="zh">老農民-41</title>
+  </programme>
+  <programme start="20261101164200 +0800" stop="20261101172800 +0800" channel="山東衛視">
+    <title lang="zh">老農民-42</title>
+  </programme>
+  <programme start="20261101172800 +0800" stop="20261101180600 +0800" channel="山東衛視">
+    <title lang="zh">樂享食光</title>
+  </programme>
+  <programme start="20261101180600 +0800" stop="20261101182100 +0800" channel="山東衛視">
+    <title lang="zh">品牌山東</title>
+  </programme>
+  <programme start="20261101182100 +0800" stop="20261101183000 +0800" channel="山東衛視">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="山東衛視">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101193700 +0800" channel="山東衛視">
+    <title lang="zh">中央台新聞聯播</title>
+  </programme>
+  <programme start="20261101193700 +0800" stop="20261101202900 +0800" channel="山東衛視">
+    <title lang="zh">主角-9</title>
+  </programme>
+  <programme start="20261101202900 +0800" stop="20261101211800 +0800" channel="山東衛視">
+    <title lang="zh">主角-10</title>
+  </programme>
+  <programme start="20261101211800 +0800" stop="20261101220000 +0800" channel="山東衛視">
+    <title lang="zh">帶著禮樂去旅行</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101222700 +0800" channel="山東衛視">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101222700 +0800" stop="20261101231000 +0800" channel="山東衛視">
+    <title lang="zh">南來北往-3</title>
+  </programme>
+  <programme start="20261101231000 +0800" stop="20261101235300 +0800" channel="山東衛視">
+    <title lang="zh">南來北往-4</title>
+  </programme>
+  <programme start="20261101235300 +0800" stop="20261101235959 +0800" channel="山東衛視">
+    <title lang="zh">2025中華家庭詩詞擂台賽</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101000500 +0800" stop="20261101004500 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101004500 +0800" stop="20261101011500 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101011500 +0800" stop="20261101012300 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101012300 +0800" stop="20261101012800 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101012800 +0800" stop="20261101015200 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101015200 +0800" stop="20261101023200 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101023200 +0800" stop="20261101030200 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101030200 +0800" stop="20261101031000 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101031000 +0800" stop="20261101031500 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101031500 +0800" stop="20261101035500 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101035500 +0800" stop="20261101040740 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101040740 +0800" stop="20261101044740 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101044740 +0800" stop="20261101045540 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101045540 +0800" stop="20261101051940 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101051940 +0800" stop="20261101052740 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101052740 +0800" stop="20261101053000 +0800" channel="山東新聞頻道">
+    <title lang="zh">大美齊魯</title>
+  </programme>
+  <programme start="20261101053000 +0800" stop="20261101055000 +0800" channel="山東新聞頻道">
+    <title lang="zh">五洲四海山東人</title>
+  </programme>
+  <programme start="20261101055000 +0800" stop="20261101063000 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101063000 +0800" stop="20261101065600 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101065600 +0800" stop="20261101073200 +0800" channel="山東新聞頻道">
+    <title lang="zh">早安山東</title>
+  </programme>
+  <programme start="20261101073200 +0800" stop="20261101080600 +0800" channel="山東新聞頻道">
+    <title lang="zh">早安山東</title>
+  </programme>
+  <programme start="20261101080600 +0800" stop="20261101083310 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101083310 +0800" stop="20261101090140 +0800" channel="山東新聞頻道">
+    <title lang="zh">記住鄉愁</title>
+  </programme>
+  <programme start="20261101090140 +0800" stop="20261101090740 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101090740 +0800" stop="20261101091510 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101091510 +0800" stop="20261101095810 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101095810 +0800" stop="20261101103040 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101103040 +0800" stop="20261101105800 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101105800 +0800" stop="20261101110755 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101110755 +0800" stop="20261101111255 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101111255 +0800" stop="20261101113000 +0800" channel="山東新聞頻道">
+    <title lang="zh">東營新時空</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101123000 +0800" channel="山東新聞頻道">
+    <title lang="zh">新聞午班車</title>
+  </programme>
+  <programme start="20261101123000 +0800" stop="20261101125400 +0800" channel="山東新聞頻道">
+    <title lang="zh">走進深藍</title>
+  </programme>
+  <programme start="20261101125400 +0800" stop="20261101131725 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101131725 +0800" stop="20261101134240 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101134240 +0800" stop="20261101135220 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101135220 +0800" stop="20261101142255 +0800" channel="山東新聞頻道">
+    <title lang="zh">紀錄片我站立的地方</title>
+  </programme>
+  <programme start="20261101142255 +0800" stop="20261101145345 +0800" channel="山東新聞頻道">
+    <title lang="zh">紀錄片我站立的地方</title>
+  </programme>
+  <programme start="20261101145345 +0800" stop="20261101153550 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101153550 +0800" stop="20261101160620 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101160620 +0800" stop="20261101161220 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101161220 +0800" stop="20261101162045 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101162045 +0800" stop="20261101163510 +0800" channel="山東新聞頻道">
+    <title lang="zh">共產黨員</title>
+  </programme>
+  <programme start="20261101163510 +0800" stop="20261101165910 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101165910 +0800" stop="20261101172510 +0800" channel="山東新聞頻道">
+    <title lang="zh">記住鄉愁</title>
+  </programme>
+  <programme start="20261101172510 +0800" stop="20261101174510 +0800" channel="山東新聞頻道">
+    <title lang="zh">五洲四海山東人</title>
+  </programme>
+  <programme start="20261101174510 +0800" stop="20261101180000 +0800" channel="山東新聞頻道">
+    <title lang="zh">共產黨員</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101183000 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101185700 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101185700 +0800" stop="20261101192500 +0800" channel="山東新聞頻道">
+    <title lang="zh">記住鄉愁</title>
+  </programme>
+  <programme start="20261101192500 +0800" stop="20261101193000 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101201500 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101201500 +0800" stop="20261101204620 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101204620 +0800" stop="20261101205200 +0800" channel="山東新聞頻道">
+    <title lang="zh">國寶時刻</title>
+  </programme>
+  <programme start="20261101205200 +0800" stop="20261101205700 +0800" channel="山東新聞頻道">
+    <title lang="zh">國寶時刻</title>
+  </programme>
+  <programme start="20261101205700 +0800" stop="20261101212230 +0800" channel="山東新聞頻道">
+    <title lang="zh">品牌山東</title>
+  </programme>
+  <programme start="20261101212230 +0800" stop="20261101212730 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101212730 +0800" stop="20261101213000 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東省海洋預報</title>
+  </programme>
+  <programme start="20261101213000 +0800" stop="20261101214000 +0800" channel="山東新聞頻道">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20261101214000 +0800" stop="20261101220000 +0800" channel="山東新聞頻道">
+    <title lang="zh">應急線上</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101222500 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101222500 +0800" stop="20261101224030 +0800" channel="山東新聞頻道">
+    <title lang="zh">東營新時空</title>
+  </programme>
+  <programme start="20261101224030 +0800" stop="20261101224900 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101224900 +0800" stop="20261101225400 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101225400 +0800" stop="20261101231730 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101231730 +0800" stop="20261101234055 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101234055 +0800" stop="20261101235959 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101002626 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101002626 +0800" stop="20261101010741 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101010741 +0800" stop="20261101014856 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101014856 +0800" stop="20261101023011 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101023011 +0800" stop="20261101031126 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101031126 +0800" stop="20261101035241 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101035241 +0800" stop="20261101043648 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101043648 +0800" stop="20261101051803 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101051803 +0800" stop="20261101055918 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101055918 +0800" stop="20261101055950 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101055950 +0800" stop="20261101061720 +0800" channel="齊魯頻道">
+    <title lang="zh">小溪辦事</title>
+  </programme>
+  <programme start="20261101061720 +0800" stop="20261101063225 +0800" channel="齊魯頻道">
+    <title lang="zh">每日新聞</title>
+  </programme>
+  <programme start="20261101063225 +0800" stop="20261101070320 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101070320 +0800" stop="20261101073700 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101073700 +0800" stop="20261101081435 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101081435 +0800" stop="20261101083435 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101083435 +0800" stop="20261101090335 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101090335 +0800" stop="20261101092810 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101092810 +0800" stop="20261101100610 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101100610 +0800" stop="20261101103740 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101103740 +0800" stop="20261101105810 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101105810 +0800" stop="20261101112520 +0800" channel="齊魯頻道">
+    <title lang="zh">小溪辦事</title>
+  </programme>
+  <programme start="20261101112520 +0800" stop="20261101115530 +0800" channel="齊魯頻道">
+    <title lang="zh">家鄉味道</title>
+  </programme>
+  <programme start="20261101115530 +0800" stop="20261101122000 +0800" channel="齊魯頻道">
+    <title lang="zh">法潤齊魯</title>
+  </programme>
+  <programme start="20261101122000 +0800" stop="20261101124350 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101124350 +0800" stop="20261101125625 +0800" channel="齊魯頻道">
+    <title lang="zh">現場直擊</title>
+  </programme>
+  <programme start="20261101125625 +0800" stop="20261101131700 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101131700 +0800" stop="20261101135135 +0800" channel="齊魯頻道">
+    <title lang="zh">水上游擊隊</title>
+  </programme>
+  <programme start="20261101135135 +0800" stop="20261101141245 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101141245 +0800" stop="20261101144245 +0800" channel="齊魯頻道">
+    <title lang="zh">水上游擊隊</title>
+  </programme>
+  <programme start="20261101144245 +0800" stop="20261101150310 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101150310 +0800" stop="20261101153650 +0800" channel="齊魯頻道">
+    <title lang="zh">水上游擊隊</title>
+  </programme>
+  <programme start="20261101153650 +0800" stop="20261101160825 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101160825 +0800" stop="20261101164345 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101164345 +0800" stop="20261101172000 +0800" channel="齊魯頻道">
+    <title lang="zh">家鄉味道</title>
+  </programme>
+  <programme start="20261101172000 +0800" stop="20261101174500 +0800" channel="齊魯頻道">
+    <title lang="zh">山東雙擁</title>
+  </programme>
+  <programme start="20261101174500 +0800" stop="20261101181500 +0800" channel="齊魯頻道">
+    <title lang="zh">小溪辦事</title>
+  </programme>
+  <programme start="20261101181500 +0800" stop="20261101182500 +0800" channel="齊魯頻道">
+    <title lang="zh">現場直擊</title>
+  </programme>
+  <programme start="20261101182500 +0800" stop="20261101191230 +0800" channel="齊魯頻道">
+    <title lang="zh">每日新聞</title>
+  </programme>
+  <programme start="20261101191230 +0800" stop="20261101195351 +0800" channel="齊魯頻道">
+    <title lang="zh">好政策到一線</title>
+  </programme>
+  <programme start="20261101195351 +0800" stop="20261101205341 +0800" channel="齊魯頻道">
+    <title lang="zh">絕命後衛師</title>
+  </programme>
+  <programme start="20261101205341 +0800" stop="20261101214011 +0800" channel="齊魯頻道">
+    <title lang="zh">怒火英雄</title>
+  </programme>
+  <programme start="20261101214011 +0800" stop="20261101221431 +0800" channel="齊魯頻道">
+    <title lang="zh">怒火英雄</title>
+  </programme>
+  <programme start="20261101221431 +0800" stop="20261101225531 +0800" channel="齊魯頻道">
+    <title lang="zh">翡翠奇緣</title>
+  </programme>
+  <programme start="20261101225531 +0800" stop="20261101233816 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101233816 +0800" stop="20261101235959 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101002600 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101002600 +0800" stop="20261101004700 +0800" channel="山東生活頻道">
+    <title lang="zh">醫案</title>
+  </programme>
+  <programme start="20261101004700 +0800" stop="20261101014400 +0800" channel="山東生活頻道">
+    <title lang="zh">好品山東</title>
+  </programme>
+  <programme start="20261101014400 +0800" stop="20261101022600 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101022600 +0800" stop="20261101025600 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101025600 +0800" stop="20261101031700 +0800" channel="山東生活頻道">
+    <title lang="zh">醫案</title>
+  </programme>
+  <programme start="20261101031700 +0800" stop="20261101041700 +0800" channel="山東生活頻道">
+    <title lang="zh">好品山東</title>
+  </programme>
+  <programme start="20261101041700 +0800" stop="20261101045900 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101045900 +0800" stop="20261101052900 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101052900 +0800" stop="20261101055900 +0800" channel="山東生活頻道">
+    <title lang="zh">醫案</title>
+  </programme>
+  <programme start="20261101055900 +0800" stop="20261101063100 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101063100 +0800" stop="20261101071300 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101071300 +0800" stop="20261101074500 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101074500 +0800" stop="20261101080500 +0800" channel="山東生活頻道">
+    <title lang="zh">樂享銀齡</title>
+  </programme>
+  <programme start="20261101080500 +0800" stop="20261101083400 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101083400 +0800" stop="20261101085500 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101085500 +0800" stop="20261101092300 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101092300 +0800" stop="20261101094400 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101094400 +0800" stop="20261101101200 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101101200 +0800" stop="20261101103300 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101103300 +0800" stop="20261101110100 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101110100 +0800" stop="20261101112200 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101112200 +0800" stop="20261101115500 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101115500 +0800" stop="20261101123800 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101123800 +0800" stop="20261101125900 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101125900 +0800" stop="20261101133000 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101133000 +0800" stop="20261101135600 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101135600 +0800" stop="20261101141800 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101141800 +0800" stop="20261101144500 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101144500 +0800" stop="20261101150600 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101150600 +0800" stop="20261101153400 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101153400 +0800" stop="20261101155600 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101155600 +0800" stop="20261101163500 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101163500 +0800" stop="20261101174500 +0800" channel="山東生活頻道">
+    <title lang="zh">戲宇宙</title>
+  </programme>
+  <programme start="20261101174500 +0800" stop="20261101175500 +0800" channel="山東生活頻道">
+    <title lang="zh">紀錄片</title>
+  </programme>
+  <programme start="20261101175500 +0800" stop="20261101191000 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101191000 +0800" stop="20261101194500 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101194500 +0800" stop="20261101201700 +0800" channel="山東生活頻道">
+    <title lang="zh">名醫話健康</title>
+  </programme>
+  <programme start="20261101201700 +0800" stop="20261101211100 +0800" channel="山東生活頻道">
+    <title lang="zh">行進中國</title>
+  </programme>
+  <programme start="20261101211100 +0800" stop="20261101214300 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101214300 +0800" stop="20261101221800 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101221800 +0800" stop="20261101230000 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101230000 +0800" stop="20261101233000 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101233000 +0800" stop="20261101235959 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101001000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101001000 +0800" stop="20261101014000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">巔峰賽事</title>
+  </programme>
+  <programme start="20261101014000 +0800" stop="20261101015000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101015000 +0800" stop="20261101032000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">超級賽場精編版</title>
+  </programme>
+  <programme start="20261101032000 +0800" stop="20261101045000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">巔峰賽事</title>
+  </programme>
+  <programme start="20261101045000 +0800" stop="20261101050000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">酷體育</title>
+  </programme>
+  <programme start="20261101050000 +0800" stop="20261101055600 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">聯邦大作戰</title>
+  </programme>
+  <programme start="20261101055600 +0800" stop="20261101065500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101065500 +0800" stop="20261101072500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101072500 +0800" stop="20261101073500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101073500 +0800" stop="20261101074500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">酷體育</title>
+  </programme>
+  <programme start="20261101074500 +0800" stop="20261101081000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">激情歲月</title>
+  </programme>
+  <programme start="20261101081000 +0800" stop="20261101084000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261101084000 +0800" stop="20261101091000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">綠茵劇場：花女的抗戰（14）</title>
+  </programme>
+  <programme start="20261101091000 +0800" stop="20261101094000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">張展碩</title>
+  </programme>
+  <programme start="20261101094000 +0800" stop="20261101101000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">綠茵劇場：花女的抗戰（15）</title>
+  </programme>
+  <programme start="20261101101000 +0800" stop="20261101104000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101104000 +0800" stop="20261101113000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101120000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101123900 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">山東體壇縱覽</title>
+  </programme>
+  <programme start="20261101123900 +0800" stop="20261101125400 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育大觀</title>
+  </programme>
+  <programme start="20261101125400 +0800" stop="20261101130400 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101130400 +0800" stop="20261101132900 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">中超集錦</title>
+  </programme>
+  <programme start="20261101132900 +0800" stop="20261101140000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">綠茵劇場：花女的抗戰（16）</title>
+  </programme>
+  <programme start="20261101140000 +0800" stop="20261101153000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">巔峰賽事</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101154000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101154000 +0800" stop="20261101155000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">酷體育</title>
+  </programme>
+  <programme start="20261101155000 +0800" stop="20261101161500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">激情歲月</title>
+  </programme>
+  <programme start="20261101161500 +0800" stop="20261101164500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261101164500 +0800" stop="20261101165500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101165500 +0800" stop="20261101181000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">聯邦大作戰</title>
+  </programme>
+  <programme start="20261101181000 +0800" stop="20261101182000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101182000 +0800" stop="20261101192500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101192500 +0800" stop="20261101195500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">激情衝擊播之ONE集錦</title>
+  </programme>
+  <programme start="20261101195500 +0800" stop="20261101201500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">好運山東</title>
+  </programme>
+  <programme start="20261101201500 +0800" stop="20261101212500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101212500 +0800" stop="20261101220500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">翡翠奇緣</title>
+  </programme>
+  <programme start="20261101220500 +0800" stop="20261101221500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101221500 +0800" stop="20261101222500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101222500 +0800" stop="20261101235500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">超級賽場精編版</title>
+  </programme>
+  <programme start="20261101235500 +0800" stop="20261101235959 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101002300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101002300 +0800" stop="20261101012800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101012800 +0800" stop="20261101023000 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101023000 +0800" stop="20261101033200 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101033200 +0800" stop="20261101043600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101043600 +0800" stop="20261101053900 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101053900 +0800" stop="20261101062100 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101062100 +0800" stop="20261101070600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101070600 +0800" stop="20261101073600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101073600 +0800" stop="20261101083800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101083800 +0800" stop="20261101090800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101090800 +0800" stop="20261101093900 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101093900 +0800" stop="20261101104000 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101104000 +0800" stop="20261101114200 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101114200 +0800" stop="20261101121700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101121700 +0800" stop="20261101125700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101125700 +0800" stop="20261101132700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101132700 +0800" stop="20261101143700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">中華家庭詩詞擂台賽</title>
+  </programme>
+  <programme start="20261101143700 +0800" stop="20261101150700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101150700 +0800" stop="20261101153800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101153800 +0800" stop="20261101160300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">紀錄片-嶗山</title>
+  </programme>
+  <programme start="20261101160300 +0800" stop="20261101163300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101163300 +0800" stop="20261101170300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101170300 +0800" stop="20261101180200 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101180200 +0800" stop="20261101185700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">桃花朵朵開</title>
+  </programme>
+  <programme start="20261101185700 +0800" stop="20261101201500 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101201500 +0800" stop="20261101213100 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂大贏家</title>
+  </programme>
+  <programme start="20261101213100 +0800" stop="20261101224400 +0800" channel="山東綜藝頻道">
+    <title lang="zh">桃花朵朵開</title>
+  </programme>
+  <programme start="20261101224400 +0800" stop="20261101234600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101234600 +0800" stop="20261101235959 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101000500 +0800" stop="20261101005200 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101005200 +0800" stop="20261101010800 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101010800 +0800" stop="20261101014200 +0800" channel="山東農科頻道">
+    <title lang="zh">好品山東</title>
+  </programme>
+  <programme start="20261101014200 +0800" stop="20261101021200 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101021200 +0800" stop="20261101024800 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101024800 +0800" stop="20261101032800 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101032800 +0800" stop="20261101035500 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101035500 +0800" stop="20261101045000 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101045000 +0800" stop="20261101052200 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101052200 +0800" stop="20261101060100 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101060100 +0800" stop="20261101060800 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101060800 +0800" stop="20261101062400 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101062400 +0800" stop="20261101065500 +0800" channel="山東農科頻道">
+    <title lang="zh">農廣校之窗</title>
+  </programme>
+  <programme start="20261101065500 +0800" stop="20261101073600 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101073600 +0800" stop="20261101074200 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101074200 +0800" stop="20261101081200 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101081200 +0800" stop="20261101082900 +0800" channel="山東農科頻道">
+    <title lang="zh">山東良種工程</title>
+  </programme>
+  <programme start="20261101082900 +0800" stop="20261101084900 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101084900 +0800" stop="20261101093200 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101093200 +0800" stop="20261101100100 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101100100 +0800" stop="20261101102100 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101102100 +0800" stop="20261101105000 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101105000 +0800" stop="20261101111200 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101111200 +0800" stop="20261101113900 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101113900 +0800" stop="20261101120000 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101124000 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101124000 +0800" stop="20261101130100 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101130100 +0800" stop="20261101131700 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101131700 +0800" stop="20261101135500 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101135500 +0800" stop="20261101143900 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101143900 +0800" stop="20261101151000 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101151000 +0800" stop="20261101153000 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101155800 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101155800 +0800" stop="20261101161900 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101161900 +0800" stop="20261101164800 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101164800 +0800" stop="20261101171800 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101171800 +0800" stop="20261101174700 +0800" channel="山東農科頻道">
+    <title lang="zh">山東良種工程</title>
+  </programme>
+  <programme start="20261101174700 +0800" stop="20261101184400 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101184400 +0800" stop="20261101192000 +0800" channel="山東農科頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101192000 +0800" stop="20261101193000 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101195000 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101195000 +0800" stop="20261101195800 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101195800 +0800" stop="20261101200800 +0800" channel="山東農科頻道">
+    <title lang="zh">農產之美</title>
+  </programme>
+  <programme start="20261101200800 +0800" stop="20261101204700 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101204700 +0800" stop="20261101211700 +0800" channel="山東農科頻道">
+    <title lang="zh">名醫話健康</title>
+  </programme>
+  <programme start="20261101211700 +0800" stop="20261101215100 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101215100 +0800" stop="20261101220400 +0800" channel="山東農科頻道">
+    <title lang="zh">農產之美</title>
+  </programme>
+  <programme start="20261101220400 +0800" stop="20261101222300 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101222300 +0800" stop="20261101224000 +0800" channel="山東農科頻道">
+    <title lang="zh">山東良種工程</title>
+  </programme>
+  <programme start="20261101224000 +0800" stop="20261101232800 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101232800 +0800" stop="20261101235959 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101054700 +0800" channel="山東文旅頻道">
+    <title lang="zh">尼山杏壇</title>
+  </programme>
+  <programme start="20261101054700 +0800" stop="20261101063900 +0800" channel="山東文旅頻道">
+    <title lang="zh">玉鑑文明</title>
+  </programme>
+  <programme start="20261101063900 +0800" stop="20261101073000 +0800" channel="山東文旅頻道">
+    <title lang="zh">玉鑑文明</title>
+  </programme>
+  <programme start="20261101073000 +0800" stop="20261101080000 +0800" channel="山東文旅頻道">
+    <title lang="zh">光影視界</title>
+  </programme>
+  <programme start="20261101080000 +0800" stop="20261101082200 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101082200 +0800" stop="20261101085700 +0800" channel="山東文旅頻道">
+    <title lang="zh">光影視界</title>
+  </programme>
+  <programme start="20261101085700 +0800" stop="20261101092000 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101092000 +0800" stop="20261101095200 +0800" channel="山東文旅頻道">
+    <title lang="zh">光影視界</title>
+  </programme>
+  <programme start="20261101095200 +0800" stop="20261101102500 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101102500 +0800" stop="20261101111000 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101111000 +0800" stop="20261101113000 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101121500 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101121500 +0800" stop="20261101124200 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101124200 +0800" stop="20261101132500 +0800" channel="山東文旅頻道">
+    <title lang="zh">行進中國</title>
+  </programme>
+  <programme start="20261101132500 +0800" stop="20261101133600 +0800" channel="山東文旅頻道">
+    <title lang="zh">“儒”此有趣</title>
+  </programme>
+  <programme start="20261101133600 +0800" stop="20261101140400 +0800" channel="山東文旅頻道">
+    <title lang="zh">家有藏寶</title>
+  </programme>
+  <programme start="20261101140400 +0800" stop="20261101142600 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101142600 +0800" stop="20261101151200 +0800" channel="山東文旅頻道">
+    <title lang="zh">展播劇場</title>
+  </programme>
+  <programme start="20261101151200 +0800" stop="20261101154300 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101154300 +0800" stop="20261101160500 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101160500 +0800" stop="20261101161800 +0800" channel="山東文旅頻道">
+    <title lang="zh">“國寶”時刻</title>
+  </programme>
+  <programme start="20261101161800 +0800" stop="20261101162600 +0800" channel="山東文旅頻道">
+    <title lang="zh">山東文旅報道</title>
+  </programme>
+  <programme start="20261101162600 +0800" stop="20261101165000 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101165000 +0800" stop="20261101171500 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101171500 +0800" stop="20261101174200 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101174200 +0800" stop="20261101181000 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101181000 +0800" stop="20261101184000 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101184000 +0800" stop="20261101190800 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101190800 +0800" stop="20261101192200 +0800" channel="山東文旅頻道">
+    <title lang="zh">山東文旅報道</title>
+  </programme>
+  <programme start="20261101192200 +0800" stop="20261101193200 +0800" channel="山東文旅頻道">
+    <title lang="zh">福彩情懷</title>
+  </programme>
+  <programme start="20261101193200 +0800" stop="20261101203400 +0800" channel="山東文旅頻道">
+    <title lang="zh">家有藏寶</title>
+  </programme>
+  <programme start="20261101203400 +0800" stop="20261101213900 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101213900 +0800" stop="20261101214800 +0800" channel="山東文旅頻道">
+    <title lang="zh">紀錄片：中國手藝</title>
+  </programme>
+  <programme start="20261101214800 +0800" stop="20261101221600 +0800" channel="山東文旅頻道">
+    <title lang="zh">家有藏寶</title>
+  </programme>
+  <programme start="20261101221600 +0800" stop="20261101224900 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101224900 +0800" stop="20261101234300 +0800" channel="山東文旅頻道">
+    <title lang="zh">玉鑑文明</title>
+  </programme>
+  <programme start="20261101234300 +0800" stop="20261101235959 +0800" channel="山東文旅頻道">
+    <title lang="zh">尼山杏壇</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101060000 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者1》</title>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101073000 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《超級語文課第四季》</title>
+  </programme>
+  <programme start="20261101073000 +0800" stop="20261101073800 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國寶在山東第二季》</title>
+  </programme>
+  <programme start="20261101073800 +0800" stop="20261101075900 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《成長沒煩惱》</title>
+  </programme>
+  <programme start="20261101075900 +0800" stop="20261101081100 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《科普總動員》</title>
+  </programme>
+  <programme start="20261101081100 +0800" stop="20261101091300 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者11-狂野新宇宙》</title>
+  </programme>
+  <programme start="20261101091300 +0800" stop="20261101103400 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之探險日記2》</title>
+  </programme>
+  <programme start="20261101103400 +0800" stop="20261101104400 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101104400 +0800" stop="20261101120600 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者10-奇俠大營救》</title>
+  </programme>
+  <programme start="20261101120600 +0800" stop="20261101121700 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101121700 +0800" stop="20261101131000 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之神奇寶物》</title>
+  </programme>
+  <programme start="20261101131000 +0800" stop="20261101142800 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者10-奇俠大營救》</title>
+  </programme>
+  <programme start="20261101142800 +0800" stop="20261101143900 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101143900 +0800" stop="20261101154700 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之冬日樂翻天》</title>
+  </programme>
+  <programme start="20261101154700 +0800" stop="20261101155800 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101155800 +0800" stop="20261101170500 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者8心世界奇遇》</title>
+  </programme>
+  <programme start="20261101170500 +0800" stop="20261101175900 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊熊幫幫團3》</title>
+  </programme>
+  <programme start="20261101175900 +0800" stop="20261101182300 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之神奇寶物2》</title>
+  </programme>
+  <programme start="20261101182300 +0800" stop="20261101192800 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者13破界山海訣》</title>
+  </programme>
+  <programme start="20261101192800 +0800" stop="20261101200100 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之小小世界2》</title>
+  </programme>
+  <programme start="20261101200100 +0800" stop="20261101203300 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《2026金話筒電視大賽》</title>
+  </programme>
+  <programme start="20261101203300 +0800" stop="20261101215600 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者7遨遊神秘洋》</title>
+  </programme>
+  <programme start="20261101215600 +0800" stop="20261101231300 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《2025中華家庭詩詞擂台賽》</title>
+  </programme>
+  <programme start="20261101231300 +0800" stop="20261101234800 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《豬豬俠之超星五靈俠》</title>
+  </programme>
+  <programme start="20261101234800 +0800" stop="20261101235959 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者1》</title>
   </programme>
   <programme start="20261101040000 +0800" stop="20261101060000 +0800" channel="TVBS新聞台">
     <title lang="zh">新聞夜視界</title>
@@ -33857,29 +35788,1124 @@
     <title lang="zh">精彩節目</title>
     <desc lang="zh">海峽衛視 - 精彩節目</desc>
   </programme>
-  <programme start="20261101100000 +0800" stop="20261101130000 +0800" channel="看看新聞直播">
-    <title lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 上海國際魔術周魔術大師互動秀</title>
-    <desc lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 上海國際魔術周魔術大師互動秀</desc>
+  <programme start="20261101000000 +0800" stop="20261101043800 +0800" channel="山東衛視">
+    <title lang="zh">2025中華家庭詩詞擂台賽</title>
   </programme>
-  <programme start="20261101130000 +0800" stop="20261101140000 +0800" channel="看看新聞直播">
-    <title lang="zh">胃腸腫瘤圍手術期，外科醫生怎麼治</title>
-    <desc lang="zh">胃腸腫瘤圍手術期，外科醫生怎麼治</desc>
+  <programme start="20261101043800 +0800" stop="20261101051000 +0800" channel="山東衛視">
+    <title lang="zh">老農民-34</title>
   </programme>
-  <programme start="20261101140000 +0800" stop="20261101141000 +0800" channel="看看新聞直播">
-    <title lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 德國燃動提線木偶劇《奇幻旅行箱》</title>
-    <desc lang="zh">第二十五屆中國上海國際藝術節“藝術天空”惠民活動 | 德國燃動提線木偶劇《奇幻旅行箱》</desc>
+  <programme start="20261101051000 +0800" stop="20261101055200 +0800" channel="山東衛視">
+    <title lang="zh">老農民-35</title>
   </programme>
-  <programme start="20261101141000 +0800" stop="20261101160000 +0800" channel="看看新聞直播">
-    <title lang="zh">重視胃癌早篩：理清胃癌的診斷與治療抉擇</title>
-    <desc lang="zh">重視胃癌早篩：理清胃癌的診斷與治療抉擇</desc>
+  <programme start="20261101055200 +0800" stop="20261101063700 +0800" channel="山東衛視">
+    <title lang="zh">老農民-36</title>
   </programme>
-  <programme start="20261101190000 +0800" stop="20261101220000 +0800" channel="看看新聞直播">
-    <title lang="zh">名醫話養生｜中國人死亡的“頭號殺手”不是癌症而是它！</title>
-    <desc lang="zh">名醫話養生｜中國人死亡的“頭號殺手”不是癌症而是它！</desc>
+  <programme start="20261101063700 +0800" stop="20261101065600 +0800" channel="山東衛視">
+    <title lang="zh">五洲四海山東人</title>
   </programme>
-  <programme start="20261102190000 +0800" stop="20261102200000 +0800" channel="看看新聞直播">
-    <title lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</title>
-    <desc lang="zh">漢漢和名醫朋友來了｜免疫治療出現不良反應怎麼辦？ 專家詳解腫瘤治療的科學管理</desc>
+  <programme start="20261101065600 +0800" stop="20261101073600 +0800" channel="山東衛視">
+    <title lang="zh">早安山東</title>
+  </programme>
+  <programme start="20261101073600 +0800" stop="20261101080800 +0800" channel="山東衛視">
+    <title lang="zh">樂享食光</title>
+  </programme>
+  <programme start="20261101080800 +0800" stop="20261101094400 +0800" channel="山東衛視">
+    <title lang="zh">超級語文課精編課堂</title>
+  </programme>
+  <programme start="20261101094400 +0800" stop="20261101102300 +0800" channel="山東衛視">
+    <title lang="zh">大醫本草堂</title>
+  </programme>
+  <programme start="20261101102300 +0800" stop="20261101111100 +0800" channel="山東衛視">
+    <title lang="zh">老農民-34</title>
+  </programme>
+  <programme start="20261101111100 +0800" stop="20261101120900 +0800" channel="山東衛視">
+    <title lang="zh">老農民-35</title>
+  </programme>
+  <programme start="20261101120900 +0800" stop="20261101130300 +0800" channel="山東衛視">
+    <title lang="zh">老農民-36</title>
+  </programme>
+  <programme start="20261101130300 +0800" stop="20261101134500 +0800" channel="山東衛視">
+    <title lang="zh">老農民-37</title>
+  </programme>
+  <programme start="20261101134500 +0800" stop="20261101142700 +0800" channel="山東衛視">
+    <title lang="zh">老農民-38</title>
+  </programme>
+  <programme start="20261101142700 +0800" stop="20261101150700 +0800" channel="山東衛視">
+    <title lang="zh">老農民-39</title>
+  </programme>
+  <programme start="20261101150700 +0800" stop="20261101155800 +0800" channel="山東衛視">
+    <title lang="zh">老農民-40</title>
+  </programme>
+  <programme start="20261101155800 +0800" stop="20261101164200 +0800" channel="山東衛視">
+    <title lang="zh">老農民-41</title>
+  </programme>
+  <programme start="20261101164200 +0800" stop="20261101172800 +0800" channel="山東衛視">
+    <title lang="zh">老農民-42</title>
+  </programme>
+  <programme start="20261101172800 +0800" stop="20261101180600 +0800" channel="山東衛視">
+    <title lang="zh">樂享食光</title>
+  </programme>
+  <programme start="20261101180600 +0800" stop="20261101182100 +0800" channel="山東衛視">
+    <title lang="zh">品牌山東</title>
+  </programme>
+  <programme start="20261101182100 +0800" stop="20261101183000 +0800" channel="山東衛視">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="山東衛視">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101190000 +0800" stop="20261101193700 +0800" channel="山東衛視">
+    <title lang="zh">中央台新聞聯播</title>
+  </programme>
+  <programme start="20261101193700 +0800" stop="20261101202900 +0800" channel="山東衛視">
+    <title lang="zh">主角-9</title>
+  </programme>
+  <programme start="20261101202900 +0800" stop="20261101211800 +0800" channel="山東衛視">
+    <title lang="zh">主角-10</title>
+  </programme>
+  <programme start="20261101211800 +0800" stop="20261101220000 +0800" channel="山東衛視">
+    <title lang="zh">帶著禮樂去旅行</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101222700 +0800" channel="山東衛視">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101222700 +0800" stop="20261101231000 +0800" channel="山東衛視">
+    <title lang="zh">南來北往-3</title>
+  </programme>
+  <programme start="20261101231000 +0800" stop="20261101235300 +0800" channel="山東衛視">
+    <title lang="zh">南來北往-4</title>
+  </programme>
+  <programme start="20261101235300 +0800" stop="20261101235959 +0800" channel="山東衛視">
+    <title lang="zh">2025中華家庭詩詞擂台賽</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101000500 +0800" stop="20261101004500 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101004500 +0800" stop="20261101011500 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101011500 +0800" stop="20261101012300 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101012300 +0800" stop="20261101012800 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101012800 +0800" stop="20261101015200 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101015200 +0800" stop="20261101023200 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101023200 +0800" stop="20261101030200 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101030200 +0800" stop="20261101031000 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101031000 +0800" stop="20261101031500 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101031500 +0800" stop="20261101035500 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101035500 +0800" stop="20261101040740 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101040740 +0800" stop="20261101044740 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101044740 +0800" stop="20261101045540 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101045540 +0800" stop="20261101051940 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101051940 +0800" stop="20261101052740 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101052740 +0800" stop="20261101053000 +0800" channel="山東新聞頻道">
+    <title lang="zh">大美齊魯</title>
+  </programme>
+  <programme start="20261101053000 +0800" stop="20261101055000 +0800" channel="山東新聞頻道">
+    <title lang="zh">五洲四海山東人</title>
+  </programme>
+  <programme start="20261101055000 +0800" stop="20261101063000 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101063000 +0800" stop="20261101065600 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101065600 +0800" stop="20261101073200 +0800" channel="山東新聞頻道">
+    <title lang="zh">早安山東</title>
+  </programme>
+  <programme start="20261101073200 +0800" stop="20261101080600 +0800" channel="山東新聞頻道">
+    <title lang="zh">早安山東</title>
+  </programme>
+  <programme start="20261101080600 +0800" stop="20261101083310 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101083310 +0800" stop="20261101090140 +0800" channel="山東新聞頻道">
+    <title lang="zh">記住鄉愁</title>
+  </programme>
+  <programme start="20261101090140 +0800" stop="20261101090740 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101090740 +0800" stop="20261101091510 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101091510 +0800" stop="20261101095810 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101095810 +0800" stop="20261101103040 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101103040 +0800" stop="20261101105800 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101105800 +0800" stop="20261101110755 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101110755 +0800" stop="20261101111255 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101111255 +0800" stop="20261101113000 +0800" channel="山東新聞頻道">
+    <title lang="zh">東營新時空</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101123000 +0800" channel="山東新聞頻道">
+    <title lang="zh">新聞午班車</title>
+  </programme>
+  <programme start="20261101123000 +0800" stop="20261101125400 +0800" channel="山東新聞頻道">
+    <title lang="zh">走進深藍</title>
+  </programme>
+  <programme start="20261101125400 +0800" stop="20261101131725 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101131725 +0800" stop="20261101134240 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101134240 +0800" stop="20261101135220 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101135220 +0800" stop="20261101142255 +0800" channel="山東新聞頻道">
+    <title lang="zh">紀錄片我站立的地方</title>
+  </programme>
+  <programme start="20261101142255 +0800" stop="20261101145345 +0800" channel="山東新聞頻道">
+    <title lang="zh">紀錄片我站立的地方</title>
+  </programme>
+  <programme start="20261101145345 +0800" stop="20261101153550 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101153550 +0800" stop="20261101160620 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101160620 +0800" stop="20261101161220 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101161220 +0800" stop="20261101162045 +0800" channel="山東新聞頻道">
+    <title lang="zh">光耀齊魯</title>
+  </programme>
+  <programme start="20261101162045 +0800" stop="20261101163510 +0800" channel="山東新聞頻道">
+    <title lang="zh">共產黨員</title>
+  </programme>
+  <programme start="20261101163510 +0800" stop="20261101165910 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101165910 +0800" stop="20261101172510 +0800" channel="山東新聞頻道">
+    <title lang="zh">記住鄉愁</title>
+  </programme>
+  <programme start="20261101172510 +0800" stop="20261101174510 +0800" channel="山東新聞頻道">
+    <title lang="zh">五洲四海山東人</title>
+  </programme>
+  <programme start="20261101174510 +0800" stop="20261101180000 +0800" channel="山東新聞頻道">
+    <title lang="zh">共產黨員</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101183000 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101185700 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101185700 +0800" stop="20261101192500 +0800" channel="山東新聞頻道">
+    <title lang="zh">記住鄉愁</title>
+  </programme>
+  <programme start="20261101192500 +0800" stop="20261101193000 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101201500 +0800" channel="山東新聞頻道">
+    <title lang="zh">閃電大視野</title>
+  </programme>
+  <programme start="20261101201500 +0800" stop="20261101204620 +0800" channel="山東新聞頻道">
+    <title lang="zh">理響中國</title>
+  </programme>
+  <programme start="20261101204620 +0800" stop="20261101205200 +0800" channel="山東新聞頻道">
+    <title lang="zh">國寶時刻</title>
+  </programme>
+  <programme start="20261101205200 +0800" stop="20261101205700 +0800" channel="山東新聞頻道">
+    <title lang="zh">國寶時刻</title>
+  </programme>
+  <programme start="20261101205700 +0800" stop="20261101212230 +0800" channel="山東新聞頻道">
+    <title lang="zh">品牌山東</title>
+  </programme>
+  <programme start="20261101212230 +0800" stop="20261101212730 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101212730 +0800" stop="20261101213000 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東省海洋預報</title>
+  </programme>
+  <programme start="20261101213000 +0800" stop="20261101214000 +0800" channel="山東新聞頻道">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20261101214000 +0800" stop="20261101220000 +0800" channel="山東新聞頻道">
+    <title lang="zh">應急線上</title>
+  </programme>
+  <programme start="20261101220000 +0800" stop="20261101222500 +0800" channel="山東新聞頻道">
+    <title lang="zh">山東新聞聯播</title>
+  </programme>
+  <programme start="20261101222500 +0800" stop="20261101224030 +0800" channel="山東新聞頻道">
+    <title lang="zh">東營新時空</title>
+  </programme>
+  <programme start="20261101224030 +0800" stop="20261101224900 +0800" channel="山東新聞頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101224900 +0800" stop="20261101225400 +0800" channel="山東新聞頻道">
+    <title lang="zh">齊魯先鋒</title>
+  </programme>
+  <programme start="20261101225400 +0800" stop="20261101231730 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101231730 +0800" stop="20261101234055 +0800" channel="山東新聞頻道">
+    <title lang="zh">大抗戰</title>
+  </programme>
+  <programme start="20261101234055 +0800" stop="20261101235959 +0800" channel="山東新聞頻道">
+    <title lang="zh">健康山東</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101002626 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101002626 +0800" stop="20261101010741 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101010741 +0800" stop="20261101014856 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101014856 +0800" stop="20261101023011 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101023011 +0800" stop="20261101031126 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101031126 +0800" stop="20261101035241 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101035241 +0800" stop="20261101043648 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101043648 +0800" stop="20261101051803 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101051803 +0800" stop="20261101055918 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101055918 +0800" stop="20261101055950 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101055950 +0800" stop="20261101061720 +0800" channel="齊魯頻道">
+    <title lang="zh">小溪辦事</title>
+  </programme>
+  <programme start="20261101061720 +0800" stop="20261101063225 +0800" channel="齊魯頻道">
+    <title lang="zh">每日新聞</title>
+  </programme>
+  <programme start="20261101063225 +0800" stop="20261101070320 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101070320 +0800" stop="20261101073700 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101073700 +0800" stop="20261101081435 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101081435 +0800" stop="20261101083435 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101083435 +0800" stop="20261101090335 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101090335 +0800" stop="20261101092810 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101092810 +0800" stop="20261101100610 +0800" channel="齊魯頻道">
+    <title lang="zh">暗戰風雲</title>
+  </programme>
+  <programme start="20261101100610 +0800" stop="20261101103740 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101103740 +0800" stop="20261101105810 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101105810 +0800" stop="20261101112520 +0800" channel="齊魯頻道">
+    <title lang="zh">小溪辦事</title>
+  </programme>
+  <programme start="20261101112520 +0800" stop="20261101115530 +0800" channel="齊魯頻道">
+    <title lang="zh">家鄉味道</title>
+  </programme>
+  <programme start="20261101115530 +0800" stop="20261101122000 +0800" channel="齊魯頻道">
+    <title lang="zh">法潤齊魯</title>
+  </programme>
+  <programme start="20261101122000 +0800" stop="20261101124350 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101124350 +0800" stop="20261101125625 +0800" channel="齊魯頻道">
+    <title lang="zh">現場直擊</title>
+  </programme>
+  <programme start="20261101125625 +0800" stop="20261101131700 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101131700 +0800" stop="20261101135135 +0800" channel="齊魯頻道">
+    <title lang="zh">水上游擊隊</title>
+  </programme>
+  <programme start="20261101135135 +0800" stop="20261101141245 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101141245 +0800" stop="20261101144245 +0800" channel="齊魯頻道">
+    <title lang="zh">水上游擊隊</title>
+  </programme>
+  <programme start="20261101144245 +0800" stop="20261101150310 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101150310 +0800" stop="20261101153650 +0800" channel="齊魯頻道">
+    <title lang="zh">水上游擊隊</title>
+  </programme>
+  <programme start="20261101153650 +0800" stop="20261101160825 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101160825 +0800" stop="20261101164345 +0800" channel="齊魯頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101164345 +0800" stop="20261101172000 +0800" channel="齊魯頻道">
+    <title lang="zh">家鄉味道</title>
+  </programme>
+  <programme start="20261101172000 +0800" stop="20261101174500 +0800" channel="齊魯頻道">
+    <title lang="zh">山東雙擁</title>
+  </programme>
+  <programme start="20261101174500 +0800" stop="20261101181500 +0800" channel="齊魯頻道">
+    <title lang="zh">小溪辦事</title>
+  </programme>
+  <programme start="20261101181500 +0800" stop="20261101182500 +0800" channel="齊魯頻道">
+    <title lang="zh">現場直擊</title>
+  </programme>
+  <programme start="20261101182500 +0800" stop="20261101191230 +0800" channel="齊魯頻道">
+    <title lang="zh">每日新聞</title>
+  </programme>
+  <programme start="20261101191230 +0800" stop="20261101195351 +0800" channel="齊魯頻道">
+    <title lang="zh">好政策到一線</title>
+  </programme>
+  <programme start="20261101195351 +0800" stop="20261101205341 +0800" channel="齊魯頻道">
+    <title lang="zh">絕命後衛師</title>
+  </programme>
+  <programme start="20261101205341 +0800" stop="20261101214011 +0800" channel="齊魯頻道">
+    <title lang="zh">怒火英雄</title>
+  </programme>
+  <programme start="20261101214011 +0800" stop="20261101221431 +0800" channel="齊魯頻道">
+    <title lang="zh">怒火英雄</title>
+  </programme>
+  <programme start="20261101221431 +0800" stop="20261101225531 +0800" channel="齊魯頻道">
+    <title lang="zh">翡翠奇緣</title>
+  </programme>
+  <programme start="20261101225531 +0800" stop="20261101233816 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101233816 +0800" stop="20261101235959 +0800" channel="齊魯頻道">
+    <title lang="zh">養父如山</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101002600 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101002600 +0800" stop="20261101004700 +0800" channel="山東生活頻道">
+    <title lang="zh">醫案</title>
+  </programme>
+  <programme start="20261101004700 +0800" stop="20261101014400 +0800" channel="山東生活頻道">
+    <title lang="zh">好品山東</title>
+  </programme>
+  <programme start="20261101014400 +0800" stop="20261101022600 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101022600 +0800" stop="20261101025600 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101025600 +0800" stop="20261101031700 +0800" channel="山東生活頻道">
+    <title lang="zh">醫案</title>
+  </programme>
+  <programme start="20261101031700 +0800" stop="20261101041700 +0800" channel="山東生活頻道">
+    <title lang="zh">好品山東</title>
+  </programme>
+  <programme start="20261101041700 +0800" stop="20261101045900 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101045900 +0800" stop="20261101052900 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101052900 +0800" stop="20261101055900 +0800" channel="山東生活頻道">
+    <title lang="zh">醫案</title>
+  </programme>
+  <programme start="20261101055900 +0800" stop="20261101063100 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101063100 +0800" stop="20261101071300 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101071300 +0800" stop="20261101074500 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101074500 +0800" stop="20261101080500 +0800" channel="山東生活頻道">
+    <title lang="zh">樂享銀齡</title>
+  </programme>
+  <programme start="20261101080500 +0800" stop="20261101083400 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101083400 +0800" stop="20261101085500 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101085500 +0800" stop="20261101092300 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101092300 +0800" stop="20261101094400 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101094400 +0800" stop="20261101101200 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101101200 +0800" stop="20261101103300 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101103300 +0800" stop="20261101110100 +0800" channel="山東生活頻道">
+    <title lang="zh">神槍</title>
+  </programme>
+  <programme start="20261101110100 +0800" stop="20261101112200 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101112200 +0800" stop="20261101115500 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101115500 +0800" stop="20261101123800 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101123800 +0800" stop="20261101125900 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101125900 +0800" stop="20261101133000 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101133000 +0800" stop="20261101135600 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101135600 +0800" stop="20261101141800 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101141800 +0800" stop="20261101144500 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101144500 +0800" stop="20261101150600 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101150600 +0800" stop="20261101153400 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101153400 +0800" stop="20261101155600 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101155600 +0800" stop="20261101163500 +0800" channel="山東生活頻道">
+    <title lang="zh">殊死七日</title>
+  </programme>
+  <programme start="20261101163500 +0800" stop="20261101174500 +0800" channel="山東生活頻道">
+    <title lang="zh">戲宇宙</title>
+  </programme>
+  <programme start="20261101174500 +0800" stop="20261101175500 +0800" channel="山東生活頻道">
+    <title lang="zh">紀錄片</title>
+  </programme>
+  <programme start="20261101175500 +0800" stop="20261101191000 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101191000 +0800" stop="20261101194500 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101194500 +0800" stop="20261101201700 +0800" channel="山東生活頻道">
+    <title lang="zh">名醫話健康</title>
+  </programme>
+  <programme start="20261101201700 +0800" stop="20261101211100 +0800" channel="山東生活頻道">
+    <title lang="zh">行進中國</title>
+  </programme>
+  <programme start="20261101211100 +0800" stop="20261101214300 +0800" channel="山東生活頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101214300 +0800" stop="20261101221800 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101221800 +0800" stop="20261101230000 +0800" channel="山東生活頻道">
+    <title lang="zh">生活幫</title>
+  </programme>
+  <programme start="20261101230000 +0800" stop="20261101233000 +0800" channel="山東生活頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101233000 +0800" stop="20261101235959 +0800" channel="山東生活頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101001000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101001000 +0800" stop="20261101014000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">巔峰賽事</title>
+  </programme>
+  <programme start="20261101014000 +0800" stop="20261101015000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101015000 +0800" stop="20261101032000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">超級賽場精編版</title>
+  </programme>
+  <programme start="20261101032000 +0800" stop="20261101045000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">巔峰賽事</title>
+  </programme>
+  <programme start="20261101045000 +0800" stop="20261101050000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">酷體育</title>
+  </programme>
+  <programme start="20261101050000 +0800" stop="20261101055600 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">聯邦大作戰</title>
+  </programme>
+  <programme start="20261101055600 +0800" stop="20261101065500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101065500 +0800" stop="20261101072500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101072500 +0800" stop="20261101073500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101073500 +0800" stop="20261101074500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">酷體育</title>
+  </programme>
+  <programme start="20261101074500 +0800" stop="20261101081000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">激情歲月</title>
+  </programme>
+  <programme start="20261101081000 +0800" stop="20261101084000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261101084000 +0800" stop="20261101091000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">綠茵劇場：花女的抗戰（14）</title>
+  </programme>
+  <programme start="20261101091000 +0800" stop="20261101094000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">張展碩</title>
+  </programme>
+  <programme start="20261101094000 +0800" stop="20261101101000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">綠茵劇場：花女的抗戰（15）</title>
+  </programme>
+  <programme start="20261101101000 +0800" stop="20261101104000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101104000 +0800" stop="20261101113000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101120000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101123900 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">山東體壇縱覽</title>
+  </programme>
+  <programme start="20261101123900 +0800" stop="20261101125400 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育大觀</title>
+  </programme>
+  <programme start="20261101125400 +0800" stop="20261101130400 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101130400 +0800" stop="20261101132900 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">中超集錦</title>
+  </programme>
+  <programme start="20261101132900 +0800" stop="20261101140000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">綠茵劇場：花女的抗戰（16）</title>
+  </programme>
+  <programme start="20261101140000 +0800" stop="20261101153000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">巔峰賽事</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101154000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101154000 +0800" stop="20261101155000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">酷體育</title>
+  </programme>
+  <programme start="20261101155000 +0800" stop="20261101161500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">激情歲月</title>
+  </programme>
+  <programme start="20261101161500 +0800" stop="20261101164500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261101164500 +0800" stop="20261101165500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101165500 +0800" stop="20261101181000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">聯邦大作戰</title>
+  </programme>
+  <programme start="20261101181000 +0800" stop="20261101182000 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261101182000 +0800" stop="20261101192500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101192500 +0800" stop="20261101195500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">激情衝擊播之ONE集錦</title>
+  </programme>
+  <programme start="20261101195500 +0800" stop="20261101201500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">好運山東</title>
+  </programme>
+  <programme start="20261101201500 +0800" stop="20261101212500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261101212500 +0800" stop="20261101220500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">翡翠奇緣</title>
+  </programme>
+  <programme start="20261101220500 +0800" stop="20261101221500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101221500 +0800" stop="20261101222500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">韻動至尚</title>
+  </programme>
+  <programme start="20261101222500 +0800" stop="20261101235500 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">超級賽場精編版</title>
+  </programme>
+  <programme start="20261101235500 +0800" stop="20261101235959 +0800" channel="山東體育休閒頻道">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101002300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101002300 +0800" stop="20261101012800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101012800 +0800" stop="20261101023000 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101023000 +0800" stop="20261101033200 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101033200 +0800" stop="20261101043600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101043600 +0800" stop="20261101053900 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101053900 +0800" stop="20261101062100 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101062100 +0800" stop="20261101070600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101070600 +0800" stop="20261101073600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101073600 +0800" stop="20261101083800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101083800 +0800" stop="20261101090800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101090800 +0800" stop="20261101093900 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101093900 +0800" stop="20261101104000 +0800" channel="山東綜藝頻道">
+    <title lang="zh">唱響你的歌</title>
+  </programme>
+  <programme start="20261101104000 +0800" stop="20261101114200 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101114200 +0800" stop="20261101121700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101121700 +0800" stop="20261101125700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101125700 +0800" stop="20261101132700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101132700 +0800" stop="20261101143700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">中華家庭詩詞擂台賽</title>
+  </programme>
+  <programme start="20261101143700 +0800" stop="20261101150700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101150700 +0800" stop="20261101153800 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101153800 +0800" stop="20261101160300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">紀錄片-嶗山</title>
+  </programme>
+  <programme start="20261101160300 +0800" stop="20261101163300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101163300 +0800" stop="20261101170300 +0800" channel="山東綜藝頻道">
+    <title lang="zh">專題節目</title>
+  </programme>
+  <programme start="20261101170300 +0800" stop="20261101180200 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101180200 +0800" stop="20261101185700 +0800" channel="山東綜藝頻道">
+    <title lang="zh">桃花朵朵開</title>
+  </programme>
+  <programme start="20261101185700 +0800" stop="20261101201500 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101201500 +0800" stop="20261101213100 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂大贏家</title>
+  </programme>
+  <programme start="20261101213100 +0800" stop="20261101224400 +0800" channel="山東綜藝頻道">
+    <title lang="zh">桃花朵朵開</title>
+  </programme>
+  <programme start="20261101224400 +0800" stop="20261101234600 +0800" channel="山東綜藝頻道">
+    <title lang="zh">快樂向前衝</title>
+  </programme>
+  <programme start="20261101234600 +0800" stop="20261101235959 +0800" channel="山東綜藝頻道">
+    <title lang="zh">《快樂向前衝》暑期樂園季</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101000500 +0800" stop="20261101005200 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101005200 +0800" stop="20261101010800 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101010800 +0800" stop="20261101014200 +0800" channel="山東農科頻道">
+    <title lang="zh">好品山東</title>
+  </programme>
+  <programme start="20261101014200 +0800" stop="20261101021200 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101021200 +0800" stop="20261101024800 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101024800 +0800" stop="20261101032800 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101032800 +0800" stop="20261101035500 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101035500 +0800" stop="20261101045000 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101045000 +0800" stop="20261101052200 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101052200 +0800" stop="20261101060100 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101060100 +0800" stop="20261101060800 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101060800 +0800" stop="20261101062400 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101062400 +0800" stop="20261101065500 +0800" channel="山東農科頻道">
+    <title lang="zh">農廣校之窗</title>
+  </programme>
+  <programme start="20261101065500 +0800" stop="20261101073600 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101073600 +0800" stop="20261101074200 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101074200 +0800" stop="20261101081200 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101081200 +0800" stop="20261101082900 +0800" channel="山東農科頻道">
+    <title lang="zh">山東良種工程</title>
+  </programme>
+  <programme start="20261101082900 +0800" stop="20261101084900 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101084900 +0800" stop="20261101093200 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101093200 +0800" stop="20261101100100 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101100100 +0800" stop="20261101102100 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101102100 +0800" stop="20261101105000 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101105000 +0800" stop="20261101111200 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101111200 +0800" stop="20261101113900 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101113900 +0800" stop="20261101120000 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101124000 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101124000 +0800" stop="20261101130100 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101130100 +0800" stop="20261101131700 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101131700 +0800" stop="20261101135500 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101135500 +0800" stop="20261101143900 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101143900 +0800" stop="20261101151000 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101151000 +0800" stop="20261101153000 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101155800 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101155800 +0800" stop="20261101161900 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101161900 +0800" stop="20261101164800 +0800" channel="山東農科頻道">
+    <title lang="zh">特殊使命</title>
+  </programme>
+  <programme start="20261101164800 +0800" stop="20261101171800 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101171800 +0800" stop="20261101174700 +0800" channel="山東農科頻道">
+    <title lang="zh">山東良種工程</title>
+  </programme>
+  <programme start="20261101174700 +0800" stop="20261101184400 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101184400 +0800" stop="20261101192000 +0800" channel="山東農科頻道">
+    <title lang="zh">健康生活幫</title>
+  </programme>
+  <programme start="20261101192000 +0800" stop="20261101193000 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101195000 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101195000 +0800" stop="20261101195800 +0800" channel="山東農科頻道">
+    <title lang="zh">農事氣象站</title>
+  </programme>
+  <programme start="20261101195800 +0800" stop="20261101200800 +0800" channel="山東農科頻道">
+    <title lang="zh">農產之美</title>
+  </programme>
+  <programme start="20261101200800 +0800" stop="20261101204700 +0800" channel="山東農科頻道">
+    <title lang="zh">鄉村季風+種地寶典</title>
+  </programme>
+  <programme start="20261101204700 +0800" stop="20261101211700 +0800" channel="山東農科頻道">
+    <title lang="zh">名醫話健康</title>
+  </programme>
+  <programme start="20261101211700 +0800" stop="20261101215100 +0800" channel="山東農科頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101215100 +0800" stop="20261101220400 +0800" channel="山東農科頻道">
+    <title lang="zh">農產之美</title>
+  </programme>
+  <programme start="20261101220400 +0800" stop="20261101222300 +0800" channel="山東農科頻道">
+    <title lang="zh">山東三農新聞聯播</title>
+  </programme>
+  <programme start="20261101222300 +0800" stop="20261101224000 +0800" channel="山東農科頻道">
+    <title lang="zh">山東良種工程</title>
+  </programme>
+  <programme start="20261101224000 +0800" stop="20261101232800 +0800" channel="山東農科頻道">
+    <title lang="zh">中國原產遞</title>
+  </programme>
+  <programme start="20261101232800 +0800" stop="20261101235959 +0800" channel="山東農科頻道">
+    <title lang="zh">田間示範秀</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101054700 +0800" channel="山東文旅頻道">
+    <title lang="zh">尼山杏壇</title>
+  </programme>
+  <programme start="20261101054700 +0800" stop="20261101063900 +0800" channel="山東文旅頻道">
+    <title lang="zh">玉鑑文明</title>
+  </programme>
+  <programme start="20261101063900 +0800" stop="20261101073000 +0800" channel="山東文旅頻道">
+    <title lang="zh">玉鑑文明</title>
+  </programme>
+  <programme start="20261101073000 +0800" stop="20261101080000 +0800" channel="山東文旅頻道">
+    <title lang="zh">光影視界</title>
+  </programme>
+  <programme start="20261101080000 +0800" stop="20261101082200 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101082200 +0800" stop="20261101085700 +0800" channel="山東文旅頻道">
+    <title lang="zh">光影視界</title>
+  </programme>
+  <programme start="20261101085700 +0800" stop="20261101092000 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101092000 +0800" stop="20261101095200 +0800" channel="山東文旅頻道">
+    <title lang="zh">光影視界</title>
+  </programme>
+  <programme start="20261101095200 +0800" stop="20261101102500 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101102500 +0800" stop="20261101111000 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101111000 +0800" stop="20261101113000 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101113000 +0800" stop="20261101121500 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101121500 +0800" stop="20261101124200 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101124200 +0800" stop="20261101132500 +0800" channel="山東文旅頻道">
+    <title lang="zh">行進中國</title>
+  </programme>
+  <programme start="20261101132500 +0800" stop="20261101133600 +0800" channel="山東文旅頻道">
+    <title lang="zh">“儒”此有趣</title>
+  </programme>
+  <programme start="20261101133600 +0800" stop="20261101140400 +0800" channel="山東文旅頻道">
+    <title lang="zh">家有藏寶</title>
+  </programme>
+  <programme start="20261101140400 +0800" stop="20261101142600 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101142600 +0800" stop="20261101151200 +0800" channel="山東文旅頻道">
+    <title lang="zh">展播劇場</title>
+  </programme>
+  <programme start="20261101151200 +0800" stop="20261101154300 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101154300 +0800" stop="20261101160500 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101160500 +0800" stop="20261101161800 +0800" channel="山東文旅頻道">
+    <title lang="zh">“國寶”時刻</title>
+  </programme>
+  <programme start="20261101161800 +0800" stop="20261101162600 +0800" channel="山東文旅頻道">
+    <title lang="zh">山東文旅報道</title>
+  </programme>
+  <programme start="20261101162600 +0800" stop="20261101165000 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101165000 +0800" stop="20261101171500 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101171500 +0800" stop="20261101174200 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101174200 +0800" stop="20261101181000 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101181000 +0800" stop="20261101184000 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101184000 +0800" stop="20261101190800 +0800" channel="山東文旅頻道">
+    <title lang="zh">齊魯青未了</title>
+  </programme>
+  <programme start="20261101190800 +0800" stop="20261101192200 +0800" channel="山東文旅頻道">
+    <title lang="zh">山東文旅報道</title>
+  </programme>
+  <programme start="20261101192200 +0800" stop="20261101193200 +0800" channel="山東文旅頻道">
+    <title lang="zh">福彩情懷</title>
+  </programme>
+  <programme start="20261101193200 +0800" stop="20261101203400 +0800" channel="山東文旅頻道">
+    <title lang="zh">家有藏寶</title>
+  </programme>
+  <programme start="20261101203400 +0800" stop="20261101213900 +0800" channel="山東文旅頻道">
+    <title lang="zh">等著我</title>
+  </programme>
+  <programme start="20261101213900 +0800" stop="20261101214800 +0800" channel="山東文旅頻道">
+    <title lang="zh">紀錄片：中國手藝</title>
+  </programme>
+  <programme start="20261101214800 +0800" stop="20261101221600 +0800" channel="山東文旅頻道">
+    <title lang="zh">家有藏寶</title>
+  </programme>
+  <programme start="20261101221600 +0800" stop="20261101224900 +0800" channel="山東文旅頻道">
+    <title lang="zh">專題</title>
+  </programme>
+  <programme start="20261101224900 +0800" stop="20261101234300 +0800" channel="山東文旅頻道">
+    <title lang="zh">玉鑑文明</title>
+  </programme>
+  <programme start="20261101234300 +0800" stop="20261101235959 +0800" channel="山東文旅頻道">
+    <title lang="zh">尼山杏壇</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101060000 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者1》</title>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101073000 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《超級語文課第四季》</title>
+  </programme>
+  <programme start="20261101073000 +0800" stop="20261101073800 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國寶在山東第二季》</title>
+  </programme>
+  <programme start="20261101073800 +0800" stop="20261101075900 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《成長沒煩惱》</title>
+  </programme>
+  <programme start="20261101075900 +0800" stop="20261101081100 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《科普總動員》</title>
+  </programme>
+  <programme start="20261101081100 +0800" stop="20261101091300 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者11-狂野新宇宙》</title>
+  </programme>
+  <programme start="20261101091300 +0800" stop="20261101103400 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之探險日記2》</title>
+  </programme>
+  <programme start="20261101103400 +0800" stop="20261101104400 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101104400 +0800" stop="20261101120600 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者10-奇俠大營救》</title>
+  </programme>
+  <programme start="20261101120600 +0800" stop="20261101121700 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101121700 +0800" stop="20261101131000 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之神奇寶物》</title>
+  </programme>
+  <programme start="20261101131000 +0800" stop="20261101142800 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者10-奇俠大營救》</title>
+  </programme>
+  <programme start="20261101142800 +0800" stop="20261101143900 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101143900 +0800" stop="20261101154700 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之冬日樂翻天》</title>
+  </programme>
+  <programme start="20261101154700 +0800" stop="20261101155800 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《國學小名士》精彩片段</title>
+  </programme>
+  <programme start="20261101155800 +0800" stop="20261101170500 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者8心世界奇遇》</title>
+  </programme>
+  <programme start="20261101170500 +0800" stop="20261101175900 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊熊幫幫團3》</title>
+  </programme>
+  <programme start="20261101175900 +0800" stop="20261101182300 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之神奇寶物2》</title>
+  </programme>
+  <programme start="20261101182300 +0800" stop="20261101192800 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者13破界山海訣》</title>
+  </programme>
+  <programme start="20261101192800 +0800" stop="20261101200100 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《熊出沒之小小世界2》</title>
+  </programme>
+  <programme start="20261101200100 +0800" stop="20261101203300 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《2026金話筒電視大賽》</title>
+  </programme>
+  <programme start="20261101203300 +0800" stop="20261101215600 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者7遨遊神秘洋》</title>
+  </programme>
+  <programme start="20261101215600 +0800" stop="20261101231300 +0800" channel="山東少兒頻道">
+    <title lang="zh">節目：《2025中華家庭詩詞擂台賽》</title>
+  </programme>
+  <programme start="20261101231300 +0800" stop="20261101234800 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《豬豬俠之超星五靈俠》</title>
+  </programme>
+  <programme start="20261101234800 +0800" stop="20261101235959 +0800" channel="山東少兒頻道">
+    <title lang="zh">動畫片：《喜羊羊與灰太狼羊村守護者1》</title>
   </programme>
   <programme start="20261101040000 +0800" stop="20261101055959 +0800" channel="TVBS 55 新聞台">
     <title>新聞夜視界</title>

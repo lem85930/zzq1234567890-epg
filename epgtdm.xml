@@ -44,7 +44,6 @@
   </programme>
   <programme start="20261101103000 +0800" stop="20261101111000 +0800" channel="澳視澳門 91台">
     <title lang="zh">重播財經雜誌</title>
-    <live/>
   </programme>
   <programme start="20261101111000 +0800" stop="20261101111500 +0800" channel="澳視澳門 91台">
     <title lang="zh">TDM 新視點</title>
@@ -72,6 +71,7 @@
   </programme>
   <programme start="20261101140000 +0800" stop="20261101153500 +0800" channel="澳視澳門 91台">
     <title lang="zh">無所畏懼</title>
+    <live/>
   </programme>
   <programme start="20261101153500 +0800" stop="20261101154700 +0800" channel="澳視澳門 91台">
     <title lang="zh">青春旁聽生</title>
@@ -306,6 +306,7 @@
   </programme>
   <programme start="20261101144000 +0800" stop="20261101151500 +0800" channel="澳視葡文 92台">
     <title lang="zh">Passado em Foco: Gente da Nossa Terra - Adeus de Macau - Parte 1</title>
+    <live/>
   </programme>
   <programme start="20261101151500 +0800" stop="20261101154500 +0800" channel="澳視葡文 92台">
     <title lang="zh">China 360° (Repetição)</title>
@@ -438,7 +439,6 @@
   </programme>
   <programme start="20261101103000 +0800" stop="20261101110000 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
-    <live/>
   </programme>
   <programme start="20261101110000 +0800" stop="20261101111200 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
@@ -487,6 +487,7 @@
   </programme>
   <programme start="20261101150000 +0800" stop="20261101152500 +0800" channel="澳門資訊 94台">
     <title lang="zh">新聞報道</title>
+    <live/>
   </programme>
   <programme start="20261101152500 +0800" stop="20261101153000 +0800" channel="澳門資訊 94台">
     <title lang="zh">街市情報</title>
@@ -721,7 +722,6 @@
   </programme>
   <programme start="20261101100000 +0800" stop="20261101121500 +0800" channel="澳門體育 93台">
     <title lang="zh">2026温布頓網球錦標賽：混雙決賽</title>
-    <live/>
   </programme>
   <programme start="20261101121500 +0800" stop="20261101130000 +0800" channel="澳門體育 93台">
     <title lang="zh">競健群英2026</title>
@@ -734,6 +734,7 @@
   </programme>
   <programme start="20261101144500 +0800" stop="20261101161500 +0800" channel="澳門體育 93台">
     <title lang="zh">愛知．名古屋第20屆亞運會：乒乓球女單32強</title>
+    <live/>
   </programme>
   <programme start="20261101161500 +0800" stop="20261101162500 +0800" channel="澳門體育 93台">
     <title lang="zh">每周體育精華</title>
@@ -830,10 +831,10 @@
   </programme>
   <programme start="20261101100000 +0800" stop="20261101130000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 偽鈔者之末路</title>
-    <live/>
   </programme>
   <programme start="20261101130000 +0800" stop="20261101160500 +0800" channel="澳門綜藝 95台">
     <title lang="zh">好劇連場: 深潛</title>
+    <live/>
   </programme>
   <programme start="20261101160500 +0800" stop="20261101173000 +0800" channel="澳門綜藝 95台">
     <title lang="zh">越戰越勇</title>
@@ -984,7 +985,6 @@
   </programme>
   <programme start="20261101103500 +0800" stop="20261101110500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">跟我走吧朋友</title>
-    <live/>
   </programme>
   <programme start="20261101110500 +0800" stop="20261101113500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">白牛“大使”</title>
@@ -1018,6 +1018,7 @@
   </programme>
   <programme start="20261101150000 +0800" stop="20261101155000 +0800" channel="澳門-Macau 96台">
     <title lang="zh">葡語新聞</title>
+    <live/>
   </programme>
   <programme start="20261101155000 +0800" stop="20261101160500 +0800" channel="澳門-Macau 96台">
     <title lang="zh">天天成長記 第一至四季</title>

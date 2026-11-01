@@ -131,6 +131,7 @@
 </programme>
 <programme channel="香港電台31" start="20261101140500 +0800" stop="20261101145500 +0800">
 <title lang="zh">識多一點點</title>
+<desc lang="zh">第42(手語版)香港故事-聲音導航#1聽聲尋鳥(手語版)太陽小記者-2026西域記 #3那年夏天的友共情</desc>
 </programme>
 <programme channel="香港電台31" start="20261101145500 +0800" stop="20261101152500 +0800">
 <title lang="zh">體壇快閃</title>
@@ -213,6 +214,7 @@
 </programme>
 <programme channel="香港電台31" start="20261102033000 +0800" stop="20261102043000 +0800">
 <title lang="zh">識多一點點</title>
+<desc lang="zh">第42(手語版)香港故事-聲音導航#1聽聲尋鳥(手語版)太陽小記者-2026西域記 #3那年夏天的友共情</desc>
 </programme>
 <programme channel="香港電台31" start="20261102043000 +0800" stop="20261102050000 +0800">
 <title lang="zh">鏗鏘集</title>
@@ -331,6 +333,7 @@
 </programme>
 <programme channel="香港電台31" start="20261102202500 +0800" stop="20261102203000 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">機電．夢飛翔 | 機電工程署</desc>
 </programme>
 <programme channel="香港電台31" start="20261102203000 +0800" stop="20261102212500 +0800">
 <title lang="zh">太平年</title>
@@ -338,6 +341,7 @@
 </programme>
 <programme channel="香港電台31" start="20261102212500 +0800" stop="20261102213000 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">機電．夢飛翔 | 機電工程署</desc>
 </programme>
 <programme channel="香港電台31" start="20261102213000 +0800" stop="20261102220000 +0800">
 <title lang="zh">香港故事: 樂地生根</title>
@@ -368,7 +372,21 @@
 <title lang="zh">政正關你事</title>
 <desc lang="zh">政正關你事 - 活化歷史建築伙伴計劃</desc>
 </programme>
-<programme channel="香港電台32" start="20261101074000 +0800" stop="20261101110000 +0800">
+<programme channel="香港電台32" start="20261101074000 +0800" stop="20261101080000 +0800">
+<title lang="zh">生活．健康．資訊</title>
+</programme>
+<programme channel="香港電台32" start="20261101080000 +0800" stop="20261101091500 +0800">
+<title lang="zh">寰宇直播</title>
+<desc lang="zh">寰宇直播</desc>
+</programme>
+<programme channel="香港電台32" start="20261101091500 +0800" stop="20261101103900 +0800">
+<title lang="zh">生活．健康．資訊</title>
+</programme>
+<programme channel="香港電台32" start="20261101103900 +0800" stop="20261101104600 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261101104600 +0800" stop="20261101110000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 </programme>
 <programme channel="香港電台32" start="20261101110000 +0800" stop="20261101111000 +0800">
@@ -400,7 +418,14 @@
 <programme channel="香港電台32" start="20261101123000 +0800" stop="20261101124000 +0800">
 <title lang="zh">新聞簡報</title>
 </programme>
-<programme channel="香港電台32" start="20261101124000 +0800" stop="20261101130000 +0800">
+<programme channel="香港電台32" start="20261101124000 +0800" stop="20261101125000 +0800">
+<title lang="zh">生活．健康．資訊</title>
+</programme>
+<programme channel="香港電台32" start="20261101125000 +0800" stop="20261101125600 +0800">
+<title lang="zh">本地新聞</title>
+<desc lang="zh">本地新聞</desc>
+</programme>
+<programme channel="香港電台32" start="20261101125600 +0800" stop="20261101130000 +0800">
 <title lang="zh">生活．健康．資訊</title>
 </programme>
 <programme channel="香港電台32" start="20261101130000 +0800" stop="20261101130700 +0800">
@@ -699,6 +724,7 @@
 </programme>
 <programme channel="香港電台32" start="20261102220000 +0800" stop="20261102220500 +0800">
 <title lang="zh">政正關你事</title>
+<desc lang="zh">機電．夢飛翔 | 機電工程署</desc>
 </programme>
 <programme channel="香港電台32" start="20261102220500 +0800" stop="20261102223000 +0800">
 <title lang="zh">凝聚香港</title>
