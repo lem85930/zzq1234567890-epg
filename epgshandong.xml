@@ -27,1123 +27,1063 @@
   <channel id="山东少儿频道">
     <display-name lang="zh">山东少儿频道</display-name>
   </channel>
-  <programme start="20261101000000 +0800" stop="20261101043800 +0800" channel="山东卫视">
+  <programme start="20261102000000 +0800" stop="20261102042100 +0800" channel="山东卫视">
     <title lang="zh">2025中华家庭诗词擂台赛</title>
   </programme>
-  <programme start="20261101043800 +0800" stop="20261101051000 +0800" channel="山东卫视">
-    <title lang="zh">老农民-34</title>
-  </programme>
-  <programme start="20261101051000 +0800" stop="20261101055200 +0800" channel="山东卫视">
-    <title lang="zh">老农民-35</title>
-  </programme>
-  <programme start="20261101055200 +0800" stop="20261101063700 +0800" channel="山东卫视">
-    <title lang="zh">老农民-36</title>
-  </programme>
-  <programme start="20261101063700 +0800" stop="20261101065600 +0800" channel="山东卫视">
-    <title lang="zh">五洲四海山东人</title>
-  </programme>
-  <programme start="20261101065600 +0800" stop="20261101073600 +0800" channel="山东卫视">
-    <title lang="zh">早安山东</title>
-  </programme>
-  <programme start="20261101073600 +0800" stop="20261101080800 +0800" channel="山东卫视">
-    <title lang="zh">乐享食光</title>
-  </programme>
-  <programme start="20261101080800 +0800" stop="20261101094400 +0800" channel="山东卫视">
-    <title lang="zh">超级语文课精编课堂</title>
-  </programme>
-  <programme start="20261101094400 +0800" stop="20261101102300 +0800" channel="山东卫视">
-    <title lang="zh">大医本草堂</title>
-  </programme>
-  <programme start="20261101102300 +0800" stop="20261101111100 +0800" channel="山东卫视">
-    <title lang="zh">老农民-34</title>
-  </programme>
-  <programme start="20261101111100 +0800" stop="20261101120900 +0800" channel="山东卫视">
-    <title lang="zh">老农民-35</title>
-  </programme>
-  <programme start="20261101120900 +0800" stop="20261101130300 +0800" channel="山东卫视">
-    <title lang="zh">老农民-36</title>
-  </programme>
-  <programme start="20261101130300 +0800" stop="20261101134500 +0800" channel="山东卫视">
+  <programme start="20261102042100 +0800" stop="20261102045300 +0800" channel="山东卫视">
     <title lang="zh">老农民-37</title>
   </programme>
-  <programme start="20261101134500 +0800" stop="20261101142700 +0800" channel="山东卫视">
+  <programme start="20261102045300 +0800" stop="20261102053500 +0800" channel="山东卫视">
     <title lang="zh">老农民-38</title>
   </programme>
-  <programme start="20261101142700 +0800" stop="20261101150700 +0800" channel="山东卫视">
+  <programme start="20261102053500 +0800" stop="20261102062100 +0800" channel="山东卫视">
     <title lang="zh">老农民-39</title>
   </programme>
-  <programme start="20261101150700 +0800" stop="20261101155800 +0800" channel="山东卫视">
-    <title lang="zh">老农民-40</title>
+  <programme start="20261102062100 +0800" stop="20261102065600 +0800" channel="山东卫视">
+    <title lang="zh">纪录片：记住乡愁</title>
   </programme>
-  <programme start="20261101155800 +0800" stop="20261101164200 +0800" channel="山东卫视">
-    <title lang="zh">老农民-41</title>
+  <programme start="20261102065600 +0800" stop="20261102073700 +0800" channel="山东卫视">
+    <title lang="zh">早安山东</title>
   </programme>
-  <programme start="20261101164200 +0800" stop="20261101172800 +0800" channel="山东卫视">
-    <title lang="zh">老农民-42</title>
-  </programme>
-  <programme start="20261101172800 +0800" stop="20261101180600 +0800" channel="山东卫视">
+  <programme start="20261102073700 +0800" stop="20261102080900 +0800" channel="山东卫视">
     <title lang="zh">乐享食光</title>
   </programme>
-  <programme start="20261101180600 +0800" stop="20261101182100 +0800" channel="山东卫视">
-    <title lang="zh">品牌山东</title>
+  <programme start="20261102080900 +0800" stop="20261102085600 +0800" channel="山东卫视">
+    <title lang="zh">老农民-43</title>
   </programme>
-  <programme start="20261101182100 +0800" stop="20261101183000 +0800" channel="山东卫视">
+  <programme start="20261102085600 +0800" stop="20261102094300 +0800" channel="山东卫视">
+    <title lang="zh">老农民-44</title>
+  </programme>
+  <programme start="20261102094300 +0800" stop="20261102102300 +0800" channel="山东卫视">
+    <title lang="zh">大医本草堂</title>
+  </programme>
+  <programme start="20261102102300 +0800" stop="20261102111300 +0800" channel="山东卫视">
+    <title lang="zh">老农民-45</title>
+  </programme>
+  <programme start="20261102111300 +0800" stop="20261102121200 +0800" channel="山东卫视">
+    <title lang="zh">老农民-46</title>
+  </programme>
+  <programme start="20261102121200 +0800" stop="20261102130800 +0800" channel="山东卫视">
+    <title lang="zh">老农民-47</title>
+  </programme>
+  <programme start="20261102130800 +0800" stop="20261102135100 +0800" channel="山东卫视">
+    <title lang="zh">老农民-48</title>
+  </programme>
+  <programme start="20261102135100 +0800" stop="20261102143500 +0800" channel="山东卫视">
+    <title lang="zh">老农民-49</title>
+  </programme>
+  <programme start="20261102143500 +0800" stop="20261102151600 +0800" channel="山东卫视">
+    <title lang="zh">老农民-50</title>
+  </programme>
+  <programme start="20261102151600 +0800" stop="20261102160900 +0800" channel="山东卫视">
+    <title lang="zh">老农民-51</title>
+  </programme>
+  <programme start="20261102160900 +0800" stop="20261102165500 +0800" channel="山东卫视">
+    <title lang="zh">老农民-52</title>
+  </programme>
+  <programme start="20261102165500 +0800" stop="20261102174400 +0800" channel="山东卫视">
+    <title lang="zh">老农民-53</title>
+  </programme>
+  <programme start="20261102174400 +0800" stop="20261102182100 +0800" channel="山东卫视">
+    <title lang="zh">乐享食光</title>
+  </programme>
+  <programme start="20261102182100 +0800" stop="20261102183000 +0800" channel="山东卫视">
     <title lang="zh">齐鲁先锋</title>
   </programme>
-  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="山东卫视">
+  <programme start="20261102183000 +0800" stop="20261102190000 +0800" channel="山东卫视">
     <title lang="zh">山东新闻联播</title>
   </programme>
-  <programme start="20261101190000 +0800" stop="20261101193700 +0800" channel="山东卫视">
+  <programme start="20261102190000 +0800" stop="20261102193600 +0800" channel="山东卫视">
     <title lang="zh">中央台新闻联播</title>
   </programme>
-  <programme start="20261101193700 +0800" stop="20261101202900 +0800" channel="山东卫视">
-    <title lang="zh">主角-9</title>
+  <programme start="20261102193600 +0800" stop="20261102202900 +0800" channel="山东卫视">
+    <title lang="zh">主角-11</title>
   </programme>
-  <programme start="20261101202900 +0800" stop="20261101211800 +0800" channel="山东卫视">
-    <title lang="zh">主角-10</title>
+  <programme start="20261102202900 +0800" stop="20261102211800 +0800" channel="山东卫视">
+    <title lang="zh">主角-12</title>
   </programme>
-  <programme start="20261101211800 +0800" stop="20261101220000 +0800" channel="山东卫视">
+  <programme start="20261102211800 +0800" stop="20261102220000 +0800" channel="山东卫视">
     <title lang="zh">带着礼乐去旅行</title>
   </programme>
-  <programme start="20261101220000 +0800" stop="20261101222700 +0800" channel="山东卫视">
+  <programme start="20261102220000 +0800" stop="20261102222700 +0800" channel="山东卫视">
     <title lang="zh">山东新闻联播</title>
   </programme>
-  <programme start="20261101222700 +0800" stop="20261101231000 +0800" channel="山东卫视">
-    <title lang="zh">南来北往-3</title>
+  <programme start="20261102222700 +0800" stop="20261102231000 +0800" channel="山东卫视">
+    <title lang="zh">南来北往-5</title>
   </programme>
-  <programme start="20261101231000 +0800" stop="20261101235300 +0800" channel="山东卫视">
-    <title lang="zh">南来北往-4</title>
+  <programme start="20261102231000 +0800" stop="20261102235300 +0800" channel="山东卫视">
+    <title lang="zh">南来北往-6</title>
   </programme>
-  <programme start="20261101235300 +0800" stop="20261101235959 +0800" channel="山东卫视">
+  <programme start="20261102235300 +0800" stop="20261102235959 +0800" channel="山东卫视">
     <title lang="zh">2025中华家庭诗词擂台赛</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="山东新闻频道">
-    <title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20261101000500 +0800" stop="20261101004500 +0800" channel="山东新闻频道">
+  <programme start="20261102000000 +0800" stop="20261102004455 +0800" channel="山东新闻频道">
     <title lang="zh">闪电大视野</title>
   </programme>
-  <programme start="20261101004500 +0800" stop="20261101011500 +0800" channel="山东新闻频道">
+  <programme start="20261102004455 +0800" stop="20261102011455 +0800" channel="山东新闻频道">
     <title lang="zh">理响中国</title>
   </programme>
-  <programme start="20261101011500 +0800" stop="20261101012300 +0800" channel="山东新闻频道">
+  <programme start="20261102011455 +0800" stop="20261102012255 +0800" channel="山东新闻频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101012300 +0800" stop="20261101012800 +0800" channel="山东新闻频道">
+  <programme start="20261102012255 +0800" stop="20261102012755 +0800" channel="山东新闻频道">
     <title lang="zh">齐鲁先锋</title>
   </programme>
-  <programme start="20261101012800 +0800" stop="20261101015200 +0800" channel="山东新闻频道">
+  <programme start="20261102012755 +0800" stop="20261102015155 +0800" channel="山东新闻频道">
     <title lang="zh">健康山东</title>
   </programme>
-  <programme start="20261101015200 +0800" stop="20261101023200 +0800" channel="山东新闻频道">
+  <programme start="20261102015155 +0800" stop="20261102023155 +0800" channel="山东新闻频道">
     <title lang="zh">闪电大视野</title>
   </programme>
-  <programme start="20261101023200 +0800" stop="20261101030200 +0800" channel="山东新闻频道">
+  <programme start="20261102023155 +0800" stop="20261102030155 +0800" channel="山东新闻频道">
     <title lang="zh">理响中国</title>
   </programme>
-  <programme start="20261101030200 +0800" stop="20261101031000 +0800" channel="山东新闻频道">
+  <programme start="20261102030155 +0800" stop="20261102030955 +0800" channel="山东新闻频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101031000 +0800" stop="20261101031500 +0800" channel="山东新闻频道">
+  <programme start="20261102030955 +0800" stop="20261102031455 +0800" channel="山东新闻频道">
     <title lang="zh">齐鲁先锋</title>
   </programme>
-  <programme start="20261101031500 +0800" stop="20261101035500 +0800" channel="山东新闻频道">
+  <programme start="20261102031455 +0800" stop="20261102035455 +0800" channel="山东新闻频道">
     <title lang="zh">闪电大视野</title>
   </programme>
-  <programme start="20261101035500 +0800" stop="20261101040740 +0800" channel="山东新闻频道">
+  <programme start="20261102035455 +0800" stop="20261102040615 +0800" channel="山东新闻频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101040740 +0800" stop="20261101044740 +0800" channel="山东新闻频道">
+  <programme start="20261102040615 +0800" stop="20261102044615 +0800" channel="山东新闻频道">
     <title lang="zh">闪电大视野</title>
   </programme>
-  <programme start="20261101044740 +0800" stop="20261101045540 +0800" channel="山东新闻频道">
+  <programme start="20261102044615 +0800" stop="20261102045415 +0800" channel="山东新闻频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101045540 +0800" stop="20261101051940 +0800" channel="山东新闻频道">
+  <programme start="20261102045415 +0800" stop="20261102051815 +0800" channel="山东新闻频道">
     <title lang="zh">健康山东</title>
   </programme>
-  <programme start="20261101051940 +0800" stop="20261101052740 +0800" channel="山东新闻频道">
+  <programme start="20261102051815 +0800" stop="20261102053000 +0800" channel="山东新闻频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101052740 +0800" stop="20261101053000 +0800" channel="山东新闻频道">
-    <title lang="zh">大美齐鲁</title>
-  </programme>
-  <programme start="20261101053000 +0800" stop="20261101055000 +0800" channel="山东新闻频道">
+  <programme start="20261102053000 +0800" stop="20261102055000 +0800" channel="山东新闻频道">
     <title lang="zh">五洲四海山东人</title>
   </programme>
-  <programme start="20261101055000 +0800" stop="20261101063000 +0800" channel="山东新闻频道">
+  <programme start="20261102055000 +0800" stop="20261102063000 +0800" channel="山东新闻频道">
     <title lang="zh">闪电大视野</title>
   </programme>
-  <programme start="20261101063000 +0800" stop="20261101065600 +0800" channel="山东新闻频道">
+  <programme start="20261102063000 +0800" stop="20261102065600 +0800" channel="山东新闻频道">
     <title lang="zh">健康山东</title>
   </programme>
-  <programme start="20261101065600 +0800" stop="20261101073200 +0800" channel="山东新闻频道">
+  <programme start="20261102065600 +0800" stop="20261102080600 +0800" channel="山东新闻频道">
     <title lang="zh">早安山东</title>
   </programme>
-  <programme start="20261101073200 +0800" stop="20261101080600 +0800" channel="山东新闻频道">
-    <title lang="zh">早安山东</title>
-  </programme>
-  <programme start="20261101080600 +0800" stop="20261101083310 +0800" channel="山东新闻频道">
+  <programme start="20261102080600 +0800" stop="20261102083235 +0800" channel="山东新闻频道">
     <title lang="zh">山东新闻联播</title>
   </programme>
-  <programme start="20261101083310 +0800" stop="20261101090140 +0800" channel="山东新闻频道">
+  <programme start="20261102083235 +0800" stop="20261102090105 +0800" channel="山东新闻频道">
     <title lang="zh">记住乡愁</title>
   </programme>
-  <programme start="20261101090140 +0800" stop="20261101090740 +0800" channel="山东新闻频道">
+  <programme start="20261102090105 +0800" stop="20261102090705 +0800" channel="山东新闻频道">
     <title lang="zh">光耀齐鲁</title>
   </programme>
-  <programme start="20261101090740 +0800" stop="20261101091510 +0800" channel="山东新闻频道">
+  <programme start="20261102090705 +0800" stop="20261102091745 +0800" channel="山东新闻频道">
     <title lang="zh">光耀齐鲁</title>
   </programme>
-  <programme start="20261101091510 +0800" stop="20261101095810 +0800" channel="山东新闻频道">
+  <programme start="20261102091745 +0800" stop="20261102100405 +0800" channel="山东新闻频道">
     <title lang="zh">闪电大视野</title>
   </programme>
-  <programme start="20261101095810 +0800" stop="20261101103040 +0800" channel="山东新闻频道">
+  <programme start="20261102100405 +0800" stop="20261102103615 +0800" channel="山东新闻频道">
     <title lang="zh">理响中国</title>
   </programme>
-  <programme start="20261101103040 +0800" stop="20261101105800 +0800" channel="山东新闻频道">
+  <programme start="20261102103615 +0800" stop="20261102110015 +0800" channel="山东新闻频道">
     <title lang="zh">健康山东</title>
   </programme>
-  <programme start="20261101105800 +0800" stop="20261101110755 +0800" channel="山东新闻频道">
+  <programme start="20261102110015 +0800" stop="20261102110815 +0800" channel="山东新闻频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101110755 +0800" stop="20261101111255 +0800" channel="山东新闻频道">
+  <programme start="20261102110815 +0800" stop="20261102111445 +0800" channel="山东新闻频道">
     <title lang="zh">齐鲁先锋</title>
   </programme>
-  <programme start="20261101111255 +0800" stop="20261101113000 +0800" channel="山东新闻频道">
-    <title lang="zh">东营新时空</title>
+  <programme start="20261102111445 +0800" stop="20261102113000 +0800" channel="山东新闻频道">
+    <title lang="zh">共产党员</title>
   </programme>
-  <programme start="20261101113000 +0800" stop="20261101123000 +0800" channel="山东新闻频道">
+  <programme start="20261102113000 +0800" stop="20261102123100 +0800" channel="山东新闻频道">
     <title lang="zh">新闻午班车</title>
   </programme>
-  <programme start="20261101123000 +0800" stop="20261101125400 +0800" channel="山东新闻频道">
-    <title lang="zh">走进深蓝</title>
-  </programme>
-  <programme start="20261101125400 +0800" stop="20261101131725 +0800" channel="山东新闻频道">
-    <title lang="zh">大抗战</title>
-  </programme>
-  <programme start="20261101131725 +0800" stop="20261101134240 +0800" channel="山东新闻频道">
-    <title lang="zh">大抗战</title>
-  </programme>
-  <programme start="20261101134240 +0800" stop="20261101135220 +0800" channel="山东新闻频道">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20261101135220 +0800" stop="20261101142255 +0800" channel="山东新闻频道">
-    <title lang="zh">纪录片我站立的地方</title>
-  </programme>
-  <programme start="20261101142255 +0800" stop="20261101145345 +0800" channel="山东新闻频道">
-    <title lang="zh">纪录片我站立的地方</title>
-  </programme>
-  <programme start="20261101145345 +0800" stop="20261101153550 +0800" channel="山东新闻频道">
-    <title lang="zh">闪电大视野</title>
-  </programme>
-  <programme start="20261101153550 +0800" stop="20261101160620 +0800" channel="山东新闻频道">
-    <title lang="zh">理响中国</title>
-  </programme>
-  <programme start="20261101160620 +0800" stop="20261101161220 +0800" channel="山东新闻频道">
-    <title lang="zh">光耀齐鲁</title>
-  </programme>
-  <programme start="20261101161220 +0800" stop="20261101162045 +0800" channel="山东新闻频道">
-    <title lang="zh">光耀齐鲁</title>
-  </programme>
-  <programme start="20261101162045 +0800" stop="20261101163510 +0800" channel="山东新闻频道">
-    <title lang="zh">共产党员</title>
-  </programme>
-  <programme start="20261101163510 +0800" stop="20261101165910 +0800" channel="山东新闻频道">
-    <title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20261101165910 +0800" stop="20261101172510 +0800" channel="山东新闻频道">
-    <title lang="zh">记住乡愁</title>
-  </programme>
-  <programme start="20261101172510 +0800" stop="20261101174510 +0800" channel="山东新闻频道">
-    <title lang="zh">五洲四海山东人</title>
-  </programme>
-  <programme start="20261101174510 +0800" stop="20261101180000 +0800" channel="山东新闻频道">
-    <title lang="zh">共产党员</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101183000 +0800" channel="山东新闻频道">
-    <title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20261101183000 +0800" stop="20261101185700 +0800" channel="山东新闻频道">
-    <title lang="zh">山东新闻联播</title>
-  </programme>
-  <programme start="20261101185700 +0800" stop="20261101192500 +0800" channel="山东新闻频道">
-    <title lang="zh">记住乡愁</title>
-  </programme>
-  <programme start="20261101192500 +0800" stop="20261101193000 +0800" channel="山东新闻频道">
-    <title lang="zh">齐鲁先锋</title>
-  </programme>
-  <programme start="20261101193000 +0800" stop="20261101201500 +0800" channel="山东新闻频道">
-    <title lang="zh">闪电大视野</title>
-  </programme>
-  <programme start="20261101201500 +0800" stop="20261101204620 +0800" channel="山东新闻频道">
-    <title lang="zh">理响中国</title>
-  </programme>
-  <programme start="20261101204620 +0800" stop="20261101205200 +0800" channel="山东新闻频道">
-    <title lang="zh">国宝时刻</title>
-  </programme>
-  <programme start="20261101205200 +0800" stop="20261101205700 +0800" channel="山东新闻频道">
-    <title lang="zh">国宝时刻</title>
-  </programme>
-  <programme start="20261101205700 +0800" stop="20261101212230 +0800" channel="山东新闻频道">
+  <programme start="20261102123100 +0800" stop="20261102125100 +0800" channel="山东新闻频道">
     <title lang="zh">品牌山东</title>
   </programme>
-  <programme start="20261101212230 +0800" stop="20261101212730 +0800" channel="山东新闻频道">
-    <title lang="zh">齐鲁先锋</title>
+  <programme start="20261102125100 +0800" stop="20261102131500 +0800" channel="山东新闻频道">
+    <title lang="zh">大抗战</title>
   </programme>
-  <programme start="20261101212730 +0800" stop="20261101213000 +0800" channel="山东新闻频道">
-    <title lang="zh">山东省海洋预报</title>
+  <programme start="20261102131500 +0800" stop="20261102134005 +0800" channel="山东新闻频道">
+    <title lang="zh">大抗战</title>
   </programme>
-  <programme start="20261101213000 +0800" stop="20261101214000 +0800" channel="山东新闻频道">
-    <title lang="zh">晚间新闻</title>
+  <programme start="20261102134005 +0800" stop="20261102134930 +0800" channel="山东新闻频道">
+    <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101214000 +0800" stop="20261101220000 +0800" channel="山东新闻频道">
+  <programme start="20261102134930 +0800" stop="20261102140635 +0800" channel="山东新闻频道">
+    <title lang="zh">五洲四海山东人</title>
+  </programme>
+  <programme start="20261102140635 +0800" stop="20261102145650 +0800" channel="山东新闻频道">
+    <title lang="zh">纪录片大河之洲</title>
+  </programme>
+  <programme start="20261102145650 +0800" stop="20261102153920 +0800" channel="山东新闻频道">
+    <title lang="zh">闪电大视野</title>
+  </programme>
+  <programme start="20261102153920 +0800" stop="20261102160950 +0800" channel="山东新闻频道">
+    <title lang="zh">理响中国</title>
+  </programme>
+  <programme start="20261102160950 +0800" stop="20261102161550 +0800" channel="山东新闻频道">
+    <title lang="zh">光耀齐鲁</title>
+  </programme>
+  <programme start="20261102161550 +0800" stop="20261102162150 +0800" channel="山东新闻频道">
+    <title lang="zh">光耀齐鲁</title>
+  </programme>
+  <programme start="20261102162150 +0800" stop="20261102163750 +0800" channel="山东新闻频道">
     <title lang="zh">应急在线</title>
   </programme>
-  <programme start="20261101220000 +0800" stop="20261101222500 +0800" channel="山东新闻频道">
-    <title lang="zh">山东新闻联播</title>
-  </programme>
-  <programme start="20261101222500 +0800" stop="20261101224030 +0800" channel="山东新闻频道">
-    <title lang="zh">东营新时空</title>
-  </programme>
-  <programme start="20261101224030 +0800" stop="20261101224900 +0800" channel="山东新闻频道">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20261101224900 +0800" stop="20261101225400 +0800" channel="山东新闻频道">
-    <title lang="zh">齐鲁先锋</title>
-  </programme>
-  <programme start="20261101225400 +0800" stop="20261101231730 +0800" channel="山东新闻频道">
-    <title lang="zh">大抗战</title>
-  </programme>
-  <programme start="20261101231730 +0800" stop="20261101234055 +0800" channel="山东新闻频道">
-    <title lang="zh">大抗战</title>
-  </programme>
-  <programme start="20261101234055 +0800" stop="20261101235959 +0800" channel="山东新闻频道">
+  <programme start="20261102163750 +0800" stop="20261102170240 +0800" channel="山东新闻频道">
     <title lang="zh">健康山东</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101002626 +0800" channel="齐鲁频道">
+  <programme start="20261102170240 +0800" stop="20261102172835 +0800" channel="山东新闻频道">
+    <title lang="zh">记住乡愁</title>
+  </programme>
+  <programme start="20261102172835 +0800" stop="20261102174505 +0800" channel="山东新闻频道">
+    <title lang="zh">五洲四海山东人</title>
+  </programme>
+  <programme start="20261102174505 +0800" stop="20261102180000 +0800" channel="山东新闻频道">
+    <title lang="zh">共产党员</title>
+  </programme>
+  <programme start="20261102180000 +0800" stop="20261102183000 +0800" channel="山东新闻频道">
+    <title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20261102183000 +0800" stop="20261102185700 +0800" channel="山东新闻频道">
+    <title lang="zh">山东新闻联播</title>
+  </programme>
+  <programme start="20261102185700 +0800" stop="20261102192500 +0800" channel="山东新闻频道">
+    <title lang="zh">记住乡愁</title>
+  </programme>
+  <programme start="20261102192500 +0800" stop="20261102193000 +0800" channel="山东新闻频道">
+    <title lang="zh">关注</title>
+  </programme>
+  <programme start="20261102193000 +0800" stop="20261102201500 +0800" channel="山东新闻频道">
+    <title lang="zh">闪电大视野</title>
+  </programme>
+  <programme start="20261102201500 +0800" stop="20261102204900 +0800" channel="山东新闻频道">
+    <title lang="zh">理响中国</title>
+  </programme>
+  <programme start="20261102204900 +0800" stop="20261102205410 +0800" channel="山东新闻频道">
+    <title lang="zh">国宝时刻</title>
+  </programme>
+  <programme start="20261102205410 +0800" stop="20261102205940 +0800" channel="山东新闻频道">
+    <title lang="zh">国宝时刻</title>
+  </programme>
+  <programme start="20261102205940 +0800" stop="20261102212230 +0800" channel="山东新闻频道">
+    <title lang="zh">五洲四海山东人</title>
+  </programme>
+  <programme start="20261102212230 +0800" stop="20261102212730 +0800" channel="山东新闻频道">
+    <title lang="zh">齐鲁先锋</title>
+  </programme>
+  <programme start="20261102212730 +0800" stop="20261102213000 +0800" channel="山东新闻频道">
+    <title lang="zh">山东省海洋预报</title>
+  </programme>
+  <programme start="20261102213000 +0800" stop="20261102214000 +0800" channel="山东新闻频道">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20261102214000 +0800" stop="20261102220000 +0800" channel="山东新闻频道">
+    <title lang="zh">美丽山东</title>
+  </programme>
+  <programme start="20261102220000 +0800" stop="20261102222500 +0800" channel="山东新闻频道">
+    <title lang="zh">山东新闻联播</title>
+  </programme>
+  <programme start="20261102222500 +0800" stop="20261102223920 +0800" channel="山东新闻频道">
+    <title lang="zh">共产党员</title>
+  </programme>
+  <programme start="20261102223920 +0800" stop="20261102224750 +0800" channel="山东新闻频道">
+    <title lang="zh">体育新闻</title>
+  </programme>
+  <programme start="20261102224750 +0800" stop="20261102225250 +0800" channel="山东新闻频道">
+    <title lang="zh">齐鲁先锋</title>
+  </programme>
+  <programme start="20261102225250 +0800" stop="20261102231620 +0800" channel="山东新闻频道">
+    <title lang="zh">大抗战</title>
+  </programme>
+  <programme start="20261102231620 +0800" stop="20261102234000 +0800" channel="山东新闻频道">
+    <title lang="zh">大抗战</title>
+  </programme>
+  <programme start="20261102234000 +0800" stop="20261102235959 +0800" channel="山东新闻频道">
+    <title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20261102000000 +0800" stop="20261102034839 +0800" channel="齐鲁频道">
     <title lang="zh">养父如山</title>
   </programme>
-  <programme start="20261101002626 +0800" stop="20261101010741 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
+  <programme start="20261102034839 +0800" stop="20261102055710 +0800" channel="齐鲁频道">
+    <title lang="zh">伟大的转折</title>
   </programme>
-  <programme start="20261101010741 +0800" stop="20261101014856 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101014856 +0800" stop="20261101023011 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101023011 +0800" stop="20261101031126 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101031126 +0800" stop="20261101035241 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101035241 +0800" stop="20261101043648 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101043648 +0800" stop="20261101051803 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101051803 +0800" stop="20261101055918 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101055918 +0800" stop="20261101055950 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
-  </programme>
-  <programme start="20261101055950 +0800" stop="20261101061720 +0800" channel="齐鲁频道">
+  <programme start="20261102055710 +0800" stop="20261102061440 +0800" channel="齐鲁频道">
     <title lang="zh">小溪办事</title>
   </programme>
-  <programme start="20261101061720 +0800" stop="20261101063225 +0800" channel="齐鲁频道">
+  <programme start="20261102061440 +0800" stop="20261102062945 +0800" channel="齐鲁频道">
     <title lang="zh">每日新闻</title>
   </programme>
-  <programme start="20261101063225 +0800" stop="20261101070320 +0800" channel="齐鲁频道">
+  <programme start="20261102062945 +0800" stop="20261102070040 +0800" channel="齐鲁频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101070320 +0800" stop="20261101073700 +0800" channel="齐鲁频道">
+  <programme start="20261102070040 +0800" stop="20261102073425 +0800" channel="齐鲁频道">
     <title lang="zh">暗战风云</title>
   </programme>
-  <programme start="20261101073700 +0800" stop="20261101081435 +0800" channel="齐鲁频道">
+  <programme start="20261102073425 +0800" stop="20261102081425 +0800" channel="齐鲁频道">
     <title lang="zh">暗战风云</title>
   </programme>
-  <programme start="20261101081435 +0800" stop="20261101083435 +0800" channel="齐鲁频道">
+  <programme start="20261102081425 +0800" stop="20261102083425 +0800" channel="齐鲁频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101083435 +0800" stop="20261101090335 +0800" channel="齐鲁频道">
+  <programme start="20261102083425 +0800" stop="20261102090325 +0800" channel="齐鲁频道">
     <title lang="zh">暗战风云</title>
   </programme>
-  <programme start="20261101090335 +0800" stop="20261101092810 +0800" channel="齐鲁频道">
+  <programme start="20261102090325 +0800" stop="20261102092805 +0800" channel="齐鲁频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101092810 +0800" stop="20261101100610 +0800" channel="齐鲁频道">
+  <programme start="20261102092805 +0800" stop="20261102100610 +0800" channel="齐鲁频道">
     <title lang="zh">暗战风云</title>
   </programme>
-  <programme start="20261101100610 +0800" stop="20261101103740 +0800" channel="齐鲁频道">
+  <programme start="20261102100610 +0800" stop="20261102103740 +0800" channel="齐鲁频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101103740 +0800" stop="20261101105810 +0800" channel="齐鲁频道">
+  <programme start="20261102103740 +0800" stop="20261102105810 +0800" channel="齐鲁频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101105810 +0800" stop="20261101112520 +0800" channel="齐鲁频道">
+  <programme start="20261102105810 +0800" stop="20261102112515 +0800" channel="齐鲁频道">
     <title lang="zh">小溪办事</title>
   </programme>
-  <programme start="20261101112520 +0800" stop="20261101115530 +0800" channel="齐鲁频道">
+  <programme start="20261102112515 +0800" stop="20261102115525 +0800" channel="齐鲁频道">
     <title lang="zh">家乡味道</title>
   </programme>
-  <programme start="20261101115530 +0800" stop="20261101122000 +0800" channel="齐鲁频道">
-    <title lang="zh">法润齐鲁</title>
-  </programme>
-  <programme start="20261101122000 +0800" stop="20261101124350 +0800" channel="齐鲁频道">
-    <title lang="zh">专题</title>
-  </programme>
-  <programme start="20261101124350 +0800" stop="20261101125625 +0800" channel="齐鲁频道">
-    <title lang="zh">现场直击</title>
-  </programme>
-  <programme start="20261101125625 +0800" stop="20261101131700 +0800" channel="齐鲁频道">
-    <title lang="zh">专题</title>
-  </programme>
-  <programme start="20261101131700 +0800" stop="20261101135135 +0800" channel="齐鲁频道">
-    <title lang="zh">水上游击队</title>
-  </programme>
-  <programme start="20261101135135 +0800" stop="20261101141245 +0800" channel="齐鲁频道">
-    <title lang="zh">专题</title>
-  </programme>
-  <programme start="20261101141245 +0800" stop="20261101144245 +0800" channel="齐鲁频道">
-    <title lang="zh">水上游击队</title>
-  </programme>
-  <programme start="20261101144245 +0800" stop="20261101150310 +0800" channel="齐鲁频道">
-    <title lang="zh">专题</title>
-  </programme>
-  <programme start="20261101150310 +0800" stop="20261101153650 +0800" channel="齐鲁频道">
-    <title lang="zh">水上游击队</title>
-  </programme>
-  <programme start="20261101153650 +0800" stop="20261101160825 +0800" channel="齐鲁频道">
-    <title lang="zh">专题</title>
-  </programme>
-  <programme start="20261101160825 +0800" stop="20261101164345 +0800" channel="齐鲁频道">
-    <title lang="zh">专题</title>
-  </programme>
-  <programme start="20261101164345 +0800" stop="20261101172000 +0800" channel="齐鲁频道">
-    <title lang="zh">家乡味道</title>
-  </programme>
-  <programme start="20261101172000 +0800" stop="20261101174500 +0800" channel="齐鲁频道">
+  <programme start="20261102115525 +0800" stop="20261102121955 +0800" channel="齐鲁频道">
     <title lang="zh">山东双拥</title>
   </programme>
-  <programme start="20261101174500 +0800" stop="20261101181500 +0800" channel="齐鲁频道">
-    <title lang="zh">小溪办事</title>
+  <programme start="20261102121955 +0800" stop="20261102124345 +0800" channel="齐鲁频道">
+    <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101181500 +0800" stop="20261101182500 +0800" channel="齐鲁频道">
+  <programme start="20261102124345 +0800" stop="20261102125620 +0800" channel="齐鲁频道">
     <title lang="zh">现场直击</title>
   </programme>
-  <programme start="20261101182500 +0800" stop="20261101191230 +0800" channel="齐鲁频道">
+  <programme start="20261102125620 +0800" stop="20261102131655 +0800" channel="齐鲁频道">
+    <title lang="zh">专题</title>
+  </programme>
+  <programme start="20261102131655 +0800" stop="20261102135135 +0800" channel="齐鲁频道">
+    <title lang="zh">水上游击队</title>
+  </programme>
+  <programme start="20261102135135 +0800" stop="20261102141245 +0800" channel="齐鲁频道">
+    <title lang="zh">专题</title>
+  </programme>
+  <programme start="20261102141245 +0800" stop="20261102144245 +0800" channel="齐鲁频道">
+    <title lang="zh">水上游击队</title>
+  </programme>
+  <programme start="20261102144245 +0800" stop="20261102150310 +0800" channel="齐鲁频道">
+    <title lang="zh">专题</title>
+  </programme>
+  <programme start="20261102150310 +0800" stop="20261102153645 +0800" channel="齐鲁频道">
+    <title lang="zh">水上游击队</title>
+  </programme>
+  <programme start="20261102153645 +0800" stop="20261102160825 +0800" channel="齐鲁频道">
+    <title lang="zh">专题</title>
+  </programme>
+  <programme start="20261102160825 +0800" stop="20261102164345 +0800" channel="齐鲁频道">
+    <title lang="zh">专题</title>
+  </programme>
+  <programme start="20261102164345 +0800" stop="20261102172000 +0800" channel="齐鲁频道">
+    <title lang="zh">家乡味道</title>
+  </programme>
+  <programme start="20261102172000 +0800" stop="20261102174500 +0800" channel="齐鲁频道">
+    <title lang="zh">拉呱</title>
+  </programme>
+  <programme start="20261102174500 +0800" stop="20261102181500 +0800" channel="齐鲁频道">
+    <title lang="zh">小溪办事</title>
+  </programme>
+  <programme start="20261102181500 +0800" stop="20261102182500 +0800" channel="齐鲁频道">
+    <title lang="zh">现场直击</title>
+  </programme>
+  <programme start="20261102182500 +0800" stop="20261102190000 +0800" channel="齐鲁频道">
     <title lang="zh">每日新闻</title>
   </programme>
-  <programme start="20261101191230 +0800" stop="20261101195351 +0800" channel="齐鲁频道">
-    <title lang="zh">好政策到一线</title>
+  <programme start="20261102190000 +0800" stop="20261102190555 +0800" channel="齐鲁频道">
+    <title lang="zh">关注</title>
   </programme>
-  <programme start="20261101195351 +0800" stop="20261101205341 +0800" channel="齐鲁频道">
-    <title lang="zh">绝命后卫师</title>
-  </programme>
-  <programme start="20261101205341 +0800" stop="20261101214011 +0800" channel="齐鲁频道">
+  <programme start="20261102190555 +0800" stop="20261102200346 +0800" channel="齐鲁频道">
     <title lang="zh">怒火英雄</title>
   </programme>
-  <programme start="20261101214011 +0800" stop="20261101221431 +0800" channel="齐鲁频道">
+  <programme start="20261102200346 +0800" stop="20261102210041 +0800" channel="齐鲁频道">
     <title lang="zh">怒火英雄</title>
   </programme>
-  <programme start="20261101221431 +0800" stop="20261101225531 +0800" channel="齐鲁频道">
+  <programme start="20261102210041 +0800" stop="20261102214406 +0800" channel="齐鲁频道">
+    <title lang="zh">怒火英雄</title>
+  </programme>
+  <programme start="20261102214406 +0800" stop="20261102221526 +0800" channel="齐鲁频道">
+    <title lang="zh">怒火英雄</title>
+  </programme>
+  <programme start="20261102221526 +0800" stop="20261102225626 +0800" channel="齐鲁频道">
     <title lang="zh">翡翠奇缘</title>
   </programme>
-  <programme start="20261101225531 +0800" stop="20261101233816 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
+  <programme start="20261102225626 +0800" stop="20261102233944 +0800" channel="齐鲁频道">
+    <title lang="zh">伟大的转折</title>
   </programme>
-  <programme start="20261101233816 +0800" stop="20261101235959 +0800" channel="齐鲁频道">
-    <title lang="zh">养父如山</title>
+  <programme start="20261102233944 +0800" stop="20261102235959 +0800" channel="齐鲁频道">
+    <title lang="zh">伟大的转折</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101002600 +0800" channel="山东生活频道">
+  <programme start="20261102000000 +0800" stop="20261102003000 +0800" channel="山东生活频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101002600 +0800" stop="20261101004700 +0800" channel="山东生活频道">
-    <title lang="zh">医案</title>
+  <programme start="20261102003000 +0800" stop="20261102010000 +0800" channel="山东生活频道">
+    <title lang="zh">名医话健康</title>
   </programme>
-  <programme start="20261101004700 +0800" stop="20261101014400 +0800" channel="山东生活频道">
-    <title lang="zh">好品山东</title>
+  <programme start="20261102010000 +0800" stop="20261102015400 +0800" channel="山东生活频道">
+    <title lang="zh">行进中国</title>
   </programme>
-  <programme start="20261101014400 +0800" stop="20261101022600 +0800" channel="山东生活频道">
+  <programme start="20261102015400 +0800" stop="20261102023700 +0800" channel="山东生活频道">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme start="20261101022600 +0800" stop="20261101025600 +0800" channel="山东生活频道">
+  <programme start="20261102023700 +0800" stop="20261102030700 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101025600 +0800" stop="20261101031700 +0800" channel="山东生活频道">
-    <title lang="zh">医案</title>
+  <programme start="20261102030700 +0800" stop="20261102033700 +0800" channel="山东生活频道">
+    <title lang="zh">名医话健康</title>
   </programme>
-  <programme start="20261101031700 +0800" stop="20261101041700 +0800" channel="山东生活频道">
-    <title lang="zh">好品山东</title>
+  <programme start="20261102033700 +0800" stop="20261102043100 +0800" channel="山东生活频道">
+    <title lang="zh">行进中国</title>
   </programme>
-  <programme start="20261101041700 +0800" stop="20261101045900 +0800" channel="山东生活频道">
+  <programme start="20261102043100 +0800" stop="20261102051400 +0800" channel="山东生活频道">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme start="20261101045900 +0800" stop="20261101052900 +0800" channel="山东生活频道">
+  <programme start="20261102051400 +0800" stop="20261102055500 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101052900 +0800" stop="20261101055900 +0800" channel="山东生活频道">
-    <title lang="zh">医案</title>
-  </programme>
-  <programme start="20261101055900 +0800" stop="20261101063100 +0800" channel="山东生活频道">
+  <programme start="20261102055500 +0800" stop="20261102062900 +0800" channel="山东生活频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101063100 +0800" stop="20261101071300 +0800" channel="山东生活频道">
+  <programme start="20261102062900 +0800" stop="20261102071100 +0800" channel="山东生活频道">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme start="20261101071300 +0800" stop="20261101074500 +0800" channel="山东生活频道">
+  <programme start="20261102071100 +0800" stop="20261102074300 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101074500 +0800" stop="20261101080500 +0800" channel="山东生活频道">
+  <programme start="20261102074300 +0800" stop="20261102080600 +0800" channel="山东生活频道">
     <title lang="zh">乐享银龄</title>
   </programme>
-  <programme start="20261101080500 +0800" stop="20261101083400 +0800" channel="山东生活频道">
-    <title lang="zh">神枪</title>
+  <programme start="20261102080600 +0800" stop="20261102083400 +0800" channel="山东生活频道">
+    <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101083400 +0800" stop="20261101085500 +0800" channel="山东生活频道">
+  <programme start="20261102083400 +0800" stop="20261102085400 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101085500 +0800" stop="20261101092300 +0800" channel="山东生活频道">
-    <title lang="zh">神枪</title>
+  <programme start="20261102085400 +0800" stop="20261102092300 +0800" channel="山东生活频道">
+    <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101092300 +0800" stop="20261101094400 +0800" channel="山东生活频道">
+  <programme start="20261102092300 +0800" stop="20261102094400 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101094400 +0800" stop="20261101101200 +0800" channel="山东生活频道">
-    <title lang="zh">神枪</title>
+  <programme start="20261102094400 +0800" stop="20261102101200 +0800" channel="山东生活频道">
+    <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101101200 +0800" stop="20261101103300 +0800" channel="山东生活频道">
+  <programme start="20261102101200 +0800" stop="20261102103300 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101103300 +0800" stop="20261101110100 +0800" channel="山东生活频道">
-    <title lang="zh">神枪</title>
+  <programme start="20261102103300 +0800" stop="20261102110000 +0800" channel="山东生活频道">
+    <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101110100 +0800" stop="20261101112200 +0800" channel="山东生活频道">
+  <programme start="20261102110000 +0800" stop="20261102112100 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101112200 +0800" stop="20261101115500 +0800" channel="山东生活频道">
+  <programme start="20261102112100 +0800" stop="20261102115400 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101115500 +0800" stop="20261101123800 +0800" channel="山东生活频道">
+  <programme start="20261102115400 +0800" stop="20261102123600 +0800" channel="山东生活频道">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme start="20261101123800 +0800" stop="20261101125900 +0800" channel="山东生活频道">
+  <programme start="20261102123600 +0800" stop="20261102125900 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101125900 +0800" stop="20261101133000 +0800" channel="山东生活频道">
+  <programme start="20261102125900 +0800" stop="20261102132900 +0800" channel="山东生活频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101133000 +0800" stop="20261101135600 +0800" channel="山东生活频道">
+  <programme start="20261102132900 +0800" stop="20261102135600 +0800" channel="山东生活频道">
     <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101135600 +0800" stop="20261101141800 +0800" channel="山东生活频道">
+  <programme start="20261102135600 +0800" stop="20261102141800 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101141800 +0800" stop="20261101144500 +0800" channel="山东生活频道">
+  <programme start="20261102141800 +0800" stop="20261102144500 +0800" channel="山东生活频道">
     <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101144500 +0800" stop="20261101150600 +0800" channel="山东生活频道">
+  <programme start="20261102144500 +0800" stop="20261102150600 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101150600 +0800" stop="20261101153400 +0800" channel="山东生活频道">
+  <programme start="20261102150600 +0800" stop="20261102153300 +0800" channel="山东生活频道">
     <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101153400 +0800" stop="20261101155600 +0800" channel="山东生活频道">
+  <programme start="20261102153300 +0800" stop="20261102155600 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101155600 +0800" stop="20261101163500 +0800" channel="山东生活频道">
+  <programme start="20261102155600 +0800" stop="20261102163500 +0800" channel="山东生活频道">
     <title lang="zh">殊死七日</title>
   </programme>
-  <programme start="20261101163500 +0800" stop="20261101174500 +0800" channel="山东生活频道">
+  <programme start="20261102163500 +0800" stop="20261102174500 +0800" channel="山东生活频道">
     <title lang="zh">戏宇宙</title>
   </programme>
-  <programme start="20261101174500 +0800" stop="20261101175500 +0800" channel="山东生活频道">
+  <programme start="20261102174500 +0800" stop="20261102175500 +0800" channel="山东生活频道">
     <title lang="zh">纪录片</title>
   </programme>
-  <programme start="20261101175500 +0800" stop="20261101191000 +0800" channel="山东生活频道">
+  <programme start="20261102175500 +0800" stop="20261102191000 +0800" channel="山东生活频道">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme start="20261101191000 +0800" stop="20261101194500 +0800" channel="山东生活频道">
+  <programme start="20261102191000 +0800" stop="20261102194500 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101194500 +0800" stop="20261101201700 +0800" channel="山东生活频道">
-    <title lang="zh">名医话健康</title>
+  <programme start="20261102194500 +0800" stop="20261102200700 +0800" channel="山东生活频道">
+    <title lang="zh">乐享银龄</title>
   </programme>
-  <programme start="20261101201700 +0800" stop="20261101211100 +0800" channel="山东生活频道">
-    <title lang="zh">行进中国</title>
+  <programme start="20261102200700 +0800" stop="20261102210300 +0800" channel="山东生活频道">
+    <title lang="zh">行进中国黄河篇</title>
   </programme>
-  <programme start="20261101211100 +0800" stop="20261101214300 +0800" channel="山东生活频道">
+  <programme start="20261102210300 +0800" stop="20261102213500 +0800" channel="山东生活频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101214300 +0800" stop="20261101221800 +0800" channel="山东生活频道">
+  <programme start="20261102213500 +0800" stop="20261102221000 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101221800 +0800" stop="20261101230000 +0800" channel="山东生活频道">
+  <programme start="20261102221000 +0800" stop="20261102225200 +0800" channel="山东生活频道">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme start="20261101230000 +0800" stop="20261101233000 +0800" channel="山东生活频道">
+  <programme start="20261102225200 +0800" stop="20261102232200 +0800" channel="山东生活频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101233000 +0800" stop="20261101235959 +0800" channel="山东生活频道">
+  <programme start="20261102232200 +0800" stop="20261102235200 +0800" channel="山东生活频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101001000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">体育新闻</title>
+  <programme start="20261102235200 +0800" stop="20261102235959 +0800" channel="山东生活频道">
+    <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101001000 +0800" stop="20261101014000 +0800" channel="山东体育休闲频道">
+  <programme start="20261102000000 +0800" stop="20261102013500 +0800" channel="山东体育休闲频道">
     <title lang="zh">巅峰赛事</title>
   </programme>
-  <programme start="20261101014000 +0800" stop="20261101015000 +0800" channel="山东体育休闲频道">
+  <programme start="20261102013500 +0800" stop="20261102014500 +0800" channel="山东体育休闲频道">
     <title lang="zh">韵动至尚</title>
   </programme>
-  <programme start="20261101015000 +0800" stop="20261101032000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">超级赛场精编版</title>
-  </programme>
-  <programme start="20261101032000 +0800" stop="20261101045000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">巅峰赛事</title>
-  </programme>
-  <programme start="20261101045000 +0800" stop="20261101050000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">酷体育</title>
-  </programme>
-  <programme start="20261101050000 +0800" stop="20261101055600 +0800" channel="山东体育休闲频道">
-    <title lang="zh">联邦大作战</title>
-  </programme>
-  <programme start="20261101055600 +0800" stop="20261101065500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20261101065500 +0800" stop="20261101072500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20261101072500 +0800" stop="20261101073500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">韵动至尚</title>
-  </programme>
-  <programme start="20261101073500 +0800" stop="20261101074500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">酷体育</title>
-  </programme>
-  <programme start="20261101074500 +0800" stop="20261101081000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">激情岁月</title>
-  </programme>
-  <programme start="20261101081000 +0800" stop="20261101084000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">美食美客</title>
-  </programme>
-  <programme start="20261101084000 +0800" stop="20261101091000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">绿茵剧场：花女的抗战（14）</title>
-  </programme>
-  <programme start="20261101091000 +0800" stop="20261101094000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">张展硕</title>
-  </programme>
-  <programme start="20261101094000 +0800" stop="20261101101000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">绿茵剧场：花女的抗战（15）</title>
-  </programme>
-  <programme start="20261101101000 +0800" stop="20261101104000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20261101104000 +0800" stop="20261101113000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20261101113000 +0800" stop="20261101120000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101123900 +0800" channel="山东体育休闲频道">
-    <title lang="zh">山东体坛纵览</title>
-  </programme>
-  <programme start="20261101123900 +0800" stop="20261101125400 +0800" channel="山东体育休闲频道">
-    <title lang="zh">体育大观</title>
-  </programme>
-  <programme start="20261101125400 +0800" stop="20261101130400 +0800" channel="山东体育休闲频道">
-    <title lang="zh">韵动至尚</title>
-  </programme>
-  <programme start="20261101130400 +0800" stop="20261101132900 +0800" channel="山东体育休闲频道">
-    <title lang="zh">中超集锦</title>
-  </programme>
-  <programme start="20261101132900 +0800" stop="20261101140000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">绿茵剧场：花女的抗战（16）</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101153000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">巅峰赛事</title>
-  </programme>
-  <programme start="20261101153000 +0800" stop="20261101154000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">韵动至尚</title>
-  </programme>
-  <programme start="20261101154000 +0800" stop="20261101155000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">酷体育</title>
-  </programme>
-  <programme start="20261101155000 +0800" stop="20261101161500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">激情岁月</title>
-  </programme>
-  <programme start="20261101161500 +0800" stop="20261101164500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">美食美客</title>
-  </programme>
-  <programme start="20261101164500 +0800" stop="20261101165500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20261101165500 +0800" stop="20261101181000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">联邦大作战</title>
-  </programme>
-  <programme start="20261101181000 +0800" stop="20261101182000 +0800" channel="山东体育休闲频道">
-    <title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20261101182000 +0800" stop="20261101192500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20261101192500 +0800" stop="20261101195500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">激情冲击播之ONE集锦</title>
-  </programme>
-  <programme start="20261101195500 +0800" stop="20261101201500 +0800" channel="山东体育休闲频道">
+  <programme start="20261102014500 +0800" stop="20261102015500 +0800" channel="山东体育休闲频道">
     <title lang="zh">好运山东</title>
   </programme>
-  <programme start="20261101201500 +0800" stop="20261101212500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20261101212500 +0800" stop="20261101220500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">翡翠奇缘</title>
-  </programme>
-  <programme start="20261101220500 +0800" stop="20261101221500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20261101221500 +0800" stop="20261101222500 +0800" channel="山东体育休闲频道">
-    <title lang="zh">韵动至尚</title>
-  </programme>
-  <programme start="20261101222500 +0800" stop="20261101235500 +0800" channel="山东体育休闲频道">
+  <programme start="20261102015500 +0800" stop="20261102032500 +0800" channel="山东体育休闲频道">
     <title lang="zh">超级赛场精编版</title>
   </programme>
-  <programme start="20261101235500 +0800" stop="20261101235959 +0800" channel="山东体育休闲频道">
+  <programme start="20261102032500 +0800" stop="20261102045500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">巅峰赛事</title>
+  </programme>
+  <programme start="20261102045500 +0800" stop="20261102050000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">酷体育</title>
+  </programme>
+  <programme start="20261102050000 +0800" stop="20261102055600 +0800" channel="山东体育休闲频道">
+    <title lang="zh">联邦大作战</title>
+  </programme>
+  <programme start="20261102055600 +0800" stop="20261102065500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261102065500 +0800" stop="20261102072500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261102072500 +0800" stop="20261102073500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">韵动至尚</title>
+  </programme>
+  <programme start="20261102073500 +0800" stop="20261102074500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">酷体育</title>
+  </programme>
+  <programme start="20261102074500 +0800" stop="20261102081000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">激情岁月</title>
+  </programme>
+  <programme start="20261102081000 +0800" stop="20261102084000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261102084000 +0800" stop="20261102091000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">绿茵剧场：花女的抗战（17）</title>
+  </programme>
+  <programme start="20261102091000 +0800" stop="20261102094000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261102094000 +0800" stop="20261102101000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">绿茵剧场：花女的抗战（18）</title>
+  </programme>
+  <programme start="20261102101000 +0800" stop="20261102104000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261102104000 +0800" stop="20261102113000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261102113000 +0800" stop="20261102120000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261102120000 +0800" stop="20261102121000 +0800" channel="山东体育休闲频道">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101002300 +0800" channel="山东综艺频道">
+  <programme start="20261102121000 +0800" stop="20261102122000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">韵动至尚</title>
+  </programme>
+  <programme start="20261102122000 +0800" stop="20261102124500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">激情岁月</title>
+  </programme>
+  <programme start="20261102124500 +0800" stop="20261102131000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">中超集锦</title>
+  </programme>
+  <programme start="20261102131000 +0800" stop="20261102134000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">绿茵剧场：花女的抗战（19）</title>
+  </programme>
+  <programme start="20261102134000 +0800" stop="20261102140500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">冠军说之张展硕</title>
+  </programme>
+  <programme start="20261102140500 +0800" stop="20261102143500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">绿茵剧场：花女的抗战（20）</title>
+  </programme>
+  <programme start="20261102143500 +0800" stop="20261102160500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">巅峰赛事</title>
+  </programme>
+  <programme start="20261102160500 +0800" stop="20261102163500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">美食美客</title>
+  </programme>
+  <programme start="20261102163500 +0800" stop="20261102164500 +0800" channel="山东体育休闲频道">
+    <title lang="zh">体育新闻</title>
+  </programme>
+  <programme start="20261102164500 +0800" stop="20261102180000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">联邦大作战</title>
+  </programme>
+  <programme start="20261102180000 +0800" stop="20261102181000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20261102181000 +0800" stop="20261102192000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20261102192000 +0800" stop="20261102213000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">直播：2026/2027CBA联赛第8轮 山东山高vs北京控股</title>
+  </programme>
+  <programme start="20261102213000 +0800" stop="20261102221000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">翡翠奇缘</title>
+  </programme>
+  <programme start="20261102221000 +0800" stop="20261102222000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">体育新闻</title>
+  </programme>
+  <programme start="20261102222000 +0800" stop="20261102223000 +0800" channel="山东体育休闲频道">
+    <title lang="zh">韵动至尚</title>
+  </programme>
+  <programme start="20261102223000 +0800" stop="20261102235959 +0800" channel="山东体育休闲频道">
+    <title lang="zh">超级赛场精编版</title>
+  </programme>
+  <programme start="20261102000000 +0800" stop="20261102013200 +0800" channel="山东综艺频道">
+    <title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20261102013200 +0800" stop="20261102023400 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102023400 +0800" stop="20261102033600 +0800" channel="山东综艺频道">
+    <title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20261102033600 +0800" stop="20261102044000 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102044000 +0800" stop="20261102054300 +0800" channel="山东综艺频道">
+    <title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20261102054300 +0800" stop="20261102061800 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102061800 +0800" stop="20261102070400 +0800" channel="山东综艺频道">
     <title lang="zh">《快乐向前冲》暑期乐园季</title>
   </programme>
-  <programme start="20261101002300 +0800" stop="20261101012800 +0800" channel="山东综艺频道">
-    <title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20261101012800 +0800" stop="20261101023000 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101023000 +0800" stop="20261101033200 +0800" channel="山东综艺频道">
-    <title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20261101033200 +0800" stop="20261101043600 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101043600 +0800" stop="20261101053900 +0800" channel="山东综艺频道">
-    <title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20261101053900 +0800" stop="20261101062100 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101062100 +0800" stop="20261101070600 +0800" channel="山东综艺频道">
-    <title lang="zh">《快乐向前冲》暑期乐园季</title>
-  </programme>
-  <programme start="20261101070600 +0800" stop="20261101073600 +0800" channel="山东综艺频道">
+  <programme start="20261102070400 +0800" stop="20261102073400 +0800" channel="山东综艺频道">
     <title lang="zh">专题节目</title>
   </programme>
-  <programme start="20261101073600 +0800" stop="20261101083800 +0800" channel="山东综艺频道">
-    <title lang="zh">唱响你的歌</title>
+  <programme start="20261102073400 +0800" stop="20261102083600 +0800" channel="山东综艺频道">
+    <title lang="zh">唱响你的歌（梦想版）</title>
   </programme>
-  <programme start="20261101083800 +0800" stop="20261101090800 +0800" channel="山东综艺频道">
+  <programme start="20261102083600 +0800" stop="20261102090600 +0800" channel="山东综艺频道">
     <title lang="zh">快乐向前冲</title>
   </programme>
-  <programme start="20261101090800 +0800" stop="20261101093900 +0800" channel="山东综艺频道">
+  <programme start="20261102090600 +0800" stop="20261102093600 +0800" channel="山东综艺频道">
     <title lang="zh">专题节目</title>
   </programme>
-  <programme start="20261101093900 +0800" stop="20261101104000 +0800" channel="山东综艺频道">
-    <title lang="zh">唱响你的歌</title>
+  <programme start="20261102093600 +0800" stop="20261102103800 +0800" channel="山东综艺频道">
+    <title lang="zh">唱响你的歌（梦想版）</title>
   </programme>
-  <programme start="20261101104000 +0800" stop="20261101114200 +0800" channel="山东综艺频道">
+  <programme start="20261102103800 +0800" stop="20261102114000 +0800" channel="山东综艺频道">
     <title lang="zh">快乐向前冲</title>
   </programme>
-  <programme start="20261101114200 +0800" stop="20261101121700 +0800" channel="山东综艺频道">
+  <programme start="20261102114000 +0800" stop="20261102121000 +0800" channel="山东综艺频道">
     <title lang="zh">专题节目</title>
   </programme>
-  <programme start="20261101121700 +0800" stop="20261101125700 +0800" channel="山东综艺频道">
-    <title lang="zh">《快乐向前冲》暑期乐园季</title>
-  </programme>
-  <programme start="20261101125700 +0800" stop="20261101132700 +0800" channel="山东综艺频道">
-    <title lang="zh">专题节目</title>
-  </programme>
-  <programme start="20261101132700 +0800" stop="20261101143700 +0800" channel="山东综艺频道">
-    <title lang="zh">中华家庭诗词擂台赛</title>
-  </programme>
-  <programme start="20261101143700 +0800" stop="20261101150700 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101150700 +0800" stop="20261101153800 +0800" channel="山东综艺频道">
-    <title lang="zh">专题节目</title>
-  </programme>
-  <programme start="20261101153800 +0800" stop="20261101160300 +0800" channel="山东综艺频道">
-    <title lang="zh">纪录片-崂山</title>
-  </programme>
-  <programme start="20261101160300 +0800" stop="20261101163300 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101163300 +0800" stop="20261101170300 +0800" channel="山东综艺频道">
-    <title lang="zh">专题节目</title>
-  </programme>
-  <programme start="20261101170300 +0800" stop="20261101180200 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101180200 +0800" stop="20261101185700 +0800" channel="山东综艺频道">
-    <title lang="zh">桃花朵朵开</title>
-  </programme>
-  <programme start="20261101185700 +0800" stop="20261101201500 +0800" channel="山东综艺频道">
-    <title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20261101201500 +0800" stop="20261101213100 +0800" channel="山东综艺频道">
+  <programme start="20261102121000 +0800" stop="20261102125600 +0800" channel="山东综艺频道">
     <title lang="zh">快乐大赢家</title>
   </programme>
-  <programme start="20261101213100 +0800" stop="20261101224400 +0800" channel="山东综艺频道">
-    <title lang="zh">桃花朵朵开</title>
+  <programme start="20261102125600 +0800" stop="20261102132600 +0800" channel="山东综艺频道">
+    <title lang="zh">专题节目</title>
   </programme>
-  <programme start="20261101224400 +0800" stop="20261101234600 +0800" channel="山东综艺频道">
+  <programme start="20261102132600 +0800" stop="20261102143700 +0800" channel="山东综艺频道">
+    <title lang="zh">中华家庭诗词擂台赛</title>
+  </programme>
+  <programme start="20261102143700 +0800" stop="20261102150700 +0800" channel="山东综艺频道">
     <title lang="zh">快乐向前冲</title>
   </programme>
-  <programme start="20261101234600 +0800" stop="20261101235959 +0800" channel="山东综艺频道">
-    <title lang="zh">《快乐向前冲》暑期乐园季</title>
+  <programme start="20261102150700 +0800" stop="20261102153800 +0800" channel="山东综艺频道">
+    <title lang="zh">专题节目</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="山东农科频道">
-    <title lang="zh">田间示范秀</title>
+  <programme start="20261102153800 +0800" stop="20261102160300 +0800" channel="山东综艺频道">
+    <title lang="zh">纪录片-崂山</title>
   </programme>
-  <programme start="20261101000500 +0800" stop="20261101005200 +0800" channel="山东农科频道">
+  <programme start="20261102160300 +0800" stop="20261102163300 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102163300 +0800" stop="20261102170300 +0800" channel="山东综艺频道">
+    <title lang="zh">专题节目</title>
+  </programme>
+  <programme start="20261102170300 +0800" stop="20261102180100 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102180100 +0800" stop="20261102185600 +0800" channel="山东综艺频道">
+    <title lang="zh">桃花朵朵开</title>
+  </programme>
+  <programme start="20261102185600 +0800" stop="20261102201600 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102201600 +0800" stop="20261102212700 +0800" channel="山东综艺频道">
+    <title lang="zh">《快乐向前冲》乐园季</title>
+  </programme>
+  <programme start="20261102212700 +0800" stop="20261102223800 +0800" channel="山东综艺频道">
+    <title lang="zh">桃花朵朵开</title>
+  </programme>
+  <programme start="20261102223800 +0800" stop="20261102234000 +0800" channel="山东综艺频道">
+    <title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20261102234000 +0800" stop="20261102235959 +0800" channel="山东综艺频道">
+    <title lang="zh">《快乐向前冲》乐园季</title>
+  </programme>
+  <programme start="20261102000000 +0800" stop="20261102005200 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101005200 +0800" stop="20261101010800 +0800" channel="山东农科频道">
+  <programme start="20261102005200 +0800" stop="20261102010800 +0800" channel="山东农科频道">
     <title lang="zh">山东三农新闻联播</title>
   </programme>
-  <programme start="20261101010800 +0800" stop="20261101014200 +0800" channel="山东农科频道">
+  <programme start="20261102010800 +0800" stop="20261102014200 +0800" channel="山东农科频道">
     <title lang="zh">好品山东</title>
   </programme>
-  <programme start="20261101014200 +0800" stop="20261101021200 +0800" channel="山东农科频道">
+  <programme start="20261102014200 +0800" stop="20261102021200 +0800" channel="山东农科频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101021200 +0800" stop="20261101024800 +0800" channel="山东农科频道">
+  <programme start="20261102021200 +0800" stop="20261102024800 +0800" channel="山东农科频道">
     <title lang="zh">田间示范秀</title>
   </programme>
-  <programme start="20261101024800 +0800" stop="20261101032800 +0800" channel="山东农科频道">
+  <programme start="20261102024800 +0800" stop="20261102032800 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101032800 +0800" stop="20261101035500 +0800" channel="山东农科频道">
+  <programme start="20261102032800 +0800" stop="20261102035500 +0800" channel="山东农科频道">
     <title lang="zh">山东三农新闻联播</title>
   </programme>
-  <programme start="20261101035500 +0800" stop="20261101045000 +0800" channel="山东农科频道">
+  <programme start="20261102035500 +0800" stop="20261102045000 +0800" channel="山东农科频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101045000 +0800" stop="20261101052200 +0800" channel="山东农科频道">
+  <programme start="20261102045000 +0800" stop="20261102052200 +0800" channel="山东农科频道">
     <title lang="zh">田间示范秀</title>
   </programme>
-  <programme start="20261101052200 +0800" stop="20261101060100 +0800" channel="山东农科频道">
+  <programme start="20261102052200 +0800" stop="20261102060100 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101060100 +0800" stop="20261101060800 +0800" channel="山东农科频道">
+  <programme start="20261102060100 +0800" stop="20261102061100 +0800" channel="山东农科频道">
     <title lang="zh">农事气象站</title>
   </programme>
-  <programme start="20261101060800 +0800" stop="20261101062400 +0800" channel="山东农科频道">
+  <programme start="20261102061100 +0800" stop="20261102062700 +0800" channel="山东农科频道">
     <title lang="zh">山东三农新闻联播</title>
   </programme>
-  <programme start="20261101062400 +0800" stop="20261101065500 +0800" channel="山东农科频道">
-    <title lang="zh">农广校之窗</title>
-  </programme>
-  <programme start="20261101065500 +0800" stop="20261101073600 +0800" channel="山东农科频道">
+  <programme start="20261102062700 +0800" stop="20261102073000 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101073600 +0800" stop="20261101074200 +0800" channel="山东农科频道">
+  <programme start="20261102073000 +0800" stop="20261102073500 +0800" channel="山东农科频道">
     <title lang="zh">农事气象站</title>
   </programme>
-  <programme start="20261101074200 +0800" stop="20261101081200 +0800" channel="山东农科频道">
+  <programme start="20261102073500 +0800" stop="20261102080500 +0800" channel="山东农科频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101081200 +0800" stop="20261101082900 +0800" channel="山东农科频道">
+  <programme start="20261102080500 +0800" stop="20261102082900 +0800" channel="山东农科频道">
     <title lang="zh">山东良种工程</title>
   </programme>
-  <programme start="20261101082900 +0800" stop="20261101084900 +0800" channel="山东农科频道">
+  <programme start="20261102082900 +0800" stop="20261102084900 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101084900 +0800" stop="20261101093200 +0800" channel="山东农科频道">
+  <programme start="20261102084900 +0800" stop="20261102092900 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101093200 +0800" stop="20261101100100 +0800" channel="山东农科频道">
+  <programme start="20261102092900 +0800" stop="20261102095800 +0800" channel="山东农科频道">
     <title lang="zh">特殊使命</title>
   </programme>
-  <programme start="20261101100100 +0800" stop="20261101102100 +0800" channel="山东农科频道">
+  <programme start="20261102095800 +0800" stop="20261102102100 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101102100 +0800" stop="20261101105000 +0800" channel="山东农科频道">
+  <programme start="20261102102100 +0800" stop="20261102105000 +0800" channel="山东农科频道">
     <title lang="zh">特殊使命</title>
   </programme>
-  <programme start="20261101105000 +0800" stop="20261101111200 +0800" channel="山东农科频道">
+  <programme start="20261102105000 +0800" stop="20261102111200 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101111200 +0800" stop="20261101113900 +0800" channel="山东农科频道">
+  <programme start="20261102111200 +0800" stop="20261102113900 +0800" channel="山东农科频道">
     <title lang="zh">特殊使命</title>
   </programme>
-  <programme start="20261101113900 +0800" stop="20261101120000 +0800" channel="山东农科频道">
+  <programme start="20261102113900 +0800" stop="20261102120000 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101120000 +0800" stop="20261101124000 +0800" channel="山东农科频道">
+  <programme start="20261102120000 +0800" stop="20261102124000 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101124000 +0800" stop="20261101130100 +0800" channel="山东农科频道">
+  <programme start="20261102124000 +0800" stop="20261102130100 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101130100 +0800" stop="20261101131700 +0800" channel="山东农科频道">
+  <programme start="20261102130100 +0800" stop="20261102131700 +0800" channel="山东农科频道">
     <title lang="zh">山东三农新闻联播</title>
   </programme>
-  <programme start="20261101131700 +0800" stop="20261101135500 +0800" channel="山东农科频道">
+  <programme start="20261102131700 +0800" stop="20261102135500 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101135500 +0800" stop="20261101143900 +0800" channel="山东农科频道">
+  <programme start="20261102135500 +0800" stop="20261102143900 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101143900 +0800" stop="20261101151000 +0800" channel="山东农科频道">
+  <programme start="20261102143900 +0800" stop="20261102151000 +0800" channel="山东农科频道">
     <title lang="zh">特殊使命</title>
   </programme>
-  <programme start="20261101151000 +0800" stop="20261101153000 +0800" channel="山东农科频道">
+  <programme start="20261102151000 +0800" stop="20261102153000 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101153000 +0800" stop="20261101155800 +0800" channel="山东农科频道">
+  <programme start="20261102153000 +0800" stop="20261102155800 +0800" channel="山东农科频道">
     <title lang="zh">特殊使命</title>
   </programme>
-  <programme start="20261101155800 +0800" stop="20261101161900 +0800" channel="山东农科频道">
+  <programme start="20261102155800 +0800" stop="20261102161900 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101161900 +0800" stop="20261101164800 +0800" channel="山东农科频道">
+  <programme start="20261102161900 +0800" stop="20261102164800 +0800" channel="山东农科频道">
     <title lang="zh">特殊使命</title>
   </programme>
-  <programme start="20261101164800 +0800" stop="20261101171800 +0800" channel="山东农科频道">
+  <programme start="20261102164800 +0800" stop="20261102171800 +0800" channel="山东农科频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101171800 +0800" stop="20261101174700 +0800" channel="山东农科频道">
+  <programme start="20261102171800 +0800" stop="20261102174700 +0800" channel="山东农科频道">
     <title lang="zh">山东良种工程</title>
   </programme>
-  <programme start="20261101174700 +0800" stop="20261101184400 +0800" channel="山东农科频道">
+  <programme start="20261102174700 +0800" stop="20261102184400 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101184400 +0800" stop="20261101192000 +0800" channel="山东农科频道">
+  <programme start="20261102184400 +0800" stop="20261102192000 +0800" channel="山东农科频道">
     <title lang="zh">健康生活帮</title>
   </programme>
-  <programme start="20261101192000 +0800" stop="20261101193000 +0800" channel="山东农科频道">
+  <programme start="20261102192000 +0800" stop="20261102193000 +0800" channel="山东农科频道">
     <title lang="zh">农事气象站</title>
   </programme>
-  <programme start="20261101193000 +0800" stop="20261101195000 +0800" channel="山东农科频道">
+  <programme start="20261102193000 +0800" stop="20261102195000 +0800" channel="山东农科频道">
     <title lang="zh">山东三农新闻联播</title>
   </programme>
-  <programme start="20261101195000 +0800" stop="20261101195800 +0800" channel="山东农科频道">
+  <programme start="20261102195000 +0800" stop="20261102195800 +0800" channel="山东农科频道">
     <title lang="zh">农事气象站</title>
   </programme>
-  <programme start="20261101195800 +0800" stop="20261101200800 +0800" channel="山东农科频道">
+  <programme start="20261102195800 +0800" stop="20261102200600 +0800" channel="山东农科频道">
     <title lang="zh">农产之美</title>
   </programme>
-  <programme start="20261101200800 +0800" stop="20261101204700 +0800" channel="山东农科频道">
+  <programme start="20261102200600 +0800" stop="20261102204700 +0800" channel="山东农科频道">
     <title lang="zh">乡村季风+种地宝典</title>
   </programme>
-  <programme start="20261101204700 +0800" stop="20261101211700 +0800" channel="山东农科频道">
-    <title lang="zh">名医话健康</title>
-  </programme>
-  <programme start="20261101211700 +0800" stop="20261101215100 +0800" channel="山东农科频道">
+  <programme start="20261102204700 +0800" stop="20261102211700 +0800" channel="山东农科频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101215100 +0800" stop="20261101220400 +0800" channel="山东农科频道">
-    <title lang="zh">农产之美</title>
-  </programme>
-  <programme start="20261101220400 +0800" stop="20261101222300 +0800" channel="山东农科频道">
-    <title lang="zh">山东三农新闻联播</title>
-  </programme>
-  <programme start="20261101222300 +0800" stop="20261101224000 +0800" channel="山东农科频道">
-    <title lang="zh">山东良种工程</title>
-  </programme>
-  <programme start="20261101224000 +0800" stop="20261101232800 +0800" channel="山东农科频道">
+  <programme start="20261102211700 +0800" stop="20261102215100 +0800" channel="山东农科频道">
     <title lang="zh">中国原产递</title>
   </programme>
-  <programme start="20261101232800 +0800" stop="20261101235959 +0800" channel="山东农科频道">
+  <programme start="20261102215100 +0800" stop="20261102220300 +0800" channel="山东农科频道">
+    <title lang="zh">农产之美</title>
+  </programme>
+  <programme start="20261102220300 +0800" stop="20261102222300 +0800" channel="山东农科频道">
+    <title lang="zh">山东三农新闻联播</title>
+  </programme>
+  <programme start="20261102222300 +0800" stop="20261102224000 +0800" channel="山东农科频道">
+    <title lang="zh">山东良种工程</title>
+  </programme>
+  <programme start="20261102224000 +0800" stop="20261102232800 +0800" channel="山东农科频道">
+    <title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20261102232800 +0800" stop="20261102235959 +0800" channel="山东农科频道">
     <title lang="zh">田间示范秀</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101054700 +0800" channel="山东文旅频道">
-    <title lang="zh">尼山杏坛</title>
-  </programme>
-  <programme start="20261101054700 +0800" stop="20261101063900 +0800" channel="山东文旅频道">
+  <programme start="20261102000000 +0800" stop="20261102064000 +0800" channel="山东文旅频道">
     <title lang="zh">玉鉴文明</title>
   </programme>
-  <programme start="20261101063900 +0800" stop="20261101073000 +0800" channel="山东文旅频道">
+  <programme start="20261102064000 +0800" stop="20261102073200 +0800" channel="山东文旅频道">
     <title lang="zh">玉鉴文明</title>
   </programme>
-  <programme start="20261101073000 +0800" stop="20261101080000 +0800" channel="山东文旅频道">
+  <programme start="20261102073200 +0800" stop="20261102080300 +0800" channel="山东文旅频道">
     <title lang="zh">光影视界</title>
   </programme>
-  <programme start="20261101080000 +0800" stop="20261101082200 +0800" channel="山东文旅频道">
+  <programme start="20261102080300 +0800" stop="20261102082500 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101082200 +0800" stop="20261101085700 +0800" channel="山东文旅频道">
+  <programme start="20261102082500 +0800" stop="20261102085800 +0800" channel="山东文旅频道">
     <title lang="zh">光影视界</title>
   </programme>
-  <programme start="20261101085700 +0800" stop="20261101092000 +0800" channel="山东文旅频道">
+  <programme start="20261102085800 +0800" stop="20261102092000 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101092000 +0800" stop="20261101095200 +0800" channel="山东文旅频道">
+  <programme start="20261102092000 +0800" stop="20261102095400 +0800" channel="山东文旅频道">
     <title lang="zh">光影视界</title>
   </programme>
-  <programme start="20261101095200 +0800" stop="20261101102500 +0800" channel="山东文旅频道">
+  <programme start="20261102095400 +0800" stop="20261102102500 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101102500 +0800" stop="20261101111000 +0800" channel="山东文旅频道">
-    <title lang="zh">等着我</title>
+  <programme start="20261102102500 +0800" stop="20261102111000 +0800" channel="山东文旅频道">
+    <title lang="zh">等着我上午版</title>
   </programme>
-  <programme start="20261101111000 +0800" stop="20261101113000 +0800" channel="山东文旅频道">
+  <programme start="20261102111000 +0800" stop="20261102113200 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101113000 +0800" stop="20261101121500 +0800" channel="山东文旅频道">
-    <title lang="zh">等着我</title>
+  <programme start="20261102113200 +0800" stop="20261102121700 +0800" channel="山东文旅频道">
+    <title lang="zh">等着我中午版</title>
   </programme>
-  <programme start="20261101121500 +0800" stop="20261101124200 +0800" channel="山东文旅频道">
+  <programme start="20261102121700 +0800" stop="20261102124300 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101124200 +0800" stop="20261101132500 +0800" channel="山东文旅频道">
+  <programme start="20261102124300 +0800" stop="20261102132600 +0800" channel="山东文旅频道">
     <title lang="zh">行进中国</title>
   </programme>
-  <programme start="20261101132500 +0800" stop="20261101133600 +0800" channel="山东文旅频道">
+  <programme start="20261102132600 +0800" stop="20261102133800 +0800" channel="山东文旅频道">
     <title lang="zh">“儒”此有趣</title>
   </programme>
-  <programme start="20261101133600 +0800" stop="20261101140400 +0800" channel="山东文旅频道">
-    <title lang="zh">家有藏宝</title>
+  <programme start="20261102133800 +0800" stop="20261102140600 +0800" channel="山东文旅频道">
+    <title lang="zh">家有藏宝下午版</title>
   </programme>
-  <programme start="20261101140400 +0800" stop="20261101142600 +0800" channel="山东文旅频道">
+  <programme start="20261102140600 +0800" stop="20261102142700 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101142600 +0800" stop="20261101151200 +0800" channel="山东文旅频道">
+  <programme start="20261102142700 +0800" stop="20261102151300 +0800" channel="山东文旅频道">
     <title lang="zh">展播剧场</title>
   </programme>
-  <programme start="20261101151200 +0800" stop="20261101154300 +0800" channel="山东文旅频道">
-    <title lang="zh">等着我</title>
+  <programme start="20261102151300 +0800" stop="20261102154500 +0800" channel="山东文旅频道">
+    <title lang="zh">等着我下午版</title>
   </programme>
-  <programme start="20261101154300 +0800" stop="20261101160500 +0800" channel="山东文旅频道">
+  <programme start="20261102154500 +0800" stop="20261102160600 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101160500 +0800" stop="20261101161800 +0800" channel="山东文旅频道">
+  <programme start="20261102160600 +0800" stop="20261102161800 +0800" channel="山东文旅频道">
     <title lang="zh">“国宝”时刻</title>
   </programme>
-  <programme start="20261101161800 +0800" stop="20261101162600 +0800" channel="山东文旅频道">
-    <title lang="zh">山东文旅报道</title>
+  <programme start="20261102161800 +0800" stop="20261102162600 +0800" channel="山东文旅频道">
+    <title lang="zh">山东文旅报道白天版</title>
   </programme>
-  <programme start="20261101162600 +0800" stop="20261101165000 +0800" channel="山东文旅频道">
+  <programme start="20261102162600 +0800" stop="20261102165000 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101165000 +0800" stop="20261101171500 +0800" channel="山东文旅频道">
+  <programme start="20261102165000 +0800" stop="20261102171500 +0800" channel="山东文旅频道">
     <title lang="zh">齐鲁青未了</title>
   </programme>
-  <programme start="20261101171500 +0800" stop="20261101174200 +0800" channel="山东文旅频道">
+  <programme start="20261102171500 +0800" stop="20261102174200 +0800" channel="山东文旅频道">
     <title lang="zh">齐鲁青未了</title>
   </programme>
-  <programme start="20261101174200 +0800" stop="20261101181000 +0800" channel="山东文旅频道">
+  <programme start="20261102174200 +0800" stop="20261102181100 +0800" channel="山东文旅频道">
     <title lang="zh">齐鲁青未了</title>
   </programme>
-  <programme start="20261101181000 +0800" stop="20261101184000 +0800" channel="山东文旅频道">
+  <programme start="20261102181100 +0800" stop="20261102184000 +0800" channel="山东文旅频道">
     <title lang="zh">齐鲁青未了</title>
   </programme>
-  <programme start="20261101184000 +0800" stop="20261101190800 +0800" channel="山东文旅频道">
+  <programme start="20261102184000 +0800" stop="20261102190800 +0800" channel="山东文旅频道">
     <title lang="zh">齐鲁青未了</title>
   </programme>
-  <programme start="20261101190800 +0800" stop="20261101192200 +0800" channel="山东文旅频道">
+  <programme start="20261102190800 +0800" stop="20261102192200 +0800" channel="山东文旅频道">
     <title lang="zh">山东文旅报道</title>
   </programme>
-  <programme start="20261101192200 +0800" stop="20261101193200 +0800" channel="山东文旅频道">
-    <title lang="zh">福彩情怀</title>
+  <programme start="20261102192200 +0800" stop="20261102203000 +0800" channel="山东文旅频道">
+    <title lang="zh">家有藏宝晚间版</title>
   </programme>
-  <programme start="20261101193200 +0800" stop="20261101203400 +0800" channel="山东文旅频道">
-    <title lang="zh">家有藏宝</title>
+  <programme start="20261102203000 +0800" stop="20261102213500 +0800" channel="山东文旅频道">
+    <title lang="zh">等着我晚间版</title>
   </programme>
-  <programme start="20261101203400 +0800" stop="20261101213900 +0800" channel="山东文旅频道">
-    <title lang="zh">等着我</title>
-  </programme>
-  <programme start="20261101213900 +0800" stop="20261101214800 +0800" channel="山东文旅频道">
+  <programme start="20261102213500 +0800" stop="20261102214500 +0800" channel="山东文旅频道">
     <title lang="zh">纪录片：中国手艺</title>
   </programme>
-  <programme start="20261101214800 +0800" stop="20261101221600 +0800" channel="山东文旅频道">
-    <title lang="zh">家有藏宝</title>
+  <programme start="20261102214500 +0800" stop="20261102221300 +0800" channel="山东文旅频道">
+    <title lang="zh">家有藏宝下午版</title>
   </programme>
-  <programme start="20261101221600 +0800" stop="20261101224900 +0800" channel="山东文旅频道">
+  <programme start="20261102221300 +0800" stop="20261102224500 +0800" channel="山东文旅频道">
     <title lang="zh">专题</title>
   </programme>
-  <programme start="20261101224900 +0800" stop="20261101234300 +0800" channel="山东文旅频道">
+  <programme start="20261102224500 +0800" stop="20261102234000 +0800" channel="山东文旅频道">
     <title lang="zh">玉鉴文明</title>
   </programme>
-  <programme start="20261101234300 +0800" stop="20261101235959 +0800" channel="山东文旅频道">
-    <title lang="zh">尼山杏坛</title>
+  <programme start="20261102234000 +0800" stop="20261102235959 +0800" channel="山东文旅频道">
+    <title lang="zh">馆长来了</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101060000 +0800" channel="山东少儿频道">
-    <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者1》</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101073000 +0800" channel="山东少儿频道">
+  <programme start="20261102000000 +0800" stop="20261102073050 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《超级语文课第四季》</title>
   </programme>
-  <programme start="20261101073000 +0800" stop="20261101073800 +0800" channel="山东少儿频道">
+  <programme start="20261102073050 +0800" stop="20261102073815 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《国宝在山东第二季》</title>
   </programme>
-  <programme start="20261101073800 +0800" stop="20261101075900 +0800" channel="山东少儿频道">
+  <programme start="20261102073815 +0800" stop="20261102075945 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《成长没烦恼》</title>
   </programme>
-  <programme start="20261101075900 +0800" stop="20261101081100 +0800" channel="山东少儿频道">
+  <programme start="20261102075945 +0800" stop="20261102081045 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《科普总动员》</title>
   </programme>
-  <programme start="20261101081100 +0800" stop="20261101091300 +0800" channel="山东少儿频道">
+  <programme start="20261102081045 +0800" stop="20261102091335 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者11-狂野新宇宙》</title>
   </programme>
-  <programme start="20261101091300 +0800" stop="20261101103400 +0800" channel="山东少儿频道">
+  <programme start="20261102091335 +0800" stop="20261102103322 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《熊出没之探险日记2》</title>
   </programme>
-  <programme start="20261101103400 +0800" stop="20261101104400 +0800" channel="山东少儿频道">
+  <programme start="20261102103322 +0800" stop="20261102104327 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《国学小名士》精彩片段</title>
   </programme>
-  <programme start="20261101104400 +0800" stop="20261101120600 +0800" channel="山东少儿频道">
+  <programme start="20261102104327 +0800" stop="20261102120444 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者10-奇侠大营救》</title>
   </programme>
-  <programme start="20261101120600 +0800" stop="20261101121700 +0800" channel="山东少儿频道">
+  <programme start="20261102120444 +0800" stop="20261102121547 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《国学小名士》精彩片段</title>
   </programme>
-  <programme start="20261101121700 +0800" stop="20261101131000 +0800" channel="山东少儿频道">
+  <programme start="20261102121547 +0800" stop="20261102130919 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《熊出没之神奇宝物》</title>
   </programme>
-  <programme start="20261101131000 +0800" stop="20261101142800 +0800" channel="山东少儿频道">
+  <programme start="20261102130919 +0800" stop="20261102142637 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者10-奇侠大营救》</title>
   </programme>
-  <programme start="20261101142800 +0800" stop="20261101143900 +0800" channel="山东少儿频道">
+  <programme start="20261102142637 +0800" stop="20261102143749 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《国学小名士》精彩片段</title>
   </programme>
-  <programme start="20261101143900 +0800" stop="20261101154700 +0800" channel="山东少儿频道">
+  <programme start="20261102143749 +0800" stop="20261102154552 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《熊出没之冬日乐翻天》</title>
   </programme>
-  <programme start="20261101154700 +0800" stop="20261101155800 +0800" channel="山东少儿频道">
+  <programme start="20261102154552 +0800" stop="20261102155658 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《国学小名士》精彩片段</title>
   </programme>
-  <programme start="20261101155800 +0800" stop="20261101170500 +0800" channel="山东少儿频道">
+  <programme start="20261102155658 +0800" stop="20261102170415 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者8心世界奇遇》</title>
   </programme>
-  <programme start="20261101170500 +0800" stop="20261101175900 +0800" channel="山东少儿频道">
+  <programme start="20261102170415 +0800" stop="20261102175737 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《熊熊帮帮团3》</title>
   </programme>
-  <programme start="20261101175900 +0800" stop="20261101182300 +0800" channel="山东少儿频道">
+  <programme start="20261102175737 +0800" stop="20261102182133 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《熊出没之神奇宝物2》</title>
   </programme>
-  <programme start="20261101182300 +0800" stop="20261101192800 +0800" channel="山东少儿频道">
+  <programme start="20261102182133 +0800" stop="20261102192636 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者13破界山海诀》</title>
   </programme>
-  <programme start="20261101192800 +0800" stop="20261101200100 +0800" channel="山东少儿频道">
+  <programme start="20261102192636 +0800" stop="20261102200006 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《熊出没之小小世界2》</title>
   </programme>
-  <programme start="20261101200100 +0800" stop="20261101203300 +0800" channel="山东少儿频道">
+  <programme start="20261102200006 +0800" stop="20261102203203 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《2026金话筒电视大赛》</title>
   </programme>
-  <programme start="20261101203300 +0800" stop="20261101215600 +0800" channel="山东少儿频道">
+  <programme start="20261102203203 +0800" stop="20261102215506 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者7遨游神秘洋》</title>
   </programme>
-  <programme start="20261101215600 +0800" stop="20261101231300 +0800" channel="山东少儿频道">
+  <programme start="20261102215506 +0800" stop="20261102231159 +0800" channel="山东少儿频道">
     <title lang="zh">节目：《2025中华家庭诗词擂台赛》</title>
   </programme>
-  <programme start="20261101231300 +0800" stop="20261101234800 +0800" channel="山东少儿频道">
+  <programme start="20261102231159 +0800" stop="20261102234645 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《猪猪侠之超星五灵侠》</title>
   </programme>
-  <programme start="20261101234800 +0800" stop="20261101235959 +0800" channel="山东少儿频道">
+  <programme start="20261102234645 +0800" stop="20261102235959 +0800" channel="山东少儿频道">
     <title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者1》</title>
   </programme>
 </tv>

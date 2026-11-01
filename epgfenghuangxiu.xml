@@ -9,201 +9,6 @@
   <channel id="鳳凰香港">
     <display-name>鳳凰香港</display-name>
   </channel>
-  <programme start="20261101000000 +0800" stop="20261101002700 +0800" channel="鳳凰資訊">
-    <title>鳳凰洲際快車</title>
-  </programme>
-  <programme start="20261101002700 +0800" stop="20261101003000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101003000 +0800" stop="20261101010000 +0800" channel="鳳凰資訊">
-    <title>以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261101010000 +0800" stop="20261101012700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101012700 +0800" stop="20261101013000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101013000 +0800" stop="20261101015700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101015700 +0800" stop="20261101020000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101020000 +0800" stop="20261101022700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101022700 +0800" stop="20261101023000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101023000 +0800" stop="20261101030000 +0800" channel="鳳凰資訊">
-    <title>口子窖 問答神州</title>
-  </programme>
-  <programme start="20261101030000 +0800" stop="20261101032700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101032700 +0800" stop="20261101033000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101033000 +0800" stop="20261101040000 +0800" channel="鳳凰資訊">
-    <title>風雲對話</title>
-  </programme>
-  <programme start="20261101040000 +0800" stop="20261101042700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101042700 +0800" stop="20261101043000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101043000 +0800" stop="20261101050000 +0800" channel="鳳凰資訊">
-    <title>香港新視點</title>
-  </programme>
-  <programme start="20261101050000 +0800" stop="20261101052700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101052700 +0800" stop="20261101053000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101053000 +0800" stop="20261101060000 +0800" channel="鳳凰資訊">
-    <title>以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101062700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0100</title>
-  </programme>
-  <programme start="20261101062700 +0800" stop="20261101063000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101063000 +0800" stop="20261101070000 +0800" channel="鳳凰資訊">
-    <title>風雲對話</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101075500 +0800" channel="鳳凰資訊">
-    <title>長隆 鳳凰早班車</title>
-  </programme>
-  <programme start="20261101075500 +0800" stop="20261101080000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101080000 +0800" stop="20261101085500 +0800" channel="鳳凰資訊">
-    <title>長隆 鳳凰早班車</title>
-  </programme>
-  <programme start="20261101085500 +0800" stop="20261101090000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101090000 +0800" stop="20261101092700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 0900</title>
-  </programme>
-  <programme start="20261101092700 +0800" stop="20261101093000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101093000 +0800" stop="20261101100000 +0800" channel="鳳凰資訊">
-    <title>風雲對話</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101105700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1000</title>
-  </programme>
-  <programme start="20261101105700 +0800" stop="20261101110000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101110000 +0800" stop="20261101114500 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1100</title>
-  </programme>
-  <programme start="20261101114500 +0800" stop="20261101120000 +0800" channel="鳳凰資訊">
-    <title>我的香港故事</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101125700 +0800" channel="鳳凰資訊">
-    <title>中國旅遊集團 中國免稅品有限責任公司 鳳凰午間專列</title>
-  </programme>
-  <programme start="20261101125700 +0800" stop="20261101130000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101130000 +0800" stop="20261101132700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1300</title>
-  </programme>
-  <programme start="20261101132700 +0800" stop="20261101133000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101133000 +0800" stop="20261101140000 +0800" channel="鳳凰資訊">
-    <title>築夢天下</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101142700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1400</title>
-  </programme>
-  <programme start="20261101142700 +0800" stop="20261101143000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101143000 +0800" stop="20261101150000 +0800" channel="鳳凰資訊">
-    <title>風雲對話</title>
-  </programme>
-  <programme start="20261101150000 +0800" stop="20261101155700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1500</title>
-  </programme>
-  <programme start="20261101155700 +0800" stop="20261101160000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101160000 +0800" stop="20261101162700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1600</title>
-  </programme>
-  <programme start="20261101162700 +0800" stop="20261101163000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101163000 +0800" stop="20261101170000 +0800" channel="鳳凰資訊">
-    <title>口子窖 問答神州</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101171500 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 1700</title>
-  </programme>
-  <programme start="20261101171500 +0800" stop="20261101180000 +0800" channel="鳳凰資訊">
-    <title>中國建設銀行 中國深度財經</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101182700 +0800" channel="鳳凰資訊">
-    <title>陽光保險 鳳凰焦點新聞 1800</title>
-  </programme>
-  <programme start="20261101182700 +0800" stop="20261101183000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="鳳凰資訊">
-    <title>以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261101190000 +0800" stop="20261101191300 +0800" channel="鳳凰資訊">
-    <title>賽輪輪胎 華聞大直播</title>
-  </programme>
-  <programme start="20261101191300 +0800" stop="20261101191500 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101191500 +0800" stop="20261101200000 +0800" channel="鳳凰資訊">
-    <title>大新聞大歷史</title>
-  </programme>
-  <programme start="20261101200000 +0800" stop="20261101202700 +0800" channel="鳳凰資訊">
-    <title>陽光保險 鳳凰焦點新聞 2000</title>
-  </programme>
-  <programme start="20261101202700 +0800" stop="20261101203000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101203000 +0800" stop="20261101210000 +0800" channel="鳳凰資訊">
-    <title>香港新視點</title>
-  </programme>
-  <programme start="20261101210000 +0800" stop="20261101215500 +0800" channel="鳳凰資訊">
-    <title>時事直通車</title>
-  </programme>
-  <programme start="20261101215500 +0800" stop="20261101220000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101220000 +0800" stop="20261101222700 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 2200</title>
-  </programme>
-  <programme start="20261101222700 +0800" stop="20261101223000 +0800" channel="鳳凰資訊">
-    <title>鳳凰氣象站</title>
-  </programme>
-  <programme start="20261101223000 +0800" stop="20261101230000 +0800" channel="鳳凰資訊">
-    <title>以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261101230000 +0800" stop="20261101231500 +0800" channel="鳳凰資訊">
-    <title>鳳凰正點播報 2300</title>
-  </programme>
-  <programme start="20261101231500 +0800" stop="20261101233000 +0800" channel="鳳凰資訊">
-    <title>我的香港故事</title>
-  </programme>
-  <programme start="20261101233000 +0800" stop="20261102000000 +0800" channel="鳳凰資訊">
-    <title>口子窖 問答神州</title>
-  </programme>
   <programme start="20261102000000 +0800" stop="20261102002700 +0800" channel="鳳凰資訊">
     <title>鳳凰洲際快車</title>
   </programme>
@@ -390,155 +195,197 @@
   <programme start="20261102232700 +0800" stop="20261102233000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261102233000 +0800" stop="20261102155959 +0800" channel="鳳凰資訊">
+  <programme start="20261102233000 +0800" stop="20261103000000 +0800" channel="鳳凰資訊">
     <title>總編輯時間</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101002700 +0800" channel="鳳凰中文">
+  <programme start="20261103000000 +0800" stop="20261103005700 +0800" channel="鳳凰資訊">
     <title>鳳凰洲際快車</title>
   </programme>
-  <programme start="20261101002700 +0800" stop="20261101003000 +0800" channel="鳳凰中文">
+  <programme start="20261103005700 +0800" stop="20261103010000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101003000 +0800" stop="20261101010000 +0800" channel="鳳凰中文">
-    <title>香港新視點</title>
+  <programme start="20261103010000 +0800" stop="20261103012700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
   </programme>
-  <programme start="20261101010000 +0800" stop="20261101013000 +0800" channel="鳳凰中文">
-    <title>冷暖人生</title>
+  <programme start="20261103012700 +0800" stop="20261103013000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101013000 +0800" stop="20261101020000 +0800" channel="鳳凰中文">
-    <title>中遠海運 風雲對話</title>
+  <programme start="20261103013000 +0800" stop="20261103020000 +0800" channel="鳳凰資訊">
+    <title>金石財經</title>
   </programme>
-  <programme start="20261101020000 +0800" stop="20261101023000 +0800" channel="鳳凰中文">
-    <title>紀錄大時代</title>
+  <programme start="20261103020000 +0800" stop="20261103022700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
   </programme>
-  <programme start="20261101023000 +0800" stop="20261101030000 +0800" channel="鳳凰中文">
-    <title>文化大觀園</title>
+  <programme start="20261103022700 +0800" stop="20261103023000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101030000 +0800" stop="20261101033000 +0800" channel="鳳凰中文">
+  <programme start="20261103023000 +0800" stop="20261103030000 +0800" channel="鳳凰資訊">
+    <title>臨工集團 鳳凰財經日報</title>
+  </programme>
+  <programme start="20261103030000 +0800" stop="20261103032700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
+  </programme>
+  <programme start="20261103032700 +0800" stop="20261103033000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103033000 +0800" stop="20261103040000 +0800" channel="鳳凰資訊">
+    <title>總編輯時間</title>
+  </programme>
+  <programme start="20261103040000 +0800" stop="20261103042700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
+  </programme>
+  <programme start="20261103042700 +0800" stop="20261103043000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103043000 +0800" stop="20261103045700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
+  </programme>
+  <programme start="20261103045700 +0800" stop="20261103050000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103050000 +0800" stop="20261103052700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
+  </programme>
+  <programme start="20261103052700 +0800" stop="20261103053000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103053000 +0800" stop="20261103060000 +0800" channel="鳳凰資訊">
     <title>以岭葯業 新聞今日談</title>
   </programme>
-  <programme start="20261101033000 +0800" stop="20261101040000 +0800" channel="鳳凰中文">
-    <title>玉柴機器 石評天下</title>
+  <programme start="20261103060000 +0800" stop="20261103062700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0100</title>
   </programme>
-  <programme start="20261101040000 +0800" stop="20261101043000 +0800" channel="鳳凰中文">
-    <title>我們和牠們</title>
-  </programme>
-  <programme start="20261101043000 +0800" stop="20261101050000 +0800" channel="鳳凰中文">
-    <title>待定</title>
-  </programme>
-  <programme start="20261101050000 +0800" stop="20261101053000 +0800" channel="鳳凰中文">
-    <title>碳基的幸福生活</title>
-  </programme>
-  <programme start="20261101053000 +0800" stop="20261101060000 +0800" channel="鳳凰中文">
-    <title>碳基的幸福生活</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101063000 +0800" channel="鳳凰中文">
-    <title>紀錄大時代</title>
-  </programme>
-  <programme start="20261101063000 +0800" stop="20261101070000 +0800" channel="鳳凰中文">
-    <title>築夢天下</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101075500 +0800" channel="鳳凰中文">
-    <title>長隆 鳳凰早班車</title>
-  </programme>
-  <programme start="20261101075500 +0800" stop="20261101080000 +0800" channel="鳳凰中文">
+  <programme start="20261103062700 +0800" stop="20261103063000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101080000 +0800" stop="20261101085500 +0800" channel="鳳凰中文">
+  <programme start="20261103063000 +0800" stop="20261103070000 +0800" channel="鳳凰資訊">
+    <title>鳳凰聚焦</title>
+  </programme>
+  <programme start="20261103070000 +0800" stop="20261103075700 +0800" channel="鳳凰資訊">
     <title>長隆 鳳凰早班車</title>
   </programme>
-  <programme start="20261101085500 +0800" stop="20261101090000 +0800" channel="鳳凰中文">
+  <programme start="20261103075700 +0800" stop="20261103080000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101090000 +0800" stop="20261101094500 +0800" channel="鳳凰中文">
-    <title>大新聞大歷史</title>
+  <programme start="20261103080000 +0800" stop="20261103085700 +0800" channel="鳳凰資訊">
+    <title>長隆 鳳凰早班車</title>
   </programme>
-  <programme start="20261101094500 +0800" stop="20261101100000 +0800" channel="鳳凰中文">
-    <title>我的香港故事</title>
+  <programme start="20261103085700 +0800" stop="20261103090000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101100000 +0800" stop="20261101105700 +0800" channel="鳳凰中文">
+  <programme start="20261103090000 +0800" stop="20261103092700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 0900</title>
+  </programme>
+  <programme start="20261103092700 +0800" stop="20261103093000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103093000 +0800" stop="20261103100000 +0800" channel="鳳凰資訊">
+    <title>金石財經</title>
+  </programme>
+  <programme start="20261103100000 +0800" stop="20261103105700 +0800" channel="鳳凰資訊">
     <title>鳳凰正點播報 1000</title>
   </programme>
-  <programme start="20261101105700 +0800" stop="20261101110000 +0800" channel="鳳凰中文">
+  <programme start="20261103105700 +0800" stop="20261103110000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101110000 +0800" stop="20261101113000 +0800" channel="鳳凰中文">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103110000 +0800" stop="20261103112700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 1100</title>
   </programme>
-  <programme start="20261101113000 +0800" stop="20261101120000 +0800" channel="鳳凰中文">
-    <title>碳基的幸福生活</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101125700 +0800" channel="鳳凰中文">
-    <title>中國旅遊集團 中國免稅品  有限責任公司 鳳凰午間專列</title>
-  </programme>
-  <programme start="20261101125700 +0800" stop="20261101130000 +0800" channel="鳳凰中文">
+  <programme start="20261103112700 +0800" stop="20261103113000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101130000 +0800" stop="20261101133000 +0800" channel="鳳凰中文">
-    <title>冷暖人生</title>
+  <programme start="20261103113000 +0800" stop="20261103120000 +0800" channel="鳳凰資訊">
+    <title>總編輯時間</title>
   </programme>
-  <programme start="20261101133000 +0800" stop="20261101140000 +0800" channel="鳳凰中文">
-    <title>文化大觀園</title>
+  <programme start="20261103120000 +0800" stop="20261103125500 +0800" channel="鳳凰資訊">
+    <title>中國旅遊集團 中國免稅品有限責任公司 鳳凰午間專列</title>
   </programme>
-  <programme start="20261101140000 +0800" stop="20261101143000 +0800" channel="鳳凰中文">
-    <title>我們和牠們</title>
+  <programme start="20261103125500 +0800" stop="20261103130000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101143000 +0800" stop="20261101150000 +0800" channel="鳳凰中文">
-    <title>待定</title>
+  <programme start="20261103130000 +0800" stop="20261103132700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 1300</title>
   </programme>
-  <programme start="20261101150000 +0800" stop="20261101155700 +0800" channel="鳳凰中文">
+  <programme start="20261103132700 +0800" stop="20261103133000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103133000 +0800" stop="20261103140000 +0800" channel="鳳凰資訊">
+    <title>金石財經</title>
+  </programme>
+  <programme start="20261103140000 +0800" stop="20261103142700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 1400</title>
+  </programme>
+  <programme start="20261103142700 +0800" stop="20261103143000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103143000 +0800" stop="20261103150000 +0800" channel="鳳凰資訊">
+    <title>總編輯時間</title>
+  </programme>
+  <programme start="20261103150000 +0800" stop="20261103155700 +0800" channel="鳳凰資訊">
     <title>鳳凰正點播報 1500</title>
   </programme>
-  <programme start="20261101155700 +0800" stop="20261101160000 +0800" channel="鳳凰中文">
+  <programme start="20261103155700 +0800" stop="20261103160000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101160000 +0800" stop="20261101163000 +0800" channel="鳳凰中文">
-    <title>玉柴機器 石評天下</title>
+  <programme start="20261103160000 +0800" stop="20261103165700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 1600</title>
   </programme>
-  <programme start="20261101163000 +0800" stop="20261101170000 +0800" channel="鳳凰中文">
-    <title>紀錄大時代</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101173000 +0800" channel="鳳凰中文">
-    <title>碳基的幸福生活</title>
-  </programme>
-  <programme start="20261101173000 +0800" stop="20261101180000 +0800" channel="鳳凰中文">
-    <title>碳基的幸福生活</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101182700 +0800" channel="鳳凰中文">
-    <title>鳳凰焦點新聞 1800</title>
-  </programme>
-  <programme start="20261101182700 +0800" stop="20261101183000 +0800" channel="鳳凰中文">
+  <programme start="20261103165700 +0800" stop="20261103170000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="鳳凰中文">
+  <programme start="20261103170000 +0800" stop="20261103172700 +0800" channel="鳳凰資訊">
+    <title>鳳凰正點播報 1700</title>
+  </programme>
+  <programme start="20261103172700 +0800" stop="20261103173000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103173000 +0800" stop="20261103180000 +0800" channel="鳳凰資訊">
+    <title>金石財經</title>
+  </programme>
+  <programme start="20261103180000 +0800" stop="20261103182700 +0800" channel="鳳凰資訊">
+    <title>陽光保險 鳳凰焦點新聞 1800</title>
+  </programme>
+  <programme start="20261103182700 +0800" stop="20261103183000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103183000 +0800" stop="20261103190000 +0800" channel="鳳凰資訊">
     <title>以岭葯業 新聞今日談</title>
   </programme>
-  <programme start="20261101190000 +0800" stop="20261101193000 +0800" channel="鳳凰中文">
-    <title>築夢天下</title>
+  <programme start="20261103190000 +0800" stop="20261103195700 +0800" channel="鳳凰資訊">
+    <title>賽輪輪胎 華聞大直播</title>
   </programme>
-  <programme start="20261101193000 +0800" stop="20261101203000 +0800" channel="鳳凰中文">
-    <title>魯南制葯.啟達力 鳳凰大健康</title>
+  <programme start="20261103195700 +0800" stop="20261103200000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101203000 +0800" stop="20261101210000 +0800" channel="鳳凰中文">
-    <title>中國一汽 發現大灣區</title>
+  <programme start="20261103200000 +0800" stop="20261103202700 +0800" channel="鳳凰資訊">
+    <title>陽光保險 鳳凰焦點新聞 2000</title>
   </programme>
-  <programme start="20261101210000 +0800" stop="20261101215500 +0800" channel="鳳凰中文">
+  <programme start="20261103202700 +0800" stop="20261103203000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103203000 +0800" stop="20261103210000 +0800" channel="鳳凰資訊">
+    <title>臨工集團 鳳凰財經日報</title>
+  </programme>
+  <programme start="20261103210000 +0800" stop="20261103215500 +0800" channel="鳳凰資訊">
     <title>時事直通車</title>
   </programme>
-  <programme start="20261101215500 +0800" stop="20261101220000 +0800" channel="鳳凰中文">
+  <programme start="20261103215500 +0800" stop="20261103220000 +0800" channel="鳳凰資訊">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101220000 +0800" stop="20261101223000 +0800" channel="鳳凰中文">
-    <title>中國茅台 近觀中國</title>
+  <programme start="20261103220000 +0800" stop="20261103223000 +0800" channel="鳳凰資訊">
+    <title>總編輯時間</title>
   </programme>
-  <programme start="20261101223000 +0800" stop="20261101224500 +0800" channel="鳳凰中文">
-    <title>我的香港故事</title>
-  </programme>
-  <programme start="20261101224500 +0800" stop="20261101233000 +0800" channel="鳳凰中文">
-    <title>古井貢酒•年份原漿古20 笑逐言開</title>
-  </programme>
-  <programme start="20261101233000 +0800" stop="20261102000000 +0800" channel="鳳凰中文">
+  <programme start="20261103223000 +0800" stop="20261103230000 +0800" channel="鳳凰資訊">
     <title>以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261103230000 +0800" stop="20261103232700 +0800" channel="鳳凰資訊">
+    <title>陽光保險 鳳凰焦點新聞 2300</title>
+  </programme>
+  <programme start="20261103232700 +0800" stop="20261103233000 +0800" channel="鳳凰資訊">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103233000 +0800" stop="20261103155959 +0800" channel="鳳凰資訊">
+    <title>總編輯時間</title>
   </programme>
   <programme start="20261102000000 +0800" stop="20261102002700 +0800" channel="鳳凰中文">
     <title>鳳凰洲際快車</title>
@@ -681,140 +528,155 @@
   <programme start="20261102230000 +0800" stop="20261102233000 +0800" channel="鳳凰中文">
     <title>中國銀行（香港）亞洲財經透視</title>
   </programme>
-  <programme start="20261102233000 +0800" stop="20261102155959 +0800" channel="鳳凰中文">
+  <programme start="20261102233000 +0800" stop="20261103000000 +0800" channel="鳳凰中文">
     <title>以岭葯業 新聞今日談</title>
   </programme>
-  <programme start="20261101000000 +0800" stop="20261101003000 +0800" channel="鳳凰香港">
-    <title>時事三對論</title>
+  <programme start="20261103000000 +0800" stop="20261103005700 +0800" channel="鳳凰中文">
+    <title>鳳凰洲際快車</title>
   </programme>
-  <programme start="20261101003000 +0800" stop="20261101010000 +0800" channel="鳳凰香港">
+  <programme start="20261103005700 +0800" stop="20261103010000 +0800" channel="鳳凰中文">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103010000 +0800" stop="20261103013000 +0800" channel="鳳凰中文">
+    <title>有報天天讀</title>
+  </programme>
+  <programme start="20261103013000 +0800" stop="20261103020000 +0800" channel="鳳凰中文">
+    <title>濰柴動力 鳳凰大視野</title>
+  </programme>
+  <programme start="20261103020000 +0800" stop="20261103023000 +0800" channel="鳳凰中文">
+    <title>紀錄大時代</title>
+  </programme>
+  <programme start="20261103023000 +0800" stop="20261103030000 +0800" channel="鳳凰中文">
+    <title>中國銀行（香港）亞洲財經透視</title>
+  </programme>
+  <programme start="20261103030000 +0800" stop="20261103033000 +0800" channel="鳳凰中文">
     <title>以岭葯業 新聞今日談</title>
   </programme>
-  <programme start="20261101010000 +0800" stop="20261101013000 +0800" channel="鳳凰香港">
+  <programme start="20261103033000 +0800" stop="20261103040000 +0800" channel="鳳凰中文">
+    <title>華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261103040000 +0800" stop="20261103043000 +0800" channel="鳳凰中文">
     <title>空間觀策</title>
   </programme>
-  <programme start="20261101013000 +0800" stop="20261101023000 +0800" channel="鳳凰香港">
-    <title>難忘經典系列:  情牽金曲百樂門演唱會</title>
+  <programme start="20261103043000 +0800" stop="20261103050000 +0800" channel="鳳凰中文">
+    <title>中國太平 鳳凰全球連線</title>
   </programme>
-  <programme start="20261101023000 +0800" stop="20261101030000 +0800" channel="鳳凰香港">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103050000 +0800" stop="20261103053000 +0800" channel="鳳凰中文">
+    <title>有報天天讀</title>
   </programme>
-  <programme start="20261101030000 +0800" stop="20261101033000 +0800" channel="鳳凰香港">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103053000 +0800" stop="20261103060000 +0800" channel="鳳凰中文">
+    <title>鳳凰衝擊播: 口子窖 問答神州</title>
   </programme>
-  <programme start="20261101033000 +0800" stop="20261101040000 +0800" channel="鳳凰香港">
-    <title>發現大灣區</title>
+  <programme start="20261103060000 +0800" stop="20261103063000 +0800" channel="鳳凰中文">
+    <title>紀錄大時代</title>
   </programme>
-  <programme start="20261101040000 +0800" stop="20261101043000 +0800" channel="鳳凰香港">
-    <title>香港新視點</title>
+  <programme start="20261103063000 +0800" stop="20261103070000 +0800" channel="鳳凰中文">
+    <title>總編輯時間</title>
   </programme>
-  <programme start="20261101043000 +0800" stop="20261101053000 +0800" channel="鳳凰香港">
-    <title>難忘經典系列:  情牽金曲百樂門演唱會</title>
+  <programme start="20261103070000 +0800" stop="20261103075700 +0800" channel="鳳凰中文">
+    <title>長隆 鳳凰早班車</title>
   </programme>
-  <programme start="20261101053000 +0800" stop="20261101060000 +0800" channel="鳳凰香港">
-    <title>以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101063000 +0800" channel="鳳凰香港">
-    <title>時事三對論</title>
-  </programme>
-  <programme start="20261101063000 +0800" stop="20261101070000 +0800" channel="鳳凰香港">
-    <title>X +</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101075500 +0800" channel="鳳凰香港">
-    <title>鳳凰早班車</title>
-  </programme>
-  <programme start="20261101075500 +0800" stop="20261101080000 +0800" channel="鳳凰香港">
+  <programme start="20261103075700 +0800" stop="20261103080000 +0800" channel="鳳凰中文">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101080000 +0800" stop="20261101085500 +0800" channel="鳳凰香港">
-    <title>鳳凰早班車</title>
+  <programme start="20261103080000 +0800" stop="20261103085700 +0800" channel="鳳凰中文">
+    <title>長隆 鳳凰早班車</title>
   </programme>
-  <programme start="20261101085500 +0800" stop="20261101090000 +0800" channel="鳳凰香港">
+  <programme start="20261103085700 +0800" stop="20261103090000 +0800" channel="鳳凰中文">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101090000 +0800" stop="20261101100000 +0800" channel="鳳凰香港">
-    <title>難忘經典系列:  情牽金曲百樂門演唱會</title>
+  <programme start="20261103090000 +0800" stop="20261103093000 +0800" channel="鳳凰中文">
+    <title>中國太平 鳳凰全球連線</title>
   </programme>
-  <programme start="20261101100000 +0800" stop="20261101103000 +0800" channel="鳳凰香港">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103093000 +0800" stop="20261103100000 +0800" channel="鳳凰中文">
+    <title>濰柴動力 鳳凰大視野</title>
   </programme>
-  <programme start="20261101103000 +0800" stop="20261101110000 +0800" channel="鳳凰香港">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103100000 +0800" stop="20261103105700 +0800" channel="鳳凰中文">
+    <title>鳳凰正點播報 1000</title>
   </programme>
-  <programme start="20261101110000 +0800" stop="20261101113000 +0800" channel="鳳凰香港">
-    <title>香港新視點</title>
-  </programme>
-  <programme start="20261101113000 +0800" stop="20261101120000 +0800" channel="鳳凰香港">
-    <title>時事三對論</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101125700 +0800" channel="鳳凰香港">
-    <title>鳳凰午間專列</title>
-  </programme>
-  <programme start="20261101125700 +0800" stop="20261101130000 +0800" channel="鳳凰香港">
+  <programme start="20261103105700 +0800" stop="20261103110000 +0800" channel="鳳凰中文">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101130000 +0800" stop="20261101135700 +0800" channel="鳳凰香港">
-    <title>午間快綫</title>
+  <programme start="20261103110000 +0800" stop="20261103113000 +0800" channel="鳳凰中文">
+    <title>華潤 鳳凰聚焦</title>
   </programme>
-  <programme start="20261101135700 +0800" stop="20261101140000 +0800" channel="鳳凰香港">
+  <programme start="20261103113000 +0800" stop="20261103120000 +0800" channel="鳳凰中文">
+    <title>有報天天讀</title>
+  </programme>
+  <programme start="20261103120000 +0800" stop="20261103125500 +0800" channel="鳳凰中文">
+    <title>中國旅遊集團 中國免稅品  有限責任公司 鳳凰午間專列</title>
+  </programme>
+  <programme start="20261103125500 +0800" stop="20261103130000 +0800" channel="鳳凰中文">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101140000 +0800" stop="20261101150000 +0800" channel="鳳凰香港">
-    <title>難忘經典系列:  情牽金曲百樂門演唱會</title>
+  <programme start="20261103130000 +0800" stop="20261103133000 +0800" channel="鳳凰中文">
+    <title>總編輯時間</title>
   </programme>
-  <programme start="20261101150000 +0800" stop="20261101153000 +0800" channel="鳳凰香港">
-    <title>石評天下</title>
+  <programme start="20261103133000 +0800" stop="20261103134500 +0800" channel="鳳凰中文">
+    <title>我的香港故事</title>
   </programme>
-  <programme start="20261101153000 +0800" stop="20261101160000 +0800" channel="鳳凰香港">
-    <title>時事三對論</title>
+  <programme start="20261103134500 +0800" stop="20261103143000 +0800" channel="鳳凰中文">
+    <title>古井貢酒•年份原漿古20 笑逐言開</title>
   </programme>
-  <programme start="20261101160000 +0800" stop="20261101163000 +0800" channel="鳳凰香港">
-    <title>風雲對話</title>
+  <programme start="20261103143000 +0800" stop="20261103150000 +0800" channel="鳳凰中文">
+    <title>濰柴動力 鳳凰大視野</title>
   </programme>
-  <programme start="20261101163000 +0800" stop="20261101170000 +0800" channel="鳳凰香港">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103150000 +0800" stop="20261103155700 +0800" channel="鳳凰中文">
+    <title>鳳凰正點播報 1500</title>
   </programme>
-  <programme start="20261101170000 +0800" stop="20261101173000 +0800" channel="鳳凰香港">
-    <title>碳基的幸福生活</title>
+  <programme start="20261103155700 +0800" stop="20261103160000 +0800" channel="鳳凰中文">
+    <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101173000 +0800" stop="20261101180000 +0800" channel="鳳凰香港">
-    <title>我們和牠們</title>
+  <programme start="20261103160000 +0800" stop="20261103163000 +0800" channel="鳳凰中文">
+    <title>鳳凰衝擊播: 口子窖 問答神州</title>
   </programme>
-  <programme start="20261101180000 +0800" stop="20261101182700 +0800" channel="鳳凰香港">
+  <programme start="20261103163000 +0800" stop="20261103170000 +0800" channel="鳳凰中文">
+    <title>紀錄大時代</title>
+  </programme>
+  <programme start="20261103170000 +0800" stop="20261103173000 +0800" channel="鳳凰中文">
+    <title>中國一汽 發現大灣區</title>
+  </programme>
+  <programme start="20261103173000 +0800" stop="20261103180000 +0800" channel="鳳凰中文">
+    <title>有報天天讀</title>
+  </programme>
+  <programme start="20261103180000 +0800" stop="20261103182700 +0800" channel="鳳凰中文">
     <title>鳳凰焦點新聞 1800</title>
   </programme>
-  <programme start="20261101182700 +0800" stop="20261101183000 +0800" channel="鳳凰香港">
+  <programme start="20261103182700 +0800" stop="20261103183000 +0800" channel="鳳凰中文">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="鳳凰香港">
+  <programme start="20261103183000 +0800" stop="20261103190000 +0800" channel="鳳凰中文">
     <title>以岭葯業 新聞今日談</title>
   </programme>
-  <programme start="20261101190000 +0800" stop="20261101195700 +0800" channel="鳳凰香港">
-    <title>全球新聞報道</title>
+  <programme start="20261103190000 +0800" stop="20261103193000 +0800" channel="鳳凰中文">
+    <title>中國銀行（香港）亞洲財經透視</title>
   </programme>
-  <programme start="20261101195700 +0800" stop="20261101200000 +0800" channel="鳳凰香港">
-    <title>鳳凰氣象站</title>
+  <programme start="20261103193000 +0800" stop="20261103200000 +0800" channel="鳳凰中文">
+    <title>總編輯時間</title>
   </programme>
-  <programme start="20261101200000 +0800" stop="20261101203000 +0800" channel="鳳凰香港">
-    <title>發現大灣區</title>
+  <programme start="20261103200000 +0800" stop="20261103203000 +0800" channel="鳳凰中文">
+    <title>濰柴動力 鳳凰大視野</title>
   </programme>
-  <programme start="20261101203000 +0800" stop="20261101210000 +0800" channel="鳳凰香港">
-    <title>時事三對論</title>
+  <programme start="20261103203000 +0800" stop="20261103210000 +0800" channel="鳳凰中文">
+    <title>鳳凰衝擊播: 時事亮亮點</title>
   </programme>
-  <programme start="20261101210000 +0800" stop="20261101215500 +0800" channel="鳳凰香港">
+  <programme start="20261103210000 +0800" stop="20261103215500 +0800" channel="鳳凰中文">
     <title>時事直通車</title>
   </programme>
-  <programme start="20261101215500 +0800" stop="20261101220000 +0800" channel="鳳凰香港">
+  <programme start="20261103215500 +0800" stop="20261103220000 +0800" channel="鳳凰中文">
     <title>鳳凰氣象站</title>
   </programme>
-  <programme start="20261101220000 +0800" stop="20261101230000 +0800" channel="鳳凰香港">
-    <title>難忘經典系列:  情牽金曲百樂門演唱會</title>
+  <programme start="20261103220000 +0800" stop="20261103223000 +0800" channel="鳳凰中文">
+    <title>華潤 鳳凰聚焦</title>
   </programme>
-  <programme start="20261101230000 +0800" stop="20261101234500 +0800" channel="鳳凰香港">
-    <title>大新聞大歷史</title>
+  <programme start="20261103223000 +0800" stop="20261103230000 +0800" channel="鳳凰中文">
+    <title>中國太平 鳳凰全球連線</title>
   </programme>
-  <programme start="20261101234500 +0800" stop="20261102000000 +0800" channel="鳳凰香港">
-    <title>我的香港故事</title>
+  <programme start="20261103230000 +0800" stop="20261103233000 +0800" channel="鳳凰中文">
+    <title>中國銀行（香港）亞洲財經透視</title>
+  </programme>
+  <programme start="20261103233000 +0800" stop="20261103155959 +0800" channel="鳳凰中文">
+    <title>以岭葯業 新聞今日談</title>
   </programme>
   <programme start="20261102000000 +0800" stop="20261102003000 +0800" channel="鳳凰香港">
     <title>時事三對論</title>
@@ -948,7 +810,160 @@
   <programme start="20261102230000 +0800" stop="20261102233000 +0800" channel="鳳凰香港">
     <title>總編輯時間</title>
   </programme>
-  <programme start="20261102233000 +0800" stop="20261102155959 +0800" channel="鳳凰香港">
+  <programme start="20261102233000 +0800" stop="20261103000000 +0800" channel="鳳凰香港">
+    <title>中國銀行（香港）亞洲財經透視</title>
+  </programme>
+  <programme start="20261103000000 +0800" stop="20261103003000 +0800" channel="鳳凰香港">
+    <title>華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261103003000 +0800" stop="20261103010000 +0800" channel="鳳凰香港">
+    <title>以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261103010000 +0800" stop="20261103013000 +0800" channel="鳳凰香港">
+    <title>冷暖人生</title>
+  </programme>
+  <programme start="20261103013000 +0800" stop="20261103020000 +0800" channel="鳳凰香港">
+    <title>時事大破解</title>
+  </programme>
+  <programme start="20261103020000 +0800" stop="20261103023000 +0800" channel="鳳凰香港">
+    <title>鳳凰全球連線</title>
+  </programme>
+  <programme start="20261103023000 +0800" stop="20261103030000 +0800" channel="鳳凰香港">
+    <title>鳳凰大視野</title>
+  </programme>
+  <programme start="20261103030000 +0800" stop="20261103033000 +0800" channel="鳳凰香港">
+    <title>華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261103033000 +0800" stop="20261103040000 +0800" channel="鳳凰香港">
+    <title>總編輯時間</title>
+  </programme>
+  <programme start="20261103040000 +0800" stop="20261103043000 +0800" channel="鳳凰香港">
+    <title>冷暖人生</title>
+  </programme>
+  <programme start="20261103043000 +0800" stop="20261103050000 +0800" channel="鳳凰香港">
+    <title>X +</title>
+  </programme>
+  <programme start="20261103050000 +0800" stop="20261103053000 +0800" channel="鳳凰香港">
+    <title>時事大破解</title>
+  </programme>
+  <programme start="20261103053000 +0800" stop="20261103060000 +0800" channel="鳳凰香港">
+    <title>以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261103060000 +0800" stop="20261103063000 +0800" channel="鳳凰香港">
+    <title>文化大觀園</title>
+  </programme>
+  <programme start="20261103063000 +0800" stop="20261103070000 +0800" channel="鳳凰香港">
+    <title>鳳凰大視野</title>
+  </programme>
+  <programme start="20261103070000 +0800" stop="20261103075700 +0800" channel="鳳凰香港">
+    <title>鳳凰早班車</title>
+  </programme>
+  <programme start="20261103075700 +0800" stop="20261103080000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103080000 +0800" stop="20261103085700 +0800" channel="鳳凰香港">
+    <title>鳳凰早班車</title>
+  </programme>
+  <programme start="20261103085700 +0800" stop="20261103090000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103090000 +0800" stop="20261103093000 +0800" channel="鳳凰香港">
+    <title>總編輯時間</title>
+  </programme>
+  <programme start="20261103093000 +0800" stop="20261103100000 +0800" channel="鳳凰香港">
+    <title>冷暖人生</title>
+  </programme>
+  <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="鳳凰香港">
+    <title>X +</title>
+  </programme>
+  <programme start="20261103103000 +0800" stop="20261103110000 +0800" channel="鳳凰香港">
+    <title>鳳凰大視野</title>
+  </programme>
+  <programme start="20261103110000 +0800" stop="20261103113000 +0800" channel="鳳凰香港">
+    <title>時事大破解</title>
+  </programme>
+  <programme start="20261103113000 +0800" stop="20261103120000 +0800" channel="鳳凰香港">
+    <title>華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261103120000 +0800" stop="20261103125500 +0800" channel="鳳凰香港">
+    <title>鳳凰午間專列</title>
+  </programme>
+  <programme start="20261103125500 +0800" stop="20261103130000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103130000 +0800" stop="20261103135700 +0800" channel="鳳凰香港">
+    <title>午間快綫</title>
+  </programme>
+  <programme start="20261103135700 +0800" stop="20261103140000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103140000 +0800" stop="20261103143000 +0800" channel="鳳凰香港">
+    <title>總編輯時間</title>
+  </programme>
+  <programme start="20261103143000 +0800" stop="20261103150000 +0800" channel="鳳凰香港">
+    <title>冷暖人生</title>
+  </programme>
+  <programme start="20261103150000 +0800" stop="20261103153000 +0800" channel="鳳凰香港">
+    <title>X +</title>
+  </programme>
+  <programme start="20261103153000 +0800" stop="20261103160000 +0800" channel="鳳凰香港">
+    <title>時事大破解</title>
+  </programme>
+  <programme start="20261103160000 +0800" stop="20261103163000 +0800" channel="鳳凰香港">
+    <title>鳳凰大視野</title>
+  </programme>
+  <programme start="20261103163000 +0800" stop="20261103170000 +0800" channel="鳳凰香港">
+    <title>香港新視點</title>
+  </programme>
+  <programme start="20261103170000 +0800" stop="20261103173000 +0800" channel="鳳凰香港">
+    <title>華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261103173000 +0800" stop="20261103174500 +0800" channel="鳳凰香港">
+    <title>我的香港故事</title>
+  </programme>
+  <programme start="20261103174500 +0800" stop="20261103180000 +0800" channel="鳳凰香港">
+    <title>我的香港故事</title>
+  </programme>
+  <programme start="20261103180000 +0800" stop="20261103182700 +0800" channel="鳳凰香港">
+    <title>鳳凰焦點新聞 1800</title>
+  </programme>
+  <programme start="20261103182700 +0800" stop="20261103183000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103183000 +0800" stop="20261103190000 +0800" channel="鳳凰香港">
+    <title>以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261103190000 +0800" stop="20261103195700 +0800" channel="鳳凰香港">
+    <title>全球新聞報道</title>
+  </programme>
+  <programme start="20261103195700 +0800" stop="20261103200000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103200000 +0800" stop="20261103202800 +0800" channel="鳳凰香港">
+    <title>時事大破解</title>
+  </programme>
+  <programme start="20261103202800 +0800" stop="20261103203000 +0800" channel="鳳凰香港">
+    <title>中國銀行（香港）直達大灣區</title>
+  </programme>
+  <programme start="20261103203000 +0800" stop="20261103210000 +0800" channel="鳳凰香港">
+    <title>香港熱廚房</title>
+  </programme>
+  <programme start="20261103210000 +0800" stop="20261103215500 +0800" channel="鳳凰香港">
+    <title>時事直通車</title>
+  </programme>
+  <programme start="20261103215500 +0800" stop="20261103220000 +0800" channel="鳳凰香港">
+    <title>鳳凰氣象站</title>
+  </programme>
+  <programme start="20261103220000 +0800" stop="20261103223000 +0800" channel="鳳凰香港">
+    <title>晚間專綫</title>
+  </programme>
+  <programme start="20261103223000 +0800" stop="20261103230000 +0800" channel="鳳凰香港">
+    <title>鳳凰全球連線</title>
+  </programme>
+  <programme start="20261103230000 +0800" stop="20261103233000 +0800" channel="鳳凰香港">
+    <title>總編輯時間</title>
+  </programme>
+  <programme start="20261103233000 +0800" stop="20261103155959 +0800" channel="鳳凰香港">
     <title>中國銀行（香港）亞洲財經透視</title>
   </programme>
 </tv>
