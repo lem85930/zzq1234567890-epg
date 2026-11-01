@@ -13,6 +13,7 @@ $xmlFiles = [
    // './epgOUTtv.xml',
    // './epgbtime.xml',
     './epgjiangsu.xml',
+   './epgshandong.xml',
     './epgshanghai23.xml',
     './epgmyvideo.xml',
     './epgeltatv.xml',
