@@ -152,7 +152,7 @@ jobs:
 
       
 
-      # ---------- ★ 运行福建 EPG 抓取 ----------
+      # ---------- ★ 运行山东 EPG 抓取 ----------
       - name: Run iqilu EPG scraper
         id: epgiqilu
         continue-on-error: true
@@ -161,7 +161,7 @@ jobs:
             echo "运行福建 EPG 抓取脚本..."
             python epgiqilu.py
             if [ -f "epgshandong.xml" ]; then
-              echo "✅ 成功生成 epgfujian.xml"
+              echo "✅ 成功生成 epgshandong.xml"
               echo "fujian_generated=true" >> $GITHUB_OUTPUT
               echo "Fujian EPG updated at $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" > iqilu_time.txt
             else
