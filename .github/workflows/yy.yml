@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ---------- 1. 環境準備 ----------
+      # ---------- 1. 環境準備 ----------[span_2](start_span)[span_2](end_span)
       - name: Checkout code
         uses: actions/checkout@v6
         with:
@@ -49,32 +49,60 @@ jobs:
           pip install opencc curl_cffi beautifulsoup4 opencc requests
           echo "所有依賴安裝完成"
           
-      # ---------- 2. 下載 files.json（從 Secret 讀取）中定義的文件 ----------
-      - name: Download and extract files from files.json (via Secret)
+      # ---------- 2. 下載 files.json（使用 Python 安全下載與解壓） ----------[span_3](start_span)[span_3](end_span)
+      - name: Download and extract files from files.json (via Python)
         id: download_files
+        env:
+          FILES_JSON: ${{ secrets.FILES_JSON }}
         run: |
-          FILES_JSON='${{ secrets.FILES_JSON }}'
-          if [ -z "$FILES_JSON" ]; then
-            echo "錯誤: FILES_JSON secret 未設置，請添加"
-            exit 1
-          fi
-          echo "開始下載 files.json 中定義的文件..."
-          while read -r filename url; do
-            [ -z "$filename" ] && continue
-            echo "下載: $filename <-$url"
-            wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 < /dev/null \vert{}\vert{} echo "$filename 下載失敗，跳過"
-            if [[ "$filename" == *.gz ]] && [ -f "$filename" ]; then
-              echo "解壓文件: $filename"
-              gunzip -f "$filename" \vert{}\vert{} echo "解壓失敗或文件已解壓: $filename"
-              extracted_file="${filename%.gz}"
-              if [ -f "$extracted_file" ]; then
-                echo "✓ 解壓成功: $extracted_file"
-              fi
-            fi
-          done < <(echo "$FILES_JSON" | jq -r 'to_entries[] | "\(.key) \(.value)"')
-          echo "文件下載和解壓完成"
+          python3 - <<'EOF'
+          import os
+          import json
+          import urllib.request
+          import gzip
+          import shutil
 
-      # ---------- 3. 處理廣東 EPG ----------
+          files_json_str = os.environ.get('FILES_JSON', '')
+          if not files_json_str:
+              print("錯誤: FILES_JSON secret 未設置，請添加")
+              exit(1)
+
+          try:
+              files_dict = json.loads(files_json_str)
+          except Exception as e:
+              print(f"錯誤: FILES_JSON 解析 JSON 失敗: {e}")
+              exit(1)
+
+          print("開始下載 files.json 中定義的文件...")
+          for filename, url in files_dict.items():
+              print(f"下載: {filename} <- {url}")
+              try:
+                  req = urllib.request.Request(
+                      url,
+                      headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+                  )
+                  with urllib.request.urlopen(req, timeout=30) as response, open(filename, 'wb') as out_file:
+                      shutil.copyfileobj(response, out_file)
+                  print(f"✓ 下載成功: {filename}")
+              except Exception as e:
+                  print(f"⚠️ {filename} 下載失敗，跳過: {e}")
+                  continue
+
+              if filename.endswith('.gz') and os.path.exists(filename):
+                  print(f"解壓文件: {filename}")
+                  extracted_file = filename[:-3]
+                  try:
+                      with gzip.open(filename, 'rb') as f_in, open(extracted_file, 'wb') as f_out:
+                          shutil.copyfileobj(f_in, f_out)
+                      if os.path.exists(extracted_file):
+                          print(f"✓ 解壓成功: {extracted_file}")
+                  except Exception as e:
+                      print(f"⚠️ 解壓失敗或文件已解壓: {filename}, 錯誤: {e}")
+
+          print("文件下載和解壓完成")
+          EOF
+
+      # ---------- 3. 處理廣東 EPG ----------[span_4](start_span)[span_4](end_span)
       - name: Process Guangdong EPG
         id: guangdong_epg
         run: |
@@ -107,7 +135,7 @@ jobs:
             echo "guangdong_processed=false" >> $GITHUB_OUTPUT
           fi
 
-      # ---------- 4. 檢查 PHP 腳本（用於生成其他 EPG） ----------
+      # ---------- 4. 檢查 PHP 腳本（用於生成其他 EPG） ----------[span_5](start_span)[span_5](end_span)
       - name: Check PHP scripts exist
         id: check_scripts
         run: |
@@ -130,7 +158,7 @@ jobs:
             echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
           fi
 
-      # ---------- ★ 運行福建 EPG 抓取 ----------
+      # ---------- ★ 運行福建 EPG 抓取 ----------[span_6](start_span)[span_6](end_span)
       - name: Run Fujian EPG scraper
         id: fujian_epg
         continue-on-error: true
@@ -151,7 +179,7 @@ jobs:
             echo "fujian_generated=false" >> $GITHUB_OUTPUT
           fi
 
-      # ---------- ★ 運行山東 EPG 抓取 ----------
+      # ---------- ★ 運行山東 EPG 抓取 ----------[span_7](start_span)[span_7](end_span)
       - name: Run iqilu EPG scraper
         id: epgiqilu
         continue-on-error: true
@@ -173,7 +201,7 @@ jobs:
             echo "iqilu_generated=false" >> $GITHUB_OUTPUT
           fi
 
-      # ---------- 5. 運行 PHP 腳本生成各 EPG XML ----------
+      # ---------- 5. 運行 PHP 腳本生成各 EPG XML ----------[span_8](start_span)[span_8](end_span)
       - name: Run PHP scripts to generate XML files
         if: steps.check_scripts.outputs.existing_scripts != ''
         run: |
@@ -206,8 +234,396 @@ jobs:
             echo "所有 PHP 腳本執行成功"
           fi
 
-      # ---------- 6. 檢查生成的 XML 文件 ----------
+      # ---------- 6. 檢查生成的 XML 文件 ----------[span_9](start_span)[span_9](end_span)
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epgtdm.xml" "epghenan.xml" "epgshandong.xml" "egkankantv.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgd
+          declare -a expected_xml=("epgtdm.xml" "epghenan.xml" "epgshandong.xml" "egkankantv.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgastrogo.xml" "epgyidong.xml" "epgfenghuangxiu.xml" "epgshanghai.xml" "epgkai1.xml" "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          generated_files=()
+          echo "檢查生成的 XML 文件..."
+          for xml_file in "${expected_xml[@]}"; do
+            if [ -f "$xml_file" ]; then
+              filesize=$(stat -c%s "$xml_file" 2>/dev/null || wc -c < "$xml_file" | awk '{print $1}')
+              echo "✓ 生成文件: $xml_file (大小: $filesize bytes)"
+              generated_files+=("$xml_file")
+              if [[ "$xml_file" != *.gz ]]; then
+                xmllint --noout "$xml_file" 2>/dev/null && echo "  XML 格式驗證通過" || echo "  XML 格式驗證失敗！"
+              fi
+            else
+              echo "✗ 未生成文件: $xml_file"
+            fi
+          done
+          if [ ${#generated_files[@]} -eq 0 ]; then
+            echo "generated_xml=" >> $GITHUB_OUTPUT
+          else
+            xml_list=$(IFS=,; echo "${generated_files[*]}")
+            echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
+          fi
+
+      # ---------- 7. 繁簡轉換 ----------[span_10](start_span)[span_10](end_span)
+      - name: Convert to Simplified and Traditional Chinese
+        id: convert_chinese
+        run: |
+          if [ -f "epgziyong.xml" ]; then
+            echo "開始繁簡轉換..."
+            python - <<'EOF'
+          import os, gzip
+          from opencc import OpenCC
+
+          input_file = "epgziyong.xml"
+          if not os.path.exists(input_file):
+              raise FileNotFoundError(f"{input_file} 不存在")
+
+          with open(input_file, "r", encoding="utf-8") as f:
+              text = f.read()
+
+          # 簡體版
+          cc_s2s = OpenCC('t2s')
+          simplified = cc_s2s.convert(text)
+          with open("swepg.xml", "w", encoding="utf-8") as f:
+              f.write(simplified)
+          with open("swepg.xml", "rb") as f_in, gzip.open("swepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+
+          # 繁體版
+          cc_s2twp = OpenCC('s2twp')
+          traditional = cc_s2twp.convert(text)
+          traditional = traditional.replace('臺', '台')
+          traditional = traditional.replace('採', '采')
+          traditional = traditional.replace('裏', '裡')
+          traditional = traditional.replace('着', '著')
+          traditional = traditional.replace('檯', '台')                                         
+          traditional = traditional.replace('訊息', '消息')
+
+          with open("twepg.xml", "w", encoding="utf-8") as f:
+              f.write(traditional)
+          with open("twepg.xml", "rb") as f_in, gzip.open("twepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+
+          print("✅ 已生成 swepg.xml, swepg.xml.gz, twepg.xml, twepg.xml.gz")
+          EOF
+            echo "converted_files=swepg.xml,swepg.xml.gz,twepg.xml,twepg.xml.gz" >> $GITHUB_OUTPUT
+          else
+            echo "converted_files=" >> $GITHUB_OUTPUT
+          fi
+
+      # ---------- 8. 更新時間戳（東八區） ----------[span_11](start_span)[span_11](end_span)
+      - name: Update time.txt with latest commit timestamp (UTC+8)
+        if: steps.convert_chinese.outputs.converted_files != ''
+        run: |
+          echo "Last XML update: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" > time.txt
+
+      # ---------- 9. 分析 EPG 數據並生成統計報告 ----------[span_12](start_span)[span_12](end_span)
+      - name: Analyze EPG data and update README
+        if: steps.convert_chinese.outputs.converted_files != ''
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          from datetime import datetime
+          import re
+          import os
+
+          def analyze_epg_data(xml_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  ns = {}
+                  if root.tag.startswith('{'):
+                      ns_uri = root.tag.split('}')[0][1:]
+                      ns = {'ns': ns_uri}
+
+                  channels_info = {}
+                  channel_xpath = 'ns:channel' if ns else 'channel'
+                  original_order_ids = []
+
+                  for channel in root.findall(channel_xpath, ns):
+                      channel_id = channel.get('id')
+                      if not channel_id: continue
+                      if channel_id not in channels_info:
+                          original_order_ids.append(channel_id)
+
+                      name = channel.get('display-name')
+                      if not name:
+                          name_elem = channel.find('ns:display-name' if ns else 'display-name', ns)
+                          name = name_elem.text.strip() if name_elem is not None and name_elem.text else None
+
+                      name = name.strip() if name else channel_id
+                      channels_info[channel_id] = {
+                          'name': name,
+                          'program_count': 0,
+                          'start_times': [],
+                          'end_times': []
+                      }
+
+                  programme_xpath = 'ns:programme' if ns else 'programme'
+                  for programme in root.findall(programme_xpath, ns):
+                      channel_id = programme.get('channel')
+                      if channel_id not in channels_info: continue
+                      channels_info[channel_id]['program_count'] += 1
+                      start = programme.get('start')
+                      stop = programme.get('stop')
+                      if start:
+                          s_match = re.search(r'\d{14}', start)
+                          if s_match: channels_info[channel_id]['start_times'].append(s_match.group())
+                      if stop:
+                          e_match = re.search(r'\d{14}', stop)
+                          if e_match: channels_info[channel_id]['end_times'].append(e_match.group())
+
+                  result = []
+                  for channel_id, info in channels_info.items():
+                      time_range = "無數據"
+                      duration_days = 0
+                      epg_status = "□"
+                      if info['start_times'] and info['end_times']:
+                          try:
+                              sorted_starts = sorted(info['start_times'])
+                              sorted_ends = sorted(info['end_times'])
+                              start_dt = datetime.strptime(sorted_starts[0], '%Y%m%d%H%M%S')
+                              end_dt = datetime.strptime(sorted_ends[-1], '%Y%m%d%H%M%S')
+                              delta = end_dt - start_dt
+                              duration_days = delta.days + (1 if delta.seconds > 3600 else 0)
+                              time_range = f"{start_dt.strftime('%m-%d %H:%M')} ~ {end_dt.strftime('%m-%d %H:%M')}"
+                          except Exception:
+                              time_range = "格式異常"
+                      if info['program_count'] > 0:
+                          epg_status = "■"
+                      result.append({
+                          'channel_id': channel_id,
+                          'channel_name': info['name'],
+                          'program_count': info['program_count'],
+                          'duration_days': duration_days,
+                          'time_range': time_range,
+                          'epg_status': epg_status
+                      })
+
+                  order_map = {id: index for index, id in enumerate(original_order_ids)}
+                  result.sort(key=lambda x: order_map.get(x['channel_id'], 999))
+                  return result
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出錯: {e}")
+                  return []
+
+          tw_data = analyze_epg_data('twepg.xml')
+          sw_data = analyze_epg_data('swepg.xml')
+
+          def generate_files(data, prefix):
+              table_data = {
+                  'title': f'{prefix}列表',
+                  'headers': ['頻道ID', '頻道名稱', '節目數量', '天數', '時間範圍', '狀態'],
+                  'data': [[c['channel_id'], c['channel_name'], c['program_count'], c['duration_days'], c['time_range'], c['epg_status']] for c in data]
+              }
+              with open(f'{prefix}_channels_table.json', 'w', encoding='utf-8') as f:
+                  json.dump(table_data, f, ensure_ascii=False, indent=2)
+
+          generate_files(tw_data, 'traditional')
+          generate_files(sw_data, 'simplified')
+
+          def generate_readme():
+              readme1_content = ""
+              if os.path.exists('README1.md'):
+                  with open('README1.md', 'r', encoding='utf-8') as f:
+                      readme1_content = f.read()
+
+              with open('time.txt', 'r', encoding='utf-8') as f:
+                  current_time = f.read().strip()
+
+              analysis_content = f"# 📺 EPG 電子節目表狀態報告\n\n"
+              analysis_content += f"> 最後更新時間: **{current_time}**\n\n"
+              analysis_content += "## 📊 統計摘要\n"
+              analysis_content += f"- **繁體頻道數**: {len(tw_data)} (節目總數: {sum(x['program_count'] for x in tw_data)})\n"
+              analysis_content += f"- **簡體頻道數**: {len(sw_data)} (節目總數: {sum(x['program_count'] for x in sw_data)})\n\n"
+
+              for title, data in [("🇹🇼 繁體頻道列表", tw_data), ("🇨🇳 簡體頻道列表", sw_data)]:
+                  analysis_content += f"## {title}\n\n"
+                  analysis_content += "| 頻道名稱 | 節目數量 | 覆蓋天數 | 時間範圍 | 狀態 |\n"
+                  analysis_content += "| :--- | :---: | :---: | :--- | :---: |\n"
+                  for item in data:
+                      status_icon = "✅" if item['epg_status'] == "■" else "⚠️"
+                      count_display = item['program_count'] if item['program_count'] > 0 else "**0**"
+                      analysis_content += f"| {item['channel_name']} | {count_display} | {item['duration_days']} 天 | {item['time_range']} | {status_icon} |\n"
+                  analysis_content += "\n"
+
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(readme1_content + "\n\n" + analysis_content)
+
+          generate_readme()
+          EOF
+
+      # ---------- 10. 提取電視台名稱（保持順序） ----------[span_13](start_span)[span_13](end_span)
+      - name: Extract channel names (preserve order)
+        if: steps.convert_chinese.outputs.converted_files != ''
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          def extract(xml, out):
+              try:
+                  tree = ET.parse(xml)
+                  root = tree.getroot()
+                  ns = {'ns': root.tag.split('}')[0][1:]} if root.tag.startswith('{') else {}
+                  seen = set()
+                  lines = []
+                  path = 'ns:channel' if ns else 'channel'
+                  for c in root.findall(path, ns):
+                      n = c.get('display-name')
+                      if not n:
+                          ne = c.find('ns:display-name' if ns else 'display-name', ns)
+                          n = ne.text.strip() if ne and ne.text else c.get('id')
+                      if n and n not in seen:
+                          seen.add(n)
+                          lines.append(n)
+                  with open(out, 'w', encoding='utf-8') as f:
+                      f.write('\n'.join(lines))
+              except Exception:
+                  pass
+          extract('twepg.xml', '繁體電視台目錄.txt')
+          extract('swepg.xml', '简体电视台目录.txt')
+          EOF
+
+      # ---------- 10.1 新增：跨倉庫同步文件到 https://github.com/zzq12345/myepgtest ----------[span_14](start_span)[span_14](end_span)
+      - name: Sync files to myepgtest repository
+        if: steps.convert_chinese.outputs.converted_files != ''
+        run: |
+          if [ -z "${{ secrets.GH_PAT }}" ]; then
+            echo "錯誤: GH_PAT secret 未設置，無法同步到 myepgtest 倉庫"
+            exit 1
+          fi
+
+          echo "開始配置 Git 並克隆 myepgtest 倉庫..."
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 使用帶有 PAT 權限的 URL 克隆目標倉庫
+          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/zzq12345/myepgtest.git temp_myepgtest
+
+          cd temp_myepgtest
+
+          # 複製需要同步的文件到目標倉庫根目錄
+          cp ../twepg.xml ./
+          cp ../twepg.xml.gz ./
+          cp ../swepg.xml ./
+          cp ../epgziyong.xml ./
+          cp ../swepg.xml.gz ./
+          cp ../简体电视台目录.txt ./
+          cp ../繁體電視台目錄.txt ./
+          cp ../youtubeworld.m3u ./
+          cp ../youtubelocal.m3u ./
+          cp ../yu.m3u ./
+          # 檢查是否有文件發生變化
+          if git diff --quiet && git diff --staged --quiet && [ -z "$(git status --porcelain)" ]; then
+            echo "myepgtest 倉庫中沒有文件發生變化，跳過推送"
+            cd ..
+            rm -rf temp_myepgtest
+            exit 0
+          fi
+
+          git add twepg.xml  epgziyong.xml twepg.xml.gz swepg.xml swepg.xml.gz 简体电视台目录.txt 繁體電視台目錄.txt youtubelocal.m3u youtubeworld.m3u yu.m3u
+          git commit -m "Auto sync EPG files from epgtest $(date '+%Y-%m-%d %H:%M:%S')"
+
+          # 推送到目標倉庫
+          git push origin main || git push origin master
+
+          cd ..
+          rm -rf temp_myepgtest
+          echo "✅ 成功同步到 https://github.com/zzq12345/myepgtest/"
+
+      # ---------- 階段四：使用 curl 進行 SFTP 上傳到 OpenWrt (/www/) ----------[span_15](start_span)[span_15](end_span)
+      - name: Upload EPG files via Curl SFTP
+        run: |
+          for file in swepg.xml.gz twepg.xml.gz; do
+            if [ -f "$file" ]; then
+              echo "正在透過 curl SFTP 上傳 $file 到遠端伺服器..."
+              curl --insecure --user "${{ secrets.SERVER_USER }}:${{ secrets.SERVER_PASS }}" \
+                   -T "$file" \
+                   "sftp://${{ secrets.SERVER_HOST }}:${{ secrets.SERVER_PORT }}/www/$file" \
+                   || echo "$file 上傳失敗，跳過"
+            else
+              echo "未找到 $file 檔案，跳過上傳"
+            fi
+          done
+
+      # ---------- 11. 提交所有更改到當前 epgtest 倉庫 ----------[span_16](start_span)[span_16](end_span)
+      - name: Commit and push all changes to current repo
+        run: |
+          FILES_JSON='${{ secrets.FILES_JSON }}'
+          if [ -n "$FILES_JSON" ]; then
+            python3 -c "import json, os; [print(k) for k in json.loads(os.environ['FILES_JSON']).keys()]" | while read -r filename; do
+              [ -f "$filename" ] && git add "$filename"
+              if [[ "$filename" == *.gz ]]; then
+                extracted_file="${filename%.gz}"
+                [ -f "$extracted_file" ] && git add "$extracted_file"
+              fi
+            done
+          fi
+
+          if [ -n "${{ steps.check_xml.outputs.generated_xml }}" ]; then
+            IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
+            for xml_file in "${xml_files[@]}"; do
+              [ -f "$xml_file" ] && git add "$xml_file"
+            done
+          fi
+
+          [ -f "epgguangdong.xml" ] && git add "epgguangdong.xml"
+          [ -f "epgguangdong.xml.gz" ] && git add "epgguangdong.xml.gz"
+
+          if [ -n "${{ steps.convert_chinese.outputs.converted_files }}" ]; then
+            IFS=',' read -ra converted_files <<< "${{ steps.convert_chinese.outputs.converted_files }}"
+            for converted_file in "${converted_files[@]}"; do
+              [ -f "$converted_file" ] && git add "$converted_file"
+            done
+          fi
+
+          git add "繁體電視台目錄.txt" "简体电视台目录.txt" 2>/dev/null || true
+          [ -f "time.txt" ] && git add time.txt
+          git add "traditional_channels_table.json" "simplified_channels_table.json" "README.md" 2>/dev/null || true
+          git add logs/ 2>/dev/null || true
+
+          for m3u_file in "youtubeworld.m3u" "youtubelocal.m3u"; do
+            [ -f "$m3u_file" ] && git add "$m3u_file"
+          done
+
+          [ -f "epgfujian.xml" ] && git add epgfujian.xml
+          [ -f "fujian_time.txt" ] && git add fujian_time.txt
+
+          if git diff --staged --quiet; then
+            echo "沒有文件發生變化，跳過提交"
+            exit 0
+          fi
+
+          commit_message="Auto update EPG $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "$commit_message"
+
+          max_retries=5
+          for ((i=1; i<=max_retries; i++)); do
+            echo "嘗試推送 (嘗試 $i/$max_retries)..."
+            if git pull --rebase --autostash origin ${{ github.ref_name }} && \
+               git push origin HEAD:${{ github.ref }}; then
+              echo "已成功推送更新"
+              exit 0
+            else
+              git rebase --abort 2>/dev/null || true
+              echo "推送失敗，等待重試..."
+              sleep 5
+            fi
+          done
+          echo "推送失敗，超過重試次數"
+          exit 1
+
+      # ---------- 12. 上傳日誌 ----------[span_17](start_span)[span_17](end_span)
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: epg-comprehensive-logs-${{ github.run_number }}
+          path: |
+            logs/
+            *.log
+          retention-days: 7
+
+      - name: Workflow Summary
+        if: always()
+        run: |
+          echo "=== EPG 綜合處理任務總結 ==="
+          echo "狀態: ${{ job.status }}"
+          echo "同步目標倉庫: https://github.com/zzq12345/myepgtest"
+          echo "任務完成時間: $(date)"
