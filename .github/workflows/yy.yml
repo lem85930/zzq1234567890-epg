@@ -46,9 +46,9 @@ jobs:
             composer install --no-dev --no-progress --no-interaction --prefer-dist
           fi
           # Python 依赖（繁简转换 + 福建 EPG 所需）
-          pip install opencc curl_cffi beautifulsoup4
+          pip install opencc curl_cffi beautifulsoup4 opencc requests
           echo "所有依赖安装完成"
-
+          
       # ---------- 2. 下载 files.json（从 Secret 读取）中定义的文件 ----------
       - name: Download and extract files from files.json (via Secret)
         id: download_files
