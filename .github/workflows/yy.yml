@@ -152,6 +152,28 @@ jobs:
 
       
 
+      # ---------- ★ 运行福建 EPG 抓取 ----------
+      - name: Run iqilu EPG scraper
+        id: epgiqilu
+        continue-on-error: true
+        run: |
+          if [ -f "epgiqilu.py" ]; then
+            echo "运行福建 EPG 抓取脚本..."
+            python epgiqilu.py
+            if [ -f "epgshandong.xml" ]; then
+              echo "✅ 成功生成 epgfujian.xml"
+              echo "fujian_generated=true" >> $GITHUB_OUTPUT
+              echo "Fujian EPG updated at $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" > iqilu_time.txt
+            else
+              echo "⚠️ 未生成 epgshandong.xml"
+              echo "iqilu_generated=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "⚠️ epgiqilu.py 不存在，跳过"
+            echo "iqilu_generated=false" >> $GITHUB_OUTPUT
+          fi
+
+          
       # ---------- 5. 运行 PHP 脚本生成各 EPG XML ----------
       - name: Run PHP scripts to generate XML files
         if: steps.check_scripts.outputs.existing_scripts != ''
