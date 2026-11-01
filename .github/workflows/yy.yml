@@ -150,19 +150,7 @@ jobs:
             echo "fujian_generated=false" >> $GITHUB_OUTPUT
           fi
 
-      # ---------- ★ 网络预检 ----------
-      - name: Pre-check network to jstv.com
-        run: |
-          echo "Testing connectivity to live-lizhi.jstv.com..."
-          for i in {1..5}; do
-            if curl -s -o /dev/null -w "%{http_code}" https://live-lizhi.jstv.com | grep -q 200; then
-              echo "✅ Network OK"
-              exit 0
-            fi
-            echo "Attempt $i failed, retrying in $((2**i)) seconds..."
-            sleep $((2**i))
-          done
-          echo "⚠️ Network check failed, but continuing"
+      
 
       # ---------- 5. 运行 PHP 脚本生成各 EPG XML ----------
       - name: Run PHP scripts to generate XML files
