@@ -59,9 +59,10 @@ jobs:
             exit 1
           fi
           echo "開始下載 files.json 中定義的文件..."
-          echo "$FILES_JSON" | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
+          while read -r filename url; do
+            [ -z "$filename" ] && continue
             echo "下載: $filename <-$url"
-            wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 \vert{}\vert{} echo "$filename 下載失敗，跳過"
+            wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 < /dev/null \vert{}\vert{} echo "$filename 下載失敗，跳過"
             if [[ "$filename" == *.gz ]] && [ -f "$filename" ]; then
               echo "解壓文件: $filename"
               gunzip -f "$filename" \vert{}\vert{} echo "解壓失敗或文件已解壓: $filename"
@@ -70,7 +71,7 @@ jobs:
                 echo "✓ 解壓成功: $extracted_file"
               fi
             fi
-          done
+          done < <(echo "$FILES_JSON" | jq -r 'to_entries[] | "\(.key) \(.value)"')
           echo "文件下載和解壓完成"
 
       # ---------- 3. 處理廣東 EPG ----------
@@ -111,7 +112,7 @@ jobs:
         id: check_scripts
         run: |
           echo "檢查 PHP 腳本文件..."
-          declare -a scripts=("epglotus.php" "epgtdm.php" "epghenan.php" "epgbaidu.php" "epgkankanlive.php" "epgfenghuangxiu.php" "epgtianying.php" "epgcatchplay.php"  "epghkst.php" "epgjiangsu.php" "epganywhere.php" "epgmytvsuper.php" "epg4gtv2.php" "epgmbcae.php" "epgeltatv.php" "epgsingtel.php" "epgdifang.php" "epgofiii.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgdubaione.php" "epgasia.php" "epgastrogo.php"  "epgkai1.php" "epggen2.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
+          declare -a scripts=("epglotus.php" "epgtdm.php" "epgbaidu.php" "epgkankanlive.php" "epgfenghuangxiu.php" "epgtianying.php" "epgcatchplay.php"  "epghkst.php" "epgjiangsu.php" "epganywhere.php" "epgmytvsuper.php" "epg4gtv2.php" "epgmbcae.php" "epgeltatv.php" "epgsingtel.php" "epgdifang.php" "epgofiii.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgdubaione.php" "epgasia.php" "epgastrogo.php"  "epgkai1.php" "epggen2.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
           existing_scripts=()
           for script in "${scripts[@]}"; do
             if [ -f "$script" ]; then
@@ -209,4 +210,4 @@ jobs:
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epgtdm.xml" "epghenan.xml" "epgshandong.xml" "egkankantv.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgastrogo.xml" "epgyidong.xml" "epgfenghuangxiu.xml" "epgshanghai.xml" "epgkai1.
+          declare -a expected_xml=("epgtdm.xml" "epghenan.xml" "epgshandong.xml" "egkankantv.xml" "epglotus.xml" "epgkankanlive.xml" "epgbaidu.xml" "epghkst.xml" "epgtianying.xml" "epgfenghuangxiu.xml" "epgcatchplay.xml" "epgjiangsu.xml" "epganywhere.xml" "epg4gtv2.xml" "epgmytvsuper.xml" "epgrthk.xml" "epgeltatv.xml" "epgfujian.xml" "epgmbcae.xml" "epgcatchplay.xml" "epgofiii.xml" "epgtianying.xml" "epgcctv.xml" "epgdifang.xml" "epgzhongtianam.xml" "epgsingtel.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmacocable.xml" "epgd
