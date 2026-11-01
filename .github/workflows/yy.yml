@@ -480,52 +480,7 @@ jobs:
           extract('swepg.xml', '简体电视台目录.txt')
           EOF
 
-      # ---------- 10.1 新增：跨倉庫同步文件到 https://github.com/zzq12345/myepgtest ----------[span_14](start_span)[span_14](end_span)
-      - name: Sync files to myepgtest repository
-        if: steps.convert_chinese.outputs.converted_files != ''
-        run: |
-          if [ -z "${{ secrets.GH_PAT }}" ]; then
-            echo "錯誤: GH_PAT secret 未設置，無法同步到 myepgtest 倉庫"
-            exit 1
-          fi
-
-          echo "開始配置 Git 並克隆 myepgtest 倉庫..."
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 使用帶有 PAT 權限的 URL 克隆目標倉庫
-          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/zzq12345/myepgtest.git temp_myepgtest
-
-          cd temp_myepgtest
-
-          # 複製需要同步的文件到目標倉庫根目錄
-          cp ../twepg.xml ./
-          cp ../twepg.xml.gz ./
-          cp ../swepg.xml ./
-          cp ../epgziyong.xml ./
-          cp ../swepg.xml.gz ./
-          cp ../简体电视台目录.txt ./
-          cp ../繁體電視台目錄.txt ./
-          cp ../youtubeworld.m3u ./
-          cp ../youtubelocal.m3u ./
-          cp ../yu.m3u ./
-          # 檢查是否有文件發生變化
-          if git diff --quiet && git diff --staged --quiet && [ -z "$(git status --porcelain)" ]; then
-            echo "myepgtest 倉庫中沒有文件發生變化，跳過推送"
-            cd ..
-            rm -rf temp_myepgtest
-            exit 0
-          fi
-
-          git add twepg.xml  epgziyong.xml twepg.xml.gz swepg.xml swepg.xml.gz 简体电视台目录.txt 繁體電視台目錄.txt youtubelocal.m3u youtubeworld.m3u yu.m3u
-          git commit -m "Auto sync EPG files from epgtest $(date '+%Y-%m-%d %H:%M:%S')"
-
-          # 推送到目標倉庫
-          git push origin main || git push origin master
-
-          cd ..
-          rm -rf temp_myepgtest
-          echo "✅ 成功同步到 https://github.com/zzq12345/myepgtest/"
+      
 
       # ---------- 階段四：使用 curl 進行 SFTP 上傳到 OpenWrt (/www/) ----------[span_15](start_span)[span_15](end_span)
       - name: Upload EPG files via Curl SFTP
