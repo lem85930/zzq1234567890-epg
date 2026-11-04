@@ -51,7 +51,6 @@ Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
 Astro Tennis
-Astro Tennis 2
 Astro Warna HD
 Astro30
 BBC EARTH
@@ -806,6 +805,7 @@ wedotv Movies HD
 九州縹緲錄
 九條好漢在一班
 乾隆王朝
+互動賽馬台
 亞洲劇台
 亞洲新聞台
 亞洲新聞台香港

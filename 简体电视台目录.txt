@@ -51,7 +51,6 @@ Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
 Astro Tennis
-Astro Tennis 2
 Astro Warna HD
 Astro30
 BBC EARTH
@@ -843,6 +842,7 @@ wedotv Movies HD
 乾隆王朝
 云南卫视
 云南澜湄国际卫视 (免费)
+互动赛马台
 亚洲剧台
 亚洲卫视
 亚洲新闻台
