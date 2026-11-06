@@ -281,6 +281,8 @@ Hami足球1台
 Hami體育1台
 Hami體育1台(免費)
 Hami體育2台
+Hami體育3台
+Hami體育3台(免費)
 History
 History 歷史頻道
 History 歷史頻道有線
@@ -734,6 +736,7 @@ that's 90s00s (免費)
 that's Rock (免費)
 trace sport star運動明星
 tvN
+tvN Asia
 tvN HD
 tvN HD新加坡版
 tvN Movies
@@ -1238,7 +1241,6 @@ wedotv Movies HD
 河南武術頻道
 河南民生頻道
 河南法治頻道
-河南睛彩中原
 河南衛視
 河南都市頻道
 河南鄉村頻道
