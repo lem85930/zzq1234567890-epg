@@ -47,8 +47,6 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
-Astro Premier League 4
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -774,6 +772,7 @@ wedotv Movies HD
 上海都市频道
 上海魔都眼
 世界卫星电视台
+世界榄球国家杯 - 中国香港 对 美国 (中文评述) (晚上10:40)
 世界第一等
 东南卫视
 东方卫视
@@ -848,7 +847,7 @@ wedotv Movies HD
 乾隆王朝
 云南卫视
 云南澜湄国际卫视 (免费)
-互动赛马台
+互动赛马台 (免费试睇)
 亚洲剧台
 亚洲卫视
 亚洲新闻台
