@@ -235,6 +235,7 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
+GOLF PLUS
 GinxTV电竞频道
 Global Trekker
 Global Trekker HD
@@ -245,6 +246,10 @@ Golden 强片台
 Golden影迷台
 Good TV
 HAPPY频道
+HBLTV1台
+HBLTV1台(免费)
+HBLTV2台
+HBLTV2台(免费)
 HBO
 HBO Family
 HBO Family香港
@@ -1000,6 +1005,7 @@ wedotv Movies HD
 台视财经台
 史上最强弟子兼一(中文版)
 吉林卫视
+后宫凌云传
 向风而行
 周星驰台
 咪咕体育
@@ -1197,7 +1203,6 @@ wedotv Movies HD
 暗杀教室
 曼迪日本台HD
 最强的身体
-月曜1起玩
 有你的时光里
 木曜4超玩 一日系列
 末代厨娘
@@ -1344,6 +1349,7 @@ wedotv Movies HD
 真情SUPER煲 (免费)
 真情部落格
 真珠美人鱼(中文版)
+真相对话录
 短剧马拉松
 福建少儿频道
 福建文旅体育
@@ -1391,6 +1397,7 @@ wedotv Movies HD
 翻墙的记忆
 胆大党
 良陈美锦
+莲花卫视
 葬送的芙莉莲
 蜡笔小新(中文版)
 西藏卫视
@@ -1421,7 +1428,6 @@ wedotv Movies HD
 重庆卫视
 重温经典频道
 金光布袋戏
-钢之炼金术师
 锦绣安宁
 锦衣之下
 锦衣夜行
@@ -1496,7 +1502,6 @@ wedotv Movies HD
 鬼话连篇
 魅力足球
 麦卡贝综艺
-麦卡贝网路电视
 麦哲伦
 麦哲伦频道
 麦哲伦频道 HD

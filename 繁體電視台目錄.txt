@@ -235,6 +235,7 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
+GOLF PLUS
 GinxTV電競頻道
 Global Trekker
 Global Trekker HD
@@ -245,6 +246,10 @@ Golden 強片台
 Golden影迷台
 Good TV
 HAPPY頻道
+HBLTV1台
+HBLTV1台(免費)
+HBLTV2台
+HBLTV2台(免費)
 HBO
 HBO Family
 HBO Family香港
@@ -1080,6 +1085,7 @@ wedotv Movies HD
 影迷數位紀實台HD
 影迷數位電影台
 影迷數位電影台HD
+後宮凌雲傳
 徐海莉 Hailey
 德國之聲
 德國之聲電視台
@@ -1139,7 +1145,6 @@ wedotv Movies HD
 暗殺教室
 曼迪日本台HD
 最強的身體
-月曜1起玩
 有你的時光裡
 木曜4超玩 一日系列
 末代廚娘
@@ -1308,6 +1313,7 @@ wedotv Movies HD
 真情SUPER煲 (免費)
 真情部落格
 真珠美人魚(中文版)
+真相對話錄
 短劇馬拉松
 福建少兒頻道
 福建文旅體育
@@ -1373,6 +1379,7 @@ wedotv Movies HD
 華語劇台
 華語金選台
 葬送的芙莉蓮
+蓮花衛視
 蠟筆小新(中文版)
 西藏衛視
 視納華仁紀實台HD
@@ -1410,7 +1417,6 @@ wedotv Movies HD
 重慶衛視
 重溫經典頻道
 金光布袋戲
-鋼之鍊金術師
 錦繡安寧
 錦衣之下
 錦衣夜行
@@ -1496,7 +1502,6 @@ wedotv Movies HD
 鳳凰資訊
 鳳凰香港
 麥卡貝綜藝
-麥卡貝網路電視
 麥哲倫
 麥哲倫頻道
 麥哲倫頻道 HD
