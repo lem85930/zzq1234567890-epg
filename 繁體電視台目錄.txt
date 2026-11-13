@@ -236,6 +236,10 @@ GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
 GOLF PLUS
+GRTN健康頻道
+GRTN教育頻道
+GRTN文化頻道
+GRTN生活頻道
 GinxTV電競頻道
 Global Trekker
 Global Trekker HD
@@ -893,6 +897,7 @@ wedotv Movies HD
 半島英語新聞台Al Jazeera English HD
 半島電視台英語頻道
 半島電視台英語頻道香港
+南方購物
 博斯無限二台
 博斯無限二台有線
 博斯無限台
@@ -1062,6 +1067,7 @@ wedotv Movies HD
 廈門2
 廈門衛視
 廉政英雄
+廣東4K超高畫質
 廣東嘉佳卡通
 廣東大灣區衛視
 廣東大灣區衛視海外版
@@ -1072,7 +1078,9 @@ wedotv Movies HD
 廣東新聞
 廣東民生
 廣東珠江
+廣東現代教育
 廣東移動
+廣東經濟科教
 廣東綜藝
 廣東衛視
 廣東體育
