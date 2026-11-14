@@ -236,9 +236,6 @@ GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
 GOLF PLUS
-GRTN健康頻道
-GRTN教育頻道
-GRTN文化頻道
 GRTN生活頻道
 GinxTV電競頻道
 Global Trekker
@@ -1078,10 +1075,7 @@ wedotv Movies HD
 廣東新聞
 廣東民生
 廣東珠江
-廣東現代教育
 廣東移動
-廣東經濟科教
-廣東綜藝
 廣東衛視
 廣東體育
 廣西國際頻道

@@ -236,9 +236,6 @@ GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
 GOLF PLUS
-GRTN健康频道
-GRTN教育频道
-GRTN文化频道
 GRTN生活频道
 GinxTV电竞频道
 Global Trekker
@@ -1145,11 +1142,8 @@ wedotv Movies HD
 广东影视
 广东新闻
 广东民生
-广东现代教育
 广东珠江
 广东移动
-广东经济科教
-广东综艺
 广西乐思购频道
 广西卫视
 广西国际频道
