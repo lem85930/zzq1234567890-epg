@@ -235,7 +235,6 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
-GOLF PLUS
 GRTN生活频道
 GinxTV电竞频道
 Global Trekker
@@ -283,6 +282,7 @@ HamiWBC1台
 Hami体育1台
 Hami体育1台(免费)
 Hami体育2台
+Hami体育2台(免费)
 Hami体育3台
 Hami体育3台(免费)
 Hami大联盟1台
@@ -360,7 +360,6 @@ MBC music
 MBC net
 MBC on
 MCE 我的欧洲电影台
-MMA 2026 颁奖典礼
 MOMO TV
 MOMO亲子台
 MOMO综合台
@@ -1269,7 +1268,22 @@ wedotv Movies HD
 河北文旅体育
 河北经济
 河北都市
+河南乡村
+河南公共
 河南卫视
+河南国际
+河南文物宝库
+河南新闻
+河南晴彩中原
+河南梨园戏曲
+河南欢腾购物
+河南武术
+河南民生
+河南法制
+河南电视剧
+河南移动戏曲
+河南象世界
+河南都市
 法眼黑与白
 泰可爱旋风
 测试频道
@@ -1411,7 +1425,6 @@ wedotv Movies HD
 车迷TV
 车迷TV HD
 辽宁卫视
-达摩本草 x 立适康
 达文西频道
 达文西频道HD
 运通财经综合台
