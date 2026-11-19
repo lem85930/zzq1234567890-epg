@@ -122,7 +122,6 @@ CNBC HD
 CNBC香港
 CNEX
 CNEX纪实频道
-CNEX纪实频道(免费)
 CNN
 CNN HD
 CNN International
@@ -235,6 +234,7 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
+GOLF PLUS
 GRTN生活频道
 GinxTV电竞频道
 Global Trekker
@@ -1216,6 +1216,7 @@ wedotv Movies HD
 朱元璋
 朱雀堂
 机智校园生活-必胜高三生
+李宁二零二六香港公开羽毛球锦标赛 汇丰世界羽联世界巡回赛超级500
 松视1台
 松视2台
 松视3台
@@ -1346,7 +1347,6 @@ wedotv Movies HD
 真珠美人鱼(中文版)
 真相对话录
 短剧马拉松
-福建少儿频道
 福建文旅体育
 福建新闻
 福建海峡卫视国际频道 (免费)
@@ -1409,6 +1409,7 @@ wedotv Movies HD
 车迷TV
 车迷TV HD
 辽宁卫视
+达摩本草 x 立适康
 达文西频道
 达文西频道HD
 运通财经综合台
@@ -1422,6 +1423,8 @@ wedotv Movies HD
 重庆卫视
 重温经典频道
 金光布袋戏
+金马奖直播
+金马奖直播手语服务
 锦绣安宁
 锦衣之下
 锦衣夜行
@@ -1442,7 +1445,6 @@ wedotv Movies HD
 霹雳电视台
 青海卫视
 靖天中文台
-靖天中文台(免费)
 靖天卡通台
 靖天卡通台 HD
 靖天戏剧HD
