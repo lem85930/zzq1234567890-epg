@@ -47,6 +47,9 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
+Astro Premier League 4
+Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -349,6 +352,7 @@ Lifetime HD新加坡版
 Lifetime 娛樂頻道
 Lifetime香港
 LiveABC互動英語頻道
+LiveABC互動英語頻道(免費)
 Love Nature
 Love Nature 4K
 Love Nature HD
@@ -1311,6 +1315,7 @@ wedotv Movies HD
 真珠美人魚(中文版)
 真相對話錄
 短劇馬拉松
+福建少兒頻道
 福建文旅體育
 福建新聞
 福建海峽衛視國際頻道 (免費)
@@ -1399,6 +1404,7 @@ wedotv Movies HD
 運通財經綜合台
 達摩本草 x 立適康
 達文西頻道
+達文西頻道(免費)
 達文西頻道HD
 遺憾拼圖
 遼寧衛視
@@ -1413,7 +1419,7 @@ wedotv Movies HD
 重溫經典頻道
 金光布袋戲
 金馬獎直播
-金馬獎直播手語服務
+金馬獎直播手語翻譯及同步聽打頻道
 錦繡安寧
 錦衣之下
 錦衣夜行
