@@ -47,9 +47,6 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
-Astro Premier League 4
-Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -1337,6 +1334,7 @@ wedotv Movies HD
 玩家频道
 环宇财经
 班淑传奇
+瑞典超级足球联赛 - 天狼星 对 佐加顿斯 (中文评述) (晚上8:55)
 甘肃卫视
 甘霖体育台
 生命的赢家
@@ -1429,8 +1427,6 @@ wedotv Movies HD
 重庆卫视
 重温经典频道
 金光布袋戏
-金马奖直播
-金马奖直播手语翻译及同步听打频道
 锦绣安宁
 锦衣之下
 锦衣夜行

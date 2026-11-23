@@ -47,9 +47,6 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
-Astro Premier League 3
-Astro Premier League 4
-Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -1301,6 +1298,7 @@ wedotv Movies HD
 獵人(中文版)
 玩家頻道
 班淑傳奇
+瑞典超級足球聯賽 - 天狼星 對 佐加頓斯 (中文評述) (晚上8:55)
 環宇財經
 甘肅衛視
 甘霖體育台
@@ -1418,8 +1416,6 @@ wedotv Movies HD
 重慶衛視
 重溫經典頻道
 金光布袋戲
-金馬獎直播
-金馬獎直播手語翻譯及同步聽打頻道
 錦繡安寧
 錦衣之下
 錦衣夜行
