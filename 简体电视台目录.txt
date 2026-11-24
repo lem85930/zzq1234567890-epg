@@ -500,12 +500,6 @@ SBS funE
 SBS life
 SBS plus
 SBS sport
-SEA Games CH01
-SEA Games CH02
-SEA Games CH03
-SEA Games CH04
-SEA Games CH05
-SEA Games CH06
 SHOWCASE
 SONY MAX
 SPOTV
@@ -622,12 +616,6 @@ Warner TV HD
 WarnerTV
 Wild Stuff (免费)
 Winner金奖台
-YOG CH01
-YOG CH02
-YOG CH03
-YOG CH04
-YOG CH05
-YOG CH06
 Yes娱乐
 ZEE TAMIL
 Zee Cinema
@@ -1121,7 +1109,6 @@ wedotv Movies HD
 尼克儿童频道
 尼克儿童频道HD
 居家乐活频道香港
-山东体育休闲频道
 山东农科频道
 山东卫视
 山东少儿频道
@@ -1217,7 +1204,6 @@ wedotv Movies HD
 朱元璋
 朱雀堂
 机智校园生活-必胜高三生
-李宁二零二六香港公开羽毛球锦标赛 汇丰世界羽联世界巡回赛超级500
 松视1台
 松视2台
 松视3台
@@ -1269,7 +1255,22 @@ wedotv Movies HD
 河北文旅体育
 河北经济
 河北都市
+河南乡村
+河南公共
 河南卫视
+河南国际
+河南文物宝库
+河南新闻
+河南晴彩中原
+河南梨园戏曲
+河南欢腾购物
+河南武术
+河南民生
+河南法制
+河南电视剧
+河南移动戏曲
+河南象世界
+河南都市
 法眼黑与白
 泰可爱旋风
 测试频道
@@ -1334,7 +1335,6 @@ wedotv Movies HD
 玩家频道
 环宇财经
 班淑传奇
-瑞典超级足球联赛 - 天狼星 对 佐加顿斯 (中文评述) (晚上8:55)
 甘肃卫视
 甘霖体育台
 生命的赢家

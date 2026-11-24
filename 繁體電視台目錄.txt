@@ -500,12 +500,6 @@ SBS funE
 SBS life
 SBS plus
 SBS sport
-SEA Games CH01
-SEA Games CH02
-SEA Games CH03
-SEA Games CH04
-SEA Games CH05
-SEA Games CH06
 SHOWCASE
 SONY MAX
 SPOTV
@@ -622,12 +616,6 @@ Warner TV HD
 WarnerTV
 Wild Stuff (免費)
 Winner金獎台
-YOG CH01
-YOG CH02
-YOG CH03
-YOG CH04
-YOG CH05
-YOG CH06
 Yes娛樂
 ZEE TAMIL
 Zee Cinema
@@ -1058,7 +1046,6 @@ wedotv Movies HD
 山東綜藝頻道
 山東衛視
 山東農科頻道
-山東體育休閒頻道
 山西衛視
 廈門1
 廈門2
@@ -1158,7 +1145,6 @@ wedotv Movies HD
 末代廚娘
 朱元璋
 朱雀堂
-李寧二零二六香港公開羽毛球錦標賽 滙豐世界羽聯世界巡迴賽超級500
 東南衛視
 東方衛視
 東方衛視國際版版
@@ -1246,7 +1232,22 @@ wedotv Movies HD
 河北經濟
 河北衛視
 河北都市
+河南公共
+河南國際
+河南文物寶庫
+河南新聞
+河南晴彩中原
+河南梨園戲曲
+河南歡騰購物
+河南武術
+河南民生
+河南法制
+河南移動戲曲
 河南衛視
+河南象世界
+河南都市
+河南鄉村
+河南電視劇
 法眼黑與白
 泰可愛旋風
 浙江國際
@@ -1298,7 +1299,6 @@ wedotv Movies HD
 獵人(中文版)
 玩家頻道
 班淑傳奇
-瑞典超級足球聯賽 - 天狼星 對 佐加頓斯 (中文評述) (晚上8:55)
 環宇財經
 甘肅衛視
 甘霖體育台
