@@ -234,7 +234,6 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
-GOLF PLUS
 GRTN生活頻道
 GinxTV電競頻道
 Global Trekker
@@ -884,6 +883,7 @@ wedotv Movies HD
 半島電視台英語頻道
 半島電視台英語頻道香港
 南方購物
+博恩夜夜秀
 博斯無限二台
 博斯無限二台有線
 博斯無限台
@@ -1046,6 +1046,7 @@ wedotv Movies HD
 山東綜藝頻道
 山東衛視
 山東農科頻道
+山東體育休閒頻道
 山西衛視
 廈門1
 廈門2
@@ -1296,6 +1297,7 @@ wedotv Movies HD
 無職轉生～到了異世界就拿出真本事～
 燦如繁星
 爆谷台
+狗屎寫手
 獵人(中文版)
 玩家頻道
 班淑傳奇

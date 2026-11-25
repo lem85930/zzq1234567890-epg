@@ -234,7 +234,6 @@ GLOBLTREKKER探索世界
 GMA Life T
 GMA Pinoy TV
 GOLF CHANNEL
-GOLF PLUS
 GRTN生活频道
 GinxTV电竞频道
 Global Trekker
@@ -946,6 +945,7 @@ wedotv Movies HD
 华语剧台
 华语金选台
 南方购物
+博恩夜夜秀
 博斯无限二台
 博斯无限二台有线
 博斯无限台
@@ -1109,6 +1109,7 @@ wedotv Movies HD
 尼克儿童频道
 尼克儿童频道HD
 居家乐活频道香港
+山东体育休闲频道
 山东农科频道
 山东卫视
 山东少儿频道
@@ -1329,6 +1330,7 @@ wedotv Movies HD
 爱尔达综合台
 爱尔达综合台HD
 爱．回家SUPER煲 (免费)
+狗屎写手
 猎人(中文版)
 猪哥亮歌厅秀
 猪哥壹级棒
