@@ -47,6 +47,9 @@ Astro Football
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
+Astro Premier League 4
+Astro Premier League 5
 Astro Sensasi HD
 Astro Showtime
 Astro Sports Plus
@@ -209,7 +212,6 @@ EYE TV旅游台HD
 Euronews
 Eurosport
 Euro欧风电影台
-FIBA世界杯男子篮球欧洲区资格赛 - 立陶宛 对 塞尔维亚 (英文评述) (晚上12:25)
 FIFA World Cup CH01
 FIFA+
 FRANCE 24
@@ -242,7 +244,6 @@ Global Trekker HD
 GlobalTrekker
 GlobalTrekker(免费)
 Globetrotter (免费)
-Golden 强片台《11/27即将下架》
 Golden影迷台
 Good TV
 HAPPY频道
@@ -1251,8 +1252,6 @@ wedotv Movies HD
 江苏电视台国际频道 (免费)
 江苏综艺
 江西卫视
-沙特职业足球联赛 - 艾伯哈 对 艾沙比 (没有评述) (晚上11:00)
-沙特职业足球联赛 - 艾法德 对 艾利雅德 (没有评述) (晚上10:20)
 河北三农
 河北卫视
 河北少儿科教
@@ -1262,18 +1261,13 @@ wedotv Movies HD
 河南乡村
 河南公共
 河南卫视
-河南国际
 河南文物宝库
 河南新闻
-河南晴彩中原
 河南梨园戏曲
-河南欢腾购物
 河南武术
 河南民生
 河南法制
 河南电视剧
-河南移动戏曲
-河南象世界
 河南都市
 法眼黑与白
 泰可爱旋风
